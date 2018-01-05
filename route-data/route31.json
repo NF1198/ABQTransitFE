@@ -1,0 +1,411 @@
+{
+  "id": "3041",
+  "short_name": "31",
+  "long_name": "Wyoming",
+  "color": "852300",
+  "text_color": "FFFFFF",
+  "schedules": {
+    "1": {
+      "start_date": "20171125",
+      "end_date": "20180511",
+      "days_mask_mon_sun": 124,"added_days":[],"removed_days":["20180115"
+      ]
+    },
+    "2": {
+      "start_date": "20171125",
+      "end_date": "20180511",
+      "days_mask_mon_sun": 2,"added_days":["20180115"
+      ],"removed_days":[]
+    },
+    "3": {
+      "start_date": "20171125",
+      "end_date": "20180511",
+      "days_mask_mon_sun": 1,"added_days":[],"removed_days":[]
+    }
+  },
+  "related_route_data": {"3036":{"short_name":"2","long_name":"Eubank-Ventura","color":"DC5D2E","text_color":"000000"
+    },"3045":{"short_name":"5","long_name":"Montgomery/Carlisle","color":"FF4E21","text_color":"000000"
+    },"3051":{"short_name":"6","long_name":"Indian School Commuter","color":"E171E1","text_color":"000000"
+    },"3053":{"short_name":"7","long_name":"Candelaria Commuter","color":"FF7F54","text_color":"000000"
+    },"3057":{"short_name":"8","long_name":"Menaul","color":"7B097B","text_color":"FFFFFF"
+    },"3026":{"short_name":"11","long_name":"Lomas","color":"800080","text_color":"FFFFFF"
+    },"3027":{"short_name":"12","long_name":"Constitution Commuter","color":"B7FF00","text_color":"000000"
+    },"3028":{"short_name":"13","long_name":"Comanche Commuter","color":"006267","text_color":"FFFFFF"
+    },"3041":{"short_name":"31","long_name":"Wyoming","color":"852300","text_color":"FFFFFF"
+    },"3052":{"short_name":"66","long_name":"Central Avenue","color":"00DEC8","text_color":"000000"
+    },"3059":{"short_name":"93","long_name":"Academy Commuter","color":"9494FF","text_color":"000000"
+    },"3061":{"short_name":"96","long_name":"Crosstown Commuter","color":"F3F400","text_color":"000000"
+    },"3062":{"short_name":"97","long_name":"Zuni Express","color":"6600FF","text_color":"FFFFFF"
+    },"3063":{"short_name":"98","long_name":"Wyoming Commuter","color":"005B3C","text_color":"FFFFFF"
+    },"3032":{"short_name":"157","long_name":"Cottonwood/Montano/UTC","color":"008047","text_color":"FFFFFF"
+    },"3037":{"short_name":"217","long_name":"Downtown-KAFB Ltd.","color":"FDDC00","text_color":"000000"
+    },"3038":{"short_name":"222","long_name":"Rio Bravo/ Rail Runner/ KAFB","color":"804A80","text_color":"FFFFFF"
+    },"3055":{"short_name":"777","long_name":"Green Line Rapid Ride","color":"00FF00","text_color":"000000"
+    }
+  },
+  "stops": {"1005":{"name":"Wyoming @ F Avenue","desc":"WYOMING BLVD SE","coordinates":[-106.5505,35.0545],"related_stops":["1005","1007"],"transfer_routes":["3041"],"related_routes":[]
+    },"1007":{"name":"Wyoming @ G Avenue","desc":"WYOMING BLVD SE","coordinates":[-106.5507,35.0544],"related_stops":["1005","1007"],"transfer_routes":["3041"],"related_routes":[]
+    },"1070":{"name":"14th @ N Ave. (KAFB)","desc":"UNKNOWN  SE","coordinates":[-106.5414,35.0462],"related_stops":["1070"],"transfer_routes":["3036","3041","3061","3063"],"related_routes":[]
+    },"1071":{"name":"N Ave @ Building 825","desc":"UNKNOWN  SE","coordinates":[-106.5446,35.0463],"related_stops":["1071"],"transfer_routes":["3036","3041","3061","3063","3038"],"related_routes":[]
+    },"1078":{"name":"Wyoming @ Gibson","desc":"WYOMING BLVD SE","coordinates":[-106.5506,35.0574],"related_stops":["1263","1261","1078"],"transfer_routes":["3041","3063"],"related_routes":[]
+    },"1079":{"name":"Wyoming @ Sandia Cir","desc":"WYOMING BLVD SE \u0026 UNKNOWN","coordinates":[-106.5505,35.0613],"related_stops":["1259","1079"],"transfer_routes":["3041","3063"],"related_routes":[]
+    },"1081":{"name":"Wyoming @ Trumbull","desc":"320 WYOMING BLVD SE \u0026 TRUMBULL AVE SE","coordinates":[-106.5503,35.0695],"related_stops":["1255","1081"],"transfer_routes":["3041"],"related_routes":[]
+    },"1082":{"name":"Wyoming @ Zuni","desc":"210 WYOMING BLVD SE","coordinates":[-106.5503,35.0719],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3041"],"related_routes":["3052","3062","3063","3055"]
+    },"1085":{"name":"Wyoming @ Chico","desc":"206 WYOMING BLVD NE \u0026 CHICO RD NE","coordinates":[-106.5502,35.0765],"related_stops":["1247","1085"],"transfer_routes":["3041"],"related_routes":[]
+    },"1086":{"name":"Wyoming @ Domingo","desc":"8716 DOMINGO RD NE \u0026 WYOMING BLVD NE","coordinates":[-106.5502,35.078],"related_stops":["1086"],"transfer_routes":["3041"],"related_routes":[]
+    },"1088":{"name":"Wyoming @ Marquette","desc":"702 WYOMING BLVD NE \u0026 MARQUETTE AVE NE","coordinates":[-106.5503,35.0839],"related_stops":["1241","1088"],"transfer_routes":["3041"],"related_routes":[]
+    },"1089":{"name":"Wyoming @ Lomas","desc":"904 WYOMING BLVD NE","coordinates":[-106.5503,35.0866],"related_stops":["1089","5976","5017","1237","5656","4915","4917","1090","4919"],"transfer_routes":["3041","3063"],"related_routes":["3026"]
+    },"1090":{"name":"Wyoming @ Lomas","desc":"1008 WYOMING BLVD NE \u0026 LOMAS BLVD NE","coordinates":[-106.5504,35.0877],"related_stops":["1089","5976","5017","1237","5656","4915","4917","1090","4919"],"transfer_routes":["3041"],"related_routes":["3026","3063"]
+    },"1091":{"name":"Wyoming @ I-40","desc":"1200 WYOMING BLVD NE \u0026 MOUNTAIN RD NE","coordinates":[-106.5505,35.0919],"related_stops":["1091"],"transfer_routes":["3041"],"related_routes":[]
+    },"1092":{"name":"Wyoming @ Constitution","desc":"1352 WYOMING BLVD NE \u0026 CONSTITUTION AVE NE","coordinates":[-106.5505,35.0943],"related_stops":["3995","3919","1092","1235","3915","3917","3997","1233","1093","1094"],"transfer_routes":["3041","3063"],"related_routes":["3027"]
+    },"1093":{"name":"Wyoming @ Constitution","desc":"1434 WYOMING BLVD NE","coordinates":[-106.5506,35.0963],"related_stops":["3995","3919","1092","1235","3915","3917","3997","1233","1093","1094"],"transfer_routes":["3041"],"related_routes":["3027","3063"]
+    },"1094":{"name":"Wyoming @ Aspen","desc":"1502 WYOMING BLVD NE \u0026 ASPEN AVE NE","coordinates":[-106.5506,35.0976],"related_stops":["3995","3919","1092","1235","3915","3917","3997","1233","1093","1094"],"transfer_routes":["3041"],"related_routes":["3027","3063"]
+    },"1095":{"name":"Wyoming @ Hannett","desc":"1570 WYOMING BLVD NE \u0026 HANNETT AVE NE","coordinates":[-106.5506,35.0991],"related_stops":["1095"],"transfer_routes":["3041"],"related_routes":[]
+    },"1096":{"name":"Wyoming @ Indian School","desc":"1722 WYOMING BLVD NE \u0026 INDIAN SCHOOL RD NE","coordinates":[-106.5506,35.1017],"related_stops":["1229","1231","1097","1096","3593","3591","3683"],"transfer_routes":["3041"],"related_routes":["3051","3063"]
+    },"1097":{"name":"Wyoming @ Northeastern","desc":"WYOMING BLVD NE \u0026 NORTHEASTERN BLVD NE","coordinates":[-106.5506,35.1035],"related_stops":["1229","1231","1097","1096","3593","3591","3683"],"transfer_routes":["3041"],"related_routes":["3051","3063"]
+    },"1098":{"name":"Wyoming @ Apache","desc":"2120 WYOMING BLVD NE","coordinates":[-106.5507,35.1062],"related_stops":["1227","1098"],"transfer_routes":["3041"],"related_routes":[]
+    },"1099":{"name":"Wyoming @ Menaul","desc":"WYOMING BLVD NE \u0026 MENAUL BLVD NE","coordinates":[-106.5507,35.1089],"related_stops":["3245","1099","1225","3417","3415","3247"],"transfer_routes":["3041"],"related_routes":["3057","3063"]
+    },"1101":{"name":"Wyoming @ Claremont","desc":"2422 WYOMING BLVD NE \u0026 CLAREMONT AVE NE","coordinates":[-106.5507,35.1127],"related_stops":["1223","1101"],"transfer_routes":["3041"],"related_routes":[]
+    },"1102":{"name":"Wyoming @ Candelaria","desc":"2714 WYOMING BLVD NE \u0026 CANDELARIA RD NE","coordinates":[-106.5507,35.1167],"related_stops":["4137","4139","1102","4241","4243","1219","1221","4141"],"transfer_routes":["3041","3063"],"related_routes":["3053"]
+    },"1103":{"name":"Wyoming @ La Camila","desc":"2904 WYOMING BLVD NE \u0026 LA CAMILA RD NE","coordinates":[-106.5508,35.1187],"related_stops":["7314","1103"],"transfer_routes":["3041"],"related_routes":[]
+    },"1104":{"name":"Wyoming @ Dellwood","desc":"3224 WYOMING BLVD NE \u0026 DELLWOOD RD NE","coordinates":[-106.5508,35.1218],"related_stops":["1215","1104"],"transfer_routes":["3041"],"related_routes":[]
+    },"1106":{"name":"Wyoming @ Comanche","desc":"3608 WYOMING BLVD NE \u0026 COMANCHE RD NE","coordinates":[-106.5508,35.1239],"related_stops":["2401","1106","1213","2577","2404","2403"],"transfer_routes":["3041","3063"],"related_routes":["3028"]
+    },"1107":{"name":"Wyoming @ Montgomery","desc":"4406 WYOMING BLVD NE","coordinates":[-106.5509,35.1289],"related_stops":["1203","1107","1109","6800","6890","5808","6798","1207","6886"],"transfer_routes":["3041"],"related_routes":["3045","3063"]
+    },"1109":{"name":"Wyoming @ Montgomery","desc":"4506 WYOMING BLVD NE","coordinates":[-106.5508,35.1315],"related_stops":["1203","1107","1109","6800","6890","5808","6798","1207","6886"],"transfer_routes":["3041","3063"],"related_routes":["3045"]
+    },"1110":{"name":"Wyoming @ Gutierrez","desc":"4700 WYOMING BLVD NE \u0026 GUTIERREZ RD NE","coordinates":[-106.5509,35.1334],"related_stops":["1110"],"transfer_routes":["3041"],"related_routes":[]
+    },"1111":{"name":"Wyoming @ Northridge","desc":"WYOMING BLVD NE \u0026 NORTHRIDGE AVE NE","coordinates":[-106.5508,35.1353],"related_stops":["1111","1201"],"transfer_routes":["3041"],"related_routes":[]
+    },"1113":{"name":"Wyoming @ Spain","desc":"5410 WYOMING BLVD NE \u0026 SPAIN RD NE","coordinates":[-106.5509,35.1403],"related_stops":["1113","1197","1195","1114"],"transfer_routes":["3041","3063"],"related_routes":[]
+    },"1114":{"name":"Wyoming @ Spain","desc":"5458 WYOMING BLVD NE","coordinates":[-106.5511,35.1417],"related_stops":["1113","1197","1195","1114"],"transfer_routes":["3041"],"related_routes":["3063"]
+    },"1115":{"name":"Wyoming @ Academy","desc":"5668 WYOMING BLVD NE","coordinates":[-106.5527,35.1448],"related_stops":["1117","1115","1191","7386","7384","2661","2659","2699","2697","1193"],"transfer_routes":["3041","3063"],"related_routes":["3059"]
+    },"1117":{"name":"Wyoming @ Academy","desc":"6034 WYOMING BLVD NE \u0026 CUBERO ST NE","coordinates":[-106.557,35.1493],"related_stops":["1117","1115","1191","7386","7384","2661","2659","2699","2697","1193"],"transfer_routes":["3041"],"related_routes":["3059","3063"]
+    },"1118":{"name":"Wyoming @ Burlison","desc":"6542 WYOMING BLVD NE","coordinates":[-106.5608,35.153],"related_stops":["1189","1118"],"transfer_routes":["3041","3063"],"related_routes":[]
+    },"1119":{"name":"Wyoming @ Harper","desc":"7002 WYOMING BLVD NE","coordinates":[-106.5597,35.158],"related_stops":["1119","1120","1187","1185"],"transfer_routes":["3041","3063"],"related_routes":[]
+    },"1120":{"name":"Wyoming @ Harper","desc":"7136 WYOMING BLVD NE","coordinates":[-106.5597,35.1606],"related_stops":["1119","1120","1187","1185"],"transfer_routes":["3041","3063"],"related_routes":[]
+    },"1121":{"name":"Wyoming @ Curry","desc":"7324 WYOMING BLVD NE \u0026 CALLE DE PLATA  NE","coordinates":[-106.5597,35.1627],"related_stops":["1183","1121"],"transfer_routes":["3041"],"related_routes":[]
+    },"1122":{"name":"Wyoming @ Loma Del Norte","desc":"7420 WYOMING BLVD NE \u0026 LOMA DEL NORTE RD NE","coordinates":[-106.5598,35.1644],"related_stops":["1122"],"transfer_routes":["3041"],"related_routes":[]
+    },"1123":{"name":"Wyoming @ San Francisco","desc":"UNKNOWN  NE \u0026 ARGYLE AVE NE","coordinates":[-106.5597,35.1677],"related_stops":["1181","1123"],"transfer_routes":["3041"],"related_routes":[]
+    },"1124":{"name":"Wyoming @ Krim (Church P-n-R)","desc":"7702 WYOMING BLVD NE","coordinates":[-106.5597,35.1693],"related_stops":["7382","1124"],"transfer_routes":["3041","3063"],"related_routes":[]
+    },"1127":{"name":"Wyoming @ Carmel","desc":"8308 WYOMING BLVD NE","coordinates":[-106.5597,35.1776],"related_stops":["1127"],"transfer_routes":["3041","3063"],"related_routes":[]
+    },"1128":{"name":"Wyoming @ Corona","desc":"8502 WYOMING BLVD NE \u0026 CORONA AVE NE","coordinates":[-106.5597,35.1804],"related_stops":["1171","1128"],"transfer_routes":["3041","3063"],"related_routes":[]
+    },"1129":{"name":"Wyoming @ La Cueva HS (Wilshire)","desc":"8610 WYOMING BLVD NE","coordinates":[-106.5597,35.1822],"related_stops":["1129"],"transfer_routes":["3036","3041","3063"],"related_routes":[]
+    },"1169":{"name":"Wyoming @ Alameda","desc":"8715 WYOMING BLVD NE","coordinates":[-106.56,35.1838],"related_stops":["2237","1169"],"transfer_routes":["3063"],"related_routes":["3036","3041"]
+    },"1171":{"name":"Wyoming @ Wilshire","desc":"8505 WYOMING BLVD NE","coordinates":[-106.56,35.1807],"related_stops":["1171","1128"],"transfer_routes":["3041","3063"],"related_routes":[]
+    },"1173":{"name":"Wyoming @ Holly","desc":"8129 WYOMING BLVD NE \u0026 HOLLY AVE NE","coordinates":[-106.56,35.1761],"related_stops":["7312","1173"],"transfer_routes":["3041","3063"],"related_routes":[]
+    },"1177":{"name":"Wyoming @ Paseo Del Norte","desc":"7925 WYOMING BLVD NE","coordinates":[-106.5601,35.1722],"related_stops":["1177"],"transfer_routes":["3041"],"related_routes":[]
+    },"1181":{"name":"Wyoming @ San Francisco","desc":"7513 WYOMING BLVD NE","coordinates":[-106.5601,35.1654],"related_stops":["1181","1123"],"transfer_routes":["3041"],"related_routes":[]
+    },"1183":{"name":"Wyoming @ Curry","desc":"7327 WYOMING BLVD NE \u0026 CURRY AVE NE","coordinates":[-106.5601,35.1627],"related_stops":["1183","1121"],"transfer_routes":["3041"],"related_routes":[]
+    },"1185":{"name":"Wyoming @ San Antonio","desc":"7111 WYOMING BLVD NE","coordinates":[-106.5601,35.1594],"related_stops":["1119","1120","1187","1185"],"transfer_routes":["3041","3063"],"related_routes":[]
+    },"1187":{"name":"Wyoming @ San Antonio","desc":"","coordinates":[-106.5601,35.158],"related_stops":["1119","1120","1187","1185"],"transfer_routes":["3041","3063"],"related_routes":[]
+    },"1189":{"name":"Wyoming @ Burlison","desc":"6521 WYOMING BLVD NE \u0026 BURLISON DR NE","coordinates":[-106.561,35.1526],"related_stops":["1189","1118"],"transfer_routes":["3041","3063"],"related_routes":[]
+    },"1190":{"name":"Cubero @ Wyoming","desc":"6018 CUBERO ST NE","coordinates":[-106.5574,35.1482],"related_stops":["1190"],"transfer_routes":["3041"],"related_routes":[]
+    },"1191":{"name":"Wyoming @ Academy","desc":"5897 WYOMING BLVD NE","coordinates":[-106.5561,35.1483],"related_stops":["1117","1115","1191","7386","7384","2661","2659","2699","2697","1193"],"transfer_routes":["3041","3063"],"related_routes":["3059"]
+    },"1193":{"name":"Wyoming @ Academy","desc":"5579 WYOMING BLVD NE","coordinates":[-106.5524,35.1436],"related_stops":["1117","1115","1191","7386","7384","2661","2659","2699","2697","1193"],"transfer_routes":["3041"],"related_routes":["3059","3063"]
+    },"1195":{"name":"Wyoming @ Spain","desc":"5471 WYOMING BLVD NE","coordinates":[-106.5515,35.142],"related_stops":["1113","1197","1195","1114"],"transfer_routes":["3041"],"related_routes":["3063"]
+    },"1197":{"name":"Wyoming @ Spain","desc":"5323 WYOMING BLVD NE \u0026 SPAIN RD NE","coordinates":[-106.5512,35.1396],"related_stops":["1113","1197","1195","1114"],"transfer_routes":["3041","3063"],"related_routes":[]
+    },"1199":{"name":"Wyoming @ Osuna","desc":"4917 WYOMING BLVD NE","coordinates":[-106.5512,35.137],"related_stops":["7388","1199"],"transfer_routes":["3041"],"related_routes":[]
+    },"1201":{"name":"Wyoming @ Northridge","desc":"","coordinates":[-106.5512,35.1344],"related_stops":["1111","1201"],"transfer_routes":["3041"],"related_routes":[]
+    },"1203":{"name":"Wyoming @ Montgomery","desc":"4505 WYOMING BLVD NE","coordinates":[-106.5512,35.1314],"related_stops":["1203","1107","1109","6800","6890","5808","6798","1207","6886"],"transfer_routes":["3041","3063"],"related_routes":["3045"]
+    },"1207":{"name":"Wyoming @ La Mirada","desc":"4191 WYOMING BLVD NE \u0026 LA MIRADA PL NE","coordinates":[-106.5512,35.1279],"related_stops":["1203","1107","1109","6800","6890","5808","6798","1207","6886"],"transfer_routes":["3041"],"related_routes":["3045","3063"]
+    },"1209":{"name":"Wyoming @ James","desc":"3787 WYOMING BLVD NE \u0026 JAMES AVE NE","coordinates":[-106.5511,35.1265],"related_stops":["1209"],"transfer_routes":["3041"],"related_routes":[]
+    },"1213":{"name":"Wyoming @ Comanche","desc":"3605 WYOMING BLVD NE \u0026 COMANCHE RD NE","coordinates":[-106.5511,35.1239],"related_stops":["2401","1106","1213","2577","2404","2403"],"transfer_routes":["3041","3063"],"related_routes":["3028"]
+    },"1215":{"name":"Wyoming @ Dellwood","desc":"2943 WYOMING BLVD NE \u0026 DELLWOOD RD NE","coordinates":[-106.5511,35.1213],"related_stops":["1215","1104"],"transfer_routes":["3041"],"related_routes":[]
+    },"1219":{"name":"Wyoming @ Candelaria","desc":"2627 WYOMING BLVD NE \u0026 CANDELARIA RD NE","coordinates":[-106.5511,35.1161],"related_stops":["4137","4139","1102","4241","4243","1219","1221","4141"],"transfer_routes":["3041","3063"],"related_routes":["3053"]
+    },"1221":{"name":"Wyoming @ Candelaria","desc":"2579 WYOMING BLVD NE","coordinates":[-106.5511,35.114],"related_stops":["4137","4139","1102","4241","4243","1219","1221","4141"],"transfer_routes":["3041"],"related_routes":["3053","3063"]
+    },"1223":{"name":"Wyoming @ Claremont","desc":"2409 WYOMING BLVD NE","coordinates":[-106.551,35.1118],"related_stops":["1223","1101"],"transfer_routes":["3041"],"related_routes":[]
+    },"1225":{"name":"Wyoming @ Menaul","desc":"2269 WYOMING BLVD NE \u0026 PROSPECT AVE NE","coordinates":[-106.551,35.1087],"related_stops":["3245","1099","1225","3417","3415","3247"],"transfer_routes":["3041","3063"],"related_routes":["3057"]
+    },"1227":{"name":"Wyoming @ Apache","desc":"2125 WYOMING BLVD NE \u0026 APACHE AVE NE","coordinates":[-106.551,35.1066],"related_stops":["1227","1098"],"transfer_routes":["3041"],"related_routes":[]
+    },"1229":{"name":"Wyoming @ Northeastern","desc":"2023 WYOMING BLVD NE","coordinates":[-106.551,35.1046],"related_stops":["1229","1231","1097","1096","3593","3591","3683"],"transfer_routes":["3041"],"related_routes":["3051","3063"]
+    },"1231":{"name":"Wyoming @ Indian School","desc":"1809 WYOMING BLVD NE \u0026 MORROW AVE NE","coordinates":[-106.5509,35.1025],"related_stops":["1229","1231","1097","1096","3593","3591","3683"],"transfer_routes":["3041","3063"],"related_routes":["3051"]
+    },"1233":{"name":"Wyoming @ Aspen","desc":"1439 WYOMING BLVD NE","coordinates":[-106.5509,35.0966],"related_stops":["3995","3919","1092","1235","3915","3917","3997","1233","1093","1094"],"transfer_routes":["3041"],"related_routes":["3027","3063"]
+    },"1235":{"name":"Wyoming @ Constitution","desc":"1329 WYOMING BLVD NE","coordinates":[-106.5509,35.0936],"related_stops":["3995","3919","1092","1235","3915","3917","3997","1233","1093","1094"],"transfer_routes":["3041","3063"],"related_routes":["3027"]
+    },"1237":{"name":"Wyoming @ Lomas","desc":"1011 WYOMING BLVD NE","coordinates":[-106.5508,35.0878],"related_stops":["1089","5976","5017","1237","5656","4915","4917","1090","4919"],"transfer_routes":["3041"],"related_routes":["3026","3063"]
+    },"1241":{"name":"Wyoming @ Marquette","desc":"549 WYOMING BLVD NE \u0026 MARQUETTE AVE NE","coordinates":[-106.5505,35.0834],"related_stops":["1241","1088"],"transfer_routes":["3041"],"related_routes":[]
+    },"1243":{"name":"Wyoming @ Grand","desc":"507 WYOMING BLVD NE \u0026 GRAND AVE NE","coordinates":[-106.5505,35.082],"related_stops":["1243"],"transfer_routes":["3041"],"related_routes":[]
+    },"1247":{"name":"Wyoming @ Chico","desc":"8689 CHICO RD NE \u0026 WYOMING BLVD NE","coordinates":[-106.5506,35.0764],"related_stops":["1247","1085"],"transfer_routes":["3041"],"related_routes":[]
+    },"1249":{"name":"Wyoming @ Central","desc":"117 WYOMING BLVD NE \u0026 WYOMING BLVD SE","coordinates":[-106.5506,35.0742],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3041","3063"],"related_routes":["3052","3062","3055"]
+    },"1251":{"name":"Wyoming @ Zuni","desc":"111 WYOMING BLVD SE","coordinates":[-106.5505,35.0732],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3041"],"related_routes":["3052","3062","3063","3055"]
+    },"1253":{"name":"Wyoming @ Zuni","desc":"219 WYOMING BLVD SE","coordinates":[-106.5506,35.0721],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3041"],"related_routes":["3052","3062","3063","3055"]
+    },"1255":{"name":"Wyoming @ Trumbull","desc":"329 WYOMING BLVD SE \u0026 TRUMBULL AVE SE","coordinates":[-106.5506,35.0695],"related_stops":["1255","1081"],"transfer_routes":["3041"],"related_routes":[]
+    },"1257":{"name":"Wyoming @ San Joaquin","desc":"617 WYOMING BLVD SE \u0026 SAN JOAQUIN AVE SE","coordinates":[-106.5507,35.0664],"related_stops":["7454","1257"],"transfer_routes":["3041"],"related_routes":["3063"]
+    },"1259":{"name":"Wyoming @ W Sandia Cr","desc":"WYOMING BLVD SE \u0026 UNKNOWN","coordinates":[-106.5507,35.0614],"related_stops":["1259","1079"],"transfer_routes":["3041","3063"],"related_routes":[]
+    },"1261":{"name":"Wyoming @ D","desc":"WYOMING BLVD SE \u0026 UNKNOWN","coordinates":[-106.5507,35.0582],"related_stops":["1263","1261","1078"],"transfer_routes":["3041","3063"],"related_routes":[]
+    },"1263":{"name":"Wyoming @ Gibson","desc":"WYOMING BLVD SE","coordinates":[-106.5507,35.0562],"related_stops":["1263","1261","1078"],"transfer_routes":["3041"],"related_routes":["3063"]
+    },"2237":{"name":"Alameda @ Wyoming","desc":"7630 ALAMEDA BLVD NE","coordinates":[-106.5591,35.1843],"related_stops":["2237","1169"],"transfer_routes":["3036","3041"],"related_routes":["3063"]
+    },"2239":{"name":"Alameda @ Georgia OKeefe","desc":"7830 ALAMEDA BLVD NE \u0026 GEORGIA O KEEFFE DR NE","coordinates":[-106.5561,35.1843],"related_stops":["2239"],"transfer_routes":["3036","3041"],"related_routes":[]
+    },"2241":{"name":"Alameda @ Tierra Alegre","desc":"8062 ALAMEDA BLVD NE \u0026 TIERRA ALEGRE DR NE","coordinates":[-106.5534,35.1843],"related_stops":["2241"],"transfer_routes":["3036","3041"],"related_routes":[]
+    },"2401":{"name":"Comanche @ Wyoming","desc":"8403 COMANCHE RD NE \u0026 WYOMING BLVD NE","coordinates":[-106.5505,35.1236],"related_stops":["2401","1106","1213","2577","2404","2403"],"transfer_routes":["3028"],"related_routes":["3041","3063"]
+    },"2403":{"name":"Comanche @ Wyoming","desc":"8389 COMANCHE RD NE \u0026 WYOMING BLVD NE","coordinates":[-106.5514,35.1237],"related_stops":["2401","1106","1213","2577","2404","2403"],"transfer_routes":["3028"],"related_routes":["3041","3063"]
+    },"2404":{"name":"Comanche @ Wyoming","desc":"8390 COMANCHE RD NE \u0026 WYOMING BLVD NE","coordinates":[-106.5513,35.1235],"related_stops":["2401","1106","1213","2577","2404","2403"],"transfer_routes":["3028"],"related_routes":["3041","3063"]
+    },"2577":{"name":"Comanche @ Wyoming","desc":"COMANCHE \u0026 WYOMING","coordinates":[-106.5502,35.1235],"related_stops":["2401","1106","1213","2577","2404","2403"],"transfer_routes":["3028"],"related_routes":["3041","3063"]
+    },"2659":{"name":"Academy @ Wyoming","desc":"8085 ACADEMY RD NE","coordinates":[-106.5534,35.1465],"related_stops":["1117","1115","1191","7386","7384","2661","2659","2699","2697","1193"],"transfer_routes":["3059"],"related_routes":["3041","3063"]
+    },"2661":{"name":"Academy @ Wyoming","desc":"7919 ACADEMY RD NE","coordinates":[-106.5555,35.1456],"related_stops":["1117","1115","1191","7386","7384","2661","2659","2699","2697","1193"],"transfer_routes":["3041","3059"],"related_routes":["3063"]
+    },"2663":{"name":"Academy @ Cubero","desc":"ACADEMY \u0026 CUBERO","coordinates":[-106.5574,35.1454],"related_stops":["2695","2663"],"transfer_routes":["3041","3059"],"related_routes":[]
+    },"2695":{"name":"Academy @ Knight","desc":"7904 ACADEMY RD NE \u0026 KNIGHT RD NE","coordinates":[-106.5573,35.1452],"related_stops":["2695","2663"],"transfer_routes":["3059"],"related_routes":["3041"]
+    },"2697":{"name":"Academy @ Wyoming","desc":"7930 ACADEMY RD NE","coordinates":[-106.5553,35.1454],"related_stops":["1117","1115","1191","7386","7384","2661","2659","2699","2697","1193"],"transfer_routes":["3059"],"related_routes":["3041","3063"]
+    },"2699":{"name":"Academy @ Wyoming","desc":"8208 ACADEMY RD NE","coordinates":[-106.5525,35.1465],"related_stops":["1117","1115","1191","7386","7384","2661","2659","2699","2697","1193"],"transfer_routes":["3059"],"related_routes":["3041","3063"]
+    },"2889":{"name":"5th @ G Street (Bldg. 800)","desc":"UNKNOWN \u0026 G AVE SE","coordinates":[-106.5496,35.0536],"related_stops":["2889"],"transfer_routes":["3041","3061","3032","3037","3038"],"related_routes":[]
+    },"2891":{"name":"H Street @ Wyoming","desc":"H AVE SE","coordinates":[-106.5517,35.0526],"related_stops":["2897","2911","2909","2899","2891"],"transfer_routes":["3061","3032","3037","3038"],"related_routes":["3041"]
+    },"2897":{"name":"Wyoming @ H","desc":"UNKNOWN \u0026 WYOMING BLVD SE","coordinates":[-106.5507,35.0521],"related_stops":["2897","2911","2909","2899","2891"],"transfer_routes":["3041","3061"],"related_routes":["3032","3037","3038"]
+    },"2899":{"name":"Wyoming @ H","desc":"WYOMING BLVD SE","coordinates":[-106.5507,35.0506],"related_stops":["2897","2911","2909","2899","2891"],"transfer_routes":["3041","3061"],"related_routes":["3032","3037","3038"]
+    },"2901":{"name":"Wyoming @ M  (K.A.F.B. Comm. Bldg.)","desc":"WYOMING BLVD SE","coordinates":[-106.5507,35.0493],"related_stops":["2901","2907"],"transfer_routes":["3041","3061"],"related_routes":[]
+    },"2907":{"name":"Wyoming @ M (KAFB Comm Bldg)","desc":"WYOMING \u0026 M AVE","coordinates":[-106.5505,35.0486],"related_stops":["2901","2907"],"transfer_routes":["3041","3061"],"related_routes":[]
+    },"2909":{"name":"Wyoming @ K (KAFB Comm. Bldg.)","desc":"WYOMING BLVD SE \u0026 UNKNOWN","coordinates":[-106.5505,35.0505],"related_stops":["2897","2911","2909","2899","2891"],"transfer_routes":["3041","3061"],"related_routes":["3032","3037","3038"]
+    },"2911":{"name":"Wyoming @ H","desc":"WYOMING BLVD SE \u0026 H AVE SE","coordinates":[-106.5505,35.0524],"related_stops":["2897","2911","2909","2899","2891"],"transfer_routes":["3041","3061"],"related_routes":["3032","3037","3038"]
+    },"3245":{"name":"Menaul @ Wyoming","desc":"8419 MENAUL BLVD NE \u0026 WYOMING BLVD NE","coordinates":[-106.5504,35.1093],"related_stops":["3245","1099","1225","3417","3415","3247"],"transfer_routes":["3057"],"related_routes":["3041","3063"]
+    },"3247":{"name":"Menaul @ Wyoming","desc":"8319 MENAUL BLVD NE \u0026 WYOMING BLVD NE","coordinates":[-106.5512,35.1093],"related_stops":["3245","1099","1225","3417","3415","3247"],"transfer_routes":["3057"],"related_routes":["3041","3063"]
+    },"3415":{"name":"Menaul @ Wyoming","desc":"8318 MENAUL BLVD NE \u0026 WYOMING BLVD NE","coordinates":[-106.5512,35.1091],"related_stops":["3245","1099","1225","3417","3415","3247"],"transfer_routes":["3057"],"related_routes":["3041","3063"]
+    },"3417":{"name":"Menaul @ Wyoming","desc":"8400 MENAUL BLVD NE","coordinates":[-106.5493,35.1091],"related_stops":["3245","1099","1225","3417","3415","3247"],"transfer_routes":["3057"],"related_routes":["3041","3063"]
+    },"3455":{"name":"Zuni @ Wyoming","desc":"9017 ZUNI RD SE","coordinates":[-106.5495,35.0728],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3062"],"related_routes":["3041","3052","3063","3055"]
+    },"3591":{"name":"Indian School @ Wyoming","desc":"8412 INDIAN SCHOOL RD NE \u0026 WYOMING BLVD NE","coordinates":[-106.5511,35.1019],"related_stops":["1229","1231","1097","1096","3593","3591","3683"],"transfer_routes":["3051"],"related_routes":["3041","3063"]
+    },"3593":{"name":"Indian School @ Wyoming","desc":"8504 INDIAN SCHOOL RD NE \u0026 WYOMING BLVD NE","coordinates":[-106.5503,35.1019],"related_stops":["1229","1231","1097","1096","3593","3591","3683"],"transfer_routes":["3051"],"related_routes":["3041","3063"]
+    },"3683":{"name":"Indian School @ Wyoming","desc":"8505 INDIAN SCHOOL RD NE \u0026 WYOMING BLVD NE","coordinates":[-106.5504,35.1021],"related_stops":["1229","1231","1097","1096","3593","3591","3683"],"transfer_routes":["3051"],"related_routes":["3041","3063"]
+    },"3915":{"name":"Constitution @ Wyoming","desc":"8402 CONSTITUTION AVE NE","coordinates":[-106.5517,35.0945],"related_stops":["3995","3919","1092","1235","3915","3917","3997","1233","1093","1094"],"transfer_routes":["3027"],"related_routes":["3041","3063"]
+    },"3917":{"name":"Constitution @ Wyoming","desc":"8506 CONSTITUTION AVE NE","coordinates":[-106.55,35.0946],"related_stops":["3995","3919","1092","1235","3915","3917","3997","1233","1093","1094"],"transfer_routes":["3027"],"related_routes":["3041","3063"]
+    },"3919":{"name":"Constitution @ Marron","desc":"8670 CONSTITUTION AVE NE \u0026 MARRON CIR NE","coordinates":[-106.5486,35.0945],"related_stops":["3995","3919","1092","1235","3915","3917","3997","1233","1093","1094"],"transfer_routes":["3027"],"related_routes":["3041","3063"]
+    },"3995":{"name":"Constitution @ Boatright","desc":"8509 CONSTITUTION AVE NE \u0026 BOATRIGHT DR NE","coordinates":[-106.5495,35.0947],"related_stops":["3995","3919","1092","1235","3915","3917","3997","1233","1093","1094"],"transfer_routes":["3027"],"related_routes":["3041","3063"]
+    },"3997":{"name":"Constitution @ Wyoming","desc":"8403 CONSTITUTION AVE NE","coordinates":[-106.5515,35.0947],"related_stops":["3995","3919","1092","1235","3915","3917","3997","1233","1093","1094"],"transfer_routes":["3027"],"related_routes":["3041","3063"]
+    },"4137":{"name":"Candelaria @ Wyoming","desc":"CANDELARIA \u0026 WYOMING","coordinates":[-106.5516,35.1163],"related_stops":["4137","4139","1102","4241","4243","1219","1221","4141"],"transfer_routes":["3053"],"related_routes":["3041","3063"]
+    },"4139":{"name":"Candelaria @ Wyoming","desc":"CANDELARIA \u0026 WYOMING","coordinates":[-106.5504,35.1163],"related_stops":["4137","4139","1102","4241","4243","1219","1221","4141"],"transfer_routes":["3053"],"related_routes":["3041","3063"]
+    },"4141":{"name":"Candelaria @ Wyoming","desc":"CANDELARIA \u0026 WYOMING","coordinates":[-106.5485,35.1163],"related_stops":["4137","4139","1102","4241","4243","1219","1221","4141"],"transfer_routes":["3053"],"related_routes":["3041","3063"]
+    },"4241":{"name":"Candelaria @ Wyoming","desc":"CANDELARIA \u0026 WYOMING","coordinates":[-106.5506,35.1165],"related_stops":["4137","4139","1102","4241","4243","1219","1221","4141"],"transfer_routes":["3053"],"related_routes":["3041","3063"]
+    },"4243":{"name":"Candelaria @ Wyoming","desc":"CANDELARIA \u0026 WYOMING","coordinates":[-106.5513,35.1165],"related_stops":["4137","4139","1102","4241","4243","1219","1221","4141"],"transfer_routes":["3053"],"related_routes":["3041","3063"]
+    },"4519":{"name":"Central @ Wyoming","desc":"8614 CENTRAL AVE E \u0026 WYOMING BLVD SE","coordinates":[-106.5506,35.0738],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3052"],"related_routes":["3041","3062","3063","3055"]
+    },"4521":{"name":"Central @ Wyoming","desc":"8738 CENTRAL AVE E \u0026 WYOMING BLVD SE","coordinates":[-106.5501,35.0737],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3052"],"related_routes":["3041","3062","3063","3055"]
+    },"4597":{"name":"Central @ Wyoming","desc":"8709 CENTRAL AVE E \u0026 WYOMING BLVD SE","coordinates":[-106.5501,35.074],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3052"],"related_routes":["3041","3062","3063","3055"]
+    },"4599":{"name":"Wyoming @ Central","desc":"120 WYOMING BLVD NE","coordinates":[-106.5503,35.0744],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3041","3063"],"related_routes":["3052","3062","3055"]
+    },"4611":{"name":"Central @ Wyoming (Rapid)","desc":"8615 CENTRAL AVE E \u0026 WYOMING BLVD SE","coordinates":[-106.5509,35.0741],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3055"],"related_routes":["3041","3052","3062","3063"]
+    },"4915":{"name":"Lomas @ Wyoming","desc":"8520 LOMAS BLVD NE \u0026 WYOMING BLVD NE","coordinates":[-106.551,35.0872],"related_stops":["1089","5976","5017","1237","5656","4915","4917","1090","4919"],"transfer_routes":["3026"],"related_routes":["3041","3063"]
+    },"4917":{"name":"Lomas @ Wyoming","desc":"8612 LOMAS BLVD NE","coordinates":[-106.5496,35.0872],"related_stops":["1089","5976","5017","1237","5656","4915","4917","1090","4919"],"transfer_routes":["3026"],"related_routes":["3041","3063"]
+    },"4919":{"name":"Lomas @ Herndon","desc":"8908 LOMAS BLVD NE","coordinates":[-106.5468,35.0868],"related_stops":["1089","5976","5017","1237","5656","4915","4917","1090","4919"],"transfer_routes":["3026"],"related_routes":["3041","3063"]
+    },"5017":{"name":"Lomas @ Wyoming","desc":"8513 LOMAS BLVD NE","coordinates":[-106.5513,35.0875],"related_stops":["1089","5976","5017","1237","5656","4915","4917","1090","4919"],"transfer_routes":["3026"],"related_routes":["3041","3063"]
+    },"5656":{"name":"Wyoming @ Lomas","desc":"907 WYOMING BLVD NE","coordinates":[-106.5507,35.0867],"related_stops":["1089","5976","5017","1237","5656","4915","4917","1090","4919"],"transfer_routes":["3041","3063"],"related_routes":["3026"]
+    },"5688":{"name":"Central @ Wyoming","desc":"8609 CENTRAL AVE E \u0026 WISCONSIN ST NE","coordinates":[-106.5511,35.0741],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3052"],"related_routes":["3041","3062","3063","3055"]
+    },"5808":{"name":"Wyoming @ Montgomery","desc":"4391 WYOMING BLVD NE","coordinates":[-106.5512,35.13],"related_stops":["1203","1107","1109","6800","6890","5808","6798","1207","6886"],"transfer_routes":["3041","3063"],"related_routes":["3045"]
+    },"5976":{"name":"Lomas @ Wyoming","desc":"","coordinates":[-106.5477,35.0872],"related_stops":["1089","5976","5017","1237","5656","4915","4917","1090","4919"],"transfer_routes":["3026"],"related_routes":["3041","3063"]
+    },"5996":{"name":"Central @ Wyoming (Rapid)","desc":"8770 CENTRAL AVE E \u0026 GENERAL MARSHALL ST NE","coordinates":[-106.5497,35.0737],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3055"],"related_routes":["3041","3052","3062","3063"]
+    },"6798":{"name":"Montgomery @ Wyoming","desc":"8326 MONTGOMERY BLVD NE \u0026 WYOMING BLVD NE","coordinates":[-106.5515,35.1306],"related_stops":["1203","1107","1109","6800","6890","5808","6798","1207","6886"],"transfer_routes":["3045"],"related_routes":["3041","3063"]
+    },"6800":{"name":"Montgomery @ Wyoming","desc":"8522 MONTGOMERY BLVD NE","coordinates":[-106.549,35.1305],"related_stops":["1203","1107","1109","6800","6890","5808","6798","1207","6886"],"transfer_routes":["3045"],"related_routes":["3041","3063"]
+    },"6886":{"name":"Montgomery @ La Barranca","desc":"8587 MONTGOMERY BLVD NE \u0026 LA BARRANCA AVE NE","coordinates":[-106.548,35.1308],"related_stops":["1203","1107","1109","6800","6890","5808","6798","1207","6886"],"transfer_routes":["3045"],"related_routes":["3041","3063"]
+    },"6890":{"name":"Montgomery @ Wyoming","desc":"8311 MONTGOMERY BLVD NE","coordinates":[-106.5524,35.1308],"related_stops":["1203","1107","1109","6800","6890","5808","6798","1207","6886"],"transfer_routes":["3045"],"related_routes":["3041","3063"]
+    },"7003":{"name":"Wyoming @ Anaheim","desc":"8405 WYOMING BLVD NE \u0026 ANAHEIM AVE NE","coordinates":[-106.56,35.1787],"related_stops":["7003"],"transfer_routes":["3041","3063"],"related_routes":[]
+    },"7234":{"name":"Wyoming @ Copper","desc":"","coordinates":[-106.5501,35.0809],"related_stops":["7234","7250"],"transfer_routes":["3041","3063"],"related_routes":[]
+    },"7242":{"name":"Wyoming @ Central","desc":"110 WYOMING BLVD SE","coordinates":[-106.5503,35.0733],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3041","3062"],"related_routes":["3052","3063","3055"]
+    },"7250":{"name":"Wyoming @ Copper","desc":"323 WYOMING BLVD NE","coordinates":[-106.5505,35.0791],"related_stops":["7234","7250"],"transfer_routes":["3041"],"related_routes":["3063"]
+    },"7312":{"name":"Wyoming @ Holly","desc":"8070 WYOMING BLVD NE","coordinates":[-106.5597,35.1753],"related_stops":["7312","1173"],"transfer_routes":["3041","3063"],"related_routes":[]
+    },"7314":{"name":"Wyoming @ La Palomita","desc":"2917 WYOMING BLVD NE \u0026 LA PALOMITA RD NE","coordinates":[-106.5511,35.1194],"related_stops":["7314","1103"],"transfer_routes":["3041"],"related_routes":[]
+    },"7380":{"name":"Wyoming @ Paseo del Norte","desc":"7954 WYOMING BLVD NE \u0026 PALOMAS AVE NE","coordinates":[-106.5597,35.1732],"related_stops":["7380"],"transfer_routes":["3041"],"related_routes":[]
+    },"7382":{"name":"Wyoming @ Krim P-n-R","desc":"7703 WYOMING BLVD NE","coordinates":[-106.5601,35.1693],"related_stops":["7382","1124"],"transfer_routes":["3041","3063"],"related_routes":[]
+    },"7384":{"name":"Wyoming @ Academy","desc":"5816 WYOMING BLVD NE","coordinates":[-106.5539,35.1466],"related_stops":["1117","1115","1191","7386","7384","2661","2659","2699","2697","1193"],"transfer_routes":["3041"],"related_routes":["3059","3063"]
+    },"7386":{"name":"Wyoming @ Academy","desc":"5749 WYOMING BLVD NE","coordinates":[-106.5536,35.1455],"related_stops":["1117","1115","1191","7386","7384","2661","2659","2699","2697","1193"],"transfer_routes":["3041","3063"],"related_routes":["3059"]
+    },"7388":{"name":"Wyoming @ Osuna","desc":"5128 WYOMING BLVD NE \u0026 OSUNA RD NE","coordinates":[-106.5509,35.1377],"related_stops":["7388","1199"],"transfer_routes":["3041"],"related_routes":[]
+    },"7454":{"name":"Wyoming @ Susan","desc":"600 WYOMING BLVD SE","coordinates":[-106.5504,35.0672],"related_stops":["7454","1257"],"transfer_routes":["3041","3063"],"related_routes":[]
+    }
+  },
+  "trip_data": {
+    "shapes": {
+      "26161": {
+        "bearing": 356.01,"centroid":[-106.5544,35.1291],
+        "bounds": [[-106.5587,35.0673],[0.0,35.1484]
+        ],"coordinates":[[-106.55045600003223,35.067327],[-106.55036100003225,35.081741],[-106.55071600003234,35.09188],[-106.55107200003253,35.141206],[-106.55167400003263,35.142863],[-106.55384900003297,35.146114],[-106.55507100003317,35.145568],[-106.5565340000334,35.14525],[-106.55869200003373,35.145283],[-106.55825500003367,35.146443],[-106.55821800003366,35.14748],[-106.55736200003354,35.148371]],
+        "distances": [0.0,1.6132,2.7481,8.2691,8.4621,8.8756,9.0019,9.1387,9.3337,9.4706,9.5866,9.7129]
+      },
+      "c9cdd": {
+        "bearing": 176.01,"centroid":[-106.5524,35.1004],
+        "bounds": [[-106.5574,35.0661],[0.0,35.149]
+        ],"coordinates":[[-106.55736200003354,35.148371],[-106.55674600003344,35.148961],[-106.55430200003306,35.146826],[-106.55167400003263,35.142863],[-106.55107200003253,35.141206],[-106.55071600003234,35.09188],[-106.55036100003225,35.081741],[-106.55044600003224,35.06906],[-106.55263700003258,35.069054],[-106.55260900003258,35.066263],[-106.55230400003252,35.06612],[-106.55044800003223,35.066125],[-106.55045600003223,35.067327]],
+        "distances": [0.0,0.0867,0.4135,0.916,1.109,6.63,7.7649,9.1841,9.3821,9.6963,9.7298,9.8978,10.0319]
+      },
+      "82d1e": {
+        "bearing": 356.23,"centroid":[-106.5555,35.1261],
+        "bounds": [[-106.561,35.0526],[0.0,35.1822]
+        ],"coordinates":[[-106.54957600003206,35.053544],[-106.54954700003206,35.052566],[-106.55059300003222,35.052563],[-106.55036100003225,35.081741],[-106.55071600003234,35.09188],[-106.55107200003253,35.141206],[-106.55167400003263,35.142863],[-106.55430200003306,35.146826],[-106.55674600003344,35.148961],[-106.55973700003392,35.151143],[-106.56043200003404,35.151885],[-106.56097400003412,35.153148],[-106.56103600003414,35.154067],[-106.5608130000341,35.155003],[-106.55985700003396,35.157674],[-106.55994100003403,35.182239]],
+        "distances": [0.0,0.109,0.204,3.4694,4.6044,10.1254,10.3184,10.8209,11.1477,11.5118,11.616,11.7656,11.8688,11.9747,12.2869,15.0356]
+      },
+      "d80e8": {
+        "bearing": 174.73,"centroid":[-106.5537,35.1255],
+        "bounds": [[-106.561,35.0452],[0.0,35.1844]
+        ],"coordinates":[[-106.55994100003403,35.182239],[-106.55991000003405,35.184446],[-106.55108500003264,35.184446],[-106.55108900003265,35.18155],[-106.55993000003403,35.181517],[-106.559987000034,35.163773],[-106.55985700003396,35.157674],[-106.56103600003414,35.154067],[-106.56097400003412,35.153148],[-106.56043200003404,35.151885],[-106.55973700003392,35.151143],[-106.55674600003344,35.148961],[-106.55430200003306,35.146826],[-106.55167400003263,35.142863],[-106.55107200003253,35.141206],[-106.55071600003234,35.09188],[-106.55036100003225,35.081741],[-106.55060100003223,35.058051],[-106.55055700003219,35.045471],[-106.54776700003175,35.04524],[-106.54145800003081,35.045205],[-106.54145900003081,35.046216],[-106.54458900003128,35.04621]],
+        "distances": [0.0,0.247,1.044,1.368,2.1671,4.1536,4.8358,5.2539,5.3571,5.5067,5.6109,5.975,6.3018,6.8043,6.9973,12.5184,13.6533,16.3046,17.7117,17.9652,18.5362,18.6492,18.9322]
+      },
+      "a0602": {
+        "bearing": 358.55,"centroid":[-106.5512,35.1116],
+        "bounds": [[-106.5529,35.0673],[0.0,35.1447]
+        ],"coordinates":[[-106.55045600003223,35.067327],[-106.55036100003225,35.081741],[-106.55071600003234,35.09188],[-106.55107200003253,35.141206],[-106.55167400003263,35.142863],[-106.55285200003281,35.144668]],
+        "distances": [0.0,1.6132,2.7481,8.2691,8.4621,8.6903]
+      },
+      "232e2": {
+        "bearing": 356.14,"centroid":[-106.5563,35.1376],
+        "bounds": [[-106.561,35.0673],[0.0,35.1822]
+        ],"coordinates":[[-106.55045600003223,35.067327],[-106.55036100003225,35.081741],[-106.55071600003234,35.09188],[-106.55107200003253,35.141206],[-106.55167400003263,35.142863],[-106.55430200003306,35.146826],[-106.55674600003344,35.148961],[-106.55973700003392,35.151143],[-106.56043200003404,35.151885],[-106.56097400003412,35.153148],[-106.56103600003414,35.154067],[-106.5608130000341,35.155003],[-106.55985700003396,35.157674],[-106.55994100003403,35.182239]],
+        "distances": [0.0,1.6132,2.7481,8.2691,8.4621,8.9646,9.2914,9.6555,9.7597,9.9094,10.0125,10.1184,10.4306,13.1794]
+      },
+      "0c083": {
+        "bearing": 176.14,"centroid":[-106.5551,35.1306],
+        "bounds": [[-106.561,35.0661],[0.0,35.1844]
+        ],"coordinates":[[-106.55994100003403,35.182239],[-106.55991000003405,35.184446],[-106.55108500003264,35.184446],[-106.55108900003265,35.18155],[-106.55993000003403,35.181517],[-106.559987000034,35.163773],[-106.55985700003396,35.157674],[-106.56103600003414,35.154067],[-106.56097400003412,35.153148],[-106.56043200003404,35.151885],[-106.55973700003392,35.151143],[-106.55674600003344,35.148961],[-106.55430200003306,35.146826],[-106.55167400003263,35.142863],[-106.55107200003253,35.141206],[-106.55071600003234,35.09188],[-106.55036100003225,35.081741],[-106.55044600003224,35.06906],[-106.55263700003258,35.069054],[-106.55260900003258,35.066263],[-106.55230400003252,35.06612],[-106.55044800003223,35.066125],[-106.55045600003223,35.067327]],
+        "distances": [0.0,0.247,1.044,1.368,2.1671,4.1536,4.8358,5.2539,5.3571,5.5067,5.6109,5.975,6.3018,6.8043,6.9973,12.5184,13.6533,15.0724,15.2705,15.5847,15.6182,15.7862,15.9202]
+      },
+      "053af": {
+        "bearing": 354.73,"centroid":[-106.5542,35.1167],
+        "bounds": [[-106.561,35.0452],[0.0,35.1822]
+        ],"coordinates":[[-106.54458900003128,35.04621],[-106.54575600003146,35.046193],[-106.5460780000315,35.045209],[-106.55055700003219,35.045471],[-106.55060100003223,35.058051],[-106.55036100003225,35.081741],[-106.55071600003234,35.09188],[-106.55107200003253,35.141206],[-106.55167400003263,35.142863],[-106.55430200003306,35.146826],[-106.55674600003344,35.148961],[-106.55973700003392,35.151143],[-106.56043200003404,35.151885],[-106.56097400003412,35.153148],[-106.56103600003414,35.154067],[-106.5608130000341,35.155003],[-106.55985700003396,35.157674],[-106.55994100003403,35.182239]],
+        "distances": [0.0,0.106,0.2198,0.6263,2.0333,4.6847,5.8196,11.3407,11.5337,12.0362,12.3629,12.7271,12.8313,12.9809,13.0841,13.19,13.5022,16.2509]
+      },
+      "025b4": {
+        "bearing": 176.23,"centroid":[-106.5554,35.138],
+        "bounds": [[-106.561,35.0535],[0.0,35.1844]
+        ],"coordinates":[[-106.55994100003403,35.182239],[-106.55991000003405,35.184446],[-106.55108500003264,35.184446],[-106.55108900003265,35.18155],[-106.55993000003403,35.181517],[-106.559987000034,35.163773],[-106.55985700003396,35.157674],[-106.56103600003414,35.154067],[-106.56097400003412,35.153148],[-106.56043200003404,35.151885],[-106.55973700003392,35.151143],[-106.55674600003344,35.148961],[-106.55430200003306,35.146826],[-106.55167400003263,35.142863],[-106.55107200003253,35.141206],[-106.55071600003234,35.09188],[-106.55036100003225,35.081741],[-106.55059900003222,35.053934],[-106.54956500003206,35.05395],[-106.54957600003206,35.053544]],
+        "distances": [0.0,0.247,1.044,1.368,2.1671,4.1536,4.8358,5.2539,5.3571,5.5067,5.6109,5.975,6.3018,6.8043,6.9973,12.5184,13.6533,16.7647,16.8577,16.9037]
+      }
+    },
+    "stop_lists": {
+      "e65d8": ["1071","2907","2909","2911","1005","1078","1079","1081","1082","7242","4599","1085","1086","7234","1088","1089","1090","1091","1092","1093","1094","1095","1096","1097","1098","1099","1101","1102","1103","1104","1106","1107","1109","1110","1111","7388","1113","1114","1115","7384","1117","1118","1119","1120","1121","1122","1123","1124","7380","7312","1127","1128","1129"],
+      "62173": ["2889","1005","1078","1079","1081","1082","7242","4599","1085","1086","7234","1088","1089","1090","1091","1092","1093","1094","1095","1096","1097","1098","1099","1101","1102","1103","1104","1106","1107","1109","1110","1111","7388","1113","1114","1115","7384","1117","1118","1119","1120","1121","1122","1123","1124","7380","7312","1127","1128","1129"],
+      "25715": ["7454","1081","1082","7242","4599","1085","1086","7234","1088","1089","1090","1091","1092","1093","1094","1095","1096","1097","1098","1099","1101","1102","1103","1104","1106","1107","1109","1110","1111","7388","1113","1114","1115","2661","2663","1190"],
+      "05b7c": ["1129","2237","2239","2241","1171","7003","1173","1177","7382","1181","1183","1185","1187","1189","1191","7386","1193","1195","1197","1199","1201","1203","5808","1207","1209","1213","1215","7314","1219","1221","1223","1225","1227","1229","1231","1233","1235","1237","5656","1241","1243","7250","1247","1249","1251","1253","1255","1257","1259","1261","1263","1007","2889"],
+      "9d917": ["7454","1081","1082","7242","4599","1085","1086","7234","1088","1089","1090","1091","1092","1093","1094","1095","1096","1097","1098","1099","1101","1102","1103","1104","1106","1107","1109","1110","1111","7388","1113","1114","1115","7384","1117","1118","1119","1120","1121","1122","1123","1124","7380","7312","1127","1128","1129"],
+      "76bb3": ["7454","1081","1082","7242","4599","1085","1086","7234","1088","1089","1090","1091","1092","1093","1094","1095","1096","1097","1098","1099","1101","1102","1103","1104","1106","1107","1109","1110","1111","7388","1113","1114","1115"],
+      "ad1b7": ["1129","2237","2239","2241","1171","7003","1173","1177","7382","1181","1183","1185","1187","1189","1191","7386","1193","1195","1197","1199","1201","1203","5808","1207","1209","1213","1215","7314","1219","1221","1223","1225","1227","1229","1231","1233","1235","1237","5656","1241","1243","7250","1247","1249","1251","1253","1255","1257","1259","1261","1263","1007","2897","2899","2901","1070","1071"],
+      "f8792": ["1190","1191","7386","1193","1195","1197","1199","1201","1203","5808","1207","1209","1213","1215","7314","1219","1221","1223","1225","1227","1229","1231","1233","1235","1237","5656","1241","1243","7250","1247","1249","1251","1253","1255","7454"],
+      "3e89e": ["1129","2237","2239","2241","1171","7003","1173","1177","7382","1181","1183","1185","1187","1189","1191","7386","1193","1195","1197","1199","1201","1203","5808","1207","1209","1213","1215","7314","1219","1221","1223","1225","1227","1229","1231","1233","1235","1237","5656","1241","1243","7250","1247","1249","1251","1253","1255","7454"]
+    },
+    "stop_times": {
+      "b9544": [0,35,77,100,120,148,168,206,246,282,300,382,430,469,494,524,575,611,664,720,771,824,850,891,918,983,1020,1052,1085,1128,1174,1198,1260,1303,1325,1380],
+      "ddad4": [0,32,59,84,229,251,281,325,360,413,450,495,514,589,669,720,751,778,814,852,891,935,960,989,1008,1045,1081,1107,1153,1182,1213,1260,1293,1327,1360,1457,1505,1599,1620,1683,1710,1766,1817,1860,1878,1899,1949,2100],
+      "e8b55": [0,37,68,97,266,291,326,378,420,473,510,555,574,649,729,780,811,838,874,912,951,995,1020,1049,1068,1105,1141,1167,1213,1242,1273,1320,1353,1387,1420,1517,1565,1659,1680,1743,1770,1826,1877,1920,1940,1964,2019,2083,2188,2255,2297,2335,2384,2414,2442,2699,2760],
+      "f29a0": [0,19,60,91,118,154,192,231,275,300,334,357,401,444,475,530,565,603,660,688,716,743,823,863,941,960,1007,1027,1069,1107,1140,1158,1179,1229,1380],
+      "3f071": [0,35,77,100,120,148,168,206,246,282,300,358,392,419,436,457,493,518,556,600,661,724,755,804,836,914,960,1003,1048,1105,1166,1199,1260],
+      "d980d": [0,180,220,259,302,361,444,613,664,693,720,757,784,835,889,937,960,1030,1071,1104,1125,1151,1194,1225,1270,1320,1371,1424,1450,1491,1518,1583,1620,1652,1685,1728,1774,1798,1860,1883,1922,1976,2032,2061,2083,2101,2137,2160,2233,2271,2314,2365,2400],
+      "c5646": [0,21,39,56,152,166,186,215,240,284,314,351,367,430,497,540,571,598,634,672,711,755,780,814,837,881,924,955,1010,1045,1083,1140,1168,1196,1223,1303,1343,1421,1440,1503,1530,1586,1637,1680,1698,1719,1769,1920],
+      "e1a2e": [0,32,59,84,229,251,281,325,360,404,434,471,487,550,617,660,691,718,754,792,831,875,900,934,957,1001,1044,1075,1130,1165,1203,1260,1293,1327,1360,1457,1505,1599,1620,1667,1687,1729,1767,1800,1817,1837,1884,1939,2029,2087,2123,2155,2197,2223,2247,2467,2520],
+      "5c6b0": [0,35,77,100,120,148,168,206,246,282,300,382,430,469,494,524,575,611,664,720,771,824,850,891,918,983,1020,1052,1085,1128,1174,1198,1260,1283,1322,1376,1432,1461,1483,1501,1537,1560,1633,1671,1714,1765,1800],
+      "a7557": [0,19,60,91,118,154,192,231,275,300,334,357,401,444,475,530,565,603,660,693,727,760,857,905,999,1020,1067,1087,1129,1167,1200,1218,1239,1289,1440],
+      "a1ae0": [0,35,77,100,120,148,168,206,246,282,300,358,392,419,436,457,493,518,556,600,661,724,755,804,836,914,960,1000,1042,1096,1154,1185,1260,1278,1309,1352,1397,1420,1438,1452,1481,1500,1592,1639,1693,1757,1800],
+      "a4eb3": [0,85,150,240,424,480,512,540,568,588,626,666,702,720,802,850,889,914,944,995,1031,1084,1140,1191,1244,1270,1311,1338,1403,1440,1472,1505,1548,1594,1618,1680,1703,1742,1796,1852,1881,1903,1921,1957,1980,2053,2091,2134,2185,2220],
+      "67b87": [0,180,220,259,302,361,444,613,664,693,720,757,784,835,889,937,960,1030,1071,1104,1125,1151,1194,1225,1270,1320,1381,1444,1475,1524,1556,1634,1680,1720,1762,1816,1874,1905,1980,1998,2029,2072,2117,2140,2158,2172,2201,2220,2312,2359,2413,2477,2520],
+      "08561": [0,32,59,84,229,251,281,325,360,404,434,471,487,550,617,660,691,718,754,792,831,875,900,934,957,1001,1044,1075,1130,1165,1203,1260,1293,1327,1360,1457,1505,1599,1620,1667,1687,1729,1767,1800,1816,1835,1878,1928,2011,2064,2097,2126,2164,2188,2210,2412,2460],
+      "10860": [0,286,350,411,480,574,705,972,1054,1100,1140,1177,1204,1255,1309,1357,1380,1450,1491,1524,1545,1571,1614,1645,1690,1740,1791,1844,1870,1911,1938,2003,2040,2072,2105,2148,2194,2218,2280,2303,2342,2396,2452,2481,2503,2521,2557,2580,2653,2691,2734,2785,2820],
+      "4f5f3": [0,32,59,84,229,251,281,325,360,404,434,471,487,550,617,660,691,718,754,792,831,875,900,934,957,1001,1044,1075,1130,1165,1203,1260,1293,1327,1360,1457,1505,1599,1620,1667,1687,1729,1767,1800,1819,1841,1892,1951,2048,2110,2148,2183,2220],
+      "34208": [0,180,220,259,302,361,444,613,664,693,720,748,768,806,846,882,900,958,992,1019,1036,1057,1093,1118,1156,1200,1261,1324,1355,1404,1436,1514,1560,1600,1642,1696,1754,1785,1860,1878,1909,1952,1997,2020,2038,2052,2081,2100,2192,2239,2293,2357,2400],
+      "73617": [0,66,116,186,329,373,398,420,457,484,535,589,637,660,730,771,804,825,851,894,925,970,1020,1071,1124,1150,1191,1218,1283,1320,1352,1385,1428,1474,1498,1560,1583,1622,1676,1732,1761,1783,1801,1837,1860,1933,1971,2014,2065,2100],
+      "bfa4b": [0,66,116,186,329,373,398,420,448,468,506,546,582,600,658,692,719,736,757,793,818,856,900,961,1024,1055,1104,1136,1214,1260,1300,1342,1396,1454,1485,1560,1578,1609,1652,1697,1720,1738,1752,1781,1800,1892,1939,1993,2057,2100]
+    },
+    "stop_distances": {
+      "0c599": [0.0,0.238,0.516,0.674,0.794,1.029,1.1991,1.5172,1.8553,2.1546,2.2837,2.7481,3.0232,3.2432,3.3842,3.5562,3.8453,4.0493,4.3494,4.6504,5.0824,5.5315,5.7526,6.1019,6.3329,6.888,7.186,7.39,7.603,7.8761,8.1681,8.3245,8.6903,9.0422,9.2217,9.6687],
+      "a7090": [0.0,0.319,0.586,0.838,2.2611,2.4781,2.7771,3.2152,3.5302,3.9673,4.2697,4.6387,4.7988,5.415,6.0712,6.4607,6.6952,6.8993,7.1734,7.4634,7.7584,8.0925,8.2535,8.4845,8.6425,8.9385,9.2266,9.4378,9.8059,10.038,10.29,10.6321,10.8641,11.0971,11.3261,11.9913,12.3203,12.9687,13.0959,13.4643,13.6233,13.9523,14.2504,14.4954,14.6055,14.7334,15.0274,15.9022],
+      "bc089": [0.0,0.319,0.586,0.838,2.2611,2.4781,2.7771,3.2152,3.5302,3.9673,4.2697,4.6387,4.7988,5.415,6.0712,6.4607,6.6952,6.8993,7.1734,7.4634,7.7584,8.0925,8.2535,8.4845,8.6425,8.9385,9.2266,9.4378,9.8059,10.038,10.29,10.6321,10.8641,11.0971,11.3261,11.9913,12.3203,12.9687,13.0959,13.4643,13.6233,13.9523,14.2504,14.4954,14.6055,14.7334,15.0274,15.3685,15.9266,16.2857,16.5086,16.7097,16.8997],
+      "b649f": [0.0,0.319,0.586,0.838,2.2611,2.4781,2.7771,3.2152,3.5302,3.9673,4.2697,4.6387,4.7988,5.415,6.0712,6.4607,6.6952,6.8993,7.1734,7.4634,7.7584,8.0925,8.2535,8.4845,8.6425,8.9385,9.2266,9.4378,9.8059,10.038,10.29,10.6321,10.8641,11.0971,11.3261,11.9913,12.3203,12.9687,13.0959,13.4643,13.6233,13.9523,14.2504,14.4954,14.6055,14.7334,15.0274,15.3685,15.9266,16.2857,16.5086,16.7097,16.9717,17.1347,17.2837,18.6442,18.9322],
+      "3da92": [0.0,0.238,0.516,0.674,0.794,1.029,1.1991,1.5172,1.8553,2.1546,2.2837,2.7481,3.0232,3.2432,3.3842,3.5562,3.8453,4.0493,4.3494,4.6504,5.0824,5.5315,5.7526,6.1019,6.3329,6.888,7.186,7.39,7.603,7.8761,8.1681,8.3245,8.6903,8.9289,9.3304,9.8863,10.4626,10.7627,10.9948,11.1839,11.5532,11.7303,12.1733,12.4023,12.6654,12.9744,13.1714],
+      "1a857": [0.0,0.1828,0.5723,0.8068,1.0109,1.285,1.575,1.8701,2.2041,2.3651,2.5961,2.7541,3.0502,3.3382,3.5494,3.9176,4.1497,4.4017,4.7437,4.9757,5.2087,5.4378,6.1029,6.4319,7.0803,7.2076,7.5759,7.7349,8.0639,8.362,8.607,8.7171,8.8451,9.1391,10.0139],
+      "470b6": [0.0,0.421,0.7411,1.1871,2.0943,2.3723,2.5303,2.6503,2.8853,3.0554,3.3734,3.7115,4.0108,4.14,4.6044,4.8794,5.0994,5.2405,5.4125,5.7016,5.9056,6.2056,6.5066,6.9387,7.3878,7.6088,7.9582,8.1892,8.7442,9.0423,9.2463,9.4593,9.7324,10.0244,10.1807,10.5466,10.7851,11.1866,11.7425,12.3189,12.619,12.8511,13.0401,13.4095,13.5865,14.0296,14.2586,14.5216,14.8306,15.0276],
+      "f8220": [0.0,0.238,0.516,0.674,0.794,1.029,1.1991,1.5172,1.8553,2.1546,2.2837,2.7481,3.0232,3.2432,3.3842,3.5562,3.8453,4.0493,4.3494,4.6504,5.0824,5.5315,5.7526,6.1019,6.3329,6.888,7.186,7.39,7.603,7.8761,8.1681,8.3245,8.6053],
+      "6b315": [0.0,0.9703,1.1883,1.3983,1.6333,1.9533,2.3994,3.3066,3.5846,3.7426,3.8626,4.0976,4.2677,4.5857,4.9238,5.2231,5.3523,5.8166,6.0917,6.3117,6.4528,6.6248,6.9138,7.1179,7.4179,7.7189,8.151,8.6,8.8211,9.1705,9.4015,9.9565,10.2545,10.4585,10.6716,10.9447,11.2367,11.393,11.7588,11.9974,12.3989,12.9548,13.5312,13.8313,14.0633,14.2524,14.6218,14.7988,15.2418,15.4709,15.7339,16.0429,16.2399]
+    },
+    "dwell_times": {
+      "f4332": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+      "20376": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+      "c06c6": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+      "45971": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+      "fbaf4": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+      "a7e86": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+      "e7633": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+      "b7dd5": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+    },
+    "trips": {
+      "1": [
+        {"id":"394101","direction":0,"start_time":19800,"stops_key":"ad1b7","stop_distances":"b649f","stop_times":"e1a2e","stop_dwells":"f4332","shape_key":"d80e8"},
+        {"id":"394102","direction":0,"start_time":21780,"stops_key":"ad1b7","stop_distances":"b649f","stop_times":"e1a2e","stop_dwells":"f4332","shape_key":"d80e8"},
+        {"id":"394103","direction":0,"start_time":23580,"stops_key":"ad1b7","stop_distances":"b649f","stop_times":"e1a2e","stop_dwells":"f4332","shape_key":"d80e8"},
+        {"id":"394104","direction":0,"start_time":25200,"stops_key":"ad1b7","stop_distances":"b649f","stop_times":"e1a2e","stop_dwells":"f4332","shape_key":"d80e8"},
+        {"id":"394105","direction":0,"start_time":27180,"stops_key":"ad1b7","stop_distances":"b649f","stop_times":"e1a2e","stop_dwells":"f4332","shape_key":"d80e8"},
+        {"id":"394106","direction":0,"start_time":28920,"stops_key":"ad1b7","stop_distances":"b649f","stop_times":"08561","stop_dwells":"f4332","shape_key":"d80e8"},
+        {"id":"394107","direction":0,"start_time":31680,"stops_key":"05b7c","stop_distances":"bc089","stop_times":"4f5f3","stop_dwells":"c06c6","shape_key":"025b4"},
+        {"id":"394108","direction":0,"start_time":34260,"stops_key":"05b7c","stop_distances":"bc089","stop_times":"4f5f3","stop_dwells":"c06c6","shape_key":"025b4"},
+        {"id":"394109","direction":0,"start_time":36900,"stops_key":"05b7c","stop_distances":"bc089","stop_times":"4f5f3","stop_dwells":"c06c6","shape_key":"025b4"},
+        {"id":"394110","direction":0,"start_time":39600,"stops_key":"05b7c","stop_distances":"bc089","stop_times":"4f5f3","stop_dwells":"c06c6","shape_key":"025b4"},
+        {"id":"394111","direction":0,"start_time":42300,"stops_key":"05b7c","stop_distances":"bc089","stop_times":"4f5f3","stop_dwells":"c06c6","shape_key":"025b4"},
+        {"id":"394112","direction":0,"start_time":45000,"stops_key":"05b7c","stop_distances":"bc089","stop_times":"4f5f3","stop_dwells":"c06c6","shape_key":"025b4"},
+        {"id":"394113","direction":0,"start_time":47700,"stops_key":"05b7c","stop_distances":"bc089","stop_times":"4f5f3","stop_dwells":"c06c6","shape_key":"025b4"},
+        {"id":"394114","direction":0,"start_time":50400,"stops_key":"05b7c","stop_distances":"bc089","stop_times":"4f5f3","stop_dwells":"c06c6","shape_key":"025b4"},
+        {"id":"394115","direction":0,"start_time":53040,"stops_key":"05b7c","stop_distances":"bc089","stop_times":"4f5f3","stop_dwells":"c06c6","shape_key":"025b4"},
+        {"id":"394116","direction":0,"start_time":55740,"stops_key":"ad1b7","stop_distances":"b649f","stop_times":"e8b55","stop_dwells":"f4332","shape_key":"d80e8"},
+        {"id":"394117","direction":0,"start_time":57600,"stops_key":"ad1b7","stop_distances":"b649f","stop_times":"e8b55","stop_dwells":"f4332","shape_key":"d80e8"},
+        {"id":"394118","direction":0,"start_time":59400,"stops_key":"ad1b7","stop_distances":"b649f","stop_times":"e8b55","stop_dwells":"f4332","shape_key":"d80e8"},
+        {"id":"394119","direction":0,"start_time":61200,"stops_key":"ad1b7","stop_distances":"b649f","stop_times":"e8b55","stop_dwells":"f4332","shape_key":"d80e8"},
+        {"id":"394120","direction":0,"start_time":63060,"stops_key":"ad1b7","stop_distances":"b649f","stop_times":"e8b55","stop_dwells":"f4332","shape_key":"d80e8"},
+        {"id":"394121","direction":0,"start_time":65520,"stops_key":"3e89e","stop_distances":"a7090","stop_times":"ddad4","stop_dwells":"b7dd5","shape_key":"0c083"},
+        {"id":"394122","direction":0,"start_time":68040,"stops_key":"3e89e","stop_distances":"a7090","stop_times":"ddad4","stop_dwells":"b7dd5","shape_key":"0c083"},
+        {"id":"394123","direction":1,"start_time":22140,"stops_key":"62173","stop_distances":"470b6","stop_times":"73617","stop_dwells":"fbaf4","shape_key":"82d1e"},
+        {"id":"394124","direction":1,"start_time":23820,"stops_key":"62173","stop_distances":"470b6","stop_times":"a4eb3","stop_dwells":"fbaf4","shape_key":"82d1e"},
+        {"id":"394125","direction":1,"start_time":25020,"stops_key":"e65d8","stop_distances":"6b315","stop_times":"10860","stop_dwells":"c06c6","shape_key":"053af"},
+        {"id":"394126","direction":1,"start_time":27240,"stops_key":"e65d8","stop_distances":"6b315","stop_times":"d980d","stop_dwells":"c06c6","shape_key":"053af"},
+        {"id":"394127","direction":1,"start_time":29040,"stops_key":"e65d8","stop_distances":"6b315","stop_times":"d980d","stop_dwells":"c06c6","shape_key":"053af"},
+        {"id":"394128","direction":1,"start_time":31620,"stops_key":"e65d8","stop_distances":"6b315","stop_times":"d980d","stop_dwells":"c06c6","shape_key":"053af"},
+        {"id":"394129","direction":1,"start_time":34320,"stops_key":"62173","stop_distances":"470b6","stop_times":"a4eb3","stop_dwells":"fbaf4","shape_key":"82d1e"},
+        {"id":"394130","direction":1,"start_time":37020,"stops_key":"62173","stop_distances":"470b6","stop_times":"a4eb3","stop_dwells":"fbaf4","shape_key":"82d1e"},
+        {"id":"394131","direction":1,"start_time":39720,"stops_key":"62173","stop_distances":"470b6","stop_times":"a4eb3","stop_dwells":"fbaf4","shape_key":"82d1e"},
+        {"id":"394132","direction":1,"start_time":42420,"stops_key":"62173","stop_distances":"470b6","stop_times":"a4eb3","stop_dwells":"fbaf4","shape_key":"82d1e"},
+        {"id":"394133","direction":1,"start_time":45120,"stops_key":"62173","stop_distances":"470b6","stop_times":"a4eb3","stop_dwells":"fbaf4","shape_key":"82d1e"},
+        {"id":"394134","direction":1,"start_time":47820,"stops_key":"62173","stop_distances":"470b6","stop_times":"a4eb3","stop_dwells":"fbaf4","shape_key":"82d1e"},
+        {"id":"394135","direction":1,"start_time":50520,"stops_key":"62173","stop_distances":"470b6","stop_times":"a4eb3","stop_dwells":"fbaf4","shape_key":"82d1e"},
+        {"id":"394136","direction":1,"start_time":53220,"stops_key":"62173","stop_distances":"470b6","stop_times":"a4eb3","stop_dwells":"fbaf4","shape_key":"82d1e"},
+        {"id":"394137","direction":1,"start_time":56040,"stops_key":"62173","stop_distances":"470b6","stop_times":"bfa4b","stop_dwells":"fbaf4","shape_key":"82d1e"},
+        {"id":"394138","direction":1,"start_time":58080,"stops_key":"e65d8","stop_distances":"6b315","stop_times":"67b87","stop_dwells":"c06c6","shape_key":"053af"},
+        {"id":"394139","direction":1,"start_time":59880,"stops_key":"e65d8","stop_distances":"6b315","stop_times":"67b87","stop_dwells":"c06c6","shape_key":"053af"},
+        {"id":"394140","direction":1,"start_time":61740,"stops_key":"e65d8","stop_distances":"6b315","stop_times":"34208","stop_dwells":"c06c6","shape_key":"053af"},
+        {"id":"394141","direction":1,"start_time":63540,"stops_key":"e65d8","stop_distances":"6b315","stop_times":"34208","stop_dwells":"c06c6","shape_key":"053af"},
+        {"id":"394142","direction":1,"start_time":65280,"stops_key":"e65d8","stop_distances":"6b315","stop_times":"34208","stop_dwells":"c06c6","shape_key":"053af"},
+        {"id":"394143","direction":1,"start_time":68580,"stops_key":"9d917","stop_distances":"3da92","stop_times":"a1ae0","stop_dwells":"20376","shape_key":"232e2"},
+        {"id":"394144","direction":1,"start_time":71100,"stops_key":"76bb3","stop_distances":"f8220","stop_times":"3f071","stop_dwells":"e7633","shape_key":"a0602"}
+      ],
+      "2": [
+        {"id":"394057","direction":0,"start_time":30420,"stops_key":"f8792","stop_distances":"1a857","stop_times":"f29a0","stop_dwells":"a7e86","shape_key":"c9cdd"},
+        {"id":"394058","direction":0,"start_time":33840,"stops_key":"f8792","stop_distances":"1a857","stop_times":"f29a0","stop_dwells":"a7e86","shape_key":"c9cdd"},
+        {"id":"394059","direction":0,"start_time":35460,"stops_key":"3e89e","stop_distances":"a7090","stop_times":"c5646","stop_dwells":"b7dd5","shape_key":"0c083"},
+        {"id":"394060","direction":0,"start_time":37800,"stops_key":"3e89e","stop_distances":"a7090","stop_times":"c5646","stop_dwells":"b7dd5","shape_key":"0c083"},
+        {"id":"394061","direction":0,"start_time":40380,"stops_key":"3e89e","stop_distances":"a7090","stop_times":"c5646","stop_dwells":"b7dd5","shape_key":"0c083"},
+        {"id":"394062","direction":0,"start_time":42900,"stops_key":"3e89e","stop_distances":"a7090","stop_times":"c5646","stop_dwells":"b7dd5","shape_key":"0c083"},
+        {"id":"394063","direction":0,"start_time":45900,"stops_key":"3e89e","stop_distances":"a7090","stop_times":"c5646","stop_dwells":"b7dd5","shape_key":"0c083"},
+        {"id":"394064","direction":0,"start_time":48300,"stops_key":"3e89e","stop_distances":"a7090","stop_times":"c5646","stop_dwells":"b7dd5","shape_key":"0c083"},
+        {"id":"394065","direction":0,"start_time":51300,"stops_key":"3e89e","stop_distances":"a7090","stop_times":"c5646","stop_dwells":"b7dd5","shape_key":"0c083"},
+        {"id":"394066","direction":0,"start_time":53760,"stops_key":"3e89e","stop_distances":"a7090","stop_times":"c5646","stop_dwells":"b7dd5","shape_key":"0c083"},
+        {"id":"394067","direction":0,"start_time":56400,"stops_key":"3e89e","stop_distances":"a7090","stop_times":"c5646","stop_dwells":"b7dd5","shape_key":"0c083"},
+        {"id":"394068","direction":0,"start_time":59400,"stops_key":"3e89e","stop_distances":"a7090","stop_times":"c5646","stop_dwells":"b7dd5","shape_key":"0c083"},
+        {"id":"394069","direction":0,"start_time":63240,"stops_key":"f8792","stop_distances":"1a857","stop_times":"f29a0","stop_dwells":"a7e86","shape_key":"c9cdd"},
+        {"id":"394070","direction":0,"start_time":67200,"stops_key":"f8792","stop_distances":"1a857","stop_times":"f29a0","stop_dwells":"a7e86","shape_key":"c9cdd"},
+        {"id":"394071","direction":1,"start_time":28920,"stops_key":"25715","stop_distances":"0c599","stop_times":"b9544","stop_dwells":"45971","shape_key":"26161"},
+        {"id":"394072","direction":1,"start_time":32340,"stops_key":"25715","stop_distances":"0c599","stop_times":"b9544","stop_dwells":"45971","shape_key":"26161"},
+        {"id":"394073","direction":1,"start_time":35880,"stops_key":"9d917","stop_distances":"3da92","stop_times":"5c6b0","stop_dwells":"20376","shape_key":"232e2"},
+        {"id":"394074","direction":1,"start_time":38460,"stops_key":"9d917","stop_distances":"3da92","stop_times":"5c6b0","stop_dwells":"20376","shape_key":"232e2"},
+        {"id":"394075","direction":1,"start_time":40860,"stops_key":"9d917","stop_distances":"3da92","stop_times":"5c6b0","stop_dwells":"20376","shape_key":"232e2"},
+        {"id":"394076","direction":1,"start_time":43860,"stops_key":"9d917","stop_distances":"3da92","stop_times":"5c6b0","stop_dwells":"20376","shape_key":"232e2"},
+        {"id":"394077","direction":1,"start_time":46260,"stops_key":"9d917","stop_distances":"3da92","stop_times":"5c6b0","stop_dwells":"20376","shape_key":"232e2"},
+        {"id":"394078","direction":1,"start_time":49260,"stops_key":"9d917","stop_distances":"3da92","stop_times":"5c6b0","stop_dwells":"20376","shape_key":"232e2"},
+        {"id":"394079","direction":1,"start_time":51660,"stops_key":"9d917","stop_distances":"3da92","stop_times":"5c6b0","stop_dwells":"20376","shape_key":"232e2"},
+        {"id":"394080","direction":1,"start_time":54480,"stops_key":"9d917","stop_distances":"3da92","stop_times":"5c6b0","stop_dwells":"20376","shape_key":"232e2"},
+        {"id":"394081","direction":1,"start_time":57120,"stops_key":"9d917","stop_distances":"3da92","stop_times":"5c6b0","stop_dwells":"20376","shape_key":"232e2"},
+        {"id":"394082","direction":1,"start_time":59160,"stops_key":"25715","stop_distances":"0c599","stop_times":"b9544","stop_dwells":"45971","shape_key":"26161"},
+        {"id":"394083","direction":1,"start_time":61740,"stops_key":"25715","stop_distances":"0c599","stop_times":"b9544","stop_dwells":"45971","shape_key":"26161"},
+        {"id":"394084","direction":1,"start_time":65700,"stops_key":"25715","stop_distances":"0c599","stop_times":"b9544","stop_dwells":"45971","shape_key":"26161"}
+      ],
+      "3": [
+        {"id":"394085","direction":0,"start_time":31860,"stops_key":"f8792","stop_distances":"1a857","stop_times":"a7557","stop_dwells":"a7e86","shape_key":"c9cdd"},
+        {"id":"394086","direction":0,"start_time":35460,"stops_key":"f8792","stop_distances":"1a857","stop_times":"a7557","stop_dwells":"a7e86","shape_key":"c9cdd"},
+        {"id":"394087","direction":0,"start_time":39060,"stops_key":"f8792","stop_distances":"1a857","stop_times":"a7557","stop_dwells":"a7e86","shape_key":"c9cdd"},
+        {"id":"394088","direction":0,"start_time":42960,"stops_key":"f8792","stop_distances":"1a857","stop_times":"a7557","stop_dwells":"a7e86","shape_key":"c9cdd"},
+        {"id":"394089","direction":0,"start_time":46260,"stops_key":"f8792","stop_distances":"1a857","stop_times":"a7557","stop_dwells":"a7e86","shape_key":"c9cdd"},
+        {"id":"394090","direction":0,"start_time":49860,"stops_key":"f8792","stop_distances":"1a857","stop_times":"a7557","stop_dwells":"a7e86","shape_key":"c9cdd"},
+        {"id":"394091","direction":0,"start_time":53820,"stops_key":"f8792","stop_distances":"1a857","stop_times":"a7557","stop_dwells":"a7e86","shape_key":"c9cdd"},
+        {"id":"394092","direction":0,"start_time":57180,"stops_key":"f8792","stop_distances":"1a857","stop_times":"a7557","stop_dwells":"a7e86","shape_key":"c9cdd"},
+        {"id":"394093","direction":1,"start_time":30360,"stops_key":"25715","stop_distances":"0c599","stop_times":"b9544","stop_dwells":"45971","shape_key":"26161"},
+        {"id":"394094","direction":1,"start_time":33960,"stops_key":"25715","stop_distances":"0c599","stop_times":"b9544","stop_dwells":"45971","shape_key":"26161"},
+        {"id":"394095","direction":1,"start_time":37320,"stops_key":"25715","stop_distances":"0c599","stop_times":"b9544","stop_dwells":"45971","shape_key":"26161"},
+        {"id":"394096","direction":1,"start_time":41040,"stops_key":"25715","stop_distances":"0c599","stop_times":"b9544","stop_dwells":"45971","shape_key":"26161"},
+        {"id":"394097","direction":1,"start_time":44760,"stops_key":"25715","stop_distances":"0c599","stop_times":"b9544","stop_dwells":"45971","shape_key":"26161"},
+        {"id":"394098","direction":1,"start_time":48240,"stops_key":"25715","stop_distances":"0c599","stop_times":"b9544","stop_dwells":"45971","shape_key":"26161"},
+        {"id":"394099","direction":1,"start_time":51900,"stops_key":"25715","stop_distances":"0c599","stop_times":"b9544","stop_dwells":"45971","shape_key":"26161"},
+        {"id":"394100","direction":1,"start_time":55680,"stops_key":"25715","stop_distances":"0c599","stop_times":"b9544","stop_dwells":"45971","shape_key":"26161"}
+      ]
+    }
+  }
+}

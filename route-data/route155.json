@@ -1,0 +1,404 @@
+{
+  "id": "3031",
+  "short_name": "155",
+  "long_name": "Coors",
+  "color": "FF8900",
+  "text_color": "000000",
+  "schedules": {
+    "1": {
+      "start_date": "20171125",
+      "end_date": "20180511",
+      "days_mask_mon_sun": 124,"added_days":[],"removed_days":["20180115"
+      ]
+    },
+    "2": {
+      "start_date": "20171125",
+      "end_date": "20180511",
+      "days_mask_mon_sun": 2,"added_days":["20180115"
+      ],"removed_days":[]
+    },
+    "3": {
+      "start_date": "20171125",
+      "end_date": "20180511",
+      "days_mask_mon_sun": 1,"added_days":[],"removed_days":[]
+    }
+  },
+  "related_route_data": {"3049":{"short_name":"54","long_name":"Bridge/Westgate","color":"006097","text_color":"FFFFFF"
+    },"3052":{"short_name":"66","long_name":"Central Avenue","color":"00DEC8","text_color":"000000"
+    },"3058":{"short_name":"92","long_name":"Taylor Ranch Express","color":"D43815","text_color":"FFFFFF"
+    },"3060":{"short_name":"94","long_name":"Unser Commuter","color":"3988FF","text_color":"000000"
+    },"3061":{"short_name":"96","long_name":"Crosstown Commuter","color":"F3F400","text_color":"000000"
+    },"3063":{"short_name":"98","long_name":"Wyoming Commuter","color":"005B3C","text_color":"FFFFFF"
+    },"3031":{"short_name":"155","long_name":"Coors","color":"FF8900","text_color":"000000"
+    },"3032":{"short_name":"157","long_name":"Cottonwood/Montano/UTC","color":"008047","text_color":"FFFFFF"
+    },"3034":{"short_name":"162","long_name":"Ventana Ranch / Unser","color":"83361B","text_color":"FFFFFF"
+    },"3038":{"short_name":"222","long_name":"Rio Bravo/ Rail Runner/ KAFB","color":"804A80","text_color":"FFFFFF"
+    },"3040":{"short_name":"251","long_name":"ABQ-Rio Rancho Rail Runner Shuttle","color":"006849","text_color":"FFFFFF"
+    },"3050":{"short_name":"551","long_name":"Jefferson - Paseo del Norte Express","color":"008080","text_color":"FFFFFF"
+    },"3054":{"short_name":"766","long_name":"Red Line Rapid Ride","color":"EC0000","text_color":"FFFFFF"
+    },"3056":{"short_name":"790","long_name":"Coors Blue Line Rapid Ride","color":"0000FF","text_color":"FFFFFF"
+    },"3064":{"short_name":"1000","long_name":"ART Special Service","color":"EC0000","text_color":"FFFFFF"
+    }
+  },
+  "stops": {"1035":{"name":"Gunclub @ Isleta Drain","desc":"2813 GUN CLUB RD SW","coordinates":[-106.7134,35.0119],"related_stops":["3091","1035"],"transfer_routes":["3031"],"related_routes":[]
+    },"1040":{"name":"Coors @ Montano Plaza","desc":"6146 COORS BLVD NW","coordinates":[-106.6836,35.1527],"related_stops":["6947","1040","2997","5968"],"transfer_routes":["3056"],"related_routes":["3061","3031","3034"]
+    },"1041":{"name":"Coors @ Irving","desc":"9432 COORS BLVD NW \u0026 IRVING BLVD NW","coordinates":[-106.6621,35.1864],"related_stops":["6945","1041"],"transfer_routes":["3061","3031","3056"],"related_routes":[]
+    },"1042":{"name":"7 Bar @ Cottonwood Dr","desc":"SEVEN BAR LOOP RD NW","coordinates":[-106.6559,35.2002],"related_stops":["1042","1043"],"transfer_routes":["3061","3031","3056"],"related_routes":[]
+    },"1043":{"name":"7 Bar @ Cottonwood Dr","desc":"SEVEN BAR LOOP RD NW \u0026 COTTONWOOD LOOP NW","coordinates":[-106.6561,35.2006],"related_stops":["1042","1043"],"transfer_routes":["3061","3031","3056"],"related_routes":[]
+    },"1507":{"name":"Ellison @ Golf Course","desc":"ELLISON DR NW","coordinates":[-106.6745,35.2056],"related_stops":["1507","1529","7210"],"transfer_routes":["3058","3061","3031","3032"],"related_routes":[]
+    },"1509":{"name":"Ellison @ 7 Bar Loop North","desc":"ELLISON DR NW \u0026 NORTH SEVEN BAR DR NW","coordinates":[-106.672,35.2059],"related_stops":["1527","1509"],"transfer_routes":["3058","3061","3031","3032"],"related_routes":[]
+    },"1511":{"name":"Ellison @ Cibola Loop West","desc":"ELLISON DR NW","coordinates":[-106.6679,35.2057],"related_stops":["1525","1511"],"transfer_routes":["3058","3061","3031","3032"],"related_routes":[]
+    },"1525":{"name":"Ellison @ Cibola Loop West","desc":"ELLISON DR NW","coordinates":[-106.6673,35.2061],"related_stops":["1525","1511"],"transfer_routes":["3058","3061","3031","3032"],"related_routes":[]
+    },"1527":{"name":"Ellison @ 7 Bar Loop North","desc":"ELLISON DR NW \u0026 NORTH SEVEN BAR DR NW","coordinates":[-106.6721,35.2062],"related_stops":["1527","1509"],"transfer_routes":["3058","3061","3031","3032"],"related_routes":[]
+    },"1529":{"name":"Golf Course @ Ellison","desc":"10479 GOLF COURSE RD NW","coordinates":[-106.6754,35.2053],"related_stops":["1507","1529","7210"],"transfer_routes":["3032"],"related_routes":["3058","3061","3031"]
+    },"1661":{"name":"Corrales @ Coors","desc":"10013 COORS BLVD NW","coordinates":[-106.6541,35.1947],"related_stops":["3023","3011","3013","1661"],"transfer_routes":["3061","3031"],"related_routes":[]
+    },"1793":{"name":"Coors @ Eduardo","desc":"1587 COORS BLVD SW","coordinates":[-106.7059,35.0557],"related_stops":["1883","3115","1793"],"transfer_routes":["3049","3031"],"related_routes":[]
+    },"1797":{"name":"Arenal @ Coors","desc":"2831 ARENAL RD SW","coordinates":[-106.7093,35.0517],"related_stops":["1797","7013","1800","7332"],"transfer_routes":["3049"],"related_routes":["3031"]
+    },"1800":{"name":"Arenal @ Coors","desc":"2852 ARENAL RD SW","coordinates":[-106.7109,35.0517],"related_stops":["1797","7013","1800","7332"],"transfer_routes":["3049"],"related_routes":["3031"]
+    },"1883":{"name":"Coors @ Old Coors","desc":"1608 COORS BLVD SW","coordinates":[-106.7057,35.0554],"related_stops":["1883","3115","1793"],"transfer_routes":["3049","3031"],"related_routes":[]
+    },"2963":{"name":"Coors @ Gonzales","desc":"476 COORS BLVD SW \u0026 GONZALES RD SW","coordinates":[-106.713,35.0734],"related_stops":["2963"],"transfer_routes":["3031"],"related_routes":[]
+    },"2967":{"name":"Coors @ Avalon","desc":"330 COORS BLVD NW","coordinates":[-106.7106,35.0841],"related_stops":["3069","2967","3067","2969"],"transfer_routes":["3031"],"related_routes":[]
+    },"2969":{"name":"Coors @ Bluewater","desc":"BLUEWATER RD NW \u0026 64TH ST NW","coordinates":[-106.7106,35.0866],"related_stops":["3069","2967","3067","2969"],"transfer_routes":["3031"],"related_routes":[]
+    },"2971":{"name":"Coors @ Cloudcroft","desc":"454 COORS BLVD NW \u0026 CLOUDCROFT RD NW","coordinates":[-106.7105,35.0893],"related_stops":["3065","2971"],"transfer_routes":["3031"],"related_routes":[]
+    },"2973":{"name":"Coors @ Los Volcanes","desc":"540 COORS BLVD NW","coordinates":[-106.7103,35.0917],"related_stops":["3063","2973"],"transfer_routes":["3031"],"related_routes":[]
+    },"2977":{"name":"Coors @ Glenrio","desc":"918 COORS BLVD NW \u0026 GLENRIO RD NW","coordinates":[-106.708,35.0976],"related_stops":["3059","2977"],"transfer_routes":["3031"],"related_routes":[]
+    },"2979":{"name":"Coors @ Hanover","desc":"1534 COORS BLVD NW","coordinates":[-106.7063,35.1019],"related_stops":["3057","2979"],"transfer_routes":["3031"],"related_routes":[]
+    },"2981":{"name":"Coors @ Pheasant","desc":"5222 PHEASANT AVE NW \u0026 COORS BLVD NW","coordinates":[-106.7014,35.1168],"related_stops":["3055","2981"],"transfer_routes":["3061","3031"],"related_routes":[]
+    },"2985":{"name":"Coors @ Tucson","desc":"3710 COORS BLVD NW \u0026 CALLE PENASCO  NW","coordinates":[-106.7015,35.1241],"related_stops":["3051","2985"],"transfer_routes":["3061","3031"],"related_routes":[]
+    },"2989":{"name":"Coors @ Loop One","desc":"1225 I 40  E","coordinates":[-106.6963,35.1426],"related_stops":["2989"],"transfer_routes":["3061","3031"],"related_routes":[]
+    },"2991":{"name":"Coors @ Bosque School Rd.","desc":"","coordinates":[-106.6918,35.1454],"related_stops":["2991"],"transfer_routes":["3061","3031","3056"],"related_routes":[]
+    },"2993":{"name":"Coors @ Montano","desc":"1167 I 40  E","coordinates":[-106.6846,35.1512],"related_stops":["2993","7032","3039","5710","6999"],"transfer_routes":["3061","3031"],"related_routes":["3032","3034"]
+    },"2997":{"name":"Coors @ Montano Plaza","desc":"6286 COORS BLVD NW","coordinates":[-106.6815,35.156],"related_stops":["6947","1040","2997","5968"],"transfer_routes":["3031"],"related_routes":["3061","3034","3056"]
+    },"2999":{"name":"Coors @ La Orilla","desc":"6416 COORS BLVD NW","coordinates":[-106.6785,35.1608],"related_stops":["3035","2999"],"transfer_routes":["3061","3031"],"related_routes":["3034"]
+    },"3001":{"name":"Coors @ Bosque Meadows","desc":"","coordinates":[-106.6755,35.1683],"related_stops":["3033","3001"],"transfer_routes":["3061","3031"],"related_routes":[]
+    },"3003":{"name":"Coors @ Caminito Coors","desc":"6604 CAMINITO COORS  NW \u0026 COORS BLVD NW","coordinates":[-106.6742,35.1722],"related_stops":["3003"],"transfer_routes":["3061","3031","3056"],"related_routes":[]
+    },"3005":{"name":"Coors @ Eagle Ranch","desc":"1055 I 40  E","coordinates":[-106.6733,35.1748],"related_stops":["3031","3005"],"transfer_routes":["3061","3031"],"related_routes":["3056"]
+    },"3007":{"name":"Coors @ Frontage Road","desc":"9038 COORS BLVD NW","coordinates":[-106.6712,35.1777],"related_stops":["3029","3007"],"transfer_routes":["3061","3031"],"related_routes":[]
+    },"3011":{"name":"Coors @ Westside","desc":"","coordinates":[-106.6583,35.1899],"related_stops":["3023","3011","3013","1661"],"transfer_routes":["3061","3031"],"related_routes":[]
+    },"3013":{"name":"Corrales @ Coors","desc":"10024 COORS BLVD NW","coordinates":[-106.6538,35.1946],"related_stops":["3023","3011","3013","1661"],"transfer_routes":["3061","3031"],"related_routes":[]
+    },"3019":{"name":"Ellison @ Cottonwood","desc":"3807 ELLISON DR NW","coordinates":[-106.6567,35.2058],"related_stops":["3019"],"transfer_routes":["3061","3063","3031"],"related_routes":[]
+    },"3023":{"name":"Coors @ Corrales","desc":"968 I 40  E","coordinates":[-106.6585,35.1902],"related_stops":["3023","3011","3013","1661"],"transfer_routes":["3061","3031"],"related_routes":[]
+    },"3029":{"name":"Coors @ Frontage Road","desc":"1040 I 40  E","coordinates":[-106.6715,35.178],"related_stops":["3029","3007"],"transfer_routes":["3061","3031"],"related_routes":[]
+    },"3031":{"name":"Coors @ Eagle Ranch","desc":"","coordinates":[-106.6742,35.1736],"related_stops":["3031","3005"],"transfer_routes":["3061","3031","3056"],"related_routes":[]
+    },"3033":{"name":"Coors @ Bosque Meadows","desc":"1086 I 40  E","coordinates":[-106.6758,35.1684],"related_stops":["3033","3001"],"transfer_routes":["3061","3031"],"related_routes":[]
+    },"3035":{"name":"Coors @ La Orilla","desc":"1130 I 40  E","coordinates":[-106.6801,35.1589],"related_stops":["3035","2999"],"transfer_routes":["3061","3031","3034"],"related_routes":[]
+    },"3039":{"name":"Coors @ Montano","desc":"1186 I 40  E","coordinates":[-106.688,35.1484],"related_stops":["2993","7032","3039","5710","6999"],"transfer_routes":["3061","3031"],"related_routes":["3032","3034"]
+    },"3041":{"name":"Coors @ Dellyne","desc":"5091 COORS BLVD NW","coordinates":[-106.6933,35.1449],"related_stops":["3041"],"transfer_routes":["3061","3031","3056"],"related_routes":[]
+    },"3043":{"name":"Coors @ Mirador","desc":"4887 COORS BLVD NW \u0026 LOOP TWO  NW","coordinates":[-106.6956,35.1434],"related_stops":["3043"],"transfer_routes":["3061","3031"],"related_routes":[]
+    },"3047":{"name":"Coors @ Western Trails","desc":"1272 I 40  E","coordinates":[-106.7019,35.1341],"related_stops":["3047"],"transfer_routes":["3061","3031"],"related_routes":[]
+    },"3051":{"name":"Coors @ Calle Penasco","desc":"1315 I 40  E","coordinates":[-106.7018,35.1243],"related_stops":["3051","2985"],"transfer_routes":["3061","3031"],"related_routes":[]
+    },"3055":{"name":"Coors @ Redlands","desc":"3123 COORS BLVD NW \u0026 PHEASANT AVE NW","coordinates":[-106.7018,35.1172],"related_stops":["3055","2981"],"transfer_routes":["3061","3031"],"related_routes":[]
+    },"3057":{"name":"Coors @ Hanover","desc":"1349 COORS BLVD NW \u0026 HANOVER RD NW","coordinates":[-106.7073,35.1001],"related_stops":["3057","2979"],"transfer_routes":["3031"],"related_routes":[]
+    },"3059":{"name":"Coors @ Glenrio","desc":"845 COORS BLVD NW","coordinates":[-106.7086,35.0969],"related_stops":["3059","2977"],"transfer_routes":["3031"],"related_routes":[]
+    },"3063":{"name":"Coors @ Los Volcanes","desc":"481 COORS BLVD NW \u0026 LOS VOLCANES RD NW","coordinates":[-106.7107,35.0908],"related_stops":["3063","2973"],"transfer_routes":["3031"],"related_routes":[]
+    },"3065":{"name":"Coors @ Cloudcroft","desc":"449 COORS BLVD NW","coordinates":[-106.7108,35.089],"related_stops":["3065","2971"],"transfer_routes":["3031"],"related_routes":[]
+    },"3067":{"name":"Coors @ Bluewater","desc":"409 COORS BLVD NW","coordinates":[-106.7109,35.0867],"related_stops":["3069","2967","3067","2969"],"transfer_routes":["3031"],"related_routes":[]
+    },"3069":{"name":"Coors @ Bluewater","desc":"327 COORS BLVD NW","coordinates":[-106.7109,35.0839],"related_stops":["3069","2967","3067","2969"],"transfer_routes":["3031"],"related_routes":[]
+    },"3075":{"name":"Coors @ Bridge","desc":"815 COORS BLVD SW \u0026 BRIDGE BLVD SW","coordinates":[-106.7119,35.0696],"related_stops":["3121","3075"],"transfer_routes":["3031"],"related_routes":[]
+    },"3077":{"name":"Coors @ Tower","desc":"1111 COORS BLVD SW \u0026 TOWER RD SW","coordinates":[-106.7103,35.0658],"related_stops":["3119","3077"],"transfer_routes":["3031"],"related_routes":[]
+    },"3079":{"name":"Coors @ Sage","desc":"SAGE RD SW \u0026 COORS BLVD SW","coordinates":[-106.708,35.06],"related_stops":["3117","3079"],"transfer_routes":["3031"],"related_routes":[]
+    },"3080":{"name":"Coors @ Huseman","desc":"2403 COORS BLVD SW","coordinates":[-106.7092,35.0466],"related_stops":["3080","3114"],"transfer_routes":["3031"],"related_routes":[]
+    },"3081":{"name":"Coors @ Ervien","desc":"2571 COORS BLVD SW \u0026 ERVIEN LN SW","coordinates":[-106.7107,35.0427],"related_stops":["3113","3081"],"transfer_routes":["3031"],"related_routes":[]
+    },"3083":{"name":"Coors @ Blake","desc":"2721 COORS BLVD SW","coordinates":[-106.7123,35.0373],"related_stops":["3111","3083"],"transfer_routes":["3031"],"related_routes":[]
+    },"3087":{"name":"Coors @ Rio Bravo","desc":"3247 COORS BLVD SW","coordinates":[-106.7141,35.0278],"related_stops":["3107","3087","7336"],"transfer_routes":["3031"],"related_routes":["3038"]
+    },"3089":{"name":"Coors @ Gun Club","desc":"4347 COORS BLVD SW","coordinates":[-106.7162,35.0131],"related_stops":["3105","3089"],"transfer_routes":["3031"],"related_routes":[]
+    },"3091":{"name":"Gun Club @ West Glen","desc":"2734 GUN CLUB RD SW \u0026 WEST GLEN DR SW","coordinates":[-106.7126,35.0118],"related_stops":["3091","1035"],"transfer_routes":["3031"],"related_routes":[]
+    },"3092":{"name":"Valley Gardens @ Desert Garden","desc":"4407 VALLEY GARDENS DR SW \u0026 DESERT GARDEN LN SW","coordinates":[-106.7089,35.0113],"related_stops":["3092"],"transfer_routes":["3031"],"related_routes":[]
+    },"3095":{"name":"Coors @ Las Estancias","desc":"","coordinates":[-106.7157,35.0183],"related_stops":["3095","3097"],"transfer_routes":["3031"],"related_routes":[]
+    },"3097":{"name":"Coors @ Las Estancias","desc":"","coordinates":[-106.7151,35.0179],"related_stops":["3095","3097"],"transfer_routes":["3031"],"related_routes":[]
+    },"3105":{"name":"Coors @ Gun Club","desc":"4320 COORS BLVD SW","coordinates":[-106.7158,35.0137],"related_stops":["3105","3089"],"transfer_routes":["3031"],"related_routes":[]
+    },"3107":{"name":"Coors @ Rio Bravo","desc":"","coordinates":[-106.714,35.0257],"related_stops":["3107","3087","7336"],"transfer_routes":["3031","3038"],"related_routes":[]
+    },"3109":{"name":"Coors @ Barcelona","desc":"3118 COORS BLVD SW","coordinates":[-106.7135,35.0297],"related_stops":["7658","3109"],"transfer_routes":["3031"],"related_routes":[]
+    },"3111":{"name":"Coors @ Blake","desc":"2714 COORS BLVD SW \u0026 SUNSHINE WEST PLAZA DR SW","coordinates":[-106.7118,35.038],"related_stops":["3111","3083"],"transfer_routes":["3031"],"related_routes":[]
+    },"3113":{"name":"Coors @ Ervien","desc":"2570 COORS BLVD SW \u0026 ERVIEN LN SW","coordinates":[-106.7104,35.0426],"related_stops":["3113","3081"],"transfer_routes":["3031"],"related_routes":[]
+    },"3114":{"name":"Coors @ Huseman","desc":"2098 COORS BLVD SW","coordinates":[-106.7089,35.0466],"related_stops":["3080","3114"],"transfer_routes":["3031"],"related_routes":[]
+    },"3115":{"name":"Coors @ Old Coors","desc":"1476 COORS BLVD SW","coordinates":[-106.7058,35.0574],"related_stops":["1883","3115","1793"],"transfer_routes":["3031"],"related_routes":["3049"]
+    },"3117":{"name":"Coors @ Sage","desc":"1288 COORS BLVD SW \u0026 SAGE RD SW","coordinates":[-106.7078,35.0607],"related_stops":["3117","3079"],"transfer_routes":["3031"],"related_routes":[]
+    },"3119":{"name":"Coors @ Tower","desc":"1064 COORS BLVD SW","coordinates":[-106.7102,35.0666],"related_stops":["3119","3077"],"transfer_routes":["3031"],"related_routes":[]
+    },"3121":{"name":"Coors @ Bridge","desc":"770 COORS BLVD SW \u0026 BRIDGE BLVD SW","coordinates":[-106.7117,35.0702],"related_stops":["3121","3075"],"transfer_routes":["3031"],"related_routes":[]
+    },"3127":{"name":"Ellison @ Coors by-pass","desc":"ELLISON DR NW","coordinates":[-106.658,35.2055],"related_stops":["3127"],"transfer_routes":["3061","3063","3031"],"related_routes":[]
+    },"4351":{"name":"Central @ Coors","desc":"6663 CENTRAL AVE W","coordinates":[-106.7114,35.0799],"related_stops":["6951","4351","4353","4381","4379","7008","7220","7535","7500","7298"],"transfer_routes":["3054"],"related_routes":["3052","3031","3064"]
+    },"4353":{"name":"Central @ Coors","desc":"6679 CENTRAL AVE W","coordinates":[-106.7116,35.0798],"related_stops":["6951","4351","4353","4381","4379","7008","7220","7535","7500","7298"],"transfer_routes":["3052"],"related_routes":["3031","3054","3064"]
+    },"4379":{"name":"Central @ Coors","desc":"6684 CENTRAL AVE W","coordinates":[-106.7117,35.0796],"related_stops":["6951","4351","4353","4381","4379","7008","7220","7535","7500","7298"],"transfer_routes":["3052"],"related_routes":["3031","3054","3064"]
+    },"4381":{"name":"Central @ Coors","desc":"6672 CENTRAL AVE W","coordinates":[-106.7115,35.0796],"related_stops":["6951","4351","4353","4381","4379","7008","7220","7535","7500","7298"],"transfer_routes":["3054"],"related_routes":["3052","3031","3064"]
+    },"5593":{"name":"Unser @ Wellspring","desc":"2318 UNSER BLVD SE","coordinates":[-106.6961,35.2199],"related_stops":["5593","5595"],"transfer_routes":["3031"],"related_routes":[]
+    },"5595":{"name":"Unser @ Wellspring","desc":"2231 UNSER BLVD SE \u0026 WELLSPRING AVE SE","coordinates":[-106.6962,35.221],"related_stops":["5593","5595"],"transfer_routes":["3031"],"related_routes":[]
+    },"5710":{"name":"Montano @ Coors","desc":"4475 MONTANO RD NW","coordinates":[-106.6886,35.151],"related_stops":["2993","7032","3039","5710","6999"],"transfer_routes":["3032","3034"],"related_routes":["3061","3031"]
+    },"5776":{"name":"Coors @ Sevilla","desc":"1242 I 40  E","coordinates":[-106.6996,35.1402],"related_stops":["5776","7005"],"transfer_routes":["3061","3031"],"related_routes":[]
+    },"5850":{"name":"McMahon @ Golf Course","desc":"4642 MCMAHON BLVD NW","coordinates":[-106.677,35.2063],"related_stops":["5852","5850"],"transfer_routes":["3031"],"related_routes":[]
+    },"5852":{"name":"McMahon @ Golf Course","desc":"4649 MCMAHON BLVD NW","coordinates":[-106.677,35.2066],"related_stops":["5852","5850"],"transfer_routes":["3031"],"related_routes":[]
+    },"5854":{"name":"Cabezon @ Unser","desc":"2033 CABEZON BLVD SE","coordinates":[-106.6957,35.2332],"related_stops":["5892","5894","5854"],"transfer_routes":["3061"],"related_routes":["3031"]
+    },"5892":{"name":"Unser @ Cabezon","desc":"1568 UNSER BLVD SE \u0026 14TH AVE SE","coordinates":[-106.6961,35.2337],"related_stops":["5892","5894","5854"],"transfer_routes":["3061","3031"],"related_routes":[]
+    },"5894":{"name":"Unser @ Cabezon","desc":"1615 UNSER BLVD SE \u0026 14TH AVE SE","coordinates":[-106.6964,35.233],"related_stops":["5892","5894","5854"],"transfer_routes":["3031"],"related_routes":["3061"]
+    },"5912":{"name":"McMahon @ Unser","desc":"MCMAHON BLVD NW","coordinates":[-106.6977,35.2128],"related_stops":["5914","5912"],"transfer_routes":["3031"],"related_routes":[]
+    },"5914":{"name":"McMahon @ Unser","desc":"MCMAHON BLVD NW","coordinates":[-106.6972,35.2129],"related_stops":["5914","5912"],"transfer_routes":["3031"],"related_routes":[]
+    },"5916":{"name":"McMahon @ Bandelier","desc":"4990 MCMAHON BLVD NW \u0026 BANDELIER DR NW","coordinates":[-106.6856,35.2091],"related_stops":["5918","5916"],"transfer_routes":["3031"],"related_routes":[]
+    },"5918":{"name":"McMahon @ Bandelier","desc":"5023 MCMAHON BLVD NW \u0026 BANDELIER DR NW","coordinates":[-106.6862,35.2095],"related_stops":["5918","5916"],"transfer_routes":["3031"],"related_routes":[]
+    },"5920":{"name":"McMahon @ Tuscany","desc":"MCMAHON BLVD NW \u0026 TUSCANY DR NW","coordinates":[-106.6922,35.2111],"related_stops":["5922","5920"],"transfer_routes":["3031"],"related_routes":[]
+    },"5922":{"name":"McMahon @ Stonebridge","desc":"MCMAHON BLVD NW \u0026 TUSCANY DR NW","coordinates":[-106.6921,35.2114],"related_stops":["5922","5920"],"transfer_routes":["3031"],"related_routes":[]
+    },"5924":{"name":"Unser @ Summer Ridge","desc":"UNSER BLVD NW","coordinates":[-106.6967,35.2165],"related_stops":["5924"],"transfer_routes":["3031"],"related_routes":[]
+    },"5926":{"name":"Unser @ Night Wisper Rd","desc":"UNSER BLVD NW","coordinates":[-106.6974,35.2155],"related_stops":["5926"],"transfer_routes":["3031"],"related_routes":[]
+    },"5948":{"name":"7-Bar at Cottonwood Loop","desc":"3601 SEVEN BAR LOOP RD NW \u0026 COTTONWOOD LOOP NW","coordinates":[-106.6535,35.1994],"related_stops":["5950","5948"],"transfer_routes":["3061","3031"],"related_routes":[]
+    },"5950":{"name":"7-Bar @ Cottonwood Loop","desc":"SEVEN BAR LOOP RD NW \u0026 COTTONWOOD LOOP NW","coordinates":[-106.6529,35.1989],"related_stops":["5950","5948"],"transfer_routes":["3061","3031"],"related_routes":[]
+    },"5968":{"name":"Coors @ Montano Plaza (Rapid)","desc":"","coordinates":[-106.6834,35.1537],"related_stops":["6947","1040","2997","5968"],"transfer_routes":["3056"],"related_routes":["3061","3031","3034"]
+    },"6944":{"name":"Alamosa Community Center @ Coors","desc":"","coordinates":[-106.7119,35.0719],"related_stops":["6944"],"transfer_routes":["3031"],"related_routes":[]
+    },"6945":{"name":"Coors @ Irving","desc":"984 I 40  E","coordinates":[-106.6616,35.1873],"related_stops":["6945","1041"],"transfer_routes":["3061","3031"],"related_routes":["3056"]
+    },"6946":{"name":"Coors @ Irving (Target)","desc":"1002 I 40  E","coordinates":[-106.6648,35.1844],"related_stops":["6946"],"transfer_routes":["3061","3031","3056"],"related_routes":[]
+    },"6947":{"name":"Coors @ Montano Plaza","desc":"","coordinates":[-106.6833,35.1537],"related_stops":["6947","1040","2997","5968"],"transfer_routes":["3061","3031","3034"],"related_routes":["3056"]
+    },"6948":{"name":"Coors @ St Joseph","desc":"1299 I 40  E","coordinates":[-106.7018,35.1275],"related_stops":["6948"],"transfer_routes":["3061","3031","3056"],"related_routes":[]
+    },"6949":{"name":"Coors @ Sequoia (Rapid)","desc":"3319 COORS BLVD NW","coordinates":[-106.7018,35.1208],"related_stops":["6949","7106"],"transfer_routes":["3061","3031","3056"],"related_routes":[]
+    },"6950":{"name":"Coors @ Fortuna","desc":"723 COORS BLVD NW","coordinates":[-106.7095,35.0949],"related_stops":["6950","7006"],"transfer_routes":["3031"],"related_routes":[]
+    },"6951":{"name":"Coors @ Central","desc":"","coordinates":[-106.7107,35.0792],"related_stops":["6951","4351","4353","4381","4379","7008","7220","7535","7500","7298"],"transfer_routes":["3031"],"related_routes":["3052","3054","3064"]
+    },"6999":{"name":"Montano @ Coors","desc":"4134 MONTANO RD NW","coordinates":[-106.6848,35.1488],"related_stops":["2993","7032","3039","5710","6999"],"transfer_routes":["3032"],"related_routes":["3061","3031","3034"]
+    },"7005":{"name":"Coors @ Sevilla","desc":"COORS BLVD NW \u0026 SEVILLA AVE NW","coordinates":[-106.6987,35.1407],"related_stops":["5776","7005"],"transfer_routes":["3061","3031"],"related_routes":[]
+    },"7006":{"name":"Coors @ Fortuna","desc":"728 COORS BLVD NW","coordinates":[-106.7091,35.095],"related_stops":["6950","7006"],"transfer_routes":["3031"],"related_routes":[]
+    },"7008":{"name":"Coors @ Central","desc":"116 COORS BLVD NW","coordinates":[-106.7105,35.0809],"related_stops":["6951","4351","4353","4381","4379","7008","7220","7535","7500","7298"],"transfer_routes":["3031"],"related_routes":["3052","3054","3064"]
+    },"7013":{"name":"Coors @ Arenal","desc":"COORS BLVD SW \u0026 ARENAL RD SW","coordinates":[-106.7069,35.0527],"related_stops":["1797","7013","1800","7332"],"transfer_routes":["3049","3031"],"related_routes":[]
+    },"7025":{"name":"NW Transit Center (Bay A)","desc":"","coordinates":[-106.6602,35.2067],"related_stops":["7028","7025","7030"],"transfer_routes":["3056"],"related_routes":["3058","3060","3061","3063","3031","3032","3040","3050"]
+    },"7028":{"name":"NW Transit Center (Bay B)","desc":"","coordinates":[-106.6602,35.2065],"related_stops":["7028","7025","7030"],"transfer_routes":["3061","3063","3031","3040","3050"],"related_routes":["3058","3060","3032","3056"]
+    },"7030":{"name":"NW Transit Center (Bay C)","desc":"","coordinates":[-106.6602,35.2062],"related_stops":["7028","7025","7030"],"transfer_routes":["3058","3060","3032"],"related_routes":["3061","3063","3031","3040","3050","3056"]
+    },"7032":{"name":"Montano @ Coors","desc":"4173 MONTANO RD NW","coordinates":[-106.6855,35.1494],"related_stops":["2993","7032","3039","5710","6999"],"transfer_routes":["3032"],"related_routes":["3061","3031","3034"]
+    },"7078":{"name":"Unser @ Southern","desc":"","coordinates":[-106.6971,35.244],"related_stops":["7078"],"transfer_routes":["3061","3031","3040","3050"],"related_routes":[]
+    },"7106":{"name":"Coors @ Sequoia (Rapid)","desc":"","coordinates":[-106.7014,35.1223],"related_stops":["6949","7106"],"transfer_routes":["3061","3031","3056"],"related_routes":[]
+    },"7110":{"name":"Coors @ St. Josephs","desc":"4242 COORS BLVD NW","coordinates":[-106.7015,35.129],"related_stops":["7110"],"transfer_routes":["3061","3031","3056"],"related_routes":[]
+    },"7210":{"name":"Golfcourse @ Ellison","desc":"10502 GOLF COURSE RD NW","coordinates":[-106.6751,35.2063],"related_stops":["1507","1529","7210"],"transfer_routes":["3061"],"related_routes":["3058","3031","3032"]
+    },"7220":{"name":"Coors @ Central","desc":"121 COORS BLVD NW","coordinates":[-106.7109,35.0811],"related_stops":["6951","4351","4353","4381","4379","7008","7220","7535","7500","7298"],"transfer_routes":["3031"],"related_routes":["3052","3054","3064"]
+    },"7298":{"name":"Central @ 65th","desc":"6431 CENTRAL AVE W \u0026 65TH ST SW","coordinates":[-106.7093,35.0803],"related_stops":["6951","4351","4353","4381","4379","7008","7220","7535","7500","7298"],"transfer_routes":["3052"],"related_routes":["3031","3054","3064"]
+    },"7332":{"name":"Coors @ Arenal","desc":"1820 COORS BLVD SW","coordinates":[-106.7068,35.052],"related_stops":["1797","7013","1800","7332"],"transfer_routes":["3049","3031"],"related_routes":[]
+    },"7336":{"name":"Coors @ Lamonica","desc":"3535 COORS BLVD SW","coordinates":[-106.7144,35.0251],"related_stops":["3107","3087","7336"],"transfer_routes":["3031"],"related_routes":["3038"]
+    },"7500":{"name":"Coors Station","desc":"6510 CENTRAL AVE W \u0026 COORS BLVD NW","coordinates":[-106.7101,35.08],"related_stops":["6951","4351","4353","4381","4379","7008","7220","7535","7500","7298"],"transfer_routes":["3064"],"related_routes":["3052","3031","3054"]
+    },"7535":{"name":"Coors Station","desc":"6510 CENTRAL AVE W \u0026 COORS BLVD NW","coordinates":[-106.7101,35.08],"related_stops":["6951","4351","4353","4381","4379","7008","7220","7535","7500","7298"],"transfer_routes":["3064"],"related_routes":["3052","3031","3054"]
+    },"7630":{"name":"Cottonwood @ Old Airport","desc":"COTTONWOOD DR NW \u0026 COTTONWOOD PARK  NW","coordinates":[-106.6553,35.2039],"related_stops":["7630","7632"],"transfer_routes":["3031"],"related_routes":[]
+    },"7632":{"name":"Cottonwood @ Old Airport","desc":"COTTONWOOD DR NW \u0026 OLD AIRPORT AVE NW","coordinates":[-106.655,35.2039],"related_stops":["7630","7632"],"transfer_routes":["3031"],"related_routes":[]
+    },"7658":{"name":"Coors @ Barcelona","desc":"3045 COORS BLVD SW","coordinates":[-106.7136,35.031],"related_stops":["7658","3109"],"transfer_routes":["3031"],"related_routes":[]
+    }
+  },
+  "trip_data": {
+    "shapes": {
+      "0c6d4": {
+        "bearing": 192.58,"centroid":[-106.6894,35.125],
+        "bounds": [[-106.7162,35.011],[0.0,35.2072]
+        ],"coordinates":[[-106.66020800005376,35.206504],[-106.66019800005375,35.206093],[-106.6595360000536,35.206043],[-106.65930000005355,35.206925],[-106.6616350000541,35.207182],[-106.66181800005413,35.205809],[-106.65755000005313,35.205573],[-106.6561210000528,35.205791],[-106.65504000005255,35.203221],[-106.65510400005256,35.202541],[-106.65538800005262,35.202006],[-106.65638800005286,35.200716],[-106.65516300005257,35.199862],[-106.65334900005215,35.199241],[-106.65133300005168,35.198036],[-106.65476500005245,35.193763],[-106.65511800005254,35.193471],[-106.65652200005285,35.19286],[-106.65687100005293,35.191603],[-106.67154600005638,35.177631],[-106.67286000005669,35.176021],[-106.6737580000569,35.174278],[-106.67730700005774,35.163304],[-106.68036500005847,35.158012],[-106.68463600005954,35.151333],[-106.68620200005992,35.149636],[-106.6876930000603,35.148323],[-106.69487000006217,35.143734],[-106.698078000063,35.141515],[-106.69918000006331,35.14049],[-106.70006200006354,35.139332],[-106.70077400006373,35.138152],[-106.7013890000639,35.136535],[-106.70163100006395,35.135188],[-106.70161300006387,35.116876],[-106.70184400006391,35.113721],[-106.70315400006426,35.10963],[-106.70477200006471,35.107653],[-106.7051970000648,35.105105],[-106.70572500006494,35.103475],[-106.71014400006612,35.092552],[-106.7105010000662,35.091055],[-106.7108120000663,35.087407],[-106.71070000006624,35.081104],[-106.71043900006615,35.079433],[-106.71056300006617,35.078395],[-106.7113520000664,35.077539],[-106.71291000006683,35.076416],[-106.71344400006697,35.075431],[-106.713551000067,35.07475],[-106.71339900006696,35.07395],[-106.71183700006651,35.069882],[-106.70789500006536,35.060313],[-106.70738500006523,35.059325],[-106.7058820000648,35.057191],[-106.70567400006475,35.055695],[-106.71026500006596,35.043514],[-106.71249800006655,35.03606],[-106.71358800006684,35.030529],[-106.71616200006748,35.011829],[-106.70879600006543,35.011827],[-106.70874800006541,35.010998],[-106.71238300006642,35.010988],[-106.71238800006643,35.011813],[-106.7133220000667,35.011823]],
+        "distances": [0.0,0.0478,0.1072,0.2105,0.4254,0.5804,0.9674,1.0987,1.4031,1.4793,1.5443,1.7141,1.8614,2.04,2.266,2.8363,2.8816,3.0262,3.1704,5.2214,5.4367,5.6492,6.918,7.5724,8.4152,8.6519,8.8516,9.6795,10.0607,10.2125,10.3652,10.512,10.7017,10.8547,12.9041,13.2579,13.7314,13.9978,14.2857,14.4749,15.7614,15.9324,16.3413,17.0467,17.2353,17.3518,17.4712,17.6607,17.7812,17.8587,17.9488,18.4255,19.5538,19.6743,19.949,20.1172,21.5428,22.4009,23.0277,25.1345,25.8016,25.8947,26.2237,25.4765,25.3915]
+      },
+      "021f5": {
+        "bearing": 183.07,"centroid":[-106.6875,35.1516],
+        "bounds": [[-106.7162,35.011],[0.0,35.2452]
+        ],"coordinates":[[-106.69716800006319,35.243984],[-106.69719000006319,35.244234],[-106.69793200006337,35.244244],[-106.69794200006338,35.244986],[-106.69780800006335,35.245138],[-106.69685700006309,35.245166],[-106.69685400006307,35.239057],[-106.6962690000629,35.234607],[-106.69622800006283,35.219704],[-106.69669300006294,35.217064],[-106.6985010000634,35.213081],[-106.69188800006165,35.211223],[-106.68230800005917,35.208219],[-106.67512900005735,35.205748],[-106.67398300005708,35.20572],[-106.67173600005651,35.206139],[-106.6704620000562,35.206079],[-106.66885700005582,35.205737],[-106.66618900005518,35.206126],[-106.66181800005413,35.205809],[-106.6616480000541,35.20711],[-106.66021700005376,35.207013],[-106.66024200005376,35.206128],[-106.65958700005362,35.206031],[-106.65945000005358,35.206128],[-106.65934700005356,35.206984],[-106.6616350000541,35.207182],[-106.6616480000541,35.20711],[-106.66181800005413,35.205809],[-106.65755000005313,35.205573],[-106.6561210000528,35.205791],[-106.65504000005255,35.203221],[-106.65510400005256,35.202541],[-106.65538800005262,35.202006],[-106.65638800005286,35.200716],[-106.65516300005257,35.199862],[-106.65334900005215,35.199241],[-106.65133300005168,35.198036],[-106.65476500005245,35.193763],[-106.65511800005254,35.193471],[-106.65652200005285,35.19286],[-106.65687100005293,35.191603],[-106.67154600005638,35.177631],[-106.67286000005669,35.176021],[-106.6737580000569,35.174278],[-106.67730700005774,35.163304],[-106.68036500005847,35.158012],[-106.68463600005954,35.151333],[-106.68620200005992,35.149636],[-106.6876930000603,35.148323],[-106.69487000006217,35.143734],[-106.698078000063,35.141515],[-106.69918000006331,35.14049],[-106.70006200006354,35.139332],[-106.70077400006373,35.138152],[-106.70129700006386,35.136868],[-106.70163100006395,35.135188],[-106.70161300006387,35.116876],[-106.70184400006391,35.113721],[-106.70315400006426,35.10963],[-106.70477200006471,35.107653],[-106.7051970000648,35.105105],[-106.70572500006494,35.103475],[-106.71014400006612,35.092552],[-106.7105010000662,35.091055],[-106.7108120000663,35.087407],[-106.71070000006624,35.081104],[-106.71043900006615,35.079433],[-106.71056300006617,35.078395],[-106.7113520000664,35.077539],[-106.71291000006683,35.076416],[-106.71344400006697,35.075431],[-106.713551000067,35.07475],[-106.71339900006696,35.07395],[-106.71183700006651,35.069882],[-106.70789500006536,35.060313],[-106.70738500006523,35.059325],[-106.7058820000648,35.057191],[-106.70567400006475,35.055695],[-106.71085100006611,35.041777],[-106.71249800006655,35.03606],[-106.71358800006684,35.030529],[-106.71616200006748,35.011829],[-106.70879600006543,35.011827],[-106.70874800006541,35.010998],[-106.71238300006642,35.010988],[-106.71238800006643,35.011813]],
+        "distances": [0.0,0.0281,0.0951,0.1781,0.1989,0.2848,0.9688,1.47,3.1381,3.4365,3.9114,4.5437,5.4719,6.1768,6.2798,6.4885,6.6036,6.7535,7.0001,7.3957,7.5425,7.6729,7.7742,7.8352,7.8515,7.9498,8.1575,7.5425,7.3957,8.6995,8.8308,9.1352,9.2114,9.2764,9.4462,9.5935,9.7721,9.9981,10.5684,10.6136,10.7583,10.9024,12.9534,13.1688,13.3813,14.65,15.3045,16.1473,16.384,16.5836,17.4116,17.7928,17.9446,18.0973,18.2441,18.3959,18.5867,20.6362,20.99,21.4635,21.7299,22.0178,22.207,23.4935,23.6645,24.0734,24.7788,24.9673,25.0838,25.2032,25.3927,25.5133,25.5908,25.6809,26.1576,27.2859,27.4064,27.6811,27.8492,29.4767,30.133,30.7597,32.8665,33.6187,33.7118,34.0408,33.2086]
+      },
+      "75008": {
+        "bearing": 197.47,"centroid":[-106.684,35.1473],
+        "bounds": [[-106.7136,35.0721],[0.0,35.2072]
+        ],"coordinates":[[-106.66020800005376,35.206504],[-106.66019800005375,35.206093],[-106.6595360000536,35.206043],[-106.65930000005355,35.206925],[-106.6616350000541,35.207182],[-106.66181800005413,35.205809],[-106.65755000005313,35.205573],[-106.6561210000528,35.205791],[-106.65504000005255,35.203221],[-106.65510400005256,35.202541],[-106.65538800005262,35.202006],[-106.65638800005286,35.200716],[-106.65516300005257,35.199862],[-106.65334900005215,35.199241],[-106.65133300005168,35.198036],[-106.65476500005245,35.193763],[-106.65511800005254,35.193471],[-106.65652200005285,35.19286],[-106.65687100005293,35.191603],[-106.67154600005638,35.177631],[-106.67286000005669,35.176021],[-106.6737580000569,35.174278],[-106.67730700005774,35.163304],[-106.68036500005847,35.158012],[-106.68463600005954,35.151333],[-106.68620200005992,35.149636],[-106.6876930000603,35.148323],[-106.69487000006217,35.143734],[-106.698078000063,35.141515],[-106.6998550000635,35.13963],[-106.70105100006381,35.13751],[-106.70163100006395,35.135188],[-106.70161300006387,35.116876],[-106.70184400006391,35.113721],[-106.70315400006426,35.10963],[-106.70477200006471,35.107653],[-106.7051970000648,35.105105],[-106.70572500006494,35.103475],[-106.71014400006612,35.092552],[-106.7105010000662,35.091055],[-106.7108120000663,35.087407],[-106.71070000006624,35.081104],[-106.71043900006615,35.079433],[-106.71056300006617,35.078395],[-106.7113520000664,35.077539],[-106.71291000006683,35.076416],[-106.71344400006697,35.075431],[-106.713551000067,35.07475],[-106.71305400006686,35.073059],[-106.71260500006673,35.073185],[-106.71194400006654,35.072067]],
+        "distances": [0.0,0.0478,0.1072,0.2105,0.4254,0.5804,0.9674,1.0987,1.4031,1.4793,1.5443,1.7141,1.8614,2.04,2.266,2.8363,2.8816,3.0262,3.1704,5.2214,5.4367,5.6492,6.918,7.5724,8.4152,8.6519,8.8516,9.6795,10.0607,10.3271,10.5885,10.8547,12.9041,13.2579,13.7314,13.9978,14.2857,14.4749,15.7614,15.9324,16.3413,17.0467,17.2353,17.3518,17.4712,17.6607,17.7812,17.8587,18.0535,18.0969,18.2374]
+      },
+      "75de6": {
+        "bearing": 17.39,"centroid":[-106.6878,35.1388],
+        "bounds": [[-106.7136,35.0713],[0.0,35.2071]
+        ],"coordinates":[[-106.71171200006648,35.071995],[-106.71212200006659,35.071486],[-106.71194600006653,35.071263],[-106.71137000006638,35.07186],[-106.71214300006659,35.072237],[-106.71260500006673,35.073185],[-106.71305400006686,35.073059],[-106.713551000067,35.07475],[-106.71344400006697,35.075431],[-106.71291000006683,35.076416],[-106.7113520000664,35.077539],[-106.71056300006617,35.078395],[-106.71043900006615,35.079433],[-106.71070000006624,35.081104],[-106.7108120000663,35.087407],[-106.7105010000662,35.091055],[-106.70952900006596,35.094352],[-106.70579000006495,35.103377],[-106.70477100006468,35.105191],[-106.70346000006434,35.106865],[-106.70310100006425,35.107569],[-106.70315400006426,35.10963],[-106.70184400006391,35.113721],[-106.70161300006387,35.116876],[-106.70163100006395,35.135188],[-106.70129700006386,35.136868],[-106.70077400006373,35.138152],[-106.70006200006354,35.139332],[-106.69918000006331,35.14049],[-106.698078000063,35.141515],[-106.69487000006217,35.143734],[-106.6876930000603,35.148323],[-106.68620200005992,35.149636],[-106.68463600005954,35.151333],[-106.68036500005847,35.158012],[-106.67730700005774,35.163304],[-106.6737580000569,35.174278],[-106.67286000005669,35.176021],[-106.67154600005638,35.177631],[-106.65687100005293,35.191603],[-106.65652200005285,35.19286],[-106.65511800005254,35.193471],[-106.65476500005245,35.193763],[-106.65133300005168,35.198036],[-106.65334900005215,35.199241],[-106.65516300005257,35.199862],[-106.65638800005286,35.200716],[-106.65538800005262,35.202006],[-106.65510400005256,35.202541],[-106.65504000005255,35.203221],[-106.6561210000528,35.205791],[-106.65755000005313,35.205573],[-106.66181800005413,35.205809],[-106.6616480000541,35.20711],[-106.66021700005376,35.207013],[-106.66020800005376,35.206504]],
+        "distances": [0.0,0.068,0.0997,0.1845,0.2677,0.382,0.4254,0.6202,0.6977,0.8182,1.0077,1.1271,1.2436,1.4322,2.1376,2.5465,2.9259,3.9915,4.2148,4.4359,4.5216,4.7543,5.2278,5.5817,7.6311,7.8219,7.9738,8.1205,8.2732,8.425,8.8062,9.6342,9.8338,10.0705,10.9133,11.5678,12.8365,13.049,13.2644,15.3154,15.4595,15.6042,15.6495,16.2197,16.4458,16.6243,16.7716,16.9414,17.0064,17.0827,17.387,17.5183,17.9053,18.0521,18.1826,18.2417]
+      },
+      "492e8": {
+        "bearing": 12.58,"centroid":[-106.6892,35.1296],
+        "bounds": [[-106.7162,35.0118],[0.0,35.2071]
+        ],"coordinates":[[-106.7133220000667,35.011823],[-106.71616200006748,35.011829],[-106.71358800006684,35.030529],[-106.71249800006655,35.03606],[-106.71085100006611,35.041777],[-106.70567400006475,35.055695],[-106.7058820000648,35.057191],[-106.70738500006523,35.059325],[-106.70789500006536,35.060313],[-106.71183700006651,35.069882],[-106.71339900006696,35.07395],[-106.713551000067,35.07475],[-106.71344400006697,35.075431],[-106.71291000006683,35.076416],[-106.7113520000664,35.077539],[-106.71056300006617,35.078395],[-106.71043900006615,35.079433],[-106.71070000006624,35.081104],[-106.7108120000663,35.087407],[-106.7105010000662,35.091055],[-106.71014400006612,35.092552],[-106.70579000006495,35.103377],[-106.70477100006468,35.105191],[-106.70346000006434,35.106865],[-106.70310100006425,35.107569],[-106.70315400006426,35.10963],[-106.70184400006391,35.113721],[-106.70161300006387,35.116876],[-106.70163100006395,35.135188],[-106.7013890000639,35.136535],[-106.70077400006373,35.138152],[-106.70006200006354,35.139332],[-106.69918000006331,35.14049],[-106.698078000063,35.141515],[-106.69487000006217,35.143734],[-106.6876930000603,35.148323],[-106.68620200005992,35.149636],[-106.68463600005954,35.151333],[-106.68036500005847,35.158012],[-106.67730700005774,35.163304],[-106.6737580000569,35.174278],[-106.67286000005669,35.176021],[-106.67154600005638,35.177631],[-106.65687100005293,35.191603],[-106.65652200005285,35.19286],[-106.65511800005254,35.193471],[-106.65476500005245,35.193763],[-106.65133300005168,35.198036],[-106.65334900005215,35.199241],[-106.65516300005257,35.199862],[-106.65638800005286,35.200716],[-106.65538800005262,35.202006],[-106.65510400005256,35.202541],[-106.65504000005255,35.203221],[-106.6561210000528,35.205791],[-106.65755000005313,35.205573],[-106.66181800005413,35.205809],[-106.6616480000541,35.20711],[-106.66021700005376,35.207013],[-106.66020800005376,35.206504]],
+        "distances": [0.0,0.257,2.3638,2.9906,3.6468,5.2743,5.4425,5.7171,5.8377,6.966,7.4426,7.5327,7.6103,7.7308,7.9203,8.0397,8.1562,8.3448,9.0502,9.4591,9.6301,10.9041,11.1273,11.3485,11.4342,11.6669,12.1404,12.4942,14.5437,14.6966,14.8863,15.0331,15.1858,15.3376,15.7188,16.5468,16.7464,16.9831,17.8259,18.4804,19.7491,19.9616,20.177,22.228,22.3721,22.5168,22.562,23.1323,23.3583,23.5369,23.6842,23.854,23.919,23.9952,24.2996,24.4309,24.8179,24.9647,25.0951,25.1543]
+      },
+      "9a10f": {
+        "bearing": 3.26,"centroid":[-106.6867,35.1548],
+        "bounds": [[-106.7162,35.0118],[0.0,35.244]
+        ],"coordinates":[[-106.7133220000667,35.011823],[-106.71616200006748,35.011829],[-106.71358800006684,35.030529],[-106.71249800006655,35.03606],[-106.71085100006611,35.041777],[-106.70567400006475,35.055695],[-106.7058820000648,35.057191],[-106.70738500006523,35.059325],[-106.70789500006536,35.060313],[-106.71183700006651,35.069882],[-106.71339900006696,35.07395],[-106.713551000067,35.07475],[-106.71344400006697,35.075431],[-106.71291000006683,35.076416],[-106.7113520000664,35.077539],[-106.71056300006617,35.078395],[-106.71043900006615,35.079433],[-106.71070000006624,35.081104],[-106.7108120000663,35.087407],[-106.7105010000662,35.091055],[-106.71014400006612,35.092552],[-106.70579000006495,35.103377],[-106.70477100006468,35.105191],[-106.70346000006434,35.106865],[-106.70310100006425,35.107569],[-106.70315400006426,35.10963],[-106.70184400006391,35.113721],[-106.70161300006387,35.116876],[-106.70163100006395,35.135188],[-106.70129700006386,35.136868],[-106.70077400006373,35.138152],[-106.70006200006354,35.139332],[-106.69918000006331,35.14049],[-106.698078000063,35.141515],[-106.69487000006217,35.143734],[-106.6876930000603,35.148323],[-106.68620200005992,35.149636],[-106.68463600005954,35.151333],[-106.68036500005847,35.158012],[-106.67730700005774,35.163304],[-106.6737580000569,35.174278],[-106.67286000005669,35.176021],[-106.67154600005638,35.177631],[-106.65687100005293,35.191603],[-106.65652200005285,35.19286],[-106.65511800005254,35.193471],[-106.65476500005245,35.193763],[-106.65133300005168,35.198036],[-106.65334900005215,35.199241],[-106.65516300005257,35.199862],[-106.65638800005286,35.200716],[-106.65538800005262,35.202006],[-106.65510400005256,35.202541],[-106.65504000005255,35.203221],[-106.6561210000528,35.205791],[-106.65755000005313,35.205573],[-106.66181800005413,35.205809],[-106.6616480000541,35.20711],[-106.66021700005376,35.207013],[-106.66024200005376,35.206128],[-106.65958700005362,35.206031],[-106.65945000005358,35.206128],[-106.65934700005356,35.206984],[-106.6616350000541,35.207182],[-106.6616480000541,35.20711],[-106.66181800005413,35.205809],[-106.66618900005518,35.206126],[-106.66885700005582,35.205737],[-106.6704620000562,35.206079],[-106.67173600005651,35.206139],[-106.67398300005708,35.20572],[-106.67512900005735,35.205748],[-106.68230800005917,35.208219],[-106.69188800006165,35.211223],[-106.6985010000634,35.213081],[-106.69669300006294,35.217064],[-106.69622800006283,35.219704],[-106.6962840000629,35.235023],[-106.69682500006307,35.238733],[-106.69687600006309,35.241612],[-106.69792800006337,35.241617],[-106.69792600006336,35.242448],[-106.69715000006316,35.242465],[-106.69716800006319,35.243984]],
+        "distances": [0.0,0.257,2.3638,2.9906,3.6468,5.2743,5.4425,5.7171,5.8377,6.966,7.4426,7.5327,7.6103,7.7308,7.9203,8.0397,8.1562,8.3448,9.0502,9.4591,9.6301,10.9041,11.1273,11.3485,11.4342,11.6669,12.1404,12.4942,14.5437,14.7345,14.8863,15.0331,15.1858,15.3376,15.7188,16.5468,16.7464,16.9831,17.8259,18.4804,19.7491,19.9616,20.177,22.228,22.3721,22.5168,22.562,23.1323,23.3583,23.5369,23.6842,23.854,23.919,23.9952,24.2996,24.4309,24.8179,24.9647,25.0951,25.1964,25.2574,25.2737,25.372,25.5797,24.9647,24.8179,26.1303,26.3769,26.5268,26.6419,26.8506,26.9536,27.6585,28.5867,29.219,29.6939,29.9923,31.7074,32.1255,32.4476,32.5416,32.6346,32.7047,32.8747]
+      }
+    },
+    "stop_lists": {
+      "2f07f": ["6944","2963","7008","2967","2969","2971","2973","7006","2977","2979","2981","7106","2985","7110","7005","2989","2991","2993","2997","2999","3001","3003","3005","3007","1041","3011","3013","5948","1043","7632","3019","7028"],
+      "4d184": ["7078","5894","5595","5926","5912","5920","5916","5850","1507","1509","1511","7028","3127","7630","1042","5950","1661","3023","6945","6946","3029","3031","3033","3035","6947","3039","3041","3043","5776","3047","6948","3051","6949","3055","3057","3059","6950","3063","3065","3067","3069","7220","6951","3075","3077","3079","1793","7013","3080","3081","3083","7658","3087","7336","3095","3089","3092","3091","1035"],
+      "82a14": ["7028","3127","7630","1042","5950","1661","3023","6945","6946","3029","3031","3033","3035","6947","3039","3041","3043","5776","3047","6948","3051","6949","3055","3057","3059","6950","3063","3065","3067","3069","7220","6951","3075","3077","3079","1793","7013","3080","3081","3083","7658","3087","7336","3095","3089","3092","3091","1035"],
+      "d6f89": ["1035","3105","3097","3107","3109","3111","3113","3114","7332","1883","3115","3117","3119","3121","2963","7008","2967","2969","2971","2973","7006","2977","2979","2981","7106","2985","7110","7005","2989","2991","2993","2997","2999","3001","3003","3005","3007","1041","3011","3013","5948","1043","7632","3019","7028"],
+      "dc066": ["1035","3105","3097","3107","3109","3111","3113","3114","7332","1883","3115","3117","3119","3121","2963","7008","2967","2969","2971","2973","7006","2977","2979","2981","7106","2985","7110","7005","2989","2991","2993","2997","2999","3001","3003","3005","3007","1041","3011","3013","5948","1043","7632","3019","7028","1525","1527","5852","5918","5922","5914","5924","5593","5892","7078"],
+      "a60bf": ["7028","3127","7630","1042","5950","1661","3023","6945","6946","3029","3031","3033","3035","6947","3039","3041","3043","5776","3047","6948","3051","6949","3055","3057","3059","6950","3063","3065","3067","3069","7220","6951","6944"]
+    },
+    "stop_times": {
+      "cf56f": [0,61,123,240,285,380,433,479,543,582,604,645,715,758,796,900,940,971,1005,1035,1078,1113,1169,1367,1440,1459,1510,1637,1665,1713,1800,1861,1923,2013,2059,2090,2129,2260,2314,2384,2455,2483,2525,2554,2640],
+      "4a137": [0,93,133,180,211,273,340,383,427,522,577,638,753,818,900,961,987,1037,1108,1182,1218,1260,1305,1531,1572,1598,1651,1673,1701,1736,1771,1800,1920],
+      "7109b": [0,192,348,421,462,524,597,693,720,746,789,840,959,1009,1068,1107,1186,1272,1327,1382,1502,1571,1648,1793,1875,1980,2031,2053,2095,2154,2216,2246,2280,2325,2552,2593,2619,2672,2694,2722,2757,2792,2820,2937,2982,3048,3100,3135,3205,3249,3310,3380,3420,3461,3566,3645,3775,3824,3840],
+      "903fd": [0,118,168,227,266,345,431,486,541,661,730,807,952,1034,1140,1201,1227,1277,1348,1422,1458,1500,1560,1862,1917,1952,2022,2051,2089,2136,2183,2220,2360,2414,2494,2557,2599,2683,2736,2809,2894,2940,2981,3086,3165,3283,3332,3360],
+      "18453": [0,76,153,300,341,428,476,518,577,613,633,670,734,773,807,900,948,986,1027,1064,1117,1160,1229,1471,1560,1575,1617,1723,1746,1786,1860,1930,2001,2104,2157,2192,2236,2385,2446,2526,2607,2639,2687,2720,2820],
+      "16091": [0,61,123,240,281,368,416,458,517,553,573,610,674,713,747,840,875,903,933,960,998,1029,1079,1255,1320,1339,1390,1517,1545,1593,1680,1746,1812,1908,1958,1991,2033,2173,2229,2304,2380,2410,2455,2486,2580],
+      "49ca8": [0,93,133,180,211,273,340,383,427,522,577,638,753,818,900,951,973,1015,1074,1136,1166,1200,1245,1472,1513,1539,1592,1614,1642,1677,1712,1740,1857,1902,1968,2020,2055,2125,2169,2230,2300,2340,2381,2486,2565,2683,2732,2760],
+      "60604": [0,61,123,240,294,407,470,525,601,648,674,723,806,857,902,1020,1069,1107,1148,1185,1238,1281,1350,1592,1680,1702,1761,1910,1943,1999,2100,2166,2232,2328,2378,2411,2453,2593,2650,2725,2801,2831,2876,2907,3000,3133,3188,3246,3356,3427,3488,3554,3601,3791,3960],
+      "7a7d3": [0,100,142,192,225,291,363,409,456,557,615,680,802,871,960,1011,1033,1075,1134,1196,1226,1260,1300,1501,1537,1560,1607,1626,1651,1682,1713,1740,1857,1902,1968,2020,2055,2125,2169,2230,2300,2340,2381,2486,2565,2683,2732,2760],
+      "4f0ab": [0,118,168,227,266,345,431,486,541,661,730,807,952,1034,1140,1201,1227,1277,1348,1422,1458,1500,1555,1832,1882,1914,1978,2005,2040,2083,2126,2160,2288,2337,2410,2468,2507,2584,2633,2700,2778,2820,2861,2966,3045,3163,3212,3240],
+      "f39cf": [0,100,142,192,225,291,363,409,456,557,615,680,802,871,960,1011,1033,1075,1134,1196,1226,1260,1315,1592,1642,1674,1738,1765,1800,1843,1886,1920,2025,2065,2125,2172,2203,2266,2306,2360,2423,2460,2501,2606,2685,2803,2852,2880],
+      "7b318": [0,93,133,180,211,273,340,383,427,522,577,638,753,818,900,961,987,1037,1108,1182,1218,1260,1295,1471,1503,1523,1564,1581,1603,1630,1657,1680,1808,1857,1930,1988,2027,2104,2153,2220,2298,2340,2381,2486,2565,2683,2732,2760],
+      "14218": [0,61,123,240,277,355,399,437,490,522,540,574,631,666,697,780,820,851,885,915,958,993,1049,1247,1320,1339,1390,1517,1545,1593,1680,1746,1812,1908,1958,1991,2033,2173,2229,2304,2380,2410,2455,2486,2580],
+      "de7eb": [0,61,123,240,298,419,487,546,628,678,706,759,849,904,952,1080,1125,1160,1197,1231,1279,1318,1380,1600,1680,1702,1761,1910,1943,1999,2100,2166,2232,2328,2378,2411,2453,2593,2650,2725,2801,2831,2876,2907,3000,3133,3188,3246,3356,3427,3488,3554,3601,3791,3960],
+      "325d2": [0,112,160,216,253,328,409,461,514,628,694,767,905,983,1080,1131,1153,1195,1254,1316,1346,1380,1435,1712,1762,1794,1858,1885,1920,1963,2006,2040,2168,2217,2290,2348,2387,2464,2513,2580,2658,2700,2741,2846,2925,3043,3092,3120],
+      "fe273": [0,61,123,240,294,407,470,525,601,648,674,723,806,857,902,1020,1065,1100,1137,1171,1219,1258,1320,1540,1620,1639,1690,1817,1845,1893,1980,2041,2103,2193,2239,2270,2309,2440,2494,2564,2635,2663,2705,2734,2820],
+      "77b88": [0,61,123,240,294,407,470,525,601,648,674,723,806,857,902,1020,1060,1091,1125,1155,1198,1233,1289,1487,1560,1579,1630,1757,1785,1833,1920,1981,2043,2133,2179,2210,2249,2380,2434,2504,2575,2603,2645,2674,2760,2885,2936,2990,3093,3159,3216,3278,3322,3500,3660],
+      "8293c": [0,106,151,204,239,309,386,435,485,593,655,724,854,928,1020,1071,1093,1135,1194,1256,1286,1320,1365,1592,1633,1659,1712,1734,1762,1797,1832,1860,1965,2005,2065,2112,2143,2206,2246,2300,2363,2400,2441,2546,2625,2743,2792,2820],
+      "f85a1": [0,106,151,204,239,309,386,435,485,593,655,724,854,928,1020,1071,1093,1135,1194,1256,1286,1320,1370,1622,1667,1696,1754,1778,1809,1848,1887,1920,2037,2082,2148,2200,2235,2305,2349,2410,2480,2520,2561,2666,2745,2863,2912,2940],
+      "cda37": [0,93,133,180,211,273,340,383,427,522,577,638,753,818,900,951,973,1015,1074,1136,1166,1200,1245,1472,1513,1539,1592,1614,1642,1677,1712,1740,1845,1885,1945,1992,2023,2086,2126,2180,2243,2280,2321,2426,2505,2623,2672,2700],
+      "9fe63": [0,192,348,421,462,524,597,693,720,746,789,840,959,1009,1068,1107,1186,1272,1327,1382,1502,1571,1648,1793,1875,1980,2051,2081,2140,2223,2310,2352,2400,2455,2732,2782,2814,2878,2905,2940,2983,3026,3060,3177,3222,3288,3340,3375,3445,3489,3550,3620,3660,3701,3806,3885,4015,4064,4080],
+      "1cafa": [0,93,133,180,211,273,340,383,427,522,577,638,753,818,900,941,958,991,1038,1087,1111,1140,1180,1381,1417,1440,1487,1506,1531,1562,1593,1620,1713,1749,1802,1844,1872,1928,1963,2011,2067,2100,2141,2246,2325,2443,2492,2520],
+      "8443b": [0,112,160,216,253,328,409,461,514,628,694,767,905,983,1080,1131,1153,1195,1254,1316,1346,1380,1440,1742,1797,1832,1902,1931,1969,2016,2063,2100,2240,2294,2374,2437,2479,2563,2616,2689,2774,2820,2861,2966,3045,3163,3212,3240],
+      "2e578": [0,192,348,421,462,524,597,693,720,746,789,840,959,1009,1068,1107,1186,1272,1327,1382,1502,1571,1648,1793,1875,1980,2041,2067,2117,2188,2262,2298,2340,2400,2702,2757,2792,2862,2891,2929,2976,3023,3060,3188,3237,3310,3368,3407,3484,3533,3600,3678,3720,3761,3866,3945,4075,4124,4140],
+      "7be54": [0,61,123,240,285,380,433,479,543,582,604,645,715,758,796,900,945,980,1017,1051,1099,1138,1200,1420,1500,1519,1570,1697,1725,1773,1860,1921,1983,2073,2119,2150,2189,2320,2374,2444,2515,2543,2585,2614,2700],
+      "20db6": [0,61,123,240,277,355,399,437,490,522,540,574,631,666,697,780,815,843,873,900,938,969,1019,1195,1260,1275,1317,1423,1446,1486,1560,1626,1692,1788,1838,1871,1913,2053,2109,2184,2260,2290,2335,2366,2460],
+      "b7f56": [0,61,123,240,277,355,399,437,490,522,540,574,631,666,697,780,824,859,896,930,978,1017,1079,1299,1380,1399,1450,1577,1605,1653,1740,1806,1872,1968,2018,2051,2093,2233,2289,2364,2440,2470,2515,2546,2640],
+      "a6883": [0,192,348,421,462,524,597,693,720,746,789,840,959,1009,1068,1107,1186,1272,1327,1382,1502,1571,1648,1793,1875,1980,2031,2053,2095,2154,2216,2246,2280,2335,2612,2662,2694,2758,2785,2820,2863,2906,2940,3057,3102,3168,3220,3255,3325,3369,3430,3500,3540,3581,3686,3765,3895,3944,3960],
+      "4c663": [0,61,123,240,298,419,487,546,628,678,706,759,849,904,952,1080,1129,1167,1208,1245,1298,1341,1410,1652,1740,1762,1821,1970,2003,2059,2160,2226,2292,2388,2438,2471,2513,2653,2710,2785,2861,2891,2936,2967,3060],
+      "1ed64": [0,61,123,240,298,419,487,546,628,678,706,759,849,904,952,1080,1125,1160,1197,1231,1279,1318,1380,1600,1680,1699,1750,1877,1905,1953,2040,2101,2163,2253,2299,2330,2369,2500,2554,2624,2695,2723,2765,2794,2880],
+      "a6258": [0,93,133,180,211,273,340,383,427,522,577,638,753,818,900,951,973,1015,1074,1136,1166,1200,1240,1441,1477,1500,1547,1566,1591,1622,1653,1680,1785,1825,1885,1932,1963,2026,2066,2120,2183,2220,2261,2366,2445,2563,2612,2640],
+      "688e2": [0,61,123,240,294,407,470,525,601,648,674,723,806,857,902,1020,1060,1091,1125,1155,1198,1233,1289,1487,1560,1579,1630,1757,1785,1833,1920,1981,2043,2133,2179,2210,2249,2380,2434,2504,2575,2603,2645,2674,2760],
+      "3e0e4": [0,192,348,421,462,524,597,693,720,746,789,840,959,1009,1068,1107,1186,1272,1327,1382,1502,1571,1648,1793,1875,1980,2041,2067,2117,2188,2262,2298,2340,2395,2672,2722,2754,2818,2845,2880,2923,2966,3000,3128,3177,3250,3308,3347,3424,3473,3540,3618,3660,3701,3806,3885,4015,4064,4080],
+      "b74f6": [0,38,120,160,191,225,255,298,333,389,587,660,682,741,890,923,979,1080,1146,1212,1308,1358,1391,1433,1573,1629,1704,1780,1810,1855,1886,1980],
+      "8de62": [0,93,133,180,211,273,340,383,427,522,577,638,753,818,900,961,987,1037,1108,1182,1218,1260,1300,1501,1537,1560,1607,1626,1651,1682,1713,1740,1857,1902,1968,2020,2055,2125,2169,2230,2300,2340,2381,2486,2565,2683,2732,2760],
+      "41a41": [0,76,153,300,341,428,476,518,577,613,633,670,734,773,807,900,935,963,993,1020,1058,1089,1139,1315,1380,1399,1450,1577,1605,1653,1740,1806,1872,1968,2018,2051,2093,2233,2289,2364,2440,2470,2515,2546,2640],
+      "5e8bf": [0,100,142,192,225,291,363,409,456,557,615,680,802,871,960,1011,1033,1075,1134,1196,1226,1260,1315,1592,1642,1674,1738,1765,1800,1843,1886,1920,2037,2082,2148,2200,2235,2305,2349,2410,2480,2520,2561,2666,2745,2863,2912,2940],
+      "e8d7c": [0,112,160,216,253,328,409,461,514,628,694,767,905,983,1080,1131,1153,1195,1254,1316,1346,1380,1435,1712,1762,1794,1858,1885,1920,1963,2006,2040,2157,2202,2268,2320,2355,2425,2469,2530,2600,2640,2681,2786,2865,2983,3032,3060],
+      "d7599": [0,76,153,300,333,402,441,475,522,551,567,597,648,679,706,780,824,859,896,930,978,1017,1079,1299,1380,1402,1461,1610,1643,1699,1800,1870,1941,2044,2097,2132,2176,2325,2386,2466,2547,2579,2627,2660,2760],
+      "ee3e5": [0,61,123,240,294,407,470,525,601,648,674,723,806,857,902,1020,1069,1107,1148,1185,1238,1281,1350,1592,1680,1702,1761,1910,1943,1999,2100,2166,2232,2328,2378,2411,2453,2593,2650,2725,2801,2831,2876,2907,3000]
+    },
+    "stop_distances": {
+      "041a0": [0.0,0.471,0.9438,1.8254,2.2767,3.2196,3.7499,4.2125,4.8519,5.2446,5.4644,5.8747,6.5713,7.0008,7.3756,8.3217,8.6798,8.9591,9.2606,9.5312,9.915,10.2303,10.7304,12.4852,13.0963,13.3015,13.8516,15.2292,15.5354,16.0528,16.9747,17.5749,18.181,19.059,19.5138,19.8171,20.199,21.4765,22.0028,22.6857,23.3781,23.6566,24.0668,24.3509,25.1533,26.2333,26.6773,27.145,28.037,28.6088,29.1034,29.6361,30.0193,31.5534,32.8747],
+      "bbf85": [0.0,0.9254,1.3208,1.7864,2.0972,2.7136,3.3835,3.8126,4.2481,5.1887,5.7322,6.335,7.4713,8.1172,8.873,9.4882,9.7518,10.2586,10.9707,11.7158,12.0779,12.4671,12.8681,14.8851,15.252,15.491,15.9625,16.1609,16.4153,16.7297,17.0467,17.2624,18.2374],
+      "42147": [0.0,1.652,2.9941,3.624,3.985,4.5244,5.1599,5.9931,6.2338,6.4592,6.8326,7.2243,8.1507,8.5461,9.0117,9.3225,9.9389,10.6088,11.0379,11.4734,12.414,12.9575,13.5603,14.6966,15.3425,16.0983,16.7135,16.9771,17.4839,18.196,18.9411,19.3032,19.6924,20.0934,22.1104,22.4773,22.7163,23.1878,23.3862,23.6406,23.955,24.272,24.4877,25.6729,26.1311,26.806,27.3404,27.7,28.416,28.8678,29.4853,30.2033,30.5593,30.8659,31.6348,32.2172,33.171,33.534,33.627],
+      "48fc4": [0.0,0.9254,1.3208,1.7864,2.0972,2.7136,3.3835,3.8126,4.2481,5.1887,5.7322,6.335,7.4713,8.1172,8.873,9.4882,9.7518,10.2586,10.9707,11.7158,12.0779,12.4671,12.8681,14.8851,15.252,15.491,15.9625,16.1609,16.4153,16.7297,17.0467,17.2624,18.4476,18.9058,19.5807,20.1151,20.4747,21.1907,21.6425,22.26,22.978,23.334,23.6406,24.4095,24.9919,25.8607,26.2237,26.4017],
+      "c649c": [0.0,0.471,0.9438,1.8254,2.2767,3.2196,3.7499,4.2125,4.8519,5.2446,5.4644,5.8747,6.5713,7.0008,7.3756,8.3217,8.6798,8.9591,9.2606,9.5312,9.915,10.2303,10.7304,12.4852,13.0963,13.3015,13.8516,15.2292,15.5354,16.0528,16.9747,17.5749,18.181,19.059,19.5138,19.8171,20.199,21.4765,22.0028,22.6857,23.3781,23.6566,24.0668,24.3509,25.1543],
+      "ff3a4": [0.0,0.463,1.4091,1.7672,2.0466,2.348,2.6186,3.0024,3.3177,3.8178,5.5727,6.1838,6.3889,6.939,8.3166,8.6228,9.1402,10.0621,10.6623,11.2685,12.1464,12.6012,12.9045,13.2864,14.5639,15.0902,15.7731,16.4655,16.744,17.1542,17.4383,18.2417]
+    },
+    "dwell_times": {
+      "56320": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+      "f09f3": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+      "c402e": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+      "e7633": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+      "27c28": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+      "b7dd5": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+    },
+    "trips": {
+      "1": [
+        {"id":"393085","direction":0,"start_time":20160,"stops_key":"4d184","stop_distances":"42147","stop_times":"7109b","stop_dwells":"27c28","shape_key":"021f5"},
+        {"id":"393086","direction":0,"start_time":22200,"stops_key":"4d184","stop_distances":"42147","stop_times":"9fe63","stop_dwells":"27c28","shape_key":"021f5"},
+        {"id":"393087","direction":0,"start_time":24060,"stops_key":"4d184","stop_distances":"42147","stop_times":"9fe63","stop_dwells":"27c28","shape_key":"021f5"},
+        {"id":"393088","direction":0,"start_time":26100,"stops_key":"4d184","stop_distances":"42147","stop_times":"a6883","stop_dwells":"27c28","shape_key":"021f5"},
+        {"id":"393089","direction":0,"start_time":28140,"stops_key":"4d184","stop_distances":"42147","stop_times":"a6883","stop_dwells":"27c28","shape_key":"021f5"},
+        {"id":"393090","direction":0,"start_time":30960,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"f85a1","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393091","direction":0,"start_time":32760,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"f85a1","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393092","direction":0,"start_time":34560,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"f85a1","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393093","direction":0,"start_time":36240,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"e8d7c","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393094","direction":0,"start_time":38040,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"e8d7c","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393095","direction":0,"start_time":39840,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"e8d7c","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393096","direction":0,"start_time":41640,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"e8d7c","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393097","direction":0,"start_time":43500,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"325d2","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393098","direction":0,"start_time":45300,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"325d2","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393099","direction":0,"start_time":47100,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"325d2","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393100","direction":0,"start_time":48840,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"8443b","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393101","direction":0,"start_time":50700,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"8443b","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393102","direction":0,"start_time":52500,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"8443b","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393103","direction":0,"start_time":54180,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"903fd","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393104","direction":0,"start_time":56040,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"903fd","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393105","direction":0,"start_time":57780,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"903fd","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393106","direction":0,"start_time":59760,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"4f0ab","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393107","direction":0,"start_time":60660,"stops_key":"4d184","stop_distances":"42147","stop_times":"2e578","stop_dwells":"27c28","shape_key":"021f5"},
+        {"id":"393108","direction":0,"start_time":62460,"stops_key":"4d184","stop_distances":"42147","stop_times":"3e0e4","stop_dwells":"27c28","shape_key":"021f5"},
+        {"id":"393109","direction":0,"start_time":64320,"stops_key":"4d184","stop_distances":"42147","stop_times":"3e0e4","stop_dwells":"27c28","shape_key":"021f5"},
+        {"id":"393110","direction":0,"start_time":67140,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"8293c","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393111","direction":0,"start_time":69480,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"8293c","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393112","direction":0,"start_time":72120,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"8293c","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393113","direction":0,"start_time":74400,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"8293c","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393114","direction":0,"start_time":77880,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"8293c","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393115","direction":1,"start_time":23700,"stops_key":"dc066","stop_distances":"041a0","stop_times":"77b88","stop_dwells":"56320","shape_key":"9a10f"},
+        {"id":"393116","direction":1,"start_time":25500,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"688e2","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393143","direction":1,"start_time":27360,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"688e2","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393142","direction":1,"start_time":29340,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"688e2","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393141","direction":1,"start_time":31140,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"688e2","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393140","direction":1,"start_time":32940,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"688e2","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393139","direction":1,"start_time":34680,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"fe273","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393138","direction":1,"start_time":36420,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"fe273","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393137","direction":1,"start_time":38220,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"fe273","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393136","direction":1,"start_time":40020,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"fe273","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393135","direction":1,"start_time":41820,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"fe273","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393134","direction":1,"start_time":43620,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"fe273","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393133","direction":1,"start_time":45480,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"fe273","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393132","direction":1,"start_time":47280,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"fe273","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393131","direction":1,"start_time":49080,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"fe273","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393130","direction":1,"start_time":50880,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"1ed64","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393129","direction":1,"start_time":52680,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"1ed64","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393128","direction":1,"start_time":54540,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"4c663","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393127","direction":1,"start_time":56400,"stops_key":"dc066","stop_distances":"041a0","stop_times":"de7eb","stop_dwells":"56320","shape_key":"9a10f"},
+        {"id":"393126","direction":1,"start_time":58200,"stops_key":"dc066","stop_distances":"041a0","stop_times":"de7eb","stop_dwells":"56320","shape_key":"9a10f"},
+        {"id":"393125","direction":1,"start_time":60060,"stops_key":"dc066","stop_distances":"041a0","stop_times":"60604","stop_dwells":"56320","shape_key":"9a10f"},
+        {"id":"393124","direction":1,"start_time":61920,"stops_key":"dc066","stop_distances":"041a0","stop_times":"60604","stop_dwells":"56320","shape_key":"9a10f"},
+        {"id":"393123","direction":1,"start_time":63720,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"ee3e5","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393122","direction":1,"start_time":65520,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"ee3e5","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393121","direction":1,"start_time":67440,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"7be54","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393120","direction":1,"start_time":69060,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"7be54","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393117","direction":1,"start_time":71340,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"cf56f","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393118","direction":1,"start_time":74040,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"cf56f","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393119","direction":1,"start_time":78000,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"cf56f","stop_dwells":"c402e","shape_key":"492e8"}
+      ],
+      "2": [
+        {"id":"393030","direction":0,"start_time":25020,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"a6258","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393031","direction":0,"start_time":27720,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"a6258","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393032","direction":0,"start_time":30420,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"a6258","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393033","direction":0,"start_time":33060,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"cda37","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393034","direction":0,"start_time":35760,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"49ca8","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393035","direction":0,"start_time":38520,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"7b318","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393036","direction":0,"start_time":41220,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"7b318","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393037","direction":0,"start_time":43860,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"8de62","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393038","direction":0,"start_time":46560,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"7a7d3","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393039","direction":0,"start_time":49260,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"7a7d3","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393040","direction":0,"start_time":51840,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"5e8bf","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393041","direction":0,"start_time":54540,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"5e8bf","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393042","direction":0,"start_time":57240,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"5e8bf","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393043","direction":0,"start_time":59940,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"5e8bf","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393044","direction":0,"start_time":62640,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"f39cf","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393045","direction":0,"start_time":65580,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"1cafa","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393046","direction":0,"start_time":68280,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"1cafa","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393047","direction":0,"start_time":70980,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"1cafa","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393048","direction":0,"start_time":73680,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"1cafa","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393049","direction":0,"start_time":77280,"stops_key":"82a14","stop_distances":"48fc4","stop_times":"1cafa","stop_dwells":"b7dd5","shape_key":"0c6d4"},
+        {"id":"393050","direction":1,"start_time":28020,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"b7f56","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393051","direction":1,"start_time":31320,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"b7f56","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393052","direction":1,"start_time":34020,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"b7f56","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393053","direction":1,"start_time":36720,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"14218","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393054","direction":1,"start_time":39360,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"16091","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393055","direction":1,"start_time":42000,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"41a41","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393056","direction":1,"start_time":44820,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"d7599","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393057","direction":1,"start_time":47520,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"d7599","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393058","direction":1,"start_time":50220,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"d7599","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393059","direction":1,"start_time":52920,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"d7599","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393060","direction":1,"start_time":55620,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"d7599","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393061","direction":1,"start_time":58200,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"18453","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393062","direction":1,"start_time":60900,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"18453","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393063","direction":1,"start_time":63600,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"18453","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393064","direction":1,"start_time":66420,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"20db6","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393065","direction":1,"start_time":69120,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"20db6","stop_dwells":"c402e","shape_key":"492e8"},
+        {"id":"393066","direction":1,"start_time":71820,"stops_key":"d6f89","stop_distances":"c649c","stop_times":"20db6","stop_dwells":"c402e","shape_key":"492e8"}
+      ],
+      "3": [
+        {"id":"393067","direction":0,"start_time":36540,"stops_key":"a60bf","stop_distances":"bbf85","stop_times":"4a137","stop_dwells":"e7633","shape_key":"75008"},
+        {"id":"393068","direction":0,"start_time":39240,"stops_key":"a60bf","stop_distances":"bbf85","stop_times":"4a137","stop_dwells":"e7633","shape_key":"75008"},
+        {"id":"393069","direction":0,"start_time":41940,"stops_key":"a60bf","stop_distances":"bbf85","stop_times":"4a137","stop_dwells":"e7633","shape_key":"75008"},
+        {"id":"393070","direction":0,"start_time":44640,"stops_key":"a60bf","stop_distances":"bbf85","stop_times":"4a137","stop_dwells":"e7633","shape_key":"75008"},
+        {"id":"393071","direction":0,"start_time":47340,"stops_key":"a60bf","stop_distances":"bbf85","stop_times":"4a137","stop_dwells":"e7633","shape_key":"75008"},
+        {"id":"393072","direction":0,"start_time":50040,"stops_key":"a60bf","stop_distances":"bbf85","stop_times":"4a137","stop_dwells":"e7633","shape_key":"75008"},
+        {"id":"393073","direction":0,"start_time":52740,"stops_key":"a60bf","stop_distances":"bbf85","stop_times":"4a137","stop_dwells":"e7633","shape_key":"75008"},
+        {"id":"393074","direction":0,"start_time":55440,"stops_key":"a60bf","stop_distances":"bbf85","stop_times":"4a137","stop_dwells":"e7633","shape_key":"75008"},
+        {"id":"393075","direction":0,"start_time":58140,"stops_key":"a60bf","stop_distances":"bbf85","stop_times":"4a137","stop_dwells":"e7633","shape_key":"75008"},
+        {"id":"393076","direction":1,"start_time":36000,"stops_key":"2f07f","stop_distances":"ff3a4","stop_times":"b74f6","stop_dwells":"f09f3","shape_key":"75de6"},
+        {"id":"393077","direction":1,"start_time":38700,"stops_key":"2f07f","stop_distances":"ff3a4","stop_times":"b74f6","stop_dwells":"f09f3","shape_key":"75de6"},
+        {"id":"393078","direction":1,"start_time":41400,"stops_key":"2f07f","stop_distances":"ff3a4","stop_times":"b74f6","stop_dwells":"f09f3","shape_key":"75de6"},
+        {"id":"393079","direction":1,"start_time":44100,"stops_key":"2f07f","stop_distances":"ff3a4","stop_times":"b74f6","stop_dwells":"f09f3","shape_key":"75de6"},
+        {"id":"393080","direction":1,"start_time":46800,"stops_key":"2f07f","stop_distances":"ff3a4","stop_times":"b74f6","stop_dwells":"f09f3","shape_key":"75de6"},
+        {"id":"393081","direction":1,"start_time":49500,"stops_key":"2f07f","stop_distances":"ff3a4","stop_times":"b74f6","stop_dwells":"f09f3","shape_key":"75de6"},
+        {"id":"393082","direction":1,"start_time":52200,"stops_key":"2f07f","stop_distances":"ff3a4","stop_times":"b74f6","stop_dwells":"f09f3","shape_key":"75de6"},
+        {"id":"393083","direction":1,"start_time":54900,"stops_key":"2f07f","stop_distances":"ff3a4","stop_times":"b74f6","stop_dwells":"f09f3","shape_key":"75de6"},
+        {"id":"393084","direction":1,"start_time":57600,"stops_key":"2f07f","stop_distances":"ff3a4","stop_times":"b74f6","stop_dwells":"f09f3","shape_key":"75de6"}
+      ]
+    }
+  }
+}

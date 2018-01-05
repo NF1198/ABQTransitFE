@@ -1,0 +1,67 @@
+{
+  "id": "3064",
+  "short_name": "1000",
+  "long_name": "ART Special Service",
+  "color": "EC0000",
+  "text_color": "FFFFFF",
+  "schedules": {},
+  "related_route_data": {"3043":{"short_name":"36","long_name":"12th Street/Rio Grande","color":"800000","text_color":"FFFFFF"
+    },"3047":{"short_name":"51","long_name":"Atrisco/Rio Bravo","color":"572820","text_color":"FFFFFF"
+    },"3049":{"short_name":"54","long_name":"Bridge/Westgate","color":"006097","text_color":"FFFFFF"
+    },"3052":{"short_name":"66","long_name":"Central Avenue","color":"00DEC8","text_color":"000000"
+    },"3031":{"short_name":"155","long_name":"Coors","color":"FF8900","text_color":"000000"
+    },"3035":{"short_name":"198","long_name":"98th / Dennis Chavez","color":"00FF00","text_color":"FFFFFF"
+    },"3054":{"short_name":"766","long_name":"Red Line Rapid Ride","color":"EC0000","text_color":"FFFFFF"
+    },"3064":{"short_name":"1000","long_name":"ART Special Service","color":"EC0000","text_color":"FFFFFF"
+    }
+  },
+  "stops": {"4323":{"name":"Central @ Tingley (Rapid)","desc":"2717 CENTRAL AVE W","coordinates":[-106.6787,35.0921],"related_stops":["4413","7532","7503","5636","4412","4323","4411","7248"],"transfer_routes":["3054"],"related_routes":["3052","3064"]
+    },"4327":{"name":"Central @ Atrisco","desc":"4101 CENTRAL AVE W","coordinates":[-106.6854,35.0857],"related_stops":["4327","4329","4403","4405","5369","4401","4331","7533","7502","7178","5944"],"transfer_routes":["3054"],"related_routes":["3047","3052","3064"]
+    },"4329":{"name":"Central @ Atrisco","desc":"4101 CENTRAL AVE W","coordinates":[-106.6855,35.0857],"related_stops":["4327","4329","4403","4405","5369","4401","4331","7533","7502","7178","5944"],"transfer_routes":["3052"],"related_routes":["3047","3054","3064"]
+    },"4331":{"name":"Central @ Atrisco","desc":"CENTRAL \u0026 ATRISCO","coordinates":[-106.6881,35.0851],"related_stops":["4327","4329","4403","4405","5369","4401","4331","7533","7502","7178","5944"],"transfer_routes":["3052"],"related_routes":["3047","3054","3064"]
+    },"4339":{"name":"Central @ Old Coors","desc":"5313 CENTRAL AVE W \u0026 OLD COORS DR SW","coordinates":[-106.6978,35.0829],"related_stops":["4339","7274","7534","7501"],"transfer_routes":["3052"],"related_routes":["3064"]
+    },"4351":{"name":"Central @ Coors","desc":"6663 CENTRAL AVE W","coordinates":[-106.7114,35.0799],"related_stops":["6951","4351","4353","4381","4379","7008","7220","7535","7500","7298"],"transfer_routes":["3054"],"related_routes":["3052","3031","3064"]
+    },"4353":{"name":"Central @ Coors","desc":"6679 CENTRAL AVE W","coordinates":[-106.7116,35.0798],"related_stops":["6951","4351","4353","4381","4379","7008","7220","7535","7500","7298"],"transfer_routes":["3052"],"related_routes":["3031","3054","3064"]
+    },"4379":{"name":"Central @ Coors","desc":"6684 CENTRAL AVE W","coordinates":[-106.7117,35.0796],"related_stops":["6951","4351","4353","4381","4379","7008","7220","7535","7500","7298"],"transfer_routes":["3052"],"related_routes":["3031","3054","3064"]
+    },"4381":{"name":"Central @ Coors","desc":"6672 CENTRAL AVE W","coordinates":[-106.7115,35.0796],"related_stops":["6951","4351","4353","4381","4379","7008","7220","7535","7500","7298"],"transfer_routes":["3054"],"related_routes":["3052","3031","3064"]
+    },"4401":{"name":"Central @ 46th","desc":"4506 CENTRAL AVE W","coordinates":[-106.6884,35.0848],"related_stops":["4327","4329","4403","4405","5369","4401","4331","7533","7502","7178","5944"],"transfer_routes":["3052"],"related_routes":["3047","3054","3064"]
+    },"4403":{"name":"Central @ Atrisco","desc":"4100 CENTRAL AVE W","coordinates":[-106.6854,35.0855],"related_stops":["4327","4329","4403","4405","5369","4401","4331","7533","7502","7178","5944"],"transfer_routes":["3054"],"related_routes":["3047","3052","3064"]
+    },"4405":{"name":"Central @ Atrisco","desc":"4100 CENTRAL AVE W \u0026 ATRISCO DR NW","coordinates":[-106.6851,35.0856],"related_stops":["4327","4329","4403","4405","5369","4401","4331","7533","7502","7178","5944"],"transfer_routes":["3052"],"related_routes":["3047","3054","3064"]
+    },"4411":{"name":"Central @ Tingley (Rapid)","desc":"CENTRAL AVE W \u0026 TINGLEY DR SW","coordinates":[-106.6789,35.0913],"related_stops":["4413","7532","7503","5636","4412","4323","4411","7248"],"transfer_routes":["3054"],"related_routes":["3052","3064"]
+    },"4412":{"name":"Central @ Tingley","desc":"CENTRAL AVE W \u0026 TINGLEY DR SW","coordinates":[-106.6788,35.0914],"related_stops":["4413","7532","7503","5636","4412","4323","4411","7248"],"transfer_routes":["3052"],"related_routes":["3054","3064"]
+    },"4413":{"name":"Central @ New York","desc":"2542 CENTRAL AVE W","coordinates":[-106.6776,35.094],"related_stops":["4413","7532","7503","5636","4412","4323","4411","7248"],"transfer_routes":["3052"],"related_routes":["3054","3064"]
+    },"4421":{"name":"Central @ San Pasquale","desc":"2004 CENTRAL AVE W","coordinates":[-106.6694,35.0936],"related_stops":["4421","4815","4723"],"transfer_routes":["3052"],"related_routes":["3043","3064"]
+    },"4723":{"name":"Central @ San Pasquale","desc":"1907 CENTRAL AVE W \u0026 RANCHO SECO RD NW","coordinates":[-106.6682,35.093],"related_stops":["4421","4815","4723"],"transfer_routes":["3052"],"related_routes":["3043","3064"]
+    },"4815":{"name":"Lomas @ San Pasquale","desc":"1902 LOMAS BLVD NW \u0026 19TH ST NW","coordinates":[-106.668,35.0933],"related_stops":["4421","4815","4723"],"transfer_routes":["3043","3064"],"related_routes":["3052"]
+    },"5369":{"name":"Atrisco @ Central","desc":"ATRISCO \u0026 CENTRAL","coordinates":[-106.6839,35.0848],"related_stops":["4327","4329","4403","4405","5369","4401","4331","7533","7502","7178","5944"],"transfer_routes":["3047"],"related_routes":["3052","3054","3064"]
+    },"5636":{"name":"Central @ New York","desc":"2557 CENTRAL AVE W","coordinates":[-106.6779,35.0939],"related_stops":["4413","7532","7503","5636","4412","4323","4411","7248"],"transfer_routes":["3052"],"related_routes":["3054","3064"]
+    },"5944":{"name":"Artisco @ Draxton","desc":"161 ATRISCO DR SW","coordinates":[-106.6838,35.0838],"related_stops":["4327","4329","4403","4405","5369","4401","4331","7533","7502","7178","5944"],"transfer_routes":["3047"],"related_routes":["3052","3054","3064"]
+    },"5958":{"name":"CUTC Bay C","desc":"","coordinates":[-106.7253,35.079],"related_stops":["5958","5962","5960"],"transfer_routes":["3049"],"related_routes":["3052","3035","3054","3064"]
+    },"5960":{"name":"CUTC Bay B","desc":"","coordinates":[-106.7252,35.0787],"related_stops":["5958","5962","5960"],"transfer_routes":["3054","3064"],"related_routes":["3049","3052","3035"]
+    },"5962":{"name":"CUTC Bay A","desc":"","coordinates":[-106.7251,35.0785],"related_stops":["5958","5962","5960"],"transfer_routes":["3052","3035"],"related_routes":["3049","3054","3064"]
+    },"6951":{"name":"Coors @ Central","desc":"","coordinates":[-106.7107,35.0792],"related_stops":["6951","4351","4353","4381","4379","7008","7220","7535","7500","7298"],"transfer_routes":["3031"],"related_routes":["3052","3054","3064"]
+    },"7008":{"name":"Coors @ Central","desc":"116 COORS BLVD NW","coordinates":[-106.7105,35.0809],"related_stops":["6951","4351","4353","4381","4379","7008","7220","7535","7500","7298"],"transfer_routes":["3031"],"related_routes":["3052","3054","3064"]
+    },"7178":{"name":"Atrisco Ln. @ Central","desc":"Atrisco Drive \u0026 Central","coordinates":[-106.6837,35.0854],"related_stops":["4327","4329","4403","4405","5369","4401","4331","7533","7502","7178","5944"],"transfer_routes":["3047"],"related_routes":["3052","3054","3064"]
+    },"7220":{"name":"Coors @ Central","desc":"121 COORS BLVD NW","coordinates":[-106.7109,35.0811],"related_stops":["6951","4351","4353","4381","4379","7008","7220","7535","7500","7298"],"transfer_routes":["3031"],"related_routes":["3052","3054","3064"]
+    },"7248":{"name":"Central @ Tingley","desc":"2715 CENTRAL AVE W","coordinates":[-106.6786,35.0923],"related_stops":["4413","7532","7503","5636","4412","4323","4411","7248"],"transfer_routes":["3052"],"related_routes":["3054","3064"]
+    },"7274":{"name":"Central @ 53rd","desc":"5302 CENTRAL AVE W \u0026 53RD ST SW","coordinates":[-106.6968,35.0829],"related_stops":["4339","7274","7534","7501"],"transfer_routes":["3052"],"related_routes":["3064"]
+    },"7298":{"name":"Central @ 65th","desc":"6431 CENTRAL AVE W \u0026 65TH ST SW","coordinates":[-106.7093,35.0803],"related_stops":["6951","4351","4353","4381","4379","7008","7220","7535","7500","7298"],"transfer_routes":["3052"],"related_routes":["3031","3054","3064"]
+    },"7500":{"name":"Coors Station","desc":"6510 CENTRAL AVE W \u0026 COORS BLVD NW","coordinates":[-106.7101,35.08],"related_stops":["6951","4351","4353","4381","4379","7008","7220","7535","7500","7298"],"transfer_routes":["3064"],"related_routes":["3052","3031","3054"]
+    },"7501":{"name":"Yucca Station","desc":"5406 CENTRAL AVE W \u0026 YUCCA DR NW","coordinates":[-106.6984,35.0827],"related_stops":["4339","7274","7534","7501"],"transfer_routes":["3064"],"related_routes":["3052"]
+    },"7502":{"name":"Atrisco Station","desc":"4100 CENTRAL AVE W \u0026 ATRISCO DR NW","coordinates":[-106.6851,35.0857],"related_stops":["4327","4329","4403","4405","5369","4401","4331","7533","7502","7178","5944"],"transfer_routes":["3064"],"related_routes":["3047","3052","3054"]
+    },"7503":{"name":"BioPark Station","desc":"2625 CENTRAL AVE W","coordinates":[-106.6781,35.0932],"related_stops":["4413","7532","7503","5636","4412","4323","4411","7248"],"transfer_routes":["3064"],"related_routes":["3052","3054"]
+    },"7532":{"name":"BioPark Station","desc":"2625 CENTRAL AVE W","coordinates":[-106.6782,35.0931],"related_stops":["4413","7532","7503","5636","4412","4323","4411","7248"],"transfer_routes":["3064"],"related_routes":["3052","3054"]
+    },"7533":{"name":"Atrisco Station","desc":"4100 CENTRAL AVE W \u0026 ATRISCO DR NW","coordinates":[-106.6851,35.0857],"related_stops":["4327","4329","4403","4405","5369","4401","4331","7533","7502","7178","5944"],"transfer_routes":["3064"],"related_routes":["3047","3052","3054"]
+    },"7534":{"name":"Yucca Station","desc":"5409 CENTRAL AVE W \u0026 YUCCA DR NW","coordinates":[-106.6983,35.0827],"related_stops":["4339","7274","7534","7501"],"transfer_routes":["3064"],"related_routes":["3052"]
+    },"7535":{"name":"Coors Station","desc":"6510 CENTRAL AVE W \u0026 COORS BLVD NW","coordinates":[-106.7101,35.08],"related_stops":["6951","4351","4353","4381","4379","7008","7220","7535","7500","7298"],"transfer_routes":["3064"],"related_routes":["3052","3031","3054"]
+    }
+  },
+  "trip_data": {
+    "shapes": {},
+    "stop_lists": {},
+    "stop_times": {},
+    "stop_distances": {},
+    "dwell_times": {},
+    "trips": {}
+  }
+}
