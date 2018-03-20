@@ -8,8 +8,7 @@
     "1": {
       "start_date": "20171125",
       "end_date": "20180511",
-      "days_mask_mon_sun": 124,"added_days":[],"removed_days":["20180115"
-      ]
+      "days_mask_mon_sun": 124,"added_days":[],"removed_days":[]
     }
   },
   "related_route_data": {"3058":{"short_name":"92","long_name":"Taylor Ranch Express","color":"D43815","text_color":"FFFFFF"

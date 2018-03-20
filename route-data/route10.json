@@ -8,14 +8,12 @@
     "1": {
       "start_date": "20171125",
       "end_date": "20180511",
-      "days_mask_mon_sun": 124,"added_days":[],"removed_days":["20180115"
-      ]
+      "days_mask_mon_sun": 124,"added_days":[],"removed_days":[]
     },
     "2": {
       "start_date": "20171125",
       "end_date": "20180511",
-      "days_mask_mon_sun": 2,"added_days":["20180115"
-      ],"removed_days":[]
+      "days_mask_mon_sun": 2,"added_days":[],"removed_days":[]
     },
     "3": {
       "start_date": "20171125",

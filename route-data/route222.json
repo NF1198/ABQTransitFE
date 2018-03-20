@@ -8,8 +8,7 @@
     "1": {
       "start_date": "20171125",
       "end_date": "20180511",
-      "days_mask_mon_sun": 124,"added_days":[],"removed_days":["20180115"
-      ]
+      "days_mask_mon_sun": 124,"added_days":[],"removed_days":[]
     }
   },
   "related_route_data": {"3036":{"short_name":"2","long_name":"Eubank-Ventura","color":"DC5D2E","text_color":"000000"

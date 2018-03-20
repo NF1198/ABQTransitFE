@@ -8,8 +8,7 @@
     "1": {
       "start_date": "20171125",
       "end_date": "20180511",
-      "days_mask_mon_sun": 124,"added_days":[],"removed_days":["20180115"
-      ]
+      "days_mask_mon_sun": 124,"added_days":[],"removed_days":[]
     }
   },
   "related_route_data": {"3024":{"short_name":"1","long_name":"Juan Tabo","color":"E17F38","text_color":"000000"
