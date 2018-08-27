@@ -1,133 +1,134 @@
 {
-  "id": "3035",
+  "id": "3119",
   "short_name": "198",
   "long_name": "98th / Dennis Chavez",
   "color": "00FF00",
   "text_color": "FFFFFF",
   "schedules": {
     "1": {
-      "start_date": "20171125",
-      "end_date": "20180511",
-      "days_mask_mon_sun": 124,"added_days":[],"removed_days":[]
+      "start_date": "20180818",
+      "end_date": "20181221",
+      "days_mask_mon_sun": 124,"added_days":[],"removed_days":["20180903","20181122","20181123"
+      ]
     },
     "2": {
-      "start_date": "20171125",
-      "end_date": "20180511",
-      "days_mask_mon_sun": 2,"added_days":[],"removed_days":[]
+      "start_date": "20180818",
+      "end_date": "20181221",
+      "days_mask_mon_sun": 2,"added_days":["20181123"
+      ],"removed_days":[]
     },
     "3": {
-      "start_date": "20171125",
-      "end_date": "20180511",
+      "start_date": "20180818",
+      "end_date": "20181221",
       "days_mask_mon_sun": 1,"added_days":[],"removed_days":[]
     }
   },
-  "related_route_data": {"3049":{"short_name":"54","long_name":"Bridge/Westgate","color":"006097","text_color":"FFFFFF"
-    },"3052":{"short_name":"66","long_name":"Central Avenue","color":"00DEC8","text_color":"000000"
-    },"3035":{"short_name":"198","long_name":"98th / Dennis Chavez","color":"00FF00","text_color":"FFFFFF"
-    },"3038":{"short_name":"222","long_name":"Rio Bravo/ Rail Runner/ KAFB","color":"804A80","text_color":"FFFFFF"
-    },"3054":{"short_name":"766","long_name":"Red Line Rapid Ride","color":"EC0000","text_color":"FFFFFF"
-    },"3064":{"short_name":"1000","long_name":"ART Special Service","color":"EC0000","text_color":"FFFFFF"
+  "related_route_data": {"3133":{"short_name":"54","long_name":"Bridge/Westgate","color":"006097","text_color":"FFFFFF"
+    },"3136":{"short_name":"66","long_name":"Central Avenue","color":"00DEC8","text_color":"000000"
+    },"3119":{"short_name":"198","long_name":"98th / Dennis Chavez","color":"00FF00","text_color":"FFFFFF"
+    },"3122":{"short_name":"222","long_name":"Rio Bravo/ Rail Runner/ KAFB","color":"804A80","text_color":"FFFFFF"
+    },"3138":{"short_name":"766","long_name":"Red Line Rapid Ride","color":"EC0000","text_color":"FFFFFF"
     }
   },
-  "stops": {"1137":{"name":"Benavides @ 98th","desc":"9608 BENAVIDES RD SW \u0026 PEARL ST SW","coordinates":[-106.7386,35.0522],"related_stops":["7460","1137","7268"],"transfer_routes":["3049"],"related_routes":["3035"]
-    },"1839":{"name":"98th St. @ Westgate Park","desc":"98TH ST SW \u0026 WESTGATE PARK PLAZA  SW","coordinates":[-106.7411,35.0577],"related_stops":["1861","1839"],"transfer_routes":["3049","3035"],"related_routes":[]
-    },"1841":{"name":"98th @ Demi Rd","desc":"664 98TH ST SW \u0026 DEMI RD SW","coordinates":[-106.7415,35.0644],"related_stops":["1841"],"transfer_routes":["3049","3035"],"related_routes":[]
-    },"1843":{"name":"98th @ Eucariz","desc":"9735 GEMSTONE RD SW \u0026 DESERT MIST DR SW","coordinates":[-106.7417,35.0677],"related_stops":["1843","5796"],"transfer_routes":["3049","3035"],"related_routes":[]
-    },"1859":{"name":"98th @ Tower","desc":"98TH ST SW","coordinates":[-106.7419,35.0629],"related_stops":["1859"],"transfer_routes":["3049","3035"],"related_routes":[]
-    },"1861":{"name":"98th @ Westgate Park","desc":"WESTGATE PARK PLAZA  SW \u0026 98TH ST SW","coordinates":[-106.7415,35.0576],"related_stops":["1861","1839"],"transfer_routes":["3049","3035"],"related_routes":[]
-    },"5680":{"name":"Central @ 94th","desc":"","coordinates":[-106.7388,35.0733],"related_stops":["5680","7244"],"transfer_routes":["3049","3035"],"related_routes":[]
-    },"5702":{"name":"Central @ 86th","desc":"8491 CENTRAL AVE W \u0026 86TH ST SW","coordinates":[-106.7296,35.0757],"related_stops":["5702","5778"],"transfer_routes":["3035"],"related_routes":["3049"]
-    },"5778":{"name":"Central @ 86th","desc":"8468 CENTRAL AVE W","coordinates":[-106.7294,35.0755],"related_stops":["5702","5778"],"transfer_routes":["3049","3035"],"related_routes":[]
-    },"5782":{"name":"98th @ Sage","desc":"1015 SNOW VISTA BLVD SW","coordinates":[-106.7407,35.0551],"related_stops":["5782","7007"],"transfer_routes":["3049","3035"],"related_routes":[]
-    },"5788":{"name":"Lamonica @ Walmart","desc":"3489 LAMONICA RD SW","coordinates":[-106.7114,35.0251],"related_stops":["5788"],"transfer_routes":["3035","3038"],"related_routes":[]
-    },"5792":{"name":"98th @ Central","desc":"223 98TH ST SW","coordinates":[-106.7426,35.0712],"related_stops":["5792","5794"],"transfer_routes":["3035"],"related_routes":["3049"]
-    },"5794":{"name":"98th @ Central","desc":"226 98TH ST SW","coordinates":[-106.7423,35.0712],"related_stops":["5792","5794"],"transfer_routes":["3049","3035"],"related_routes":[]
-    },"5796":{"name":"98th @ Eucariz","desc":"507 98TH ST SW \u0026 EUCARIZ AVE SW","coordinates":[-106.7419,35.0664],"related_stops":["1843","5796"],"transfer_routes":["3035"],"related_routes":["3049"]
-    },"5798":{"name":"98th @ Dennis Chavez","desc":"98TH ST SW","coordinates":[-106.7401,35.0255],"related_stops":["5802","5798"],"transfer_routes":["3035"],"related_routes":[]
-    },"5802":{"name":"98th @ Dennis Chavez","desc":"98TH ST SW","coordinates":[-106.7405,35.0257],"related_stops":["5802","5798"],"transfer_routes":["3035"],"related_routes":[]
-    },"5806":{"name":"Dennis Chavez @ Condershire","desc":"DENNIS CHAVEZ BLVD SW \u0026 CONDERSHIRE DR SW","coordinates":[-106.7242,35.0246],"related_stops":["5806","5822"],"transfer_routes":["3035"],"related_routes":[]
-    },"5814":{"name":"Dennis Chavez @ Unser","desc":"9803 DENNIS CHAVEZ BLVD SW \u0026 UNSER BLVD SW","coordinates":[-106.7317,35.0247],"related_stops":["5814","5820"],"transfer_routes":["3035"],"related_routes":[]
-    },"5820":{"name":"Dennis Chavez @ Unser","desc":"9804 DENNIS CHAVEZ BLVD SW","coordinates":[-106.7317,35.0246],"related_stops":["5814","5820"],"transfer_routes":["3035"],"related_routes":[]
-    },"5822":{"name":"Dennis Chavez @ Condershire","desc":"DENNIS CHAVEZ BLVD SW \u0026 CONDERSHIRE DR SW","coordinates":[-106.7241,35.0247],"related_stops":["5806","5822"],"transfer_routes":["3035"],"related_routes":[]
-    },"5824":{"name":"98th @ Rio Clara","desc":"","coordinates":[-106.7401,35.0285],"related_stops":["5826","5824"],"transfer_routes":["3035"],"related_routes":[]
-    },"5826":{"name":"98th @ Rio Clara","desc":"98TH ST SW \u0026 RIO CLARA AVE SW","coordinates":[-106.7405,35.0282],"related_stops":["5826","5824"],"transfer_routes":["3035"],"related_routes":[]
-    },"5828":{"name":"98th @ Colobel","desc":"98TH ST SW \u0026 COLOBEL AVE SW","coordinates":[-106.7397,35.0328],"related_stops":["5830","5828"],"transfer_routes":["3035"],"related_routes":[]
-    },"5830":{"name":"98th @ Colobel","desc":"98TH ST SW \u0026 COLOBEL AVE SW","coordinates":[-106.7399,35.0327],"related_stops":["5830","5828"],"transfer_routes":["3035"],"related_routes":[]
-    },"5832":{"name":"98th @ Amole Mesa","desc":"98TH ST SW \u0026 AMOLE MESA AVE SW","coordinates":[-106.7382,35.0362],"related_stops":["5832","5834"],"transfer_routes":["3035"],"related_routes":[]
-    },"5834":{"name":"98th @ Amole Mesa","desc":"98TH ST SW \u0026 AMOLE MESA AVE SW","coordinates":[-106.7384,35.0361],"related_stops":["5832","5834"],"transfer_routes":["3035"],"related_routes":[]
-    },"5836":{"name":"98th @ Blake","desc":"98TH ST SW \u0026 BLAKE RD SW","coordinates":[-106.7373,35.0397],"related_stops":["5836","5838"],"transfer_routes":["3035"],"related_routes":[]
-    },"5838":{"name":"98th @ Blake","desc":"","coordinates":[-106.7369,35.0398],"related_stops":["5836","5838"],"transfer_routes":["3035"],"related_routes":[]
-    },"5840":{"name":"98th @ Gibson","desc":"98TH ST SW","coordinates":[-106.737,35.0438],"related_stops":["5842","5840"],"transfer_routes":["3035"],"related_routes":[]
-    },"5842":{"name":"98th @ Gibson","desc":"98TH ST SW","coordinates":[-106.7373,35.0427],"related_stops":["5842","5840"],"transfer_routes":["3035"],"related_routes":[]
-    },"5844":{"name":"98th @ 86th","desc":"1410 SNOW VISTA BLVD SW","coordinates":[-106.7371,35.0473],"related_stops":["5846","5844"],"transfer_routes":["3035"],"related_routes":[]
-    },"5846":{"name":"98th @ De Anza","desc":"1411 SNOW VISTA BLVD SW","coordinates":[-106.7374,35.0475],"related_stops":["5846","5844"],"transfer_routes":["3035"],"related_routes":[]
-    },"5958":{"name":"CUTC Bay C","desc":"","coordinates":[-106.7253,35.079],"related_stops":["5958","5962","5960"],"transfer_routes":["3049"],"related_routes":["3052","3035","3054","3064"]
-    },"5960":{"name":"CUTC Bay B","desc":"","coordinates":[-106.7252,35.0787],"related_stops":["5958","5962","5960"],"transfer_routes":["3054","3064"],"related_routes":["3049","3052","3035"]
-    },"5962":{"name":"CUTC Bay A","desc":"","coordinates":[-106.7251,35.0785],"related_stops":["5958","5962","5960"],"transfer_routes":["3052","3035"],"related_routes":["3049","3054","3064"]
-    },"7007":{"name":"98th @ Sage","desc":"","coordinates":[-106.7404,35.0552],"related_stops":["5782","7007"],"transfer_routes":["3049","3035"],"related_routes":[]
-    },"7244":{"name":"Central @ 94th","desc":"9307 CENTRAL AVE W \u0026 BRIDGE BLVD SW","coordinates":[-106.7374,35.0739],"related_stops":["5680","7244"],"transfer_routes":["3035"],"related_routes":["3049"]
-    },"7268":{"name":"Snow Vista @ Benevides","desc":"SNOW VISTA BLVD SW","coordinates":[-106.7392,35.0517],"related_stops":["7460","1137","7268"],"transfer_routes":["3035"],"related_routes":["3049"]
-    },"7460":{"name":"98th @ Benevides","desc":"BENAVIDES RD SW \u0026 SNOW VISTA BLVD SW","coordinates":[-106.7398,35.0519],"related_stops":["7460","1137","7268"],"transfer_routes":["3035"],"related_routes":["3049"]
-    },"7620":{"name":"Dennis Chavez @ 118th","desc":"10818 DENNIS CHAVEZ BLVD SW","coordinates":[-106.7521,35.0244],"related_stops":["7620"],"transfer_routes":["3035"],"related_routes":[]
-    },"7648":{"name":"Amole Mesa @ Messina","desc":"AMOLE MESA AVE SW \u0026 MESSINA DR SW","coordinates":[-106.745,35.0373],"related_stops":["7648"],"transfer_routes":["3035"],"related_routes":[]
-    },"7650":{"name":"118th @ Gayle","desc":"118TH ST SW \u0026 GAYLE LN SW","coordinates":[-106.7539,35.0315],"related_stops":["7650"],"transfer_routes":["3035"],"related_routes":[]
-    },"7705":{"name":"Amole Mesa @ Alamo Canyon","desc":"","coordinates":[-106.7528,35.0373],"related_stops":["7705"],"transfer_routes":["3035"],"related_routes":[]
+  "stops": {"1137":{"name":"Benavides @ 98th","desc":"9608 BENAVIDES RD SW \u0026 PEARL ST SW","coordinates":[-106.7386,35.0522],"related_stops":["7460","1137","7268"],"transfer_routes":["3133"],"related_routes":["3119"]
+    },"1839":{"name":"98th St. @ Westgate Park","desc":"98TH ST SW \u0026 WESTGATE PARK PLAZA  SW","coordinates":[-106.7411,35.0577],"related_stops":["1861","1839"],"transfer_routes":["3133","3119"],"related_routes":[]
+    },"1841":{"name":"98th @ Demi Rd","desc":"664 98TH ST SW \u0026 DEMI RD SW","coordinates":[-106.7415,35.0644],"related_stops":["1841"],"transfer_routes":["3133","3119"],"related_routes":[]
+    },"1843":{"name":"98th @ Eucariz","desc":"9735 GEMSTONE RD SW \u0026 DESERT MIST DR SW","coordinates":[-106.7417,35.0677],"related_stops":["1843","5796"],"transfer_routes":["3133","3119"],"related_routes":[]
+    },"1859":{"name":"98th @ Tower","desc":"98TH ST SW","coordinates":[-106.7419,35.0629],"related_stops":["1859"],"transfer_routes":["3133","3119"],"related_routes":[]
+    },"1861":{"name":"98th @ Westgate Park","desc":"WESTGATE PARK PLAZA  SW \u0026 98TH ST SW","coordinates":[-106.7415,35.0576],"related_stops":["1861","1839"],"transfer_routes":["3133","3119"],"related_routes":[]
+    },"5680":{"name":"Central @ 94th","desc":"","coordinates":[-106.7388,35.0733],"related_stops":["5680","7244"],"transfer_routes":["3133","3119"],"related_routes":[]
+    },"5702":{"name":"Central @ 86th","desc":"8491 CENTRAL AVE W \u0026 86TH ST SW","coordinates":[-106.7296,35.0757],"related_stops":["5702","5778"],"transfer_routes":["3119"],"related_routes":["3133"]
+    },"5778":{"name":"Central @ 86th","desc":"8468 CENTRAL AVE W","coordinates":[-106.7294,35.0755],"related_stops":["5702","5778"],"transfer_routes":["3133","3119"],"related_routes":[]
+    },"5782":{"name":"98th @ Sage","desc":"1015 SNOW VISTA BLVD SW","coordinates":[-106.7407,35.0551],"related_stops":["5782","7007"],"transfer_routes":["3133","3119"],"related_routes":[]
+    },"5788":{"name":"Lamonica @ Walmart","desc":"3489 LAMONICA RD SW","coordinates":[-106.7114,35.0251],"related_stops":["5788"],"transfer_routes":["3119","3122"],"related_routes":[]
+    },"5792":{"name":"98th @ Sunset Gardens","desc":"249 98TH ST SW","coordinates":[-106.7425,35.0708],"related_stops":["5794","5792"],"transfer_routes":["3119"],"related_routes":["3133"]
+    },"5794":{"name":"98th @ Central","desc":"226 98TH ST SW","coordinates":[-106.7423,35.0712],"related_stops":["5794","5792"],"transfer_routes":["3133","3119"],"related_routes":[]
+    },"5796":{"name":"98th @ Eucariz","desc":"507 98TH ST SW \u0026 EUCARIZ AVE SW","coordinates":[-106.7419,35.0664],"related_stops":["1843","5796"],"transfer_routes":["3119"],"related_routes":["3133"]
+    },"5798":{"name":"98th @ Dennis Chavez","desc":"98TH ST SW","coordinates":[-106.7401,35.0255],"related_stops":["5802","5798"],"transfer_routes":["3119"],"related_routes":[]
+    },"5802":{"name":"98th @ Dennis Chavez","desc":"98TH ST SW","coordinates":[-106.7405,35.0257],"related_stops":["5802","5798"],"transfer_routes":["3119"],"related_routes":[]
+    },"5806":{"name":"Dennis Chavez @ Condershire","desc":"DENNIS CHAVEZ BLVD SW \u0026 CONDERSHIRE DR SW","coordinates":[-106.7242,35.0246],"related_stops":["5806","5822"],"transfer_routes":["3119"],"related_routes":[]
+    },"5814":{"name":"Dennis Chavez @ Unser","desc":"9803 DENNIS CHAVEZ BLVD SW \u0026 UNSER BLVD SW","coordinates":[-106.7317,35.0247],"related_stops":["5814","5820"],"transfer_routes":["3119"],"related_routes":[]
+    },"5820":{"name":"Dennis Chavez @ Unser","desc":"9804 DENNIS CHAVEZ BLVD SW","coordinates":[-106.7317,35.0246],"related_stops":["5814","5820"],"transfer_routes":["3119"],"related_routes":[]
+    },"5822":{"name":"Dennis Chavez @ Condershire","desc":"DENNIS CHAVEZ BLVD SW \u0026 CONDERSHIRE DR SW","coordinates":[-106.7241,35.0247],"related_stops":["5806","5822"],"transfer_routes":["3119"],"related_routes":[]
+    },"5824":{"name":"98th @ Rio Clara","desc":"","coordinates":[-106.7401,35.0285],"related_stops":["5826","5824"],"transfer_routes":["3119"],"related_routes":[]
+    },"5826":{"name":"98th @ Rio Clara","desc":"98TH ST SW \u0026 RIO CLARA AVE SW","coordinates":[-106.7405,35.0282],"related_stops":["5826","5824"],"transfer_routes":["3119"],"related_routes":[]
+    },"5828":{"name":"98th @ Colobel","desc":"98TH ST SW \u0026 COLOBEL AVE SW","coordinates":[-106.7397,35.0328],"related_stops":["5830","5828"],"transfer_routes":["3119"],"related_routes":[]
+    },"5830":{"name":"98th @ Colobel","desc":"98TH ST SW \u0026 COLOBEL AVE SW","coordinates":[-106.7399,35.0327],"related_stops":["5830","5828"],"transfer_routes":["3119"],"related_routes":[]
+    },"5832":{"name":"98th @ Amole Mesa","desc":"98TH ST SW \u0026 AMOLE MESA AVE SW","coordinates":[-106.7382,35.0362],"related_stops":["5832","5834"],"transfer_routes":["3119"],"related_routes":[]
+    },"5834":{"name":"98th @ Amole Mesa","desc":"98TH ST SW \u0026 AMOLE MESA AVE SW","coordinates":[-106.7384,35.0361],"related_stops":["5832","5834"],"transfer_routes":["3119"],"related_routes":[]
+    },"5836":{"name":"98th @ Blake","desc":"98TH ST SW \u0026 BLAKE RD SW","coordinates":[-106.7373,35.0397],"related_stops":["5836","5838"],"transfer_routes":["3119"],"related_routes":[]
+    },"5838":{"name":"98th @ Blake","desc":"","coordinates":[-106.7369,35.0398],"related_stops":["5836","5838"],"transfer_routes":["3119"],"related_routes":[]
+    },"5840":{"name":"98th @ Gibson","desc":"98TH ST SW","coordinates":[-106.737,35.0438],"related_stops":["5842","5840"],"transfer_routes":["3119"],"related_routes":[]
+    },"5842":{"name":"98th @ Gibson","desc":"98TH ST SW","coordinates":[-106.7373,35.0427],"related_stops":["5842","5840"],"transfer_routes":["3119"],"related_routes":[]
+    },"5844":{"name":"98th @ 86th","desc":"1410 SNOW VISTA BLVD SW","coordinates":[-106.7371,35.0473],"related_stops":["5846","5844"],"transfer_routes":["3119"],"related_routes":[]
+    },"5846":{"name":"98th @ De Anza","desc":"1411 SNOW VISTA BLVD SW","coordinates":[-106.7374,35.0475],"related_stops":["5846","5844"],"transfer_routes":["3119"],"related_routes":[]
+    },"5958":{"name":"CUTC Bay C","desc":"","coordinates":[-106.7253,35.079],"related_stops":["5958","5962","5960"],"transfer_routes":["3133"],"related_routes":["3136","3119","3138"]
+    },"5960":{"name":"CUTC Bay B","desc":"","coordinates":[-106.7252,35.0787],"related_stops":["5958","5962","5960"],"transfer_routes":["3138"],"related_routes":["3133","3136","3119"]
+    },"5962":{"name":"CUTC Bay A","desc":"","coordinates":[-106.7251,35.0785],"related_stops":["5958","5962","5960"],"transfer_routes":["3136","3119"],"related_routes":["3133","3138"]
+    },"7007":{"name":"98th @ Sage","desc":"","coordinates":[-106.7404,35.0552],"related_stops":["5782","7007"],"transfer_routes":["3133","3119"],"related_routes":[]
+    },"7244":{"name":"Central @ 94th","desc":"9307 CENTRAL AVE W \u0026 BRIDGE BLVD SW","coordinates":[-106.7374,35.0739],"related_stops":["5680","7244"],"transfer_routes":["3119"],"related_routes":["3133"]
+    },"7268":{"name":"Snow Vista @ Benevides","desc":"SNOW VISTA BLVD SW","coordinates":[-106.7392,35.0517],"related_stops":["7460","1137","7268"],"transfer_routes":["3119"],"related_routes":["3133"]
+    },"7460":{"name":"98th @ Benevides","desc":"BENAVIDES RD SW \u0026 SNOW VISTA BLVD SW","coordinates":[-106.7398,35.0519],"related_stops":["7460","1137","7268"],"transfer_routes":["3119"],"related_routes":["3133"]
+    },"7620":{"name":"Dennis Chavez @ 118th","desc":"10818 DENNIS CHAVEZ BLVD SW","coordinates":[-106.7521,35.0244],"related_stops":["7620"],"transfer_routes":["3119"],"related_routes":[]
+    },"7648":{"name":"Amole Mesa @ Messina","desc":"AMOLE MESA AVE SW \u0026 MESSINA DR SW","coordinates":[-106.745,35.0373],"related_stops":["7648"],"transfer_routes":["3119"],"related_routes":[]
+    },"7650":{"name":"118th @ Gayle","desc":"118TH ST SW \u0026 GAYLE LN SW","coordinates":[-106.7539,35.0315],"related_stops":["7650"],"transfer_routes":["3119"],"related_routes":[]
+    },"7705":{"name":"Amole Mesa @ Alamo Canyon","desc":"","coordinates":[-106.7528,35.0373],"related_stops":["7705"],"transfer_routes":["3119"],"related_routes":[]
     }
   },
   "trip_data": {
     "shapes": {
-      "f2c53": {
-        "bearing": 348.14,"centroid":[-106.7287,35.046],
-        "bounds": [[-106.7427,35.0243],[0.0,35.0785]
-        ],"coordinates":[[-106.71143200006621,35.025049],[-106.71293100006663,35.024777],[-106.71366200006683,35.024343],[-106.71446200006706,35.024288],[-106.71431000006702,35.025332],[-106.71401300006694,35.027167],[-106.71589200006747,35.026549],[-106.71911100006838,35.025112],[-106.72063200006882,35.02473],[-106.7402880000747,35.024584],[-106.74026500007471,35.031548],[-106.7374930000739,35.038071],[-106.7371490000738,35.039427],[-106.73727000007385,35.04717],[-106.73762000007397,35.048517],[-106.73968200007462,35.052238],[-106.7414260000752,35.057575],[-106.74178100007532,35.063691],[-106.74163600007529,35.065895],[-106.74218500007548,35.070145],[-106.74268400007564,35.072629],[-106.72544700007045,35.076537],[-106.72599700007062,35.078012],[-106.72520100007037,35.078217],[-106.72514500007036,35.078494]],
-        "distances": [0.0,0.1401,0.2224,0.2958,0.4136,0.6203,0.804,1.1367,1.2817,3.0611,3.8407,4.6136,4.768,5.6352,5.7892,6.2453,6.8632,7.549,7.7954,8.2741,8.5559,10.1746,10.3471,10.4236,10.4574]
+      "a3ee1": {
+        "bearing": 168.14,"centroid":[-106.7289,35.0472],
+        "bounds": [[-106.7427,35.0246],[0.0,35.0792]
+        ],"coordinates":[[-106.72514500007036,35.078494],[-106.72549700007048,35.0792],[-106.72626100007068,35.079014],[-106.72544700007045,35.076537],[-106.74268400007564,35.072629],[-106.74218500007548,35.070145],[-106.74163600007529,35.065895],[-106.74178100007532,35.063691],[-106.7414260000752,35.057575],[-106.73968200007462,35.052238],[-106.73762000007397,35.048517],[-106.73727000007385,35.04717],[-106.7371490000738,35.039427],[-106.7374930000739,35.038071],[-106.74026500007471,35.031548],[-106.7402880000747,35.024584],[-106.72063200006882,35.02473],[-106.71911100006838,35.025112],[-106.71589200006747,35.026549],[-106.71371100006687,35.02725],[-106.71163000006628,35.027637],[-106.70940300006565,35.027704],[-106.70998000006581,35.024989],[-106.71143200006621,35.025051]],
+        "distances": [0.0,0.0861,0.1583,0.4459,2.0646,2.3464,2.8251,3.0715,3.7573,4.3752,4.8313,4.9853,5.8525,6.0069,6.7798,7.5594,9.3388,9.4838,9.8165,10.029,10.2222,10.4247,10.7331,10.8648]
       },
-      "87291": {
-        "bearing": 202.27,"centroid":[-106.7414,35.0493],
-        "bounds": [[-106.7552,35.0245],[0.0,35.0792]
-        ],"coordinates":[[-106.72514500007036,35.078494],[-106.72549700007048,35.0792],[-106.72626100007068,35.079014],[-106.72544700007045,35.076537],[-106.74268400007564,35.072629],[-106.74218500007548,35.070145],[-106.74163600007529,35.065895],[-106.74178100007532,35.063691],[-106.7414260000752,35.057575],[-106.73968200007462,35.052238],[-106.73762000007397,35.048517],[-106.73730700007387,35.047512],[-106.7371870000738,35.039175],[-106.73842300007416,35.035841],[-106.73970700007456,35.036191],[-106.74237200007539,35.036446],[-106.7433490000757,35.037019],[-106.74520400007628,35.037247],[-106.75518600007946,35.037139],[-106.75388200007903,35.031619],[-106.75358500007891,35.027263],[-106.75313100007874,35.024959],[-106.75318000007876,35.024493],[-106.75214500007843,35.024509]],
-        "distances": [0.0,0.0861,0.1583,0.4459,2.0646,2.3464,2.8251,3.0715,3.7573,4.3752,4.8313,4.9471,5.8808,6.2706,6.3933,6.636,6.7469,6.917,7.8202,8.4486,8.9376,9.1979,9.251,9.3451]
-      },
-      "ac3aa": {
+      "29f92": {
         "bearing": 22.27,"centroid":[-106.7373,35.0557],
         "bounds": [[-106.7521,35.0245],[0.0,35.0785]
         ],"coordinates":[[-106.75214500007843,35.024509],[-106.7402880000747,35.024584],[-106.74026500007471,35.031548],[-106.7374930000739,35.038071],[-106.7371870000738,35.039175],[-106.73730700007387,35.047512],[-106.73762000007397,35.048517],[-106.73968200007462,35.052238],[-106.7414260000752,35.057575],[-106.74178100007532,35.063691],[-106.74163600007529,35.065895],[-106.74218500007548,35.070145],[-106.74268400007564,35.072629],[-106.72544700007045,35.076537],[-106.72599700007062,35.078012],[-106.72520100007037,35.078217],[-106.72514500007036,35.078494]],
         "distances": [0.0,1.072,1.8516,2.6246,2.7507,3.6844,3.8001,4.2562,4.8741,5.56,5.8064,6.285,6.5668,8.1856,8.358,8.4345,8.4683]
       },
-      "fae9f": {
-        "bearing": 168.14,"centroid":[-106.7289,35.0472],
-        "bounds": [[-106.7427,35.0246],[0.0,35.0792]
-        ],"coordinates":[[-106.72514500007036,35.078494],[-106.72549700007048,35.0792],[-106.72626100007068,35.079014],[-106.72544700007045,35.076537],[-106.74268400007564,35.072629],[-106.74218500007548,35.070145],[-106.74163600007529,35.065895],[-106.74178100007532,35.063691],[-106.7414260000752,35.057575],[-106.73968200007462,35.052238],[-106.73762000007397,35.048517],[-106.73727000007385,35.04717],[-106.7371490000738,35.039427],[-106.7374930000739,35.038071],[-106.74026500007471,35.031548],[-106.7402880000747,35.024584],[-106.72063200006882,35.02473],[-106.71911100006838,35.025112],[-106.71589200006747,35.026549],[-106.71371100006687,35.02725],[-106.71163000006628,35.027637],[-106.70940300006565,35.027704],[-106.70998000006581,35.024989],[-106.71143200006621,35.025051]],
-        "distances": [0.0,0.0861,0.1583,0.4459,2.0646,2.3464,2.8251,3.0715,3.7573,4.3752,4.8313,4.9853,5.8525,6.0069,6.7798,7.5594,9.3388,9.4838,9.8165,10.029,10.2222,10.4247,10.7331,10.8648]
+      "0021f": {
+        "bearing": 348.14,"centroid":[-106.7287,35.046],
+        "bounds": [[-106.7427,35.0243],[0.0,35.0785]
+        ],"coordinates":[[-106.71143200006621,35.025049],[-106.71293100006663,35.024777],[-106.71366200006683,35.024343],[-106.71446200006706,35.024288],[-106.71431000006702,35.025332],[-106.71401300006694,35.027167],[-106.71589200006747,35.026549],[-106.71911100006838,35.025112],[-106.72063200006882,35.02473],[-106.7402880000747,35.024584],[-106.74026500007471,35.031548],[-106.7374930000739,35.038071],[-106.7371490000738,35.039427],[-106.73727000007385,35.04717],[-106.73762000007397,35.048517],[-106.73968200007462,35.052238],[-106.7414260000752,35.057575],[-106.74178100007532,35.063691],[-106.74163600007529,35.065895],[-106.74218500007548,35.070145],[-106.74268400007564,35.072629],[-106.72544700007045,35.076537],[-106.72599700007062,35.078012],[-106.72520100007037,35.078217],[-106.72514500007036,35.078494]],
+        "distances": [0.0,0.1401,0.2224,0.2958,0.4136,0.6203,0.804,1.1367,1.2817,3.0611,3.8407,4.6136,4.768,5.6352,5.7892,6.2453,6.8632,7.549,7.7954,8.2741,8.5559,10.1746,10.3471,10.4236,10.4574]
+      },
+      "b9dc4": {
+        "bearing": 202.27,"centroid":[-106.7414,35.0493],
+        "bounds": [[-106.7552,35.0245],[0.0,35.0792]
+        ],"coordinates":[[-106.72514500007036,35.078494],[-106.72549700007048,35.0792],[-106.72626100007068,35.079014],[-106.72544700007045,35.076537],[-106.74268400007564,35.072629],[-106.74218500007548,35.070145],[-106.74163600007529,35.065895],[-106.74178100007532,35.063691],[-106.7414260000752,35.057575],[-106.73968200007462,35.052238],[-106.73762000007397,35.048517],[-106.73730700007387,35.047512],[-106.7371870000738,35.039175],[-106.73842300007416,35.035841],[-106.73970700007456,35.036191],[-106.74237200007539,35.036446],[-106.7433490000757,35.037019],[-106.74520400007628,35.037247],[-106.75518600007946,35.037139],[-106.75388200007903,35.031619],[-106.75358500007891,35.027263],[-106.75313100007874,35.024959],[-106.75318000007876,35.024493],[-106.75214500007843,35.024509]],
+        "distances": [0.0,0.0861,0.1583,0.4459,2.0646,2.3464,2.8251,3.0715,3.7573,4.3752,4.8313,4.9471,5.8808,6.2706,6.3933,6.636,6.7469,6.917,7.8202,8.4486,8.9376,9.1979,9.251,9.3451]
       }
     },
     "stop_lists": {
-      "1dba7": ["5962","5702","7244","5792","5796","1859","1861","5782","7460","5846","5842","5836","5834","5830","5826","5802","5820","5806","5788"],
+      "d1a90": ["5962","5702","7244","5792","5796","1859","1861","5782","7460","5846","5842","5836","5834","5830","5826","5802","5820","5806","5788"],
+      "8fc3e": ["5962","5702","7244","5792","5796","1859","1861","5782","7460","5846","5842","5836","5834","7648","7705","7650","7620"],
       "9972b": ["5788","5822","5814","5798","5824","5828","5832","5838","5840","5844","7268","7007","1839","1841","1843","5794","5680","5778","5962"],
-      "76a70": ["5962","5702","7244","5792","5796","1859","1861","5782","7460","5846","5842","5836","5834","7648","7705","7650","7620"],
       "8a036": ["7620","5798","5824","5828","5832","5838","5840","5844","7268","7007","1839","1841","1843","5794","5680","5778","5962"]
     },
     "stop_times": {
-      "8e6fa": [0,74,138,196,243,278,330,360,394,446,497,529,570,608,657,683,770,836,1020],
-      "02731": [0,74,138,196,243,278,330,360,401,464,526,564,613,689,771,868,960],
-      "8d324": [0,49,92,131,162,185,220,240,281,344,406,444,493,569,651,748,840],
-      "d323b": [0,62,116,164,203,232,275,300,334,386,437,469,510,548,597,623,710,776,960],
-      "e9da6": [0,49,92,131,162,185,220,240,271,319,366,395,432,467,511,535,614,674,840],
+      "5307f": [0,74,138,200,243,278,330,360,394,446,497,529,570,608,657,683,770,836,1020],
+      "3fa4a": [0,74,138,200,243,278,330,360,397,454,510,544,588,630,683,712,807,879,1080],
+      "6f1d2": [0,74,138,200,244,279,331,360,400,462,522,560,607,682,762,857,960],
+      "f36d7": [0,62,116,168,204,233,276,300,331,379,426,455,492,527,571,595,674,734,900],
+      "b47d6": [0,49,91,132,161,184,219,240,280,342,402,440,487,562,642,737,840],
+      "47c72": [0,49,92,133,162,185,220,240,271,319,366,395,432,467,511,535,614,674,840],
+      "96230": [0,62,116,168,204,233,276,300,334,386,437,469,510,548,597,623,710,776,960],
+      "6b4d0": [0,86,161,234,285,326,387,420,454,506,557,589,630,668,717,743,830,896,1080],
       "c1e56": [0,131,186,258,285,324,357,391,427,459,501,540,571,653,692,734,790,886,960],
-      "5b887": [0,74,138,196,243,278,330,360,397,454,510,544,589,631,684,713,808,880,1080],
       "78e2d": [0,145,207,287,317,361,397,435,475,511,558,600,631,713,752,794,850,946,1020],
-      "a0e36": [0,62,116,164,203,232,275,300,331,379,426,455,492,527,571,595,674,734,900],
       "ddf02": [0,76,98,129,155,182,210,235,268,300,331,413,452,494,550,646,720],
       "5da5c": [0,116,165,229,253,288,317,347,379,407,444,480,506,576,609,645,693,775,840],
       "0bb73": [0,116,165,229,253,288,317,347,379,407,444,480,511,593,632,674,730,826,900],
-      "05ffe": [0,86,161,229,284,325,386,420,454,506,557,589,630,668,717,743,830,896,1080],
       "9fdd9": [0,131,186,258,285,324,357,391,427,459,501,540,566,636,669,705,753,835,900]
     },
     "stop_distances": {
-      "db7b8": [0.0,0.838,1.5666,2.2272,2.7645,3.1616,3.7533,4.0471,4.4061,4.952,5.4865,5.8175,6.2438,6.6436,7.1514,7.4284,8.3334,9.0194,10.8648],
       "7392b": [0.0,1.6011,2.2821,3.1631,3.5021,3.9896,4.3945,4.815,5.2581,5.6543,6.1732,6.5858,6.8752,7.6311,7.9968,8.3882,8.9129,9.7992,10.4574],
       "1ccd5": [0.0,1.1741,1.5131,2.0005,2.4054,2.826,3.269,3.6653,4.1841,4.5967,4.8861,5.6421,6.0077,6.3992,6.9239,7.8102,8.4683],
-      "5b837": [0.0,0.838,1.5666,2.2272,2.7645,3.1616,3.7533,4.0471,4.4061,4.952,5.4865,5.8175,6.2438,6.8989,7.6071,8.4439,9.2003]
+      "4e97b": [0.0,0.838,1.5666,2.2721,2.7645,3.1616,3.7533,4.0471,4.4061,4.952,5.4865,5.8175,6.2431,6.6436,7.1514,7.4284,8.3334,9.0194,10.8648],
+      "6e7ae": [0.0,0.8369,1.5611,2.2692,2.7681,3.1704,3.7659,4.0555,4.4096,4.9568,5.4879,5.8258,6.2443,6.9041,7.6122,8.4491,9.3181]
     },
     "dwell_times": {
       "7c909": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
@@ -135,170 +136,170 @@
     },
     "trips": {
       "1": [
-        {"id":"393772","direction":0,"start_time":22800,"stops_key":"9972b","stop_distances":"7392b","stop_times":"c1e56","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393773","direction":0,"start_time":24780,"stops_key":"8a036","stop_distances":"1ccd5","stop_times":"ddf02","stop_dwells":"7c909","shape_key":"ac3aa"},
-        {"id":"393774","direction":0,"start_time":26760,"stops_key":"9972b","stop_distances":"7392b","stop_times":"78e2d","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393775","direction":0,"start_time":28860,"stops_key":"9972b","stop_distances":"7392b","stop_times":"c1e56","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393776","direction":0,"start_time":30600,"stops_key":"9972b","stop_distances":"7392b","stop_times":"c1e56","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393777","direction":0,"start_time":32400,"stops_key":"9972b","stop_distances":"7392b","stop_times":"c1e56","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393778","direction":0,"start_time":34200,"stops_key":"9972b","stop_distances":"7392b","stop_times":"c1e56","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393779","direction":0,"start_time":36000,"stops_key":"9972b","stop_distances":"7392b","stop_times":"c1e56","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393780","direction":0,"start_time":37800,"stops_key":"9972b","stop_distances":"7392b","stop_times":"c1e56","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393781","direction":0,"start_time":39600,"stops_key":"9972b","stop_distances":"7392b","stop_times":"c1e56","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393782","direction":0,"start_time":41400,"stops_key":"9972b","stop_distances":"7392b","stop_times":"c1e56","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393783","direction":0,"start_time":43200,"stops_key":"9972b","stop_distances":"7392b","stop_times":"c1e56","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393784","direction":0,"start_time":45060,"stops_key":"9972b","stop_distances":"7392b","stop_times":"c1e56","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393785","direction":0,"start_time":46920,"stops_key":"9972b","stop_distances":"7392b","stop_times":"c1e56","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393786","direction":0,"start_time":48780,"stops_key":"9972b","stop_distances":"7392b","stop_times":"c1e56","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393787","direction":0,"start_time":50580,"stops_key":"9972b","stop_distances":"7392b","stop_times":"c1e56","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393788","direction":0,"start_time":52380,"stops_key":"9972b","stop_distances":"7392b","stop_times":"c1e56","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393789","direction":0,"start_time":54420,"stops_key":"8a036","stop_distances":"1ccd5","stop_times":"ddf02","stop_dwells":"7c909","shape_key":"ac3aa"},
-        {"id":"393790","direction":0,"start_time":55980,"stops_key":"9972b","stop_distances":"7392b","stop_times":"c1e56","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393791","direction":0,"start_time":58020,"stops_key":"9972b","stop_distances":"7392b","stop_times":"c1e56","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393792","direction":0,"start_time":60060,"stops_key":"9972b","stop_distances":"7392b","stop_times":"c1e56","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393793","direction":0,"start_time":61800,"stops_key":"8a036","stop_distances":"1ccd5","stop_times":"ddf02","stop_dwells":"7c909","shape_key":"ac3aa"},
-        {"id":"393794","direction":0,"start_time":63420,"stops_key":"9972b","stop_distances":"7392b","stop_times":"9fdd9","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393795","direction":0,"start_time":65280,"stops_key":"9972b","stop_distances":"7392b","stop_times":"9fdd9","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393796","direction":0,"start_time":66960,"stops_key":"9972b","stop_distances":"7392b","stop_times":"9fdd9","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393797","direction":0,"start_time":68580,"stops_key":"9972b","stop_distances":"7392b","stop_times":"5da5c","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393798","direction":0,"start_time":70260,"stops_key":"9972b","stop_distances":"7392b","stop_times":"5da5c","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393799","direction":0,"start_time":72360,"stops_key":"9972b","stop_distances":"7392b","stop_times":"5da5c","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393800","direction":0,"start_time":75060,"stops_key":"9972b","stop_distances":"7392b","stop_times":"5da5c","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393801","direction":0,"start_time":77580,"stops_key":"9972b","stop_distances":"7392b","stop_times":"5da5c","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393802","direction":0,"start_time":80580,"stops_key":"9972b","stop_distances":"7392b","stop_times":"5da5c","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393803","direction":1,"start_time":21780,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"e9da6","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393804","direction":1,"start_time":23760,"stops_key":"76a70","stop_distances":"5b837","stop_times":"8d324","stop_dwells":"7c909","shape_key":"87291"},
-        {"id":"393805","direction":1,"start_time":25560,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"d323b","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393806","direction":1,"start_time":27540,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"d323b","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393807","direction":1,"start_time":29400,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"a0e36","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393808","direction":1,"start_time":31200,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"a0e36","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393809","direction":1,"start_time":33000,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"a0e36","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393810","direction":1,"start_time":34800,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"a0e36","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393811","direction":1,"start_time":36600,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"a0e36","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393812","direction":1,"start_time":38400,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"a0e36","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393813","direction":1,"start_time":40380,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"a0e36","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393814","direction":1,"start_time":42180,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"a0e36","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393815","direction":1,"start_time":43980,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"d323b","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393816","direction":1,"start_time":45840,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"d323b","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393817","direction":1,"start_time":47700,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"d323b","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393818","direction":1,"start_time":49500,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"d323b","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393819","direction":1,"start_time":51240,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"8e6fa","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393820","direction":1,"start_time":53280,"stops_key":"76a70","stop_distances":"5b837","stop_times":"02731","stop_dwells":"7c909","shape_key":"87291"},
-        {"id":"393821","direction":1,"start_time":54780,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"5b887","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393822","direction":1,"start_time":56700,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"5b887","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393823","direction":1,"start_time":58740,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"5b887","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393824","direction":1,"start_time":60180,"stops_key":"76a70","stop_distances":"5b837","stop_times":"02731","stop_dwells":"7c909","shape_key":"87291"},
-        {"id":"393825","direction":1,"start_time":61980,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"5b887","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393826","direction":1,"start_time":63780,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"5b887","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393827","direction":1,"start_time":65580,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"8e6fa","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393828","direction":1,"start_time":67200,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"8e6fa","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393829","direction":1,"start_time":69000,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"8e6fa","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393830","direction":1,"start_time":71220,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"8e6fa","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393831","direction":1,"start_time":73920,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"8e6fa","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393832","direction":1,"start_time":76260,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"8e6fa","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393833","direction":1,"start_time":79500,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"d323b","stop_dwells":"e6b62","shape_key":"fae9f"}
+        {"id":"404510","direction":0,"start_time":22800,"stops_key":"9972b","stop_distances":"7392b","stop_times":"c1e56","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404509","direction":0,"start_time":24780,"stops_key":"8a036","stop_distances":"1ccd5","stop_times":"ddf02","stop_dwells":"7c909","shape_key":"29f92"},
+        {"id":"404508","direction":0,"start_time":26760,"stops_key":"9972b","stop_distances":"7392b","stop_times":"78e2d","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404507","direction":0,"start_time":28860,"stops_key":"9972b","stop_distances":"7392b","stop_times":"c1e56","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404506","direction":0,"start_time":30600,"stops_key":"9972b","stop_distances":"7392b","stop_times":"c1e56","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404505","direction":0,"start_time":32400,"stops_key":"9972b","stop_distances":"7392b","stop_times":"c1e56","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404504","direction":0,"start_time":34200,"stops_key":"9972b","stop_distances":"7392b","stop_times":"c1e56","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404503","direction":0,"start_time":36000,"stops_key":"9972b","stop_distances":"7392b","stop_times":"c1e56","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404502","direction":0,"start_time":37800,"stops_key":"9972b","stop_distances":"7392b","stop_times":"c1e56","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404501","direction":0,"start_time":39600,"stops_key":"9972b","stop_distances":"7392b","stop_times":"c1e56","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404500","direction":0,"start_time":41400,"stops_key":"9972b","stop_distances":"7392b","stop_times":"c1e56","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404499","direction":0,"start_time":43200,"stops_key":"9972b","stop_distances":"7392b","stop_times":"c1e56","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404498","direction":0,"start_time":45060,"stops_key":"9972b","stop_distances":"7392b","stop_times":"c1e56","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404497","direction":0,"start_time":46920,"stops_key":"9972b","stop_distances":"7392b","stop_times":"c1e56","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404496","direction":0,"start_time":48780,"stops_key":"9972b","stop_distances":"7392b","stop_times":"c1e56","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404495","direction":0,"start_time":50580,"stops_key":"9972b","stop_distances":"7392b","stop_times":"c1e56","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404494","direction":0,"start_time":52380,"stops_key":"9972b","stop_distances":"7392b","stop_times":"c1e56","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404493","direction":0,"start_time":54420,"stops_key":"8a036","stop_distances":"1ccd5","stop_times":"ddf02","stop_dwells":"7c909","shape_key":"29f92"},
+        {"id":"404492","direction":0,"start_time":55980,"stops_key":"9972b","stop_distances":"7392b","stop_times":"c1e56","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404491","direction":0,"start_time":58020,"stops_key":"9972b","stop_distances":"7392b","stop_times":"c1e56","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404490","direction":0,"start_time":60060,"stops_key":"9972b","stop_distances":"7392b","stop_times":"c1e56","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404489","direction":0,"start_time":61800,"stops_key":"8a036","stop_distances":"1ccd5","stop_times":"ddf02","stop_dwells":"7c909","shape_key":"29f92"},
+        {"id":"404488","direction":0,"start_time":63420,"stops_key":"9972b","stop_distances":"7392b","stop_times":"9fdd9","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404487","direction":0,"start_time":65280,"stops_key":"9972b","stop_distances":"7392b","stop_times":"9fdd9","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404486","direction":0,"start_time":66960,"stops_key":"9972b","stop_distances":"7392b","stop_times":"9fdd9","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404485","direction":0,"start_time":68580,"stops_key":"9972b","stop_distances":"7392b","stop_times":"5da5c","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404484","direction":0,"start_time":70260,"stops_key":"9972b","stop_distances":"7392b","stop_times":"5da5c","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404483","direction":0,"start_time":72360,"stops_key":"9972b","stop_distances":"7392b","stop_times":"5da5c","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404482","direction":0,"start_time":75060,"stops_key":"9972b","stop_distances":"7392b","stop_times":"5da5c","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404481","direction":0,"start_time":77580,"stops_key":"9972b","stop_distances":"7392b","stop_times":"5da5c","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404480","direction":0,"start_time":80580,"stops_key":"9972b","stop_distances":"7392b","stop_times":"5da5c","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404541","direction":1,"start_time":21780,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"47c72","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404540","direction":1,"start_time":23760,"stops_key":"8fc3e","stop_distances":"6e7ae","stop_times":"b47d6","stop_dwells":"7c909","shape_key":"b9dc4"},
+        {"id":"404539","direction":1,"start_time":25560,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"96230","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404538","direction":1,"start_time":27540,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"96230","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404537","direction":1,"start_time":29400,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"f36d7","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404536","direction":1,"start_time":31200,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"f36d7","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404535","direction":1,"start_time":33000,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"f36d7","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404534","direction":1,"start_time":34800,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"f36d7","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404533","direction":1,"start_time":36600,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"f36d7","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404532","direction":1,"start_time":38400,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"f36d7","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404531","direction":1,"start_time":40380,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"f36d7","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404530","direction":1,"start_time":42180,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"f36d7","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404529","direction":1,"start_time":43980,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"96230","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404528","direction":1,"start_time":45840,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"96230","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404527","direction":1,"start_time":47700,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"96230","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404526","direction":1,"start_time":49500,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"96230","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404525","direction":1,"start_time":51240,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"5307f","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404524","direction":1,"start_time":53280,"stops_key":"8fc3e","stop_distances":"6e7ae","stop_times":"6f1d2","stop_dwells":"7c909","shape_key":"b9dc4"},
+        {"id":"404523","direction":1,"start_time":54780,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"3fa4a","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404522","direction":1,"start_time":56700,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"3fa4a","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404521","direction":1,"start_time":58740,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"3fa4a","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404520","direction":1,"start_time":60180,"stops_key":"8fc3e","stop_distances":"6e7ae","stop_times":"6f1d2","stop_dwells":"7c909","shape_key":"b9dc4"},
+        {"id":"404519","direction":1,"start_time":61980,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"3fa4a","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404518","direction":1,"start_time":63780,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"3fa4a","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404517","direction":1,"start_time":65580,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"5307f","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404516","direction":1,"start_time":67200,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"5307f","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404515","direction":1,"start_time":69000,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"5307f","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404514","direction":1,"start_time":71220,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"5307f","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404513","direction":1,"start_time":73920,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"5307f","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404512","direction":1,"start_time":76260,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"5307f","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404511","direction":1,"start_time":79500,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"96230","stop_dwells":"e6b62","shape_key":"a3ee1"}
       ],
       "2": [
-        {"id":"393674","direction":0,"start_time":24420,"stops_key":"9972b","stop_distances":"7392b","stop_times":"5da5c","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393675","direction":0,"start_time":26340,"stops_key":"9972b","stop_distances":"7392b","stop_times":"5da5c","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393676","direction":0,"start_time":28200,"stops_key":"9972b","stop_distances":"7392b","stop_times":"5da5c","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393677","direction":0,"start_time":30120,"stops_key":"9972b","stop_distances":"7392b","stop_times":"5da5c","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393678","direction":0,"start_time":31860,"stops_key":"9972b","stop_distances":"7392b","stop_times":"5da5c","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393679","direction":0,"start_time":33720,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393680","direction":0,"start_time":35700,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393681","direction":0,"start_time":37620,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393682","direction":0,"start_time":39540,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393683","direction":0,"start_time":41460,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393684","direction":0,"start_time":43380,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393685","direction":0,"start_time":45480,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393686","direction":0,"start_time":47400,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393687","direction":0,"start_time":49380,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393688","direction":0,"start_time":51300,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393689","direction":0,"start_time":53220,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393690","direction":0,"start_time":55140,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393691","direction":0,"start_time":57180,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393692","direction":0,"start_time":59100,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393693","direction":0,"start_time":61080,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393694","direction":0,"start_time":63000,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393695","direction":0,"start_time":64860,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393696","direction":0,"start_time":66780,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393697","direction":0,"start_time":68640,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393698","direction":0,"start_time":70500,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393699","direction":0,"start_time":72720,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393700","direction":0,"start_time":75360,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393701","direction":0,"start_time":78060,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393702","direction":1,"start_time":23400,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"a0e36","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393703","direction":1,"start_time":25260,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"a0e36","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393704","direction":1,"start_time":27060,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"a0e36","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393705","direction":1,"start_time":28920,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"a0e36","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393706","direction":1,"start_time":30780,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"a0e36","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393707","direction":1,"start_time":32640,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"a0e36","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393708","direction":1,"start_time":34560,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"d323b","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393709","direction":1,"start_time":36480,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"d323b","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393710","direction":1,"start_time":38400,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"d323b","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393711","direction":1,"start_time":40320,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"d323b","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393712","direction":1,"start_time":42240,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"d323b","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393713","direction":1,"start_time":44280,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"8e6fa","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393714","direction":1,"start_time":46200,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"8e6fa","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393715","direction":1,"start_time":48120,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"05ffe","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393716","direction":1,"start_time":50040,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"05ffe","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393717","direction":1,"start_time":51960,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"05ffe","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393718","direction":1,"start_time":53880,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"05ffe","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393719","direction":1,"start_time":55920,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"05ffe","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393720","direction":1,"start_time":57840,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"05ffe","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393721","direction":1,"start_time":59820,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"05ffe","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393722","direction":1,"start_time":61740,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"05ffe","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393723","direction":1,"start_time":63600,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"05ffe","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393724","direction":1,"start_time":65520,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"05ffe","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393725","direction":1,"start_time":67380,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"05ffe","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393726","direction":1,"start_time":69240,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"05ffe","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393727","direction":1,"start_time":71460,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"05ffe","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393728","direction":1,"start_time":74100,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"05ffe","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393729","direction":1,"start_time":76800,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"05ffe","stop_dwells":"e6b62","shape_key":"fae9f"}
+        {"id":"404409","direction":0,"start_time":24420,"stops_key":"9972b","stop_distances":"7392b","stop_times":"5da5c","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404408","direction":0,"start_time":26340,"stops_key":"9972b","stop_distances":"7392b","stop_times":"5da5c","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404407","direction":0,"start_time":28200,"stops_key":"9972b","stop_distances":"7392b","stop_times":"5da5c","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404406","direction":0,"start_time":30120,"stops_key":"9972b","stop_distances":"7392b","stop_times":"5da5c","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404405","direction":0,"start_time":31860,"stops_key":"9972b","stop_distances":"7392b","stop_times":"5da5c","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404404","direction":0,"start_time":33720,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404403","direction":0,"start_time":35700,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404402","direction":0,"start_time":37620,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404401","direction":0,"start_time":39540,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404400","direction":0,"start_time":41460,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404399","direction":0,"start_time":43380,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404398","direction":0,"start_time":45480,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404397","direction":0,"start_time":47400,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404396","direction":0,"start_time":49380,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404395","direction":0,"start_time":51300,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404394","direction":0,"start_time":53220,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404393","direction":0,"start_time":55140,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404392","direction":0,"start_time":57180,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404391","direction":0,"start_time":59100,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404390","direction":0,"start_time":61080,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404389","direction":0,"start_time":63000,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404388","direction":0,"start_time":64860,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404387","direction":0,"start_time":66780,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404386","direction":0,"start_time":68640,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404385","direction":0,"start_time":70500,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404384","direction":0,"start_time":72720,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404383","direction":0,"start_time":75360,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404382","direction":0,"start_time":78060,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404437","direction":1,"start_time":23400,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"f36d7","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404436","direction":1,"start_time":25260,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"f36d7","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404435","direction":1,"start_time":27060,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"f36d7","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404434","direction":1,"start_time":28920,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"f36d7","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404433","direction":1,"start_time":30780,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"f36d7","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404432","direction":1,"start_time":32640,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"f36d7","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404431","direction":1,"start_time":34560,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"96230","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404430","direction":1,"start_time":36480,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"96230","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404429","direction":1,"start_time":38400,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"96230","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404428","direction":1,"start_time":40320,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"96230","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404427","direction":1,"start_time":42240,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"96230","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404426","direction":1,"start_time":44280,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"5307f","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404425","direction":1,"start_time":46200,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"5307f","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404424","direction":1,"start_time":48120,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"6b4d0","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404423","direction":1,"start_time":50040,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"6b4d0","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404422","direction":1,"start_time":51960,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"6b4d0","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404421","direction":1,"start_time":53880,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"6b4d0","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404420","direction":1,"start_time":55920,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"6b4d0","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404419","direction":1,"start_time":57840,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"6b4d0","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404418","direction":1,"start_time":59820,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"6b4d0","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404417","direction":1,"start_time":61740,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"6b4d0","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404416","direction":1,"start_time":63600,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"6b4d0","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404415","direction":1,"start_time":65520,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"6b4d0","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404414","direction":1,"start_time":67380,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"6b4d0","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404413","direction":1,"start_time":69240,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"6b4d0","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404412","direction":1,"start_time":71460,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"6b4d0","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404411","direction":1,"start_time":74100,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"6b4d0","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404410","direction":1,"start_time":76800,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"6b4d0","stop_dwells":"e6b62","shape_key":"a3ee1"}
       ],
       "3": [
-        {"id":"393730","direction":0,"start_time":24420,"stops_key":"9972b","stop_distances":"7392b","stop_times":"5da5c","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393731","direction":0,"start_time":26340,"stops_key":"9972b","stop_distances":"7392b","stop_times":"5da5c","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393732","direction":0,"start_time":28200,"stops_key":"9972b","stop_distances":"7392b","stop_times":"5da5c","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393733","direction":0,"start_time":30120,"stops_key":"9972b","stop_distances":"7392b","stop_times":"5da5c","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393734","direction":0,"start_time":31860,"stops_key":"9972b","stop_distances":"7392b","stop_times":"5da5c","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393735","direction":0,"start_time":33720,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393736","direction":0,"start_time":35700,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393737","direction":0,"start_time":37620,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393738","direction":0,"start_time":39540,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393739","direction":0,"start_time":41460,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393740","direction":0,"start_time":43380,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393741","direction":0,"start_time":45480,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393742","direction":0,"start_time":47400,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393743","direction":0,"start_time":49380,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393744","direction":0,"start_time":51300,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393745","direction":0,"start_time":53220,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393746","direction":0,"start_time":55140,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393747","direction":0,"start_time":57180,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393748","direction":0,"start_time":59100,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393749","direction":0,"start_time":61080,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393750","direction":0,"start_time":63000,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"f2c53"},
-        {"id":"393751","direction":1,"start_time":23400,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"a0e36","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393752","direction":1,"start_time":25260,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"a0e36","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393753","direction":1,"start_time":27060,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"a0e36","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393754","direction":1,"start_time":28920,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"a0e36","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393755","direction":1,"start_time":30780,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"a0e36","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393756","direction":1,"start_time":32640,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"a0e36","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393757","direction":1,"start_time":34560,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"d323b","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393758","direction":1,"start_time":36480,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"d323b","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393759","direction":1,"start_time":38400,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"d323b","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393760","direction":1,"start_time":40320,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"d323b","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393761","direction":1,"start_time":42240,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"d323b","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393762","direction":1,"start_time":44280,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"8e6fa","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393763","direction":1,"start_time":46200,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"8e6fa","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393764","direction":1,"start_time":48120,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"05ffe","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393765","direction":1,"start_time":50040,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"05ffe","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393766","direction":1,"start_time":51960,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"05ffe","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393767","direction":1,"start_time":53880,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"05ffe","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393768","direction":1,"start_time":55920,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"05ffe","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393769","direction":1,"start_time":57840,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"05ffe","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393770","direction":1,"start_time":59820,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"05ffe","stop_dwells":"e6b62","shape_key":"fae9f"},
-        {"id":"393771","direction":1,"start_time":61740,"stops_key":"1dba7","stop_distances":"db7b8","stop_times":"05ffe","stop_dwells":"e6b62","shape_key":"fae9f"}
+        {"id":"404458","direction":0,"start_time":24420,"stops_key":"9972b","stop_distances":"7392b","stop_times":"5da5c","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404457","direction":0,"start_time":26340,"stops_key":"9972b","stop_distances":"7392b","stop_times":"5da5c","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404456","direction":0,"start_time":28200,"stops_key":"9972b","stop_distances":"7392b","stop_times":"5da5c","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404455","direction":0,"start_time":30120,"stops_key":"9972b","stop_distances":"7392b","stop_times":"5da5c","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404454","direction":0,"start_time":31860,"stops_key":"9972b","stop_distances":"7392b","stop_times":"5da5c","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404453","direction":0,"start_time":33720,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404452","direction":0,"start_time":35700,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404451","direction":0,"start_time":37620,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404450","direction":0,"start_time":39540,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404449","direction":0,"start_time":41460,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404448","direction":0,"start_time":43380,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404447","direction":0,"start_time":45480,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404446","direction":0,"start_time":47400,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404445","direction":0,"start_time":49380,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404444","direction":0,"start_time":51300,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404443","direction":0,"start_time":53220,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404442","direction":0,"start_time":55140,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404441","direction":0,"start_time":57180,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404440","direction":0,"start_time":59100,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404439","direction":0,"start_time":61080,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404438","direction":0,"start_time":63000,"stops_key":"9972b","stop_distances":"7392b","stop_times":"0bb73","stop_dwells":"e6b62","shape_key":"0021f"},
+        {"id":"404479","direction":1,"start_time":23400,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"f36d7","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404478","direction":1,"start_time":25260,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"f36d7","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404477","direction":1,"start_time":27060,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"f36d7","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404476","direction":1,"start_time":28920,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"f36d7","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404475","direction":1,"start_time":30780,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"f36d7","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404474","direction":1,"start_time":32640,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"f36d7","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404473","direction":1,"start_time":34560,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"96230","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404472","direction":1,"start_time":36480,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"96230","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404471","direction":1,"start_time":38400,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"96230","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404470","direction":1,"start_time":40320,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"96230","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404469","direction":1,"start_time":42240,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"96230","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404468","direction":1,"start_time":44280,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"5307f","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404467","direction":1,"start_time":46200,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"5307f","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404466","direction":1,"start_time":48120,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"6b4d0","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404465","direction":1,"start_time":50040,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"6b4d0","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404464","direction":1,"start_time":51960,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"6b4d0","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404463","direction":1,"start_time":53880,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"6b4d0","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404462","direction":1,"start_time":55920,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"6b4d0","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404461","direction":1,"start_time":57840,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"6b4d0","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404460","direction":1,"start_time":59820,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"6b4d0","stop_dwells":"e6b62","shape_key":"a3ee1"},
+        {"id":"404459","direction":1,"start_time":61740,"stops_key":"d1a90","stop_distances":"4e97b","stop_times":"6b4d0","stop_dwells":"e6b62","shape_key":"a3ee1"}
       ]
     }
   }

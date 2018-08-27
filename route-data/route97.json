@@ -1,149 +1,150 @@
 {
-  "id": "3062",
+  "id": "3146",
   "short_name": "97",
   "long_name": "Zuni Express",
   "color": "6600FF",
   "text_color": "FFFFFF",
   "schedules": {
     "1": {
-      "start_date": "20171125",
-      "end_date": "20180511",
-      "days_mask_mon_sun": 124,"added_days":[],"removed_days":[]
+      "start_date": "20180818",
+      "end_date": "20181221",
+      "days_mask_mon_sun": 124,"added_days":[],"removed_days":["20180903","20181122","20181123"
+      ]
     }
   },
-  "related_route_data": {"3045":{"short_name":"5","long_name":"Montgomery/Carlisle","color":"FF4E21","text_color":"000000"
-    },"3051":{"short_name":"6","long_name":"Indian School Commuter","color":"E171E1","text_color":"000000"
-    },"3053":{"short_name":"7","long_name":"Candelaria Commuter","color":"FF7F54","text_color":"000000"
-    },"3057":{"short_name":"8","long_name":"Menaul","color":"7B097B","text_color":"FFFFFF"
-    },"3025":{"short_name":"10","long_name":"North Fourth Street","color":"C30000","text_color":"FFFFFF"
-    },"3026":{"short_name":"11","long_name":"Lomas","color":"800080","text_color":"FFFFFF"
-    },"3027":{"short_name":"12","long_name":"Constitution Commuter","color":"B7FF00","text_color":"000000"
-    },"3028":{"short_name":"13","long_name":"Comanche Commuter","color":"006267","text_color":"FFFFFF"
-    },"3033":{"short_name":"16","long_name":"University/Gibson/Broadway","color":"C01D8C","text_color":"FFFFFF"
-    },"3041":{"short_name":"31","long_name":"Wyoming","color":"852300","text_color":"FFFFFF"
-    },"3042":{"short_name":"34","long_name":"San Pedro Commuter","color":"FF9E00","text_color":"000000"
-    },"3043":{"short_name":"36","long_name":"12th Street/Rio Grande","color":"800000","text_color":"FFFFFF"
-    },"3044":{"short_name":"40","long_name":"D-RIDE","color":"000000","text_color":"FFFFFF"
-    },"3046":{"short_name":"50","long_name":"Airport/Downtown","color":"71220F","text_color":"FFFFFF"
-    },"3048":{"short_name":"53","long_name":"Isleta","color":"2390CF","text_color":"000000"
-    },"3049":{"short_name":"54","long_name":"Bridge/Westgate","color":"006097","text_color":"FFFFFF"
-    },"3052":{"short_name":"66","long_name":"Central Avenue","color":"00DEC8","text_color":"000000"
-    },"3058":{"short_name":"92","long_name":"Taylor Ranch Express","color":"D43815","text_color":"FFFFFF"
-    },"3059":{"short_name":"93","long_name":"Academy Commuter","color":"9494FF","text_color":"000000"
-    },"3060":{"short_name":"94","long_name":"Unser Commuter","color":"3988FF","text_color":"000000"
-    },"3062":{"short_name":"97","long_name":"Zuni Express","color":"6600FF","text_color":"FFFFFF"
-    },"3063":{"short_name":"98","long_name":"Wyoming Commuter","color":"005B3C","text_color":"FFFFFF"
-    },"3029":{"short_name":"140","long_name":"San Mateo / CNM Work Force","color":"420080","text_color":"FFFFFF"
-    },"3030":{"short_name":"141","long_name":"San Mateo","color":"7E0080","text_color":"FFFFFF"
-    },"3032":{"short_name":"157","long_name":"Cottonwood/Montano/UTC","color":"008047","text_color":"FFFFFF"
-    },"3037":{"short_name":"217","long_name":"Downtown-KAFB Ltd.","color":"FDDC00","text_color":"000000"
-    },"3039":{"short_name":"250","long_name":"Airport/Downtown Express","color":"F34C00","text_color":"000000"
-    },"3054":{"short_name":"766","long_name":"Red Line Rapid Ride","color":"EC0000","text_color":"FFFFFF"
-    },"3055":{"short_name":"777","long_name":"Green Line Rapid Ride","color":"00FF00","text_color":"000000"
+  "related_route_data": {"3129":{"short_name":"5","long_name":"Montgomery/Carlisle","color":"FF4E21","text_color":"000000"
+    },"3135":{"short_name":"6","long_name":"Indian School Commuter","color":"E171E1","text_color":"000000"
+    },"3137":{"short_name":"7","long_name":"Candelaria Commuter","color":"FF7F54","text_color":"000000"
+    },"3141":{"short_name":"8","long_name":"Menaul","color":"7B097B","text_color":"FFFFFF"
+    },"3109":{"short_name":"10","long_name":"North Fourth Street","color":"C30000","text_color":"FFFFFF"
+    },"3110":{"short_name":"11","long_name":"Lomas","color":"800080","text_color":"FFFFFF"
+    },"3111":{"short_name":"12","long_name":"Constitution Commuter","color":"B7FF00","text_color":"000000"
+    },"3112":{"short_name":"13","long_name":"Comanche Commuter","color":"006267","text_color":"FFFFFF"
+    },"3117":{"short_name":"16","long_name":"University/Gibson/Broadway","color":"C01D8C","text_color":"FFFFFF"
+    },"3125":{"short_name":"31","long_name":"Wyoming","color":"852300","text_color":"FFFFFF"
+    },"3126":{"short_name":"34","long_name":"San Pedro Commuter","color":"FF9E00","text_color":"000000"
+    },"3127":{"short_name":"36","long_name":"12th Street/Rio Grande","color":"800000","text_color":"FFFFFF"
+    },"3128":{"short_name":"37","long_name":"Rio Grande/12th Street","color":"800000","text_color":"FFFFFF"
+    },"3130":{"short_name":"50","long_name":"Airport/Downtown","color":"71220F","text_color":"FFFFFF"
+    },"3132":{"short_name":"53","long_name":"Isleta","color":"2390CF","text_color":"000000"
+    },"3133":{"short_name":"54","long_name":"Bridge/Westgate","color":"006097","text_color":"FFFFFF"
+    },"3136":{"short_name":"66","long_name":"Central Avenue","color":"00DEC8","text_color":"000000"
+    },"3142":{"short_name":"92","long_name":"Taylor Ranch Express","color":"D43815","text_color":"FFFFFF"
+    },"3143":{"short_name":"93","long_name":"Academy Commuter","color":"9494FF","text_color":"000000"
+    },"3144":{"short_name":"94","long_name":"Unser Commuter","color":"3988FF","text_color":"000000"
+    },"3146":{"short_name":"97","long_name":"Zuni Express","color":"6600FF","text_color":"FFFFFF"
+    },"3147":{"short_name":"98","long_name":"Wyoming Commuter","color":"005B3C","text_color":"FFFFFF"
+    },"3113":{"short_name":"140","long_name":"San Mateo / CNM Work Force","color":"420080","text_color":"FFFFFF"
+    },"3114":{"short_name":"141","long_name":"San Mateo","color":"7E0080","text_color":"FFFFFF"
+    },"3116":{"short_name":"157","long_name":"Cottonwood/Montano/UTC","color":"008047","text_color":"FFFFFF"
+    },"3121":{"short_name":"217","long_name":"Downtown-KAFB Ltd.","color":"FDDC00","text_color":"000000"
+    },"3123":{"short_name":"250","long_name":"Airport/Downtown Express","color":"F34C00","text_color":"000000"
+    },"3138":{"short_name":"766","long_name":"Red Line Rapid Ride","color":"EC0000","text_color":"FFFFFF"
+    },"3139":{"short_name":"777","long_name":"Green Line Rapid Ride","color":"00FF00","text_color":"000000"
     }
   },
-  "stops": {"1082":{"name":"Wyoming @ Zuni","desc":"210 WYOMING BLVD SE","coordinates":[-106.5503,35.0719],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3041"],"related_routes":["3052","3062","3063","3055"]
-    },"1150":{"name":"Zuni @ Pennsylvania","desc":"7907 ZUNI RD SE \u0026 PENNSYLVANIA ST SE","coordinates":[-106.5596,35.0729],"related_stops":["1152","1150"],"transfer_routes":["3062"],"related_routes":[]
-    },"1152":{"name":"Zuni @ Pennsylvania","desc":"8002 ZUNI RD SE \u0026 PENNSYLVANIA ST SE","coordinates":[-106.559,35.0727],"related_stops":["1152","1150"],"transfer_routes":["3062"],"related_routes":[]
-    },"1249":{"name":"Wyoming @ Central","desc":"117 WYOMING BLVD NE \u0026 WYOMING BLVD SE","coordinates":[-106.5506,35.0742],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3041","3063"],"related_routes":["3052","3062","3055"]
-    },"1251":{"name":"Wyoming @ Zuni","desc":"111 WYOMING BLVD SE","coordinates":[-106.5505,35.0732],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3041"],"related_routes":["3052","3062","3063","3055"]
-    },"1253":{"name":"Wyoming @ Zuni","desc":"219 WYOMING BLVD SE","coordinates":[-106.5506,35.0721],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3041"],"related_routes":["3052","3062","3063","3055"]
-    },"2781":{"name":"Louisiana @ Zuni","desc":"LOUISIANA \u0026 ZUNI","coordinates":[-106.5687,35.0719],"related_stops":["7446","3507","2781","2819"],"transfer_routes":["3032"],"related_routes":["3062"]
-    },"2819":{"name":"Louisiana @ Zuni","desc":"312 LOUISIANA BLVD SE","coordinates":[-106.5685,35.0732],"related_stops":["7446","3507","2781","2819"],"transfer_routes":["3032"],"related_routes":["3062"]
-    },"3185":{"name":"Coal @ Hazeldine","desc":"COAL AVE SE \u0026 HAZELDINE AVE SE","coordinates":[-106.6281,35.0764],"related_stops":["6438","3491","7428","6440","6338","3185"],"transfer_routes":["3062"],"related_routes":["3033","3058","3037"]
-    },"3455":{"name":"Zuni @ Wyoming","desc":"9017 ZUNI RD SE","coordinates":[-106.5495,35.0728],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3062"],"related_routes":["3041","3052","3063","3055"]
-    },"3457":{"name":"Zuni @ Texas","desc":"8211 ZUNI RD SE \u0026 TEXAS ST SE","coordinates":[-106.5554,35.0729],"related_stops":["3511","3457"],"transfer_routes":["3062"],"related_routes":[]
-    },"3459":{"name":"Zuni @ San Pablo","desc":"7639 ZUNI RD SE \u0026 SAN PABLO ST SE","coordinates":[-106.5636,35.0728],"related_stops":["3459","7286"],"transfer_routes":["3062"],"related_routes":[]
-    },"3463":{"name":"Zuni @ San Pedro","desc":"6137 ZUNI RD SE \u0026 CAGUA DR SE","coordinates":[-106.5781,35.0729],"related_stops":["6018","3463","6198","3505","6016"],"transfer_routes":["3062"],"related_routes":["3042"]
-    },"3465":{"name":"Zuni @ Alvarado","desc":"410 ALVARADO DR SE \u0026 ZUNI RD SE","coordinates":[-106.5817,35.0729],"related_stops":["3503","3465"],"transfer_routes":["3062"],"related_routes":[]
-    },"3467":{"name":"Zuni @ San Mateo","desc":"5501 ZUNI RD SE \u0026 SAN MATEO BLVD SE","coordinates":[-106.5859,35.0731],"related_stops":["6506","6504","6518","3501","3467"],"transfer_routes":["3062"],"related_routes":["3029","3030"]
-    },"3469":{"name":"Zuni @ Adams","desc":"4613 ZUNI RD SE \u0026 HIGHLAND AVE SE","coordinates":[-106.5942,35.0744],"related_stops":["3499","3469"],"transfer_routes":["3062"],"related_routes":[]
-    },"3471":{"name":"Lead @ Carlisle","desc":"3603 LEAD AVE SE \u0026 CARLISLE BLVD SE","coordinates":[-106.6044,35.0773],"related_stops":["3497","6412","6368","3471"],"transfer_routes":["3062"],"related_routes":["3033"]
-    },"3473":{"name":"Lead @ Girard","desc":"2927 LEAD AVE SE \u0026 GIRARD BLVD SE","coordinates":[-106.613,35.0773],"related_stops":["3473"],"transfer_routes":["3062"],"related_routes":[]
-    },"3475":{"name":"Lead @ Yale","desc":"2205 LEAD AVE SE \u0026 YALE BLVD SE","coordinates":[-106.6219,35.0774],"related_stops":["3833","3777","3475"],"transfer_routes":["3062"],"related_routes":["3046"]
-    },"3477":{"name":"Lead @ Mesa","desc":"1819 LEAD AVE SE \u0026 MESA ST SE","coordinates":[-106.6263,35.0783],"related_stops":["3477"],"transfer_routes":["3062"],"related_routes":[]
-    },"3479":{"name":"Lead @ Cedar","desc":"1107 LEAD AVE SE \u0026 CEDAR ST SE","coordinates":[-106.6347,35.0794],"related_stops":["3479"],"transfer_routes":["3062"],"related_routes":[]
-    },"3481":{"name":"Lead @ Elm","desc":"771 LEAD AVE SE \u0026 ELM ST SE","coordinates":[-106.6395,35.08],"related_stops":["3481"],"transfer_routes":["3062"],"related_routes":[]
-    },"3483":{"name":"Lead @ Broadway","desc":"305 LEAD AVE SE \u0026 BROADWAY BLVD SE","coordinates":[-106.6449,35.0807],"related_stops":["3483"],"transfer_routes":["3062"],"related_routes":[]
-    },"3485":{"name":"Coal @ Broadway","desc":"338 COAL AVE SE \u0026 BROADWAY BLVD SE","coordinates":[-106.6449,35.0796],"related_stops":["3485","6452","6318"],"transfer_routes":["3062"],"related_routes":["3033"]
-    },"3487":{"name":"Coal @ Elm","desc":"612 COAL AVE SE \u0026 HIGH ST SE","coordinates":[-106.6408,35.0791],"related_stops":["3487"],"transfer_routes":["3062"],"related_routes":[]
-    },"3488":{"name":"Coal @ Mulberry","desc":"1014 COAL AVE SE \u0026 MULBERRY ST SE","coordinates":[-106.6363,35.0785],"related_stops":["3488"],"transfer_routes":["3062"],"related_routes":[]
-    },"3489":{"name":"Coal @ Spruce","desc":"1222 COAL AVE SE \u0026 SPRUCE ST SE","coordinates":[-106.6336,35.0781],"related_stops":["3489"],"transfer_routes":["3062"],"related_routes":[]
-    },"3491":{"name":"Coal @ University","desc":"1818 COAL AVE SE","coordinates":[-106.6258,35.0749],"related_stops":["6438","3491","7428","6440","6338","3185"],"transfer_routes":["3062"],"related_routes":["3033","3058","3037"]
-    },"3493":{"name":"Coal @ Yale","desc":"2246 COAL AVE SE","coordinates":[-106.6215,35.0753],"related_stops":["3493","5634","3779"],"transfer_routes":["3062"],"related_routes":["3046"]
-    },"3495":{"name":"Coal @ Girard","desc":"2868 COAL AVE SE \u0026 GIRARD BLVD SE","coordinates":[-106.6137,35.0754],"related_stops":["3495"],"transfer_routes":["3062"],"related_routes":[]
-    },"3497":{"name":"Coal @ Carlisle","desc":"3508 COAL AVE SE \u0026 CARLISLE BLVD SE","coordinates":[-106.6048,35.0754],"related_stops":["3497","6412","6368","3471"],"transfer_routes":["3062"],"related_routes":["3033"]
-    },"3499":{"name":"Zuni @ Adams","desc":"4420 ZUNI RD SE \u0026 ADAMS ST SE","coordinates":[-106.5945,35.0743],"related_stops":["3499","3469"],"transfer_routes":["3062"],"related_routes":[]
-    },"3501":{"name":"Zuni @ San Mateo","desc":"ZUNI \u0026 SAN MATEO","coordinates":[-106.5855,35.0728],"related_stops":["6506","6504","6518","3501","3467"],"transfer_routes":["3062"],"related_routes":["3029","3030"]
-    },"3503":{"name":"Zuni @ Alvarado","desc":"5808 ZUNI RD SE \u0026 ALVARADO DR SE","coordinates":[-106.5815,35.0727],"related_stops":["3503","3465"],"transfer_routes":["3062"],"related_routes":[]
-    },"3505":{"name":"Zuni @ San Pedro","desc":"6308 ZUNI RD SE \u0026 SAN PEDRO DR SE","coordinates":[-106.5771,35.0727],"related_stops":["6018","3463","6198","3505","6016"],"transfer_routes":["3062"],"related_routes":["3042"]
-    },"3507":{"name":"Zuni @ Louisiana","desc":"7238 ZUNI RD SE \u0026 ALCAZAR ST SE","coordinates":[-106.5678,35.0726],"related_stops":["7446","3507","2781","2819"],"transfer_routes":["3062"],"related_routes":["3032"]
-    },"3511":{"name":"Zuni @ Utah","desc":"8412 ZUNI RD SE \u0026 UTAH ST SE","coordinates":[-106.5553,35.0727],"related_stops":["3511","3457"],"transfer_routes":["3062"],"related_routes":[]
-    },"3515":{"name":"Central @ Zuni","desc":"CENTRAL \u0026 ZUNI","coordinates":[-106.5461,35.0733],"related_stops":["3515","4593"],"transfer_routes":["3052","3062"],"related_routes":[]
-    },"3777":{"name":"Yale @ Silver","desc":"141 YALE BLVD SE \u0026 SILVER AVE SE","coordinates":[-106.6221,35.0791],"related_stops":["3833","3777","3475"],"transfer_routes":["3046"],"related_routes":["3062"]
-    },"3779":{"name":"Yale @ Coal","desc":"403 YALE BLVD SE \u0026 OXFORD AVE SE","coordinates":[-106.6221,35.0757],"related_stops":["3493","5634","3779"],"transfer_routes":["3046"],"related_routes":["3062"]
-    },"3833":{"name":"Yale @ Lead","desc":"204 YALE BLVD SE \u0026 LEAD AVE SE","coordinates":[-106.622,35.0784],"related_stops":["3833","3777","3475"],"transfer_routes":["3046"],"related_routes":["3062"]
-    },"4439":{"name":"1st @ Central (in front of A.T.C.)","desc":"110 1ST ST SW","coordinates":[-106.6481,35.0835],"related_stops":["4703","6930","4835","4439","4837","4441","4701","6932","4841","4831","4843","4833","4845","6972","4847","4839","4829","9999"],"transfer_routes":["3052"],"related_routes":["3045","3051","3053","3057","3025","3026","3027","3028","3033","3043","3044","3046","3048","3049","3059","3060","3062","3037","3039","3054","3055"]
-    },"4441":{"name":"1st @ Central (in front of A.T.C.)","desc":"1ST ST SW \u0026 1ST ST NW","coordinates":[-106.648,35.0838],"related_stops":["4703","6930","4835","4439","4837","4441","4701","6932","4841","4831","4843","4833","4845","6972","4847","4839","4829","9999"],"transfer_routes":["3054","3055"],"related_routes":["3045","3051","3053","3057","3025","3026","3027","3028","3033","3043","3044","3046","3048","3049","3052","3059","3060","3062","3037","3039"]
-    },"4519":{"name":"Central @ Wyoming","desc":"8614 CENTRAL AVE E \u0026 WYOMING BLVD SE","coordinates":[-106.5506,35.0738],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3052"],"related_routes":["3041","3062","3063","3055"]
-    },"4521":{"name":"Central @ Wyoming","desc":"8738 CENTRAL AVE E \u0026 WYOMING BLVD SE","coordinates":[-106.5501,35.0737],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3052"],"related_routes":["3041","3062","3063","3055"]
-    },"4593":{"name":"Central @ Gen Stilwell","desc":"CENTRAL \u0026 GEN STILWELL","coordinates":[-106.5462,35.0736],"related_stops":["3515","4593"],"transfer_routes":["3052"],"related_routes":["3062"]
-    },"4597":{"name":"Central @ Wyoming","desc":"8709 CENTRAL AVE E \u0026 WYOMING BLVD SE","coordinates":[-106.5501,35.074],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3052"],"related_routes":["3041","3062","3063","3055"]
-    },"4599":{"name":"Wyoming @ Central","desc":"120 WYOMING BLVD NE","coordinates":[-106.5503,35.0744],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3041","3063"],"related_routes":["3052","3062","3055"]
-    },"4611":{"name":"Central @ Wyoming (Rapid)","desc":"8615 CENTRAL AVE E \u0026 WYOMING BLVD SE","coordinates":[-106.5509,35.0741],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3055"],"related_routes":["3041","3052","3062","3063"]
-    },"4701":{"name":"Central @ 1st (across from A.T.C.)","desc":"107 CENTRAL AVE W \u0026 1ST ST NW","coordinates":[-106.6484,35.0842],"related_stops":["4703","6930","4835","4439","4837","4441","4701","6932","4841","4831","4843","4833","4845","6972","4847","4839","4829","9999"],"transfer_routes":["3054","3055"],"related_routes":["3045","3051","3053","3057","3025","3026","3027","3028","3033","3043","3044","3046","3048","3049","3052","3059","3060","3062","3037","3039"]
-    },"4703":{"name":"Central @ 1st (across from A.T.C.)","desc":"113 CENTRAL AVE W","coordinates":[-106.6487,35.0843],"related_stops":["4703","6930","4835","4439","4837","4441","4701","6932","4841","4831","4843","4833","4845","6972","4847","4839","4829","9999"],"transfer_routes":["3052"],"related_routes":["3045","3051","3053","3057","3025","3026","3027","3028","3033","3043","3044","3046","3048","3049","3059","3060","3062","3037","3039","3054","3055"]
-    },"4829":{"name":"A.T.C.  (Bay K)","desc":"GOLD AVE SW","coordinates":[-106.6478,35.0827],"related_stops":["4703","6930","4835","4439","4837","4441","4701","6932","4841","4831","4843","4833","4845","6972","4847","4839","4829","9999"],"transfer_routes":["3043","3037"],"related_routes":["3045","3051","3053","3057","3025","3026","3027","3028","3033","3044","3046","3048","3049","3052","3059","3060","3062","3039","3054","3055"]
-    },"4831":{"name":"A.T.C.  (Bay L)","desc":"1ST ST SW \u0026 GOLD AVE SW","coordinates":[-106.6477,35.0829],"related_stops":["4703","6930","4835","4439","4837","4441","4701","6932","4841","4831","4843","4833","4845","6972","4847","4839","4829","9999"],"transfer_routes":["3049"],"related_routes":["3045","3051","3053","3057","3025","3026","3027","3028","3033","3043","3044","3046","3048","3052","3059","3060","3062","3037","3039","3054","3055"]
-    },"4833":{"name":"A.T.C.  (Bay M)","desc":"1ST ST SW \u0026 GOLD AVE SW","coordinates":[-106.6477,35.0831],"related_stops":["4703","6930","4835","4439","4837","4441","4701","6932","4841","4831","4843","4833","4845","6972","4847","4839","4829","9999"],"transfer_routes":["3051","3027","3033"],"related_routes":["3045","3053","3057","3025","3026","3028","3043","3044","3046","3048","3049","3052","3059","3060","3062","3037","3039","3054","3055"]
-    },"4835":{"name":"A.T.C.  (Bay C)","desc":"CENTRAL AVE W \u0026 COPPER AVE NW","coordinates":[-106.6476,35.0837],"related_stops":["4703","6930","4835","4439","4837","4441","4701","6932","4841","4831","4843","4833","4845","6972","4847","4839","4829","9999"],"transfer_routes":["3025"],"related_routes":["3045","3051","3053","3057","3026","3027","3028","3033","3043","3044","3046","3048","3049","3052","3059","3060","3062","3037","3039","3054","3055"]
-    },"4837":{"name":"A.T.C.  (Bay D)","desc":"","coordinates":[-106.6475,35.0836],"related_stops":["4703","6930","4835","4439","4837","4441","4701","6932","4841","4831","4843","4833","4845","6972","4847","4839","4829","9999"],"transfer_routes":["3026"],"related_routes":["3045","3051","3053","3057","3025","3027","3028","3033","3043","3044","3046","3048","3049","3052","3059","3060","3062","3037","3039","3054","3055"]
-    },"4839":{"name":"A.T.C.  (Bay E)","desc":"","coordinates":[-106.6475,35.0834],"related_stops":["4703","6930","4835","4439","4837","4441","4701","6932","4841","4831","4843","4833","4845","6972","4847","4839","4829","9999"],"transfer_routes":["3060","3039"],"related_routes":["3045","3051","3053","3057","3025","3026","3027","3028","3033","3043","3044","3046","3048","3049","3052","3059","3062","3037","3054","3055"]
-    },"4841":{"name":"A.T.C.  (Bay F)","desc":"","coordinates":[-106.6475,35.0832],"related_stops":["4703","6930","4835","4439","4837","4441","4701","6932","4841","4831","4843","4833","4845","6972","4847","4839","4829","9999"],"transfer_routes":["3048"],"related_routes":["3045","3051","3053","3057","3025","3026","3027","3028","3033","3043","3044","3046","3049","3052","3059","3060","3062","3037","3039","3054","3055"]
-    },"4843":{"name":"A.T.C.  (Bay G)","desc":"","coordinates":[-106.6476,35.083],"related_stops":["4703","6930","4835","4439","4837","4441","4701","6932","4841","4831","4843","4833","4845","6972","4847","4839","4829","9999"],"transfer_routes":["3045"],"related_routes":["3051","3053","3057","3025","3026","3027","3028","3033","3043","3044","3046","3048","3049","3052","3059","3060","3062","3037","3039","3054","3055"]
-    },"4845":{"name":"A.T.C.  (Bay H)","desc":"","coordinates":[-106.6476,35.0829],"related_stops":["4703","6930","4835","4439","4837","4441","4701","6932","4841","4831","4843","4833","4845","6972","4847","4839","4829","9999"],"transfer_routes":["3057"],"related_routes":["3045","3051","3053","3025","3026","3027","3028","3033","3043","3044","3046","3048","3049","3052","3059","3060","3062","3037","3039","3054","3055"]
-    },"4847":{"name":"A.T.C.  (Bay J)","desc":"","coordinates":[-106.6476,35.0827],"related_stops":["4703","6930","4835","4439","4837","4441","4701","6932","4841","4831","4843","4833","4845","6972","4847","4839","4829","9999"],"transfer_routes":["3062"],"related_routes":["3045","3051","3053","3057","3025","3026","3027","3028","3033","3043","3044","3046","3048","3049","3052","3059","3060","3037","3039","3054","3055"]
-    },"5634":{"name":"Yale @ Oxford","desc":"316 YALE BLVD SE \u0026 OXFORD AVE SE","coordinates":[-106.622,35.0762],"related_stops":["3493","5634","3779"],"transfer_routes":["3046"],"related_routes":["3062"]
-    },"5672":{"name":"Zuni @ Florida","desc":"6706 ZUNI RD SE \u0026 FLORIDA ST SE","coordinates":[-106.5728,35.0726],"related_stops":["5674","5672"],"transfer_routes":["3062"],"related_routes":[]
-    },"5674":{"name":"Zuni @ Florida","desc":"6613 ZUNI RD SE \u0026 FLORIDA ST SE","coordinates":[-106.5734,35.0728],"related_stops":["5674","5672"],"transfer_routes":["3062"],"related_routes":[]
-    },"5688":{"name":"Central @ Wyoming","desc":"8609 CENTRAL AVE E \u0026 WISCONSIN ST NE","coordinates":[-106.5511,35.0741],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3052"],"related_routes":["3041","3062","3063","3055"]
-    },"5996":{"name":"Central @ Wyoming (Rapid)","desc":"8770 CENTRAL AVE E \u0026 GENERAL MARSHALL ST NE","coordinates":[-106.5497,35.0737],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3055"],"related_routes":["3041","3052","3062","3063"]
-    },"6016":{"name":"San Pedro @ Zuni","desc":"SAN PEDRO \u0026 ZUNI","coordinates":[-106.5774,35.0721],"related_stops":["6018","3463","6198","3505","6016"],"transfer_routes":["3042"],"related_routes":["3062"]
-    },"6018":{"name":"San Pedro @ Zuni","desc":"SAN PEDRO \u0026 ZUNI","coordinates":[-106.5774,35.0735],"related_stops":["6018","3463","6198","3505","6016"],"transfer_routes":["3042"],"related_routes":["3062"]
-    },"6198":{"name":"San Pedro @ Zuni","desc":"SAN PEDRO \u0026 ZUNI","coordinates":[-106.5776,35.0733],"related_stops":["6018","3463","6198","3505","6016"],"transfer_routes":["3042"],"related_routes":["3062"]
-    },"6318":{"name":"Broadway @ Iron","desc":"512 BROADWAY BLVD SE \u0026 IRON AVE SE","coordinates":[-106.6454,35.079],"related_stops":["3485","6452","6318"],"transfer_routes":["3033"],"related_routes":["3062"]
-    },"6338":{"name":"University @ Coal","desc":"1715 COAL PL SE \u0026 UNIVERSITY BLVD SE","coordinates":[-106.6277,35.0776],"related_stops":["6438","3491","7428","6440","6338","3185"],"transfer_routes":["3033"],"related_routes":["3058","3062","3037"]
-    },"6368":{"name":"Carlisle @ Coal","desc":"319 CARLISLE BLVD SE","coordinates":[-106.6046,35.0759],"related_stops":["3497","6412","6368","3471"],"transfer_routes":["3033"],"related_routes":["3062"]
-    },"6412":{"name":"Carlisle @ Lead","desc":"306 CARLISLE BLVD SE","coordinates":[-106.6045,35.0768],"related_stops":["3497","6412","6368","3471"],"transfer_routes":["3033"],"related_routes":["3062"]
-    },"6438":{"name":"University @ Coal","desc":"UNIVERSITY BLVD SE","coordinates":[-106.6274,35.076],"related_stops":["6438","3491","7428","6440","6338","3185"],"transfer_routes":["3033","3037"],"related_routes":["3058","3062"]
-    },"6440":{"name":"University @ Coal Place","desc":"1804 COAL PL SE \u0026 UNIVERSITY BLVD SE","coordinates":[-106.6274,35.0773],"related_stops":["6438","3491","7428","6440","6338","3185"],"transfer_routes":["3033","3058"],"related_routes":["3062","3037"]
-    },"6452":{"name":"Broadway @ Coal","desc":"509 BROADWAY BLVD SE","coordinates":[-106.6457,35.0793],"related_stops":["3485","6452","6318"],"transfer_routes":["3033"],"related_routes":["3062"]
-    },"6504":{"name":"San Mateo @ Bell","desc":"630 SAN MATEO BLVD SE","coordinates":[-106.5861,35.0716],"related_stops":["6506","6504","6518","3501","3467"],"transfer_routes":["3029","3030"],"related_routes":["3062"]
-    },"6506":{"name":"San Mateo @ Zuni","desc":"621 SAN MATEO BLVD SE","coordinates":[-106.5864,35.0719],"related_stops":["6506","6504","6518","3501","3467"],"transfer_routes":["3029","3030"],"related_routes":["3062"]
-    },"6518":{"name":"San Mateo @ Zuni","desc":"460 SAN MATEO BLVD SE \u0026 HIGHLAND AVE SE","coordinates":[-106.586,35.0739],"related_stops":["6506","6504","6518","3501","3467"],"transfer_routes":["3029","3030"],"related_routes":["3062"]
-    },"6930":{"name":"A.T.C.  (Bay B)","desc":"","coordinates":[-106.6476,35.0835],"related_stops":["4703","6930","4835","4439","4837","4441","4701","6932","4841","4831","4843","4833","4845","6972","4847","4839","4829","9999"],"transfer_routes":["3044"],"related_routes":["3045","3051","3053","3057","3025","3026","3027","3028","3033","3043","3046","3048","3049","3052","3059","3060","3062","3037","3039","3054","3055"]
-    },"6932":{"name":"A.T.C.  (Bay A)","desc":"","coordinates":[-106.6477,35.0833],"related_stops":["4703","6930","4835","4439","4837","4441","4701","6932","4841","4831","4843","4833","4845","6972","4847","4839","4829","9999"],"transfer_routes":["3046"],"related_routes":["3045","3051","3053","3057","3025","3026","3027","3028","3033","3043","3044","3048","3049","3052","3059","3060","3062","3037","3039","3054","3055"]
-    },"6972":{"name":"A.T.C.  (Bay N)","desc":"","coordinates":[-106.648,35.0827],"related_stops":["4703","6930","4835","4439","4837","4441","4701","6932","4841","4831","4843","4833","4845","6972","4847","4839","4829","9999"],"transfer_routes":["3053","3028","3033","3059"],"related_routes":["3045","3051","3057","3025","3026","3027","3043","3044","3046","3048","3049","3052","3060","3062","3037","3039","3054","3055"]
-    },"7242":{"name":"Wyoming @ Central","desc":"110 WYOMING BLVD SE","coordinates":[-106.5503,35.0733],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3041","3062"],"related_routes":["3052","3063","3055"]
-    },"7286":{"name":"Zuni @ San Pablo","desc":"7700 ZUNI RD SE \u0026 SAN PABLO ST SE","coordinates":[-106.563,35.0726],"related_stops":["3459","7286"],"transfer_routes":["3062"],"related_routes":[]
-    },"7428":{"name":"University @ Coal","desc":"717 UNIVERSITY BLVD SE \u0026 COAL AVE SE","coordinates":[-106.628,35.0755],"related_stops":["6438","3491","7428","6440","6338","3185"],"transfer_routes":["3033","3037"],"related_routes":["3058","3062"]
-    },"7446":{"name":"Zuni @ Louisiana","desc":"7229 ZUNI RD SE \u0026 ALCAZAR ST SE","coordinates":[-106.5679,35.0728],"related_stops":["7446","3507","2781","2819"],"transfer_routes":["3062"],"related_routes":["3032"]
-    },"9999":{"name":"Alvarado Transportation Center (ATC)","desc":"1ST \u0026 CENTRAL SW","coordinates":[-106.6477,35.0833],"related_stops":["4703","6930","4835","4439","4837","4441","4701","6932","4841","4831","4843","4833","4845","6972","4847","4839","4829","9999"],"transfer_routes":[],"related_routes":["3045","3051","3053","3057","3025","3026","3027","3028","3033","3043","3044","3046","3048","3049","3052","3059","3060","3062","3037","3039","3054","3055"]
+  "stops": {"1082":{"name":"Wyoming @ Zuni","desc":"210 WYOMING BLVD SE","coordinates":[-106.5503,35.0719],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3125"],"related_routes":["3136","3146","3147","3139"]
+    },"1150":{"name":"Zuni @ Pennsylvania","desc":"7907 ZUNI RD SE \u0026 PENNSYLVANIA ST SE","coordinates":[-106.5596,35.0729],"related_stops":["1152","1150"],"transfer_routes":["3146"],"related_routes":[]
+    },"1152":{"name":"Zuni @ Pennsylvania","desc":"8002 ZUNI RD SE \u0026 PENNSYLVANIA ST SE","coordinates":[-106.559,35.0727],"related_stops":["1152","1150"],"transfer_routes":["3146"],"related_routes":[]
+    },"1249":{"name":"Wyoming @ Central","desc":"117 WYOMING BLVD NE \u0026 WYOMING BLVD SE","coordinates":[-106.5506,35.0742],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3125","3147"],"related_routes":["3136","3146","3139"]
+    },"1251":{"name":"Wyoming @ Zuni","desc":"111 WYOMING BLVD SE","coordinates":[-106.5505,35.0732],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3125"],"related_routes":["3136","3146","3147","3139"]
+    },"1253":{"name":"Wyoming @ Zuni","desc":"219 WYOMING BLVD SE","coordinates":[-106.5506,35.0721],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3125"],"related_routes":["3136","3146","3147","3139"]
+    },"2781":{"name":"Louisiana @ Zuni","desc":"LOUISIANA \u0026 ZUNI","coordinates":[-106.5687,35.0719],"related_stops":["7446","3507","2781","2819"],"transfer_routes":["3116"],"related_routes":["3146"]
+    },"2819":{"name":"Louisiana @ Zuni","desc":"312 LOUISIANA BLVD SE","coordinates":[-106.5685,35.0732],"related_stops":["7446","3507","2781","2819"],"transfer_routes":["3116"],"related_routes":["3146"]
+    },"3185":{"name":"Coal @ Hazeldine","desc":"COAL AVE SE \u0026 HAZELDINE AVE SE","coordinates":[-106.6281,35.0764],"related_stops":["6438","3491","7428","6440","6338","3185"],"transfer_routes":["3146"],"related_routes":["3117","3142","3121"]
+    },"3455":{"name":"Zuni @ Wyoming","desc":"9017 ZUNI RD SE","coordinates":[-106.5495,35.0728],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3146"],"related_routes":["3125","3136","3147","3139"]
+    },"3457":{"name":"Zuni @ Texas","desc":"8211 ZUNI RD SE \u0026 TEXAS ST SE","coordinates":[-106.5554,35.0729],"related_stops":["3511","3457"],"transfer_routes":["3146"],"related_routes":[]
+    },"3459":{"name":"Zuni @ San Pablo","desc":"7639 ZUNI RD SE \u0026 SAN PABLO ST SE","coordinates":[-106.5636,35.0728],"related_stops":["3459","7286"],"transfer_routes":["3146"],"related_routes":[]
+    },"3463":{"name":"Zuni @ San Pedro","desc":"6137 ZUNI RD SE \u0026 CAGUA DR SE","coordinates":[-106.5781,35.0729],"related_stops":["6018","3463","6198","3505","6016"],"transfer_routes":["3146"],"related_routes":["3126"]
+    },"3465":{"name":"Zuni @ Alvarado","desc":"410 ALVARADO DR SE \u0026 ZUNI RD SE","coordinates":[-106.5817,35.0729],"related_stops":["3503","3465"],"transfer_routes":["3146"],"related_routes":[]
+    },"3467":{"name":"Zuni @ San Mateo","desc":"5501 ZUNI RD SE \u0026 SAN MATEO BLVD SE","coordinates":[-106.5859,35.0731],"related_stops":["6506","6504","6518","3501","3467"],"transfer_routes":["3146"],"related_routes":["3113","3114"]
+    },"3469":{"name":"Zuni @ Adams","desc":"4613 ZUNI RD SE \u0026 HIGHLAND AVE SE","coordinates":[-106.5942,35.0744],"related_stops":["3499","3469"],"transfer_routes":["3146"],"related_routes":[]
+    },"3471":{"name":"Lead @ Carlisle","desc":"3603 LEAD AVE SE \u0026 CARLISLE BLVD SE","coordinates":[-106.6044,35.0773],"related_stops":["3497","6412","6368","3471"],"transfer_routes":["3146"],"related_routes":["3117"]
+    },"3473":{"name":"Lead @ Girard","desc":"2927 LEAD AVE SE \u0026 GIRARD BLVD SE","coordinates":[-106.613,35.0773],"related_stops":["3473"],"transfer_routes":["3146"],"related_routes":[]
+    },"3475":{"name":"Lead @ Yale","desc":"2205 LEAD AVE SE \u0026 YALE BLVD SE","coordinates":[-106.6219,35.0774],"related_stops":["3833","3777","3475"],"transfer_routes":["3146"],"related_routes":["3130"]
+    },"3477":{"name":"Lead @ Mesa","desc":"1819 LEAD AVE SE \u0026 MESA ST SE","coordinates":[-106.6263,35.0783],"related_stops":["3477"],"transfer_routes":["3146"],"related_routes":[]
+    },"3479":{"name":"Lead @ Cedar","desc":"1107 LEAD AVE SE \u0026 CEDAR ST SE","coordinates":[-106.6347,35.0794],"related_stops":["3479"],"transfer_routes":["3146"],"related_routes":[]
+    },"3481":{"name":"Lead @ Elm","desc":"771 LEAD AVE SE \u0026 ELM ST SE","coordinates":[-106.6395,35.08],"related_stops":["3481"],"transfer_routes":["3146"],"related_routes":[]
+    },"3483":{"name":"Lead @ Broadway","desc":"305 LEAD AVE SE \u0026 BROADWAY BLVD SE","coordinates":[-106.6449,35.0807],"related_stops":["3483"],"transfer_routes":["3146"],"related_routes":[]
+    },"3485":{"name":"Coal @ Broadway","desc":"338 COAL AVE SE \u0026 BROADWAY BLVD SE","coordinates":[-106.6449,35.0796],"related_stops":["3485","6452","6318"],"transfer_routes":["3146"],"related_routes":["3117"]
+    },"3487":{"name":"Coal @ Elm","desc":"612 COAL AVE SE \u0026 HIGH ST SE","coordinates":[-106.6408,35.0791],"related_stops":["3487"],"transfer_routes":["3146"],"related_routes":[]
+    },"3488":{"name":"Coal @ Mulberry","desc":"1014 COAL AVE SE \u0026 MULBERRY ST SE","coordinates":[-106.6363,35.0785],"related_stops":["3488"],"transfer_routes":["3146"],"related_routes":[]
+    },"3489":{"name":"Coal @ Spruce","desc":"1222 COAL AVE SE \u0026 SPRUCE ST SE","coordinates":[-106.6336,35.0781],"related_stops":["3489"],"transfer_routes":["3146"],"related_routes":[]
+    },"3491":{"name":"Coal @ University","desc":"1818 COAL AVE SE","coordinates":[-106.6258,35.0749],"related_stops":["6438","3491","7428","6440","6338","3185"],"transfer_routes":["3146"],"related_routes":["3117","3142","3121"]
+    },"3493":{"name":"Coal @ Yale","desc":"2246 COAL AVE SE","coordinates":[-106.6215,35.0753],"related_stops":["3493","5634","3779"],"transfer_routes":["3146"],"related_routes":["3130"]
+    },"3495":{"name":"Coal @ Girard","desc":"2868 COAL AVE SE \u0026 GIRARD BLVD SE","coordinates":[-106.6137,35.0754],"related_stops":["3495"],"transfer_routes":["3146"],"related_routes":[]
+    },"3497":{"name":"Coal @ Carlisle","desc":"3508 COAL AVE SE \u0026 CARLISLE BLVD SE","coordinates":[-106.6048,35.0754],"related_stops":["3497","6412","6368","3471"],"transfer_routes":["3146"],"related_routes":["3117"]
+    },"3499":{"name":"Zuni @ Adams","desc":"4420 ZUNI RD SE \u0026 ADAMS ST SE","coordinates":[-106.5945,35.0743],"related_stops":["3499","3469"],"transfer_routes":["3146"],"related_routes":[]
+    },"3501":{"name":"Zuni @ San Mateo","desc":"ZUNI \u0026 SAN MATEO","coordinates":[-106.5855,35.0728],"related_stops":["6506","6504","6518","3501","3467"],"transfer_routes":["3146"],"related_routes":["3113","3114"]
+    },"3503":{"name":"Zuni @ Alvarado","desc":"5808 ZUNI RD SE \u0026 ALVARADO DR SE","coordinates":[-106.5815,35.0727],"related_stops":["3503","3465"],"transfer_routes":["3146"],"related_routes":[]
+    },"3505":{"name":"Zuni @ San Pedro","desc":"6308 ZUNI RD SE \u0026 SAN PEDRO DR SE","coordinates":[-106.5771,35.0727],"related_stops":["6018","3463","6198","3505","6016"],"transfer_routes":["3146"],"related_routes":["3126"]
+    },"3507":{"name":"Zuni @ Louisiana","desc":"7238 ZUNI RD SE \u0026 ALCAZAR ST SE","coordinates":[-106.5678,35.0726],"related_stops":["7446","3507","2781","2819"],"transfer_routes":["3146"],"related_routes":["3116"]
+    },"3511":{"name":"Zuni @ Utah","desc":"8412 ZUNI RD SE \u0026 UTAH ST SE","coordinates":[-106.5553,35.0727],"related_stops":["3511","3457"],"transfer_routes":["3146"],"related_routes":[]
+    },"3515":{"name":"Central @ Zuni","desc":"CENTRAL \u0026 ZUNI","coordinates":[-106.5461,35.0733],"related_stops":["3515","4593"],"transfer_routes":["3136","3146"],"related_routes":[]
+    },"3777":{"name":"Yale @ Silver","desc":"141 YALE BLVD SE \u0026 SILVER AVE SE","coordinates":[-106.6221,35.0791],"related_stops":["3833","3777","3475"],"transfer_routes":["3130"],"related_routes":["3146"]
+    },"3779":{"name":"Yale @ Coal","desc":"403 YALE BLVD SE \u0026 OXFORD AVE SE","coordinates":[-106.6221,35.0757],"related_stops":["3493","5634","3779"],"transfer_routes":["3130"],"related_routes":["3146"]
+    },"3833":{"name":"Yale @ Lead","desc":"204 YALE BLVD SE \u0026 LEAD AVE SE","coordinates":[-106.622,35.0784],"related_stops":["3833","3777","3475"],"transfer_routes":["3130"],"related_routes":["3146"]
+    },"4439":{"name":"1st @ Central (in front of A.T.C.)","desc":"110 1ST ST SW","coordinates":[-106.6481,35.0835],"related_stops":["4703","6930","4835","4439","4837","4441","4701","6932","4841","4831","4843","4833","4845","6972","4847","4839","4829","9999"],"transfer_routes":["3136"],"related_routes":["3129","3135","3137","3141","3109","3110","3111","3112","3117","3127","3128","3130","3132","3133","3143","3144","3146","3121","3123","3138","3139"]
+    },"4441":{"name":"1st @ Central (in front of A.T.C.)","desc":"1ST ST SW \u0026 1ST ST NW","coordinates":[-106.648,35.0838],"related_stops":["4703","6930","4835","4439","4837","4441","4701","6932","4841","4831","4843","4833","4845","6972","4847","4839","4829","9999"],"transfer_routes":["3138","3139"],"related_routes":["3129","3135","3137","3141","3109","3110","3111","3112","3117","3127","3128","3130","3132","3133","3136","3143","3144","3146","3121","3123"]
+    },"4519":{"name":"Central @ Wyoming","desc":"8614 CENTRAL AVE E \u0026 WYOMING BLVD SE","coordinates":[-106.5506,35.0738],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3136"],"related_routes":["3125","3146","3147","3139"]
+    },"4521":{"name":"Central @ Wyoming","desc":"8738 CENTRAL AVE E \u0026 WYOMING BLVD SE","coordinates":[-106.5501,35.0737],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3136"],"related_routes":["3125","3146","3147","3139"]
+    },"4593":{"name":"Central @ Gen Stilwell","desc":"CENTRAL \u0026 GEN STILWELL","coordinates":[-106.5462,35.0736],"related_stops":["3515","4593"],"transfer_routes":["3136"],"related_routes":["3146"]
+    },"4597":{"name":"Central @ Wyoming","desc":"8709 CENTRAL AVE E \u0026 WYOMING BLVD SE","coordinates":[-106.5501,35.074],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3136"],"related_routes":["3125","3146","3147","3139"]
+    },"4599":{"name":"Wyoming @ Central","desc":"120 WYOMING BLVD NE","coordinates":[-106.5503,35.0744],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3125","3147"],"related_routes":["3136","3146","3139"]
+    },"4611":{"name":"Central @ Wyoming (Rapid)","desc":"8615 CENTRAL AVE E \u0026 WYOMING BLVD SE","coordinates":[-106.5509,35.0741],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3139"],"related_routes":["3125","3136","3146","3147"]
+    },"4701":{"name":"Central @ 1st (across from A.T.C.)","desc":"107 CENTRAL AVE W \u0026 1ST ST NW","coordinates":[-106.6484,35.0842],"related_stops":["4703","6930","4835","4439","4837","4441","4701","6932","4841","4831","4843","4833","4845","6972","4847","4839","4829","9999"],"transfer_routes":["3138","3139"],"related_routes":["3129","3135","3137","3141","3109","3110","3111","3112","3117","3127","3128","3130","3132","3133","3136","3143","3144","3146","3121","3123"]
+    },"4703":{"name":"Central @ 1st (across from A.T.C.)","desc":"113 CENTRAL AVE W","coordinates":[-106.6487,35.0843],"related_stops":["4703","6930","4835","4439","4837","4441","4701","6932","4841","4831","4843","4833","4845","6972","4847","4839","4829","9999"],"transfer_routes":["3136"],"related_routes":["3129","3135","3137","3141","3109","3110","3111","3112","3117","3127","3128","3130","3132","3133","3143","3144","3146","3121","3123","3138","3139"]
+    },"4829":{"name":"A.T.C.  (Bay K)","desc":"GOLD AVE SW","coordinates":[-106.6478,35.0827],"related_stops":["4703","6930","4835","4439","4837","4441","4701","6932","4841","4831","4843","4833","4845","6972","4847","4839","4829","9999"],"transfer_routes":["3121"],"related_routes":["3129","3135","3137","3141","3109","3110","3111","3112","3117","3127","3128","3130","3132","3133","3136","3143","3144","3146","3123","3138","3139"]
+    },"4831":{"name":"A.T.C.  (Bay L)","desc":"1ST ST SW \u0026 GOLD AVE SW","coordinates":[-106.6477,35.0829],"related_stops":["4703","6930","4835","4439","4837","4441","4701","6932","4841","4831","4843","4833","4845","6972","4847","4839","4829","9999"],"transfer_routes":["3133"],"related_routes":["3129","3135","3137","3141","3109","3110","3111","3112","3117","3127","3128","3130","3132","3136","3143","3144","3146","3121","3123","3138","3139"]
+    },"4833":{"name":"A.T.C.  (Bay M)","desc":"1ST ST SW \u0026 GOLD AVE SW","coordinates":[-106.6477,35.0831],"related_stops":["4703","6930","4835","4439","4837","4441","4701","6932","4841","4831","4843","4833","4845","6972","4847","4839","4829","9999"],"transfer_routes":["3135","3111","3117"],"related_routes":["3129","3137","3141","3109","3110","3112","3127","3128","3130","3132","3133","3136","3143","3144","3146","3121","3123","3138","3139"]
+    },"4835":{"name":"A.T.C.  (Bay C)","desc":"CENTRAL AVE W \u0026 COPPER AVE NW","coordinates":[-106.6476,35.0837],"related_stops":["4703","6930","4835","4439","4837","4441","4701","6932","4841","4831","4843","4833","4845","6972","4847","4839","4829","9999"],"transfer_routes":["3109"],"related_routes":["3129","3135","3137","3141","3110","3111","3112","3117","3127","3128","3130","3132","3133","3136","3143","3144","3146","3121","3123","3138","3139"]
+    },"4837":{"name":"A.T.C.  (Bay D)","desc":"","coordinates":[-106.6475,35.0836],"related_stops":["4703","6930","4835","4439","4837","4441","4701","6932","4841","4831","4843","4833","4845","6972","4847","4839","4829","9999"],"transfer_routes":["3110"],"related_routes":["3129","3135","3137","3141","3109","3111","3112","3117","3127","3128","3130","3132","3133","3136","3143","3144","3146","3121","3123","3138","3139"]
+    },"4839":{"name":"A.T.C.  (Bay E)","desc":"","coordinates":[-106.6475,35.0834],"related_stops":["4703","6930","4835","4439","4837","4441","4701","6932","4841","4831","4843","4833","4845","6972","4847","4839","4829","9999"],"transfer_routes":["3144","3123"],"related_routes":["3129","3135","3137","3141","3109","3110","3111","3112","3117","3127","3128","3130","3132","3133","3136","3143","3146","3121","3138","3139"]
+    },"4841":{"name":"A.T.C.  (Bay F)","desc":"","coordinates":[-106.6475,35.0832],"related_stops":["4703","6930","4835","4439","4837","4441","4701","6932","4841","4831","4843","4833","4845","6972","4847","4839","4829","9999"],"transfer_routes":["3132"],"related_routes":["3129","3135","3137","3141","3109","3110","3111","3112","3117","3127","3128","3130","3133","3136","3143","3144","3146","3121","3123","3138","3139"]
+    },"4843":{"name":"A.T.C.  (Bay G)","desc":"","coordinates":[-106.6476,35.083],"related_stops":["4703","6930","4835","4439","4837","4441","4701","6932","4841","4831","4843","4833","4845","6972","4847","4839","4829","9999"],"transfer_routes":["3129"],"related_routes":["3135","3137","3141","3109","3110","3111","3112","3117","3127","3128","3130","3132","3133","3136","3143","3144","3146","3121","3123","3138","3139"]
+    },"4845":{"name":"A.T.C.  (Bay H)","desc":"","coordinates":[-106.6476,35.0829],"related_stops":["4703","6930","4835","4439","4837","4441","4701","6932","4841","4831","4843","4833","4845","6972","4847","4839","4829","9999"],"transfer_routes":["3141"],"related_routes":["3129","3135","3137","3109","3110","3111","3112","3117","3127","3128","3130","3132","3133","3136","3143","3144","3146","3121","3123","3138","3139"]
+    },"4847":{"name":"A.T.C.  (Bay J)","desc":"","coordinates":[-106.6476,35.0827],"related_stops":["4703","6930","4835","4439","4837","4441","4701","6932","4841","4831","4843","4833","4845","6972","4847","4839","4829","9999"],"transfer_routes":["3146"],"related_routes":["3129","3135","3137","3141","3109","3110","3111","3112","3117","3127","3128","3130","3132","3133","3136","3143","3144","3121","3123","3138","3139"]
+    },"5634":{"name":"Yale @ Oxford","desc":"316 YALE BLVD SE \u0026 OXFORD AVE SE","coordinates":[-106.622,35.0762],"related_stops":["3493","5634","3779"],"transfer_routes":["3130"],"related_routes":["3146"]
+    },"5672":{"name":"Zuni @ Florida","desc":"6706 ZUNI RD SE \u0026 FLORIDA ST SE","coordinates":[-106.5728,35.0726],"related_stops":["5674","5672"],"transfer_routes":["3146"],"related_routes":[]
+    },"5674":{"name":"Zuni @ Florida","desc":"6613 ZUNI RD SE \u0026 FLORIDA ST SE","coordinates":[-106.5734,35.0728],"related_stops":["5674","5672"],"transfer_routes":["3146"],"related_routes":[]
+    },"5688":{"name":"Central @ Wyoming","desc":"8609 CENTRAL AVE E \u0026 WISCONSIN ST NE","coordinates":[-106.5511,35.0741],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3136"],"related_routes":["3125","3146","3147","3139"]
+    },"5996":{"name":"Central @ Wyoming (Rapid)","desc":"8770 CENTRAL AVE E \u0026 GENERAL MARSHALL ST NE","coordinates":[-106.5497,35.0737],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3139"],"related_routes":["3125","3136","3146","3147"]
+    },"6016":{"name":"San Pedro @ Zuni","desc":"SAN PEDRO \u0026 ZUNI","coordinates":[-106.5774,35.0721],"related_stops":["6018","3463","6198","3505","6016"],"transfer_routes":["3126"],"related_routes":["3146"]
+    },"6018":{"name":"San Pedro @ Zuni","desc":"SAN PEDRO \u0026 ZUNI","coordinates":[-106.5774,35.0735],"related_stops":["6018","3463","6198","3505","6016"],"transfer_routes":["3126"],"related_routes":["3146"]
+    },"6198":{"name":"San Pedro @ Zuni","desc":"SAN PEDRO \u0026 ZUNI","coordinates":[-106.5776,35.0733],"related_stops":["6018","3463","6198","3505","6016"],"transfer_routes":["3126"],"related_routes":["3146"]
+    },"6318":{"name":"Broadway @ Iron","desc":"512 BROADWAY BLVD SE \u0026 IRON AVE SE","coordinates":[-106.6454,35.079],"related_stops":["3485","6452","6318"],"transfer_routes":["3117"],"related_routes":["3146"]
+    },"6338":{"name":"University @ Coal","desc":"1715 COAL PL SE \u0026 UNIVERSITY BLVD SE","coordinates":[-106.6277,35.0776],"related_stops":["6438","3491","7428","6440","6338","3185"],"transfer_routes":["3117"],"related_routes":["3142","3146","3121"]
+    },"6368":{"name":"Carlisle @ Coal","desc":"319 CARLISLE BLVD SE","coordinates":[-106.6046,35.0759],"related_stops":["3497","6412","6368","3471"],"transfer_routes":["3117"],"related_routes":["3146"]
+    },"6412":{"name":"Carlisle @ Lead","desc":"306 CARLISLE BLVD SE","coordinates":[-106.6045,35.0768],"related_stops":["3497","6412","6368","3471"],"transfer_routes":["3117"],"related_routes":["3146"]
+    },"6438":{"name":"University @ Coal","desc":"UNIVERSITY BLVD SE","coordinates":[-106.6274,35.076],"related_stops":["6438","3491","7428","6440","6338","3185"],"transfer_routes":["3117","3121"],"related_routes":["3142","3146"]
+    },"6440":{"name":"University @ Coal Place","desc":"1804 COAL PL SE \u0026 UNIVERSITY BLVD SE","coordinates":[-106.6274,35.0773],"related_stops":["6438","3491","7428","6440","6338","3185"],"transfer_routes":["3117","3142"],"related_routes":["3146","3121"]
+    },"6452":{"name":"Broadway @ Coal","desc":"509 BROADWAY BLVD SE","coordinates":[-106.6457,35.0793],"related_stops":["3485","6452","6318"],"transfer_routes":["3117"],"related_routes":["3146"]
+    },"6504":{"name":"San Mateo @ Bell","desc":"630 SAN MATEO BLVD SE","coordinates":[-106.5861,35.0716],"related_stops":["6506","6504","6518","3501","3467"],"transfer_routes":["3113","3114"],"related_routes":["3146"]
+    },"6506":{"name":"San Mateo @ Zuni","desc":"621 SAN MATEO BLVD SE","coordinates":[-106.5864,35.0719],"related_stops":["6506","6504","6518","3501","3467"],"transfer_routes":["3113","3114"],"related_routes":["3146"]
+    },"6518":{"name":"San Mateo @ Zuni","desc":"460 SAN MATEO BLVD SE \u0026 HIGHLAND AVE SE","coordinates":[-106.586,35.0739],"related_stops":["6506","6504","6518","3501","3467"],"transfer_routes":["3113","3114"],"related_routes":["3146"]
+    },"6930":{"name":"A.T.C.  (Bay B)","desc":"","coordinates":[-106.6476,35.0835],"related_stops":["4703","6930","4835","4439","4837","4441","4701","6932","4841","4831","4843","4833","4845","6972","4847","4839","4829","9999"],"transfer_routes":["3127","3128"],"related_routes":["3129","3135","3137","3141","3109","3110","3111","3112","3117","3130","3132","3133","3136","3143","3144","3146","3121","3123","3138","3139"]
+    },"6932":{"name":"A.T.C.  (Bay A)","desc":"","coordinates":[-106.6477,35.0833],"related_stops":["4703","6930","4835","4439","4837","4441","4701","6932","4841","4831","4843","4833","4845","6972","4847","4839","4829","9999"],"transfer_routes":["3130"],"related_routes":["3129","3135","3137","3141","3109","3110","3111","3112","3117","3127","3128","3132","3133","3136","3143","3144","3146","3121","3123","3138","3139"]
+    },"6972":{"name":"A.T.C.  (Bay N)","desc":"","coordinates":[-106.648,35.0827],"related_stops":["4703","6930","4835","4439","4837","4441","4701","6932","4841","4831","4843","4833","4845","6972","4847","4839","4829","9999"],"transfer_routes":["3137","3112","3117","3143"],"related_routes":["3129","3135","3141","3109","3110","3111","3127","3128","3130","3132","3133","3136","3144","3146","3121","3123","3138","3139"]
+    },"7242":{"name":"Wyoming @ Central","desc":"110 WYOMING BLVD SE","coordinates":[-106.5503,35.0733],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3125","3146"],"related_routes":["3136","3147","3139"]
+    },"7286":{"name":"Zuni @ San Pablo","desc":"7700 ZUNI RD SE \u0026 SAN PABLO ST SE","coordinates":[-106.563,35.0726],"related_stops":["3459","7286"],"transfer_routes":["3146"],"related_routes":[]
+    },"7428":{"name":"University @ Coal","desc":"717 UNIVERSITY BLVD SE \u0026 COAL AVE SE","coordinates":[-106.628,35.0755],"related_stops":["6438","3491","7428","6440","6338","3185"],"transfer_routes":["3117","3121"],"related_routes":["3142","3146"]
+    },"7446":{"name":"Zuni @ Louisiana","desc":"7229 ZUNI RD SE \u0026 ALCAZAR ST SE","coordinates":[-106.5679,35.0728],"related_stops":["7446","3507","2781","2819"],"transfer_routes":["3146"],"related_routes":["3116"]
+    },"9999":{"name":"Alvarado Transportation Center (ATC)","desc":"1ST \u0026 CENTRAL SW","coordinates":[-106.6477,35.0833],"related_stops":["4703","6930","4835","4439","4837","4441","4701","6932","4841","4831","4843","4833","4845","6972","4847","4839","4829","9999"],"transfer_routes":[],"related_routes":["3129","3135","3137","3141","3109","3110","3111","3112","3117","3127","3128","3130","3132","3133","3136","3143","3144","3146","3121","3123","3138","3139"]
     }
   },
   "trip_data": {
     "shapes": {
-      "eb05f": {
-        "bearing": 277.04,"centroid":[-106.6131,35.0778],
-        "bounds": [[-106.6498,35.0727],[0.0,35.0838]
-        ],"coordinates":[[-106.54981200003215,35.07275],[-106.55923300003363,35.072804],[-106.56970200003535,35.072658],[-106.59233700003928,35.072966],[-106.59298500003939,35.073322],[-106.59403300003959,35.074256],[-106.59620900003999,35.075431],[-106.60043100004079,35.077179],[-106.62147700004488,35.077332],[-106.622090000045,35.077461],[-106.6225980000451,35.077965],[-106.62492400004558,35.078074],[-106.64977400005093,35.081282],[-106.64942800005086,35.083249],[-106.6478640000505,35.083055],[-106.64768400005046,35.083751],[-106.64754100005044,35.083787],[-106.64764400005046,35.082634]],
-        "distances": [0.0,0.8522,1.7997,3.8476,3.9183,4.0598,4.2966,4.7278,6.6313,6.6883,6.7608,6.9724,9.2481,9.4703,9.6148,9.6952,9.7099,9.8424]
-      },
-      "4c4fe": {
+      "4a0ff": {
         "bearing": 97.04,"centroid":[-106.6012,35.0759],
         "bounds": [[-106.65,35.0727],[0.0,35.0832]
         ],"coordinates":[[-106.64764400005046,35.082634],[-106.64835100005062,35.082622],[-106.6482220000506,35.083078],[-106.64942800005086,35.083249],[-106.64997500005097,35.080291],[-106.62866900004636,35.077553],[-106.62774500004616,35.07569],[-106.62710800004602,35.075155],[-106.62666700004593,35.075035],[-106.622118000045,35.075037],[-106.62121100004482,35.075475],[-106.59678700004011,35.075405],[-106.59535700003984,35.074968],[-106.59403300003959,35.074256],[-106.59298500003939,35.073322],[-106.59233700003928,35.072966],[-106.59135400003909,35.072912],[-106.56970200003535,35.072658],[-106.55923300003363,35.072804],[-106.55045800003225,35.072749],[-106.55043800003224,35.07386],[-106.54447000003134,35.073234],[-106.54476700003137,35.072797],[-106.54981200003215,35.07275]],
         "distances": [0.0,0.0666,0.1188,0.2294,0.5642,2.5159,2.7417,2.8256,2.8676,3.2787,3.3765,5.586,5.7249,5.8694,6.0108,6.0816,6.1708,8.1294,9.077,9.8701,9.9942,10.5376,10.5966,11.0526]
+      },
+      "f0eff": {
+        "bearing": 277.04,"centroid":[-106.6131,35.0778],
+        "bounds": [[-106.6498,35.0727],[0.0,35.0838]
+        ],"coordinates":[[-106.54981200003215,35.07275],[-106.55923300003363,35.072804],[-106.56970200003535,35.072658],[-106.59233700003928,35.072966],[-106.59298500003939,35.073322],[-106.59403300003959,35.074256],[-106.59620900003999,35.075431],[-106.60043100004079,35.077179],[-106.62147700004488,35.077332],[-106.622090000045,35.077461],[-106.6225980000451,35.077965],[-106.62492400004558,35.078074],[-106.64977400005093,35.081282],[-106.64942800005086,35.083249],[-106.6478640000505,35.083055],[-106.64768400005046,35.083751],[-106.64754100005044,35.083787],[-106.64764400005046,35.082634]],
+        "distances": [0.0,0.8522,1.7997,3.8476,3.9183,4.0598,4.2966,4.7278,6.6313,6.6883,6.7608,6.9724,9.2481,9.4703,9.6148,9.6952,9.7099,9.8424]
       }
     },
     "stop_lists": {
@@ -152,8 +153,8 @@
     },
     "stop_times": {
       "87273": [0,146,199,257,292,376,420,463,543,632,740,840,900,965,1029,1102,1173,1233,1287,1370,1444,1560],
-      "a51ee": [0,65,113,159,208,271,326,368,420,520,644,739,840,922,1067,1150,1242,1440],
       "c220e": [0,55,96,136,178,232,279,315,360,460,584,679,780,862,1007,1090,1182,1380],
+      "a51ee": [0,65,113,159,208,271,326,368,420,520,644,739,840,922,1067,1150,1242,1440],
       "ea7e2": [0,55,96,136,178,232,279,315,360,460,584,679,780,845,961,1027,1100,1260],
       "f1997": [0,65,113,159,208,271,326,368,420,520,644,739,840,914,1044,1118,1201,1380],
       "d8347": [0,146,199,257,292,376,420,463,543,632,740,840,890,944,997,1058,1117,1167,1212,1281,1343,1440],
@@ -170,32 +171,32 @@
     },
     "trips": {
       "1": [
-        {"id":"396751","direction":0,"start_time":21900,"stops_key":"df239","stop_distances":"c5f21","stop_times":"d8347","stop_dwells":"f2331","shape_key":"4c4fe"},
-        {"id":"396752","direction":0,"start_time":25500,"stops_key":"df239","stop_distances":"c5f21","stop_times":"d8347","stop_dwells":"f2331","shape_key":"4c4fe"},
-        {"id":"396753","direction":0,"start_time":29100,"stops_key":"df239","stop_distances":"c5f21","stop_times":"1e58d","stop_dwells":"f2331","shape_key":"4c4fe"},
-        {"id":"396754","direction":0,"start_time":32700,"stops_key":"df239","stop_distances":"c5f21","stop_times":"1e58d","stop_dwells":"f2331","shape_key":"4c4fe"},
-        {"id":"396755","direction":0,"start_time":36300,"stops_key":"df239","stop_distances":"c5f21","stop_times":"87273","stop_dwells":"f2331","shape_key":"4c4fe"},
-        {"id":"396756","direction":0,"start_time":39900,"stops_key":"df239","stop_distances":"c5f21","stop_times":"87273","stop_dwells":"f2331","shape_key":"4c4fe"},
-        {"id":"396757","direction":0,"start_time":43500,"stops_key":"df239","stop_distances":"c5f21","stop_times":"87273","stop_dwells":"f2331","shape_key":"4c4fe"},
-        {"id":"396758","direction":0,"start_time":47100,"stops_key":"df239","stop_distances":"c5f21","stop_times":"87273","stop_dwells":"f2331","shape_key":"4c4fe"},
-        {"id":"396759","direction":0,"start_time":50700,"stops_key":"df239","stop_distances":"c5f21","stop_times":"87273","stop_dwells":"f2331","shape_key":"4c4fe"},
-        {"id":"396760","direction":0,"start_time":54300,"stops_key":"df239","stop_distances":"c5f21","stop_times":"87273","stop_dwells":"f2331","shape_key":"4c4fe"},
-        {"id":"396761","direction":0,"start_time":57900,"stops_key":"df239","stop_distances":"c5f21","stop_times":"87273","stop_dwells":"f2331","shape_key":"4c4fe"},
-        {"id":"396762","direction":0,"start_time":61500,"stops_key":"df239","stop_distances":"c5f21","stop_times":"87273","stop_dwells":"f2331","shape_key":"4c4fe"},
-        {"id":"396763","direction":0,"start_time":65100,"stops_key":"df239","stop_distances":"c5f21","stop_times":"87273","stop_dwells":"f2331","shape_key":"4c4fe"},
-        {"id":"396764","direction":1,"start_time":23460,"stops_key":"968bf","stop_distances":"a065d","stop_times":"ea7e2","stop_dwells":"ac3b5","shape_key":"eb05f"},
-        {"id":"396765","direction":1,"start_time":27060,"stops_key":"968bf","stop_distances":"a065d","stop_times":"c220e","stop_dwells":"ac3b5","shape_key":"eb05f"},
-        {"id":"396766","direction":1,"start_time":30720,"stops_key":"968bf","stop_distances":"a065d","stop_times":"a51ee","stop_dwells":"ac3b5","shape_key":"eb05f"},
-        {"id":"396767","direction":1,"start_time":34320,"stops_key":"968bf","stop_distances":"a065d","stop_times":"a51ee","stop_dwells":"ac3b5","shape_key":"eb05f"},
-        {"id":"396768","direction":1,"start_time":37980,"stops_key":"968bf","stop_distances":"a065d","stop_times":"a51ee","stop_dwells":"ac3b5","shape_key":"eb05f"},
-        {"id":"396769","direction":1,"start_time":41580,"stops_key":"968bf","stop_distances":"a065d","stop_times":"a51ee","stop_dwells":"ac3b5","shape_key":"eb05f"},
-        {"id":"396770","direction":1,"start_time":45180,"stops_key":"968bf","stop_distances":"a065d","stop_times":"a51ee","stop_dwells":"ac3b5","shape_key":"eb05f"},
-        {"id":"396771","direction":1,"start_time":48780,"stops_key":"968bf","stop_distances":"a065d","stop_times":"a51ee","stop_dwells":"ac3b5","shape_key":"eb05f"},
-        {"id":"396772","direction":1,"start_time":52380,"stops_key":"968bf","stop_distances":"a065d","stop_times":"a51ee","stop_dwells":"ac3b5","shape_key":"eb05f"},
-        {"id":"396773","direction":1,"start_time":55980,"stops_key":"968bf","stop_distances":"a065d","stop_times":"a51ee","stop_dwells":"ac3b5","shape_key":"eb05f"},
-        {"id":"396774","direction":1,"start_time":59580,"stops_key":"968bf","stop_distances":"a065d","stop_times":"f1997","stop_dwells":"ac3b5","shape_key":"eb05f"},
-        {"id":"396775","direction":1,"start_time":63180,"stops_key":"968bf","stop_distances":"a065d","stop_times":"f1997","stop_dwells":"ac3b5","shape_key":"eb05f"},
-        {"id":"396776","direction":1,"start_time":66780,"stops_key":"968bf","stop_distances":"a065d","stop_times":"7a750","stop_dwells":"ac3b5","shape_key":"eb05f"}
+        {"id":"407093","direction":0,"start_time":21900,"stops_key":"df239","stop_distances":"c5f21","stop_times":"d8347","stop_dwells":"f2331","shape_key":"4a0ff"},
+        {"id":"407092","direction":0,"start_time":25500,"stops_key":"df239","stop_distances":"c5f21","stop_times":"d8347","stop_dwells":"f2331","shape_key":"4a0ff"},
+        {"id":"407091","direction":0,"start_time":29100,"stops_key":"df239","stop_distances":"c5f21","stop_times":"1e58d","stop_dwells":"f2331","shape_key":"4a0ff"},
+        {"id":"407090","direction":0,"start_time":32700,"stops_key":"df239","stop_distances":"c5f21","stop_times":"1e58d","stop_dwells":"f2331","shape_key":"4a0ff"},
+        {"id":"407089","direction":0,"start_time":36300,"stops_key":"df239","stop_distances":"c5f21","stop_times":"87273","stop_dwells":"f2331","shape_key":"4a0ff"},
+        {"id":"407088","direction":0,"start_time":39900,"stops_key":"df239","stop_distances":"c5f21","stop_times":"87273","stop_dwells":"f2331","shape_key":"4a0ff"},
+        {"id":"407087","direction":0,"start_time":43500,"stops_key":"df239","stop_distances":"c5f21","stop_times":"87273","stop_dwells":"f2331","shape_key":"4a0ff"},
+        {"id":"407086","direction":0,"start_time":47100,"stops_key":"df239","stop_distances":"c5f21","stop_times":"87273","stop_dwells":"f2331","shape_key":"4a0ff"},
+        {"id":"407085","direction":0,"start_time":50700,"stops_key":"df239","stop_distances":"c5f21","stop_times":"87273","stop_dwells":"f2331","shape_key":"4a0ff"},
+        {"id":"407084","direction":0,"start_time":54300,"stops_key":"df239","stop_distances":"c5f21","stop_times":"87273","stop_dwells":"f2331","shape_key":"4a0ff"},
+        {"id":"407083","direction":0,"start_time":57900,"stops_key":"df239","stop_distances":"c5f21","stop_times":"87273","stop_dwells":"f2331","shape_key":"4a0ff"},
+        {"id":"407082","direction":0,"start_time":61500,"stops_key":"df239","stop_distances":"c5f21","stop_times":"87273","stop_dwells":"f2331","shape_key":"4a0ff"},
+        {"id":"407081","direction":0,"start_time":65100,"stops_key":"df239","stop_distances":"c5f21","stop_times":"87273","stop_dwells":"f2331","shape_key":"4a0ff"},
+        {"id":"407106","direction":1,"start_time":23460,"stops_key":"968bf","stop_distances":"a065d","stop_times":"ea7e2","stop_dwells":"ac3b5","shape_key":"f0eff"},
+        {"id":"407105","direction":1,"start_time":27060,"stops_key":"968bf","stop_distances":"a065d","stop_times":"c220e","stop_dwells":"ac3b5","shape_key":"f0eff"},
+        {"id":"407104","direction":1,"start_time":30720,"stops_key":"968bf","stop_distances":"a065d","stop_times":"a51ee","stop_dwells":"ac3b5","shape_key":"f0eff"},
+        {"id":"407103","direction":1,"start_time":34320,"stops_key":"968bf","stop_distances":"a065d","stop_times":"a51ee","stop_dwells":"ac3b5","shape_key":"f0eff"},
+        {"id":"407102","direction":1,"start_time":37980,"stops_key":"968bf","stop_distances":"a065d","stop_times":"a51ee","stop_dwells":"ac3b5","shape_key":"f0eff"},
+        {"id":"407101","direction":1,"start_time":41580,"stops_key":"968bf","stop_distances":"a065d","stop_times":"a51ee","stop_dwells":"ac3b5","shape_key":"f0eff"},
+        {"id":"407100","direction":1,"start_time":45180,"stops_key":"968bf","stop_distances":"a065d","stop_times":"a51ee","stop_dwells":"ac3b5","shape_key":"f0eff"},
+        {"id":"407099","direction":1,"start_time":48780,"stops_key":"968bf","stop_distances":"a065d","stop_times":"a51ee","stop_dwells":"ac3b5","shape_key":"f0eff"},
+        {"id":"407098","direction":1,"start_time":52380,"stops_key":"968bf","stop_distances":"a065d","stop_times":"a51ee","stop_dwells":"ac3b5","shape_key":"f0eff"},
+        {"id":"407097","direction":1,"start_time":55980,"stops_key":"968bf","stop_distances":"a065d","stop_times":"a51ee","stop_dwells":"ac3b5","shape_key":"f0eff"},
+        {"id":"407096","direction":1,"start_time":59580,"stops_key":"968bf","stop_distances":"a065d","stop_times":"f1997","stop_dwells":"ac3b5","shape_key":"f0eff"},
+        {"id":"407095","direction":1,"start_time":63180,"stops_key":"968bf","stop_distances":"a065d","stop_times":"f1997","stop_dwells":"ac3b5","shape_key":"f0eff"},
+        {"id":"407094","direction":1,"start_time":66780,"stops_key":"968bf","stop_distances":"a065d","stop_times":"7a750","stop_dwells":"ac3b5","shape_key":"f0eff"}
       ]
     }
   }

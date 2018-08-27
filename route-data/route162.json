@@ -1,101 +1,102 @@
 {
-  "id": "3034",
+  "id": "3118",
   "short_name": "162",
   "long_name": "Ventana Ranch / Unser",
   "color": "83361B",
   "text_color": "FFFFFF",
   "schedules": {
     "1": {
-      "start_date": "20171125",
-      "end_date": "20180511",
-      "days_mask_mon_sun": 124,"added_days":[],"removed_days":[]
+      "start_date": "20180818",
+      "end_date": "20181221",
+      "days_mask_mon_sun": 124,"added_days":[],"removed_days":["20180903","20181122","20181123"
+      ]
     }
   },
-  "related_route_data": {"3058":{"short_name":"92","long_name":"Taylor Ranch Express","color":"D43815","text_color":"FFFFFF"
-    },"3060":{"short_name":"94","long_name":"Unser Commuter","color":"3988FF","text_color":"000000"
-    },"3061":{"short_name":"96","long_name":"Crosstown Commuter","color":"F3F400","text_color":"000000"
-    },"3031":{"short_name":"155","long_name":"Coors","color":"FF8900","text_color":"000000"
-    },"3032":{"short_name":"157","long_name":"Cottonwood/Montano/UTC","color":"008047","text_color":"FFFFFF"
-    },"3034":{"short_name":"162","long_name":"Ventana Ranch / Unser","color":"83361B","text_color":"FFFFFF"
-    },"3056":{"short_name":"790","long_name":"Coors Blue Line Rapid Ride","color":"0000FF","text_color":"FFFFFF"
+  "related_route_data": {"3142":{"short_name":"92","long_name":"Taylor Ranch Express","color":"D43815","text_color":"FFFFFF"
+    },"3144":{"short_name":"94","long_name":"Unser Commuter","color":"3988FF","text_color":"000000"
+    },"3145":{"short_name":"96","long_name":"Crosstown Commuter","color":"F3F400","text_color":"000000"
+    },"3115":{"short_name":"155","long_name":"Coors","color":"FF8900","text_color":"000000"
+    },"3116":{"short_name":"157","long_name":"Cottonwood/Montano/UTC","color":"008047","text_color":"FFFFFF"
+    },"3118":{"short_name":"162","long_name":"Ventana Ranch / Unser","color":"83361B","text_color":"FFFFFF"
+    },"3140":{"short_name":"790","long_name":"Blue Line Rapid Ride","color":"0000FF","text_color":"FFFFFF"
     }
   },
-  "stops": {"1018":{"name":"Rainbow @ Ventana Village","desc":"10018 RAINBOW BLVD NW","coordinates":[-106.7365,35.1948],"related_stops":["1018","1344"],"transfer_routes":["3034"],"related_routes":[]
-    },"1019":{"name":"Rainbow @ Hearthstone","desc":"RAINBOW BLVD NW","coordinates":[-106.7372,35.1862],"related_stops":["1019","1020"],"transfer_routes":["3034"],"related_routes":[]
-    },"1020":{"name":"Rainbow @ Hearthstone","desc":"RAINBOW BLVD NW \u0026 HEARTHSTONE RD NW","coordinates":[-106.7368,35.1864],"related_stops":["1019","1020"],"transfer_routes":["3034"],"related_routes":[]
-    },"1027":{"name":"Unser @ Molten Rock","desc":"UNSER BLVD NW","coordinates":[-106.7271,35.1617],"related_stops":["1027","1028"],"transfer_routes":["3034"],"related_routes":[]
-    },"1028":{"name":"Unser @ Molten Rock","desc":"UNSER BLVD NW","coordinates":[-106.7267,35.1617],"related_stops":["1027","1028"],"transfer_routes":["3034"],"related_routes":[]
-    },"1029":{"name":"Montano @ Unser","desc":"6416 MONTANO RD NW \u0026 SHADOW RIDGE DR NW","coordinates":[-106.7163,35.1525],"related_stops":["1350","1030","1029","1313"],"transfer_routes":["3034"],"related_routes":["3060"]
-    },"1030":{"name":"Montano @ Unser","desc":"6415 MONTANO RD NW \u0026 SHADOW RIDGE DR NW","coordinates":[-106.7163,35.1528],"related_stops":["1350","1030","1029","1313"],"transfer_routes":["3034"],"related_routes":["3060"]
-    },"1031":{"name":"Montano @ Picture Rock","desc":"6216 MONTANO RD NW \u0026 PICTURE ROCK PL NW","coordinates":[-106.7109,35.1527],"related_stops":["1433","1032","1031","1453"],"transfer_routes":["3034"],"related_routes":["3058"]
-    },"1032":{"name":"Montano @ Picture Rock","desc":"6211 MONTANO RD NW","coordinates":[-106.7106,35.153],"related_stops":["1433","1032","1031","1453"],"transfer_routes":["3034"],"related_routes":["3058"]
-    },"1033":{"name":"La Orilla @ Taylor Ranch","desc":"3660 LA ORILLA RD NW","coordinates":[-106.6913,35.1586],"related_stops":["1033"],"transfer_routes":["3034"],"related_routes":[]
-    },"1034":{"name":"La Orilla @ Santalina","desc":"3384 LA ORILLA RD NW \u0026 SANTALINA DR NW","coordinates":[-106.6861,35.1598],"related_stops":["1034"],"transfer_routes":["3034"],"related_routes":[]
-    },"1040":{"name":"Coors @ Montano Plaza","desc":"6146 COORS BLVD NW","coordinates":[-106.6836,35.1527],"related_stops":["6947","1040","2997","5968"],"transfer_routes":["3056"],"related_routes":["3061","3031","3034"]
-    },"1313":{"name":"Unser @ Montano","desc":"5612 UNSER BLVD NW","coordinates":[-106.7161,35.1508],"related_stops":["1350","1030","1029","1313"],"transfer_routes":["3060"],"related_routes":["3034"]
-    },"1315":{"name":"Rainbow @ Paseo Del Norte","desc":"RAINBOW \u0026 PASEO DEL NORTE","coordinates":[-106.7363,35.1903],"related_stops":["1346","1315"],"transfer_routes":["3034"],"related_routes":[]
-    },"1317":{"name":"Rainbow @ Las Ventanas","desc":"RAINBOW \u0026 LAS VENTANAS","coordinates":[-106.7368,35.2005],"related_stops":["1342","1317"],"transfer_routes":["3034"],"related_routes":[]
-    },"1318":{"name":"Rainbow @ Irving","desc":"RAINBOW \u0026 IRVING","coordinates":[-106.7364,35.2023],"related_stops":["1340","1318"],"transfer_routes":["3034"],"related_routes":[]
-    },"1320":{"name":"Irving @ Catania","desc":"IRVING \u0026 CATANIA","coordinates":[-106.7333,35.2032],"related_stops":["1338","1320"],"transfer_routes":["3034"],"related_routes":[]
-    },"1322":{"name":"Irving @ Country Manor","desc":"IRVING \u0026 COUNTRY MANOR","coordinates":[-106.7296,35.2032],"related_stops":["1336","1322"],"transfer_routes":["3034"],"related_routes":[]
-    },"1324":{"name":"Universe @ Irving","desc":"UNIVERSE \u0026 IRVING","coordinates":[-106.7276,35.2038],"related_stops":["1334","1324"],"transfer_routes":["3034"],"related_routes":[]
-    },"1326":{"name":"Universe @ Avenida Seville","desc":"UNIVERSE \u0026 AVENIVA SEVILLE","coordinates":[-106.7275,35.2079],"related_stops":["1332","1326"],"transfer_routes":["3034"],"related_routes":[]
-    },"1328":{"name":"C.N.M West Campus","desc":"T V I WEST CAMPUS","coordinates":[-106.7301,35.2095],"related_stops":["1328"],"transfer_routes":["3034"],"related_routes":[]
-    },"1332":{"name":"Universe @ Avenida Seville","desc":"UNIVERSE \u0026 AVAENIDA SEVILLA","coordinates":[-106.7278,35.2073],"related_stops":["1332","1326"],"transfer_routes":["3034"],"related_routes":[]
-    },"1334":{"name":"Universe @ Irving","desc":"UNIVERSE \u0026 IRVING","coordinates":[-106.7278,35.2037],"related_stops":["1334","1324"],"transfer_routes":["3034"],"related_routes":[]
-    },"1336":{"name":"Irving @ Cantacielo","desc":"IRVING \u0026 CANTACIELO","coordinates":[-106.7297,35.2035],"related_stops":["1336","1322"],"transfer_routes":["3034"],"related_routes":[]
-    },"1338":{"name":"Irving @ Catania","desc":"IRVING \u0026 CATANIA","coordinates":[-106.7334,35.2034],"related_stops":["1338","1320"],"transfer_routes":["3034"],"related_routes":[]
-    },"1340":{"name":"Rainbow @ Irving","desc":"RAINBOW \u0026 IRVING","coordinates":[-106.7367,35.2027],"related_stops":["1340","1318"],"transfer_routes":["3034"],"related_routes":[]
-    },"1342":{"name":"Rainbow @ Las Ventanas","desc":"RAINBOW \u0026 LAS VENTANAS","coordinates":[-106.7371,35.2007],"related_stops":["1342","1317"],"transfer_routes":["3034"],"related_routes":[]
-    },"1344":{"name":"Rainbow @ Ventana Village","desc":"RAINBOW \u0026 VENTANA VIILLAGE","coordinates":[-106.7374,35.1957],"related_stops":["1018","1344"],"transfer_routes":["3034"],"related_routes":[]
-    },"1346":{"name":"Rainbow @ Ventana Ranch","desc":"RAINBOW \u0026 VENTANA RANCH RD","coordinates":[-106.7368,35.1905],"related_stops":["1346","1315"],"transfer_routes":["3034"],"related_routes":[]
-    },"1350":{"name":"Unser @ Montano","desc":"5613 UNSER BLVD NW","coordinates":[-106.7164,35.1507],"related_stops":["1350","1030","1029","1313"],"transfer_routes":["3060"],"related_routes":["3034"]
-    },"1433":{"name":"Golden @ Montano","desc":"5974 GOLDEN AVE NW \u0026 MONTANO RD NW","coordinates":[-106.7099,35.1526],"related_stops":["1433","1032","1031","1453"],"transfer_routes":["3058"],"related_routes":["3034"]
-    },"1435":{"name":"Montano @ Cochiti","desc":"MONTANO \u0026 COCHITI","coordinates":[-106.7071,35.1527],"related_stops":["1451","1435"],"transfer_routes":["3058","3034"],"related_routes":[]
-    },"1437":{"name":"Montano @ Equestrian","desc":"MONTANO \u0026 EQUESTRIAN","coordinates":[-106.7038,35.1526],"related_stops":["1449","1437"],"transfer_routes":["3058","3034"],"related_routes":[]
-    },"1439":{"name":"Montano @ Vista Montano","desc":"MONTANO \u0026 VISTA MONTANO","coordinates":[-106.7001,35.1524],"related_stops":["1447","1439"],"transfer_routes":["3058","3034"],"related_routes":[]
-    },"1441":{"name":"Montano @ Valle Vista","desc":"MONTANO \u0026 VALLE VISTA","coordinates":[-106.697,35.1524],"related_stops":["1441","1445"],"transfer_routes":["3058","3034"],"related_routes":[]
-    },"1443":{"name":"Montano @ Taylor Ranch","desc":"MONTANO \u0026 VALLE VISTA","coordinates":[-106.6953,35.1527],"related_stops":["3131","3129","1443","1477","3125"],"transfer_routes":["3058","3034"],"related_routes":["3032"]
-    },"1445":{"name":"Montano @ Valle Vista","desc":"MONTANO \u0026 VALLE VISTA","coordinates":[-106.6969,35.1527],"related_stops":["1441","1445"],"transfer_routes":["3058","3034"],"related_routes":[]
-    },"1447":{"name":"Montano @ Vista Montano","desc":"MONTANO \u0026 VISTA MONTANO","coordinates":[-106.7001,35.1527],"related_stops":["1447","1439"],"transfer_routes":["3058","3034"],"related_routes":[]
-    },"1449":{"name":"Montano @ Equestrian","desc":"MONTANO \u0026 EQUESTRIAN","coordinates":[-106.7041,35.1529],"related_stops":["1449","1437"],"transfer_routes":["3058","3034"],"related_routes":[]
-    },"1451":{"name":"Montano @ Cochiti","desc":"MONTANO \u0026 COCHITI","coordinates":[-106.7071,35.153],"related_stops":["1451","1435"],"transfer_routes":["3058","3034"],"related_routes":[]
-    },"1453":{"name":"Golden @ Montano","desc":"GOLDEN \u0026 MONTANO","coordinates":[-106.7101,35.1525],"related_stops":["1433","1032","1031","1453"],"transfer_routes":["3058"],"related_routes":["3034"]
-    },"1477":{"name":"Taylor Ranch @ Montano","desc":"6044 TAYLOR RANCH DR NW \u0026 MONTANO RD NW","coordinates":[-106.6937,35.1539],"related_stops":["3131","3129","1443","1477","3125"],"transfer_routes":["3058","3032","3034"],"related_routes":[]
-    },"1479":{"name":"Taylor Ranch @ Kachina","desc":"6238 TAYLOR RANCH DR NW","coordinates":[-106.6939,35.1561],"related_stops":["1555","1479"],"transfer_routes":["3058","3032","3034"],"related_routes":[]
-    },"1555":{"name":"Taylor Ranch @ Kachina","desc":"6095 TAYLOR RANCH DR NW","coordinates":[-106.6945,35.1552],"related_stops":["1555","1479"],"transfer_routes":["3058","3032"],"related_routes":["3034"]
-    },"2993":{"name":"Coors @ Montano","desc":"1167 I 40  E","coordinates":[-106.6846,35.1512],"related_stops":["2993","7032","3039","5710","6999"],"transfer_routes":["3061","3031"],"related_routes":["3032","3034"]
-    },"2997":{"name":"Coors @ Montano Plaza","desc":"6286 COORS BLVD NW","coordinates":[-106.6815,35.156],"related_stops":["6947","1040","2997","5968"],"transfer_routes":["3031"],"related_routes":["3061","3034","3056"]
-    },"2999":{"name":"Coors @ La Orilla","desc":"6416 COORS BLVD NW","coordinates":[-106.6785,35.1608],"related_stops":["3035","2999"],"transfer_routes":["3061","3031"],"related_routes":["3034"]
-    },"3035":{"name":"Coors @ La Orilla","desc":"1130 I 40  E","coordinates":[-106.6801,35.1589],"related_stops":["3035","2999"],"transfer_routes":["3061","3031","3034"],"related_routes":[]
-    },"3039":{"name":"Coors @ Montano","desc":"1186 I 40  E","coordinates":[-106.688,35.1484],"related_stops":["2993","7032","3039","5710","6999"],"transfer_routes":["3061","3031"],"related_routes":["3032","3034"]
-    },"3125":{"name":"Montano @ Montano Plaza","desc":"4621 MONTANO RD NW \u0026 MONTANO PLAZA DR NW","coordinates":[-106.6899,35.1516],"related_stops":["3131","3129","1443","1477","3125"],"transfer_routes":["3032","3034"],"related_routes":["3058"]
-    },"3129":{"name":"Montano @ Taylor Ranch","desc":"4774 MONTANO RD NW","coordinates":[-106.6933,35.1523],"related_stops":["3131","3129","1443","1477","3125"],"transfer_routes":["3032"],"related_routes":["3058","3034"]
-    },"3131":{"name":"Montano @ Taylor Ranch","desc":"4646 MONTANO RD NW","coordinates":[-106.6906,35.1516],"related_stops":["3131","3129","1443","1477","3125"],"transfer_routes":["3032"],"related_routes":["3058","3034"]
-    },"5710":{"name":"Montano @ Coors","desc":"4475 MONTANO RD NW","coordinates":[-106.6886,35.151],"related_stops":["2993","7032","3039","5710","6999"],"transfer_routes":["3032","3034"],"related_routes":["3061","3031"]
-    },"5968":{"name":"Coors @ Montano Plaza (Rapid)","desc":"","coordinates":[-106.6834,35.1537],"related_stops":["6947","1040","2997","5968"],"transfer_routes":["3056"],"related_routes":["3061","3031","3034"]
-    },"6947":{"name":"Coors @ Montano Plaza","desc":"","coordinates":[-106.6833,35.1537],"related_stops":["6947","1040","2997","5968"],"transfer_routes":["3061","3031","3034"],"related_routes":["3056"]
-    },"6952":{"name":"Rainbow @ Volcano Vista","desc":"","coordinates":[-106.7351,35.1774],"related_stops":["7610","6952"],"transfer_routes":["3034"],"related_routes":[]
-    },"6956":{"name":"Woodmont @ Rainbow","desc":"","coordinates":[-106.738,35.1812],"related_stops":["6956","6958"],"transfer_routes":["3034"],"related_routes":[]
-    },"6958":{"name":"Rainbow @ Woodmont","desc":"8120 RAINBOW BLVD NW \u0026 WOODMONT AVE NW","coordinates":[-106.7376,35.1814],"related_stops":["6956","6958"],"transfer_routes":["3034"],"related_routes":[]
-    },"6999":{"name":"Montano @ Coors","desc":"4134 MONTANO RD NW","coordinates":[-106.6848,35.1488],"related_stops":["2993","7032","3039","5710","6999"],"transfer_routes":["3032"],"related_routes":["3061","3031","3034"]
-    },"7032":{"name":"Montano @ Coors","desc":"4173 MONTANO RD NW","coordinates":[-106.6855,35.1494],"related_stops":["2993","7032","3039","5710","6999"],"transfer_routes":["3032"],"related_routes":["3061","3031","3034"]
-    },"7610":{"name":"Rainbow @ Volcano Vista HS","desc":"8111 RAINBOW BLVD NW","coordinates":[-106.7357,35.1777],"related_stops":["7610","6952"],"transfer_routes":["3034"],"related_routes":[]
+  "stops": {"1018":{"name":"Rainbow @ Ventana Village","desc":"10018 RAINBOW BLVD NW","coordinates":[-106.7365,35.1948],"related_stops":["1018","1344"],"transfer_routes":["3118"],"related_routes":[]
+    },"1019":{"name":"Rainbow @ Hearthstone","desc":"RAINBOW BLVD NW","coordinates":[-106.7372,35.1862],"related_stops":["1019","1020"],"transfer_routes":["3118"],"related_routes":[]
+    },"1020":{"name":"Rainbow @ Hearthstone","desc":"RAINBOW BLVD NW \u0026 HEARTHSTONE RD NW","coordinates":[-106.7368,35.1864],"related_stops":["1019","1020"],"transfer_routes":["3118"],"related_routes":[]
+    },"1027":{"name":"Unser @ Molten Rock","desc":"UNSER BLVD NW","coordinates":[-106.7271,35.1617],"related_stops":["1027","1028"],"transfer_routes":["3118"],"related_routes":[]
+    },"1028":{"name":"Unser @ Molten Rock","desc":"UNSER BLVD NW","coordinates":[-106.7267,35.1617],"related_stops":["1027","1028"],"transfer_routes":["3118"],"related_routes":[]
+    },"1029":{"name":"Montano @ Unser","desc":"6416 MONTANO RD NW \u0026 SHADOW RIDGE DR NW","coordinates":[-106.7163,35.1525],"related_stops":["1350","1030","1029","1313"],"transfer_routes":["3118"],"related_routes":["3144"]
+    },"1030":{"name":"Montano @ Unser","desc":"6415 MONTANO RD NW \u0026 SHADOW RIDGE DR NW","coordinates":[-106.7163,35.1528],"related_stops":["1350","1030","1029","1313"],"transfer_routes":["3118"],"related_routes":["3144"]
+    },"1031":{"name":"Montano @ Picture Rock","desc":"6216 MONTANO RD NW \u0026 PICTURE ROCK PL NW","coordinates":[-106.7109,35.1527],"related_stops":["1433","1032","1031","1453"],"transfer_routes":["3118"],"related_routes":["3142"]
+    },"1032":{"name":"Montano @ Picture Rock","desc":"6211 MONTANO RD NW","coordinates":[-106.7106,35.153],"related_stops":["1433","1032","1031","1453"],"transfer_routes":["3118"],"related_routes":["3142"]
+    },"1033":{"name":"La Orilla @ Taylor Ranch","desc":"3660 LA ORILLA RD NW","coordinates":[-106.6913,35.1586],"related_stops":["1033"],"transfer_routes":["3118"],"related_routes":[]
+    },"1034":{"name":"La Orilla @ Santalina","desc":"3384 LA ORILLA RD NW \u0026 SANTALINA DR NW","coordinates":[-106.6861,35.1598],"related_stops":["1034"],"transfer_routes":["3118"],"related_routes":[]
+    },"1040":{"name":"Coors @ Montano Plaza","desc":"6146 COORS BLVD NW","coordinates":[-106.6836,35.1527],"related_stops":["6947","1040","2997","5968"],"transfer_routes":["3140"],"related_routes":["3145","3115","3118"]
+    },"1313":{"name":"Unser @ Montano","desc":"5612 UNSER BLVD NW","coordinates":[-106.7161,35.1508],"related_stops":["1350","1030","1029","1313"],"transfer_routes":["3144"],"related_routes":["3118"]
+    },"1315":{"name":"Rainbow @ Paseo Del Norte","desc":"RAINBOW \u0026 PASEO DEL NORTE","coordinates":[-106.7363,35.1903],"related_stops":["1346","1315"],"transfer_routes":["3118"],"related_routes":[]
+    },"1317":{"name":"Rainbow @ Las Ventanas","desc":"RAINBOW \u0026 LAS VENTANAS","coordinates":[-106.7368,35.2005],"related_stops":["1342","1317"],"transfer_routes":["3118"],"related_routes":[]
+    },"1318":{"name":"Rainbow @ Irving","desc":"RAINBOW \u0026 IRVING","coordinates":[-106.7364,35.2023],"related_stops":["1340","1318"],"transfer_routes":["3118"],"related_routes":[]
+    },"1320":{"name":"Irving @ Catania","desc":"IRVING \u0026 CATANIA","coordinates":[-106.7333,35.2032],"related_stops":["1338","1320"],"transfer_routes":["3118"],"related_routes":[]
+    },"1322":{"name":"Irving @ Country Manor","desc":"IRVING \u0026 COUNTRY MANOR","coordinates":[-106.7296,35.2032],"related_stops":["1336","1322"],"transfer_routes":["3118"],"related_routes":[]
+    },"1324":{"name":"Universe @ Irving","desc":"UNIVERSE \u0026 IRVING","coordinates":[-106.7276,35.2038],"related_stops":["1334","1324"],"transfer_routes":["3118"],"related_routes":[]
+    },"1326":{"name":"Universe @ Avenida Seville","desc":"UNIVERSE \u0026 AVENIVA SEVILLE","coordinates":[-106.7275,35.2079],"related_stops":["1332","1326"],"transfer_routes":["3118"],"related_routes":[]
+    },"1328":{"name":"C.N.M West Campus","desc":"T V I WEST CAMPUS","coordinates":[-106.7301,35.2095],"related_stops":["1328"],"transfer_routes":["3118"],"related_routes":[]
+    },"1332":{"name":"Universe @ Avenida Seville","desc":"UNIVERSE \u0026 AVAENIDA SEVILLA","coordinates":[-106.7278,35.2073],"related_stops":["1332","1326"],"transfer_routes":["3118"],"related_routes":[]
+    },"1334":{"name":"Universe @ Irving","desc":"UNIVERSE \u0026 IRVING","coordinates":[-106.7278,35.2037],"related_stops":["1334","1324"],"transfer_routes":["3118"],"related_routes":[]
+    },"1336":{"name":"Irving @ Cantacielo","desc":"IRVING \u0026 CANTACIELO","coordinates":[-106.7297,35.2035],"related_stops":["1336","1322"],"transfer_routes":["3118"],"related_routes":[]
+    },"1338":{"name":"Irving @ Catania","desc":"IRVING \u0026 CATANIA","coordinates":[-106.7334,35.2034],"related_stops":["1338","1320"],"transfer_routes":["3118"],"related_routes":[]
+    },"1340":{"name":"Rainbow @ Irving","desc":"RAINBOW \u0026 IRVING","coordinates":[-106.7367,35.2027],"related_stops":["1340","1318"],"transfer_routes":["3118"],"related_routes":[]
+    },"1342":{"name":"Rainbow @ Las Ventanas","desc":"RAINBOW \u0026 LAS VENTANAS","coordinates":[-106.7371,35.2007],"related_stops":["1342","1317"],"transfer_routes":["3118"],"related_routes":[]
+    },"1344":{"name":"Rainbow @ Ventana Village","desc":"RAINBOW \u0026 VENTANA VIILLAGE","coordinates":[-106.7374,35.1957],"related_stops":["1018","1344"],"transfer_routes":["3118"],"related_routes":[]
+    },"1346":{"name":"Rainbow @ Ventana Ranch","desc":"RAINBOW \u0026 VENTANA RANCH RD","coordinates":[-106.7368,35.1905],"related_stops":["1346","1315"],"transfer_routes":["3118"],"related_routes":[]
+    },"1350":{"name":"Unser @ Montano","desc":"5613 UNSER BLVD NW","coordinates":[-106.7164,35.1507],"related_stops":["1350","1030","1029","1313"],"transfer_routes":["3144"],"related_routes":["3118"]
+    },"1433":{"name":"Golden @ Montano","desc":"5974 GOLDEN AVE NW \u0026 MONTANO RD NW","coordinates":[-106.7099,35.1526],"related_stops":["1433","1032","1031","1453"],"transfer_routes":["3142"],"related_routes":["3118"]
+    },"1435":{"name":"Montano @ Cochiti","desc":"MONTANO \u0026 COCHITI","coordinates":[-106.7071,35.1527],"related_stops":["1451","1435"],"transfer_routes":["3142","3118"],"related_routes":[]
+    },"1437":{"name":"Montano @ Equestrian","desc":"MONTANO \u0026 EQUESTRIAN","coordinates":[-106.7038,35.1526],"related_stops":["1449","1437"],"transfer_routes":["3142","3118"],"related_routes":[]
+    },"1439":{"name":"Montano @ Vista Montano","desc":"MONTANO \u0026 VISTA MONTANO","coordinates":[-106.7001,35.1524],"related_stops":["1447","1439"],"transfer_routes":["3142","3118"],"related_routes":[]
+    },"1441":{"name":"Montano @ Valle Vista","desc":"MONTANO \u0026 VALLE VISTA","coordinates":[-106.697,35.1524],"related_stops":["1441","1445"],"transfer_routes":["3142","3118"],"related_routes":[]
+    },"1443":{"name":"Montano @ Taylor Ranch","desc":"MONTANO \u0026 VALLE VISTA","coordinates":[-106.6953,35.1527],"related_stops":["3131","3129","1443","1477","3125"],"transfer_routes":["3142","3118"],"related_routes":["3116"]
+    },"1445":{"name":"Montano @ Valle Vista","desc":"MONTANO \u0026 VALLE VISTA","coordinates":[-106.6969,35.1527],"related_stops":["1441","1445"],"transfer_routes":["3142","3118"],"related_routes":[]
+    },"1447":{"name":"Montano @ Vista Montano","desc":"MONTANO \u0026 VISTA MONTANO","coordinates":[-106.7001,35.1527],"related_stops":["1447","1439"],"transfer_routes":["3142","3118"],"related_routes":[]
+    },"1449":{"name":"Montano @ Equestrian","desc":"MONTANO \u0026 EQUESTRIAN","coordinates":[-106.7041,35.1529],"related_stops":["1449","1437"],"transfer_routes":["3142","3118"],"related_routes":[]
+    },"1451":{"name":"Montano @ Cochiti","desc":"MONTANO \u0026 COCHITI","coordinates":[-106.7071,35.153],"related_stops":["1451","1435"],"transfer_routes":["3142","3118"],"related_routes":[]
+    },"1453":{"name":"Golden @ Montano","desc":"GOLDEN \u0026 MONTANO","coordinates":[-106.7101,35.1525],"related_stops":["1433","1032","1031","1453"],"transfer_routes":["3142"],"related_routes":["3118"]
+    },"1477":{"name":"Taylor Ranch @ Montano","desc":"6044 TAYLOR RANCH DR NW \u0026 MONTANO RD NW","coordinates":[-106.6937,35.1539],"related_stops":["3131","3129","1443","1477","3125"],"transfer_routes":["3142","3116","3118"],"related_routes":[]
+    },"1479":{"name":"Taylor Ranch @ Kachina","desc":"6238 TAYLOR RANCH DR NW","coordinates":[-106.6939,35.1561],"related_stops":["1555","1479"],"transfer_routes":["3142","3116","3118"],"related_routes":[]
+    },"1555":{"name":"Taylor Ranch @ Kachina","desc":"6095 TAYLOR RANCH DR NW","coordinates":[-106.6945,35.1552],"related_stops":["1555","1479"],"transfer_routes":["3142","3116"],"related_routes":["3118"]
+    },"2993":{"name":"Coors @ Montano","desc":"1167 I 40  E","coordinates":[-106.6846,35.1512],"related_stops":["2993","7032","3039","5710","6999"],"transfer_routes":["3145","3115"],"related_routes":["3116","3118"]
+    },"2997":{"name":"Coors @ Montano Plaza","desc":"6286 COORS BLVD NW","coordinates":[-106.6815,35.156],"related_stops":["6947","1040","2997","5968"],"transfer_routes":["3115"],"related_routes":["3145","3118","3140"]
+    },"2999":{"name":"Coors @ La Orilla","desc":"6416 COORS BLVD NW","coordinates":[-106.6785,35.1608],"related_stops":["3035","2999"],"transfer_routes":["3145","3115"],"related_routes":["3118"]
+    },"3035":{"name":"Coors @ La Orilla","desc":"1130 I 40  E","coordinates":[-106.6801,35.1589],"related_stops":["3035","2999"],"transfer_routes":["3145","3115","3118"],"related_routes":[]
+    },"3039":{"name":"Coors @ Montano","desc":"1186 I 40  E","coordinates":[-106.688,35.1484],"related_stops":["2993","7032","3039","5710","6999"],"transfer_routes":["3145","3115"],"related_routes":["3116","3118"]
+    },"3125":{"name":"Montano @ Montano Plaza","desc":"4621 MONTANO RD NW \u0026 MONTANO PLAZA DR NW","coordinates":[-106.6899,35.1516],"related_stops":["3131","3129","1443","1477","3125"],"transfer_routes":["3116","3118"],"related_routes":["3142"]
+    },"3129":{"name":"Montano @ Taylor Ranch","desc":"4774 MONTANO RD NW","coordinates":[-106.6933,35.1523],"related_stops":["3131","3129","1443","1477","3125"],"transfer_routes":["3116"],"related_routes":["3142","3118"]
+    },"3131":{"name":"Montano @ Taylor Ranch","desc":"4646 MONTANO RD NW","coordinates":[-106.6906,35.1516],"related_stops":["3131","3129","1443","1477","3125"],"transfer_routes":["3116"],"related_routes":["3142","3118"]
+    },"5710":{"name":"Montano @ Coors","desc":"4475 MONTANO RD NW","coordinates":[-106.6886,35.151],"related_stops":["2993","7032","3039","5710","6999"],"transfer_routes":["3116","3118"],"related_routes":["3145","3115"]
+    },"5968":{"name":"Coors @ Montano Plaza (Rapid)","desc":"","coordinates":[-106.6834,35.1537],"related_stops":["6947","1040","2997","5968"],"transfer_routes":["3140"],"related_routes":["3145","3115","3118"]
+    },"6947":{"name":"Coors @ Montano Plaza","desc":"","coordinates":[-106.6833,35.1537],"related_stops":["6947","1040","2997","5968"],"transfer_routes":["3145","3115","3118"],"related_routes":["3140"]
+    },"6952":{"name":"Rainbow @ Volcano Vista","desc":"","coordinates":[-106.7351,35.1774],"related_stops":["7610","6952"],"transfer_routes":["3118"],"related_routes":[]
+    },"6956":{"name":"Woodmont @ Rainbow","desc":"","coordinates":[-106.738,35.1812],"related_stops":["6956","6958"],"transfer_routes":["3118"],"related_routes":[]
+    },"6958":{"name":"Rainbow @ Woodmont","desc":"8120 RAINBOW BLVD NW \u0026 WOODMONT AVE NW","coordinates":[-106.7376,35.1814],"related_stops":["6956","6958"],"transfer_routes":["3118"],"related_routes":[]
+    },"6999":{"name":"Montano @ Coors","desc":"4134 MONTANO RD NW","coordinates":[-106.6848,35.1488],"related_stops":["2993","7032","3039","5710","6999"],"transfer_routes":["3116"],"related_routes":["3145","3115","3118"]
+    },"7032":{"name":"Montano @ Coors","desc":"4173 MONTANO RD NW","coordinates":[-106.6855,35.1494],"related_stops":["2993","7032","3039","5710","6999"],"transfer_routes":["3116"],"related_routes":["3145","3115","3118"]
+    },"7610":{"name":"Rainbow @ Volcano Vista HS","desc":"8111 RAINBOW BLVD NW","coordinates":[-106.7357,35.1777],"related_stops":["7610","6952"],"transfer_routes":["3118"],"related_routes":[]
     }
   },
   "trip_data": {
     "shapes": {
-      "7faed": {
-        "bearing": 325.9,"centroid":[-106.7229,35.1757],
-        "bounds": [[-106.7385,35.1496],[0.0,35.2096]
-        ],"coordinates":[[-106.68336600005922,35.153196],[-106.68463600005954,35.151333],[-106.68620200005992,35.149636],[-106.69063000006109,35.151811],[-106.69247400006158,35.152355],[-106.69377000006192,35.15253],[-106.70187700006409,35.152509],[-106.70554400006509,35.15283],[-106.71436800006755,35.152804],[-106.71648300006815,35.152587],[-106.71723200006836,35.152246],[-106.71951700006903,35.155335],[-106.7203740000693,35.156032],[-106.72360300007023,35.157512],[-106.72468600007056,35.158274],[-106.72631100007104,35.16045],[-106.72701100007127,35.16194],[-106.72708200007128,35.162795],[-106.72687000007123,35.163845],[-106.72585000007092,35.165281],[-106.72817500007162,35.166277],[-106.72866000007177,35.166671],[-106.729386000072,35.167668],[-106.73244200007294,35.172555],[-106.73356400007329,35.174659],[-106.73800800007467,35.181636],[-106.73847300007482,35.182877],[-106.7383860000748,35.183672],[-106.73691500007435,35.186547],[-106.73654200007425,35.188104],[-106.73637100007423,35.193531],[-106.7366400000743,35.194564],[-106.73741200007456,35.196243],[-106.73762500007462,35.197637],[-106.73740100007457,35.199272],[-106.73658900007432,35.201678],[-106.73649200007429,35.203298],[-106.72765300007163,35.203317],[-106.72759600007164,35.208785],[-106.72864800007196,35.208903],[-106.72934600007217,35.209225],[-106.72938900007217,35.20952],[-106.72954400007222,35.209574],[-106.73001000007235,35.209494]],
-        "distances": [0.0,0.2378,0.4746,0.9423,1.1203,1.2388,1.9709,2.3048,3.1019,3.2952,3.3731,3.7759,3.8855,4.2216,4.3515,4.6363,4.8151,4.9113,5.0311,5.2161,5.454,5.5169,5.6456,6.2578,6.5149,7.3929,7.5394,7.629,7.9765,8.155,8.7633,8.8817,9.0814,9.2389,9.4235,9.7037,9.885,10.683,11.2952,11.3911,11.4637,11.4969,11.5121,11.5592]
-      },
-      "a37e5": {
-        "bearing": 145.9,"centroid":[-106.7187,35.1737],
+      "486dc": {
+        "bearing": 145.5,"centroid":[-106.7187,35.1737],
         "bounds": [[-106.7385,35.1522],[0.0,35.2095]
-        ],"coordinates":[[-106.73001000007235,35.209494],[-106.73002100007236,35.209173],[-106.72980000007229,35.209038],[-106.72934600007217,35.209225],[-106.72864800007196,35.208903],[-106.72759600007164,35.208785],[-106.72765300007163,35.203317],[-106.73649200007429,35.203298],[-106.73658900007432,35.201678],[-106.73740100007457,35.199272],[-106.73762500007462,35.197637],[-106.73741200007456,35.196243],[-106.7366400000743,35.194564],[-106.73637100007423,35.193531],[-106.73654200007425,35.188104],[-106.73691500007435,35.186547],[-106.7383860000748,35.183672],[-106.73847300007482,35.182877],[-106.73800800007467,35.181636],[-106.73356400007329,35.174659],[-106.73244200007294,35.172555],[-106.729386000072,35.167668],[-106.72866000007177,35.166671],[-106.72817500007162,35.166277],[-106.72585000007092,35.165281],[-106.72687000007123,35.163845],[-106.72708200007128,35.162795],[-106.72701100007127,35.16194],[-106.72631100007104,35.16045],[-106.72468600007056,35.158274],[-106.72360300007023,35.157512],[-106.7203740000693,35.156032],[-106.71951700006903,35.155335],[-106.71723200006836,35.152246],[-106.71648300006815,35.152587],[-106.71436800006755,35.152804],[-106.70554400006509,35.15283],[-106.70187700006409,35.152509],[-106.69377000006192,35.15253],[-106.69375900006192,35.153479],[-106.69418600006203,35.15454],[-106.69424600006207,35.155713],[-106.6929140000617,35.157606],[-106.69271400006166,35.158967],[-106.6921350000615,35.158983],[-106.6912810000613,35.158683],[-106.6905500000611,35.158676],[-106.68962100006085,35.159022],[-106.68816100006048,35.159996],[-106.67923000005821,35.16002],[-106.68336600005922,35.153196]],
-        "distances": [0.0,0.0367,0.0624,0.111,0.1835,0.2794,0.8917,1.6897,1.871,2.1512,2.3358,2.4933,2.6929,2.8114,3.4196,3.5981,3.9457,4.0353,4.1818,5.0597,5.3168,5.9291,6.0577,6.1206,6.3585,6.5435,6.6634,6.7596,6.9383,7.2232,7.353,7.6892,7.7988,8.2015,8.2794,8.4728,9.2699,9.6037,10.3358,10.4418,10.5673,10.699,10.9431,11.0971,11.1492,11.2332,11.2996,11.3931,11.565,12.3722,13.2245]
+        ],"coordinates":[[-106.73001000007235,35.209494],[-106.73002100007236,35.209173],[-106.72980000007229,35.209038],[-106.72934600007217,35.209225],[-106.72864800007196,35.208903],[-106.72757200007162,35.208654],[-106.72765300007163,35.203317],[-106.73649200007429,35.203298],[-106.73658900007432,35.201678],[-106.73740100007457,35.199272],[-106.73762500007462,35.197637],[-106.73741200007456,35.196243],[-106.7366400000743,35.194564],[-106.73637100007423,35.193531],[-106.73654200007425,35.188104],[-106.73691500007435,35.186547],[-106.7383860000748,35.183672],[-106.73847300007482,35.182877],[-106.73800800007467,35.181636],[-106.73356400007329,35.174659],[-106.73244200007294,35.172555],[-106.729386000072,35.167668],[-106.72866000007177,35.166671],[-106.72817500007162,35.166277],[-106.72585000007092,35.165281],[-106.72687000007123,35.163845],[-106.72708200007128,35.162795],[-106.72701100007127,35.16194],[-106.72631100007104,35.16045],[-106.72468600007056,35.158274],[-106.72360300007023,35.157512],[-106.7203740000693,35.156032],[-106.71951700006903,35.155335],[-106.71723200006836,35.152246],[-106.71648300006815,35.152587],[-106.71436800006755,35.152804],[-106.70554400006509,35.15283],[-106.70187700006409,35.152509],[-106.69377000006192,35.15253],[-106.69375900006192,35.153479],[-106.69418600006203,35.15454],[-106.69424600006207,35.155713],[-106.6929140000617,35.157606],[-106.69271400006166,35.158967],[-106.6921350000615,35.158983],[-106.6912810000613,35.158683],[-106.6905500000611,35.158676],[-106.68962100006085,35.159022],[-106.68816100006048,35.159996],[-106.67923000005821,35.16002],[-106.68305000005914,35.153638]],
+        "distances": [0.0,0.0367,0.0624,0.111,0.1835,0.2842,0.8829,1.6809,1.8622,2.1424,2.327,2.4845,2.6842,2.8026,3.4109,3.5894,3.9369,4.0265,4.173,5.0509,5.308,5.9203,6.0489,6.1119,6.3498,6.5348,6.6546,6.7508,6.9295,7.2144,7.3442,7.6804,7.79,8.1928,8.2707,8.464,9.2611,9.595,10.327,10.4331,10.5585,10.6902,10.9344,11.0884,11.1404,11.2245,11.2908,11.3843,11.5562,12.3634,13.1584]
+      },
+      "d5c45": {
+        "bearing": 325.5,"centroid":[-106.7229,35.1757],
+        "bounds": [[-106.7385,35.1496],[0.0,35.2096]
+        ],"coordinates":[[-106.68305000005914,35.153638],[-106.68463600005954,35.151333],[-106.68620200005992,35.149636],[-106.69063000006109,35.151811],[-106.69247400006158,35.152355],[-106.69377000006192,35.15253],[-106.70187700006409,35.152509],[-106.70554400006509,35.15283],[-106.71436800006755,35.152804],[-106.71648300006815,35.152587],[-106.71723200006836,35.152246],[-106.71951700006903,35.155335],[-106.7203740000693,35.156032],[-106.72360300007023,35.157512],[-106.72468600007056,35.158274],[-106.72631100007104,35.16045],[-106.72701100007127,35.16194],[-106.72708200007128,35.162795],[-106.72687000007123,35.163845],[-106.72585000007092,35.165281],[-106.72817500007162,35.166277],[-106.72866000007177,35.166671],[-106.729386000072,35.167668],[-106.73244200007294,35.172555],[-106.73356400007329,35.174659],[-106.73800800007467,35.181636],[-106.73847300007482,35.182877],[-106.7383860000748,35.183672],[-106.73691500007435,35.186547],[-106.73654200007425,35.188104],[-106.73637100007423,35.193531],[-106.7366400000743,35.194564],[-106.73741200007456,35.196243],[-106.73762500007462,35.197637],[-106.73740100007457,35.199272],[-106.73658900007432,35.201678],[-106.73649200007429,35.203298],[-106.72765300007163,35.203317],[-106.72757200007162,35.208654],[-106.72864800007196,35.208903],[-106.72934600007217,35.209225],[-106.72938900007217,35.20952],[-106.72954400007222,35.209574],[-106.73001000007235,35.209494]],
+        "distances": [0.0,0.2951,0.5319,0.9996,1.1776,1.2961,2.0282,2.3621,3.1592,3.3525,3.4304,3.8332,3.9428,4.2789,4.4088,4.6936,4.8724,4.9686,5.0884,5.2734,5.5113,5.5743,5.7029,6.3151,6.5722,7.4502,7.5967,7.6863,8.0338,8.2123,8.8206,8.939,9.1387,9.2962,9.4808,9.761,9.9423,10.7403,11.339,11.4396,11.5122,11.5454,11.5607,11.6077]
       }
     },
     "stop_lists": {
@@ -107,8 +108,8 @@
       "13d75": [0,51,96,122,160,200,227,291,359,416,478,540,715,840,867,885,901,919,934,960,989,1043,1101,1186,1260]
     },
     "stop_distances": {
-      "2de1a": [0.0,0.7386,0.8751,1.3769,1.5199,1.8119,2.1712,2.4498,2.7608,3.2766,4.7802,6.8495,7.3535,7.9648,8.4041,8.9023,9.5731,9.7719,10.17,10.504,10.741,11.1952,11.5592],
-      "4db79": [0.0,0.4473,0.8405,1.0715,1.4035,1.7536,1.993,2.5518,3.1444,3.6375,4.1786,4.6589,6.7841,8.2898,8.7847,9.1257,9.4253,9.7636,10.0406,10.4821,10.7447,11.2301,11.7488,12.5152,13.1611]
+      "fc802": [0.0,0.7959,0.9325,1.4342,1.5772,1.8692,2.2286,2.5071,2.8181,3.3339,4.8375,6.9068,7.4108,8.0221,8.4614,8.9596,9.6304,9.8292,10.2273,10.5613,10.7983,11.253,11.6077],
+      "12dae": [0.0,0.4402,0.8349,1.0659,1.3979,1.748,1.9874,2.5452,3.1388,3.6318,4.173,4.6533,6.7785,8.2842,8.7791,9.1201,9.4197,9.758,10.035,10.4765,10.7391,11.2245,11.7432,12.5096,13.1584]
     },
     "dwell_times": {
       "6d0bb": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
@@ -116,12 +117,12 @@
     },
     "trips": {
       "1": [
-        {"id":"393560","direction":0,"start_time":24060,"stops_key":"c09bb","stop_distances":"4db79","stop_times":"13d75","stop_dwells":"6d0bb","shape_key":"a37e5"},
-        {"id":"393561","direction":0,"start_time":52020,"stops_key":"c09bb","stop_distances":"4db79","stop_times":"13d75","stop_dwells":"6d0bb","shape_key":"a37e5"},
-        {"id":"393562","direction":0,"start_time":55380,"stops_key":"c09bb","stop_distances":"4db79","stop_times":"13d75","stop_dwells":"6d0bb","shape_key":"a37e5"},
-        {"id":"393563","direction":1,"start_time":25800,"stops_key":"dd1bc","stop_distances":"2de1a","stop_times":"2954b","stop_dwells":"534d7","shape_key":"7faed"},
-        {"id":"393564","direction":1,"start_time":53400,"stops_key":"dd1bc","stop_distances":"2de1a","stop_times":"2954b","stop_dwells":"534d7","shape_key":"7faed"},
-        {"id":"393565","direction":1,"start_time":57000,"stops_key":"dd1bc","stop_distances":"2de1a","stop_times":"2954b","stop_dwells":"534d7","shape_key":"7faed"}
+        {"id":"404270","direction":0,"start_time":24060,"stops_key":"c09bb","stop_distances":"12dae","stop_times":"13d75","stop_dwells":"6d0bb","shape_key":"486dc"},
+        {"id":"404269","direction":0,"start_time":52020,"stops_key":"c09bb","stop_distances":"12dae","stop_times":"13d75","stop_dwells":"6d0bb","shape_key":"486dc"},
+        {"id":"404268","direction":0,"start_time":55380,"stops_key":"c09bb","stop_distances":"12dae","stop_times":"13d75","stop_dwells":"6d0bb","shape_key":"486dc"},
+        {"id":"404273","direction":1,"start_time":25800,"stops_key":"dd1bc","stop_distances":"fc802","stop_times":"2954b","stop_dwells":"534d7","shape_key":"d5c45"},
+        {"id":"404272","direction":1,"start_time":53400,"stops_key":"dd1bc","stop_distances":"fc802","stop_times":"2954b","stop_dwells":"534d7","shape_key":"d5c45"},
+        {"id":"404271","direction":1,"start_time":57000,"stops_key":"dd1bc","stop_distances":"fc802","stop_times":"2954b","stop_dwells":"534d7","shape_key":"d5c45"}
       ]
     }
   }
