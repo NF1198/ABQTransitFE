@@ -1,195 +1,193 @@
 {
-  "id": "3108",
+  "id": "3189",
   "short_name": "1",
   "long_name": "Juan Tabo",
   "color": "E17F38",
   "text_color": "000000",
   "schedules": {
-    "1": {
-      "start_date": "20180818",
-      "end_date": "20181221",
-      "days_mask_mon_sun": 124,"added_days":[],"removed_days":["20180903","20181122","20181123"
-      ]
+    "1_merged_704231081": {
+      "start_date": "20181222",
+      "end_date": "20190524",
+      "days_mask_mon_sun": 124,"added_days":[],"removed_days":[]
     },
-    "2": {
-      "start_date": "20180818",
-      "end_date": "20181221",
-      "days_mask_mon_sun": 2,"added_days":["20181123"
-      ],"removed_days":[]
+    "2_merged_704231086": {
+      "start_date": "20181222",
+      "end_date": "20190524",
+      "days_mask_mon_sun": 2,"added_days":[],"removed_days":[]
     },
-    "3": {
-      "start_date": "20180818",
-      "end_date": "20181221",
+    "3_merged_704231085": {
+      "start_date": "20181222",
+      "end_date": "20190524",
       "days_mask_mon_sun": 1,"added_days":[],"removed_days":[]
     }
   },
-  "related_route_data": {"3108":{"short_name":"1","long_name":"Juan Tabo","color":"E17F38","text_color":"000000"
-    },"3120":{"short_name":"2","long_name":"Eubank-Ventura","color":"DC5D2E","text_color":"000000"
-    },"3129":{"short_name":"5","long_name":"Montgomery/Carlisle","color":"FF4E21","text_color":"000000"
-    },"3135":{"short_name":"6","long_name":"Indian School Commuter","color":"E171E1","text_color":"000000"
-    },"3137":{"short_name":"7","long_name":"Candelaria Commuter","color":"FF7F54","text_color":"000000"
-    },"3141":{"short_name":"8","long_name":"Menaul","color":"7B097B","text_color":"FFFFFF"
-    },"3110":{"short_name":"11","long_name":"Lomas","color":"800080","text_color":"FFFFFF"
-    },"3111":{"short_name":"12","long_name":"Constitution Commuter","color":"B7FF00","text_color":"000000"
-    },"3112":{"short_name":"13","long_name":"Comanche Commuter","color":"006267","text_color":"FFFFFF"
-    },"3136":{"short_name":"66","long_name":"Central Avenue","color":"00DEC8","text_color":"000000"
-    },"3143":{"short_name":"93","long_name":"Academy Commuter","color":"9494FF","text_color":"000000"
-    },"3139":{"short_name":"777","long_name":"Green Line Rapid Ride","color":"00FF00","text_color":"000000"
+  "related_route_data": {"3189":{"short_name":"1","long_name":"Juan Tabo","color":"E17F38","text_color":"000000"
+    },"3201":{"short_name":"2","long_name":"Eubank-Ventura","color":"DC5D2E","text_color":"000000"
+    },"3210":{"short_name":"5","long_name":"Montgomery/Carlisle","color":"FF4E21","text_color":"000000"
+    },"3216":{"short_name":"6","long_name":"Indian School Commuter","color":"E171E1","text_color":"000000"
+    },"3218":{"short_name":"7","long_name":"Candelaria Commuter","color":"FF7F54","text_color":"000000"
+    },"3222":{"short_name":"8","long_name":"Menaul","color":"7B097B","text_color":"FFFFFF"
+    },"3191":{"short_name":"11","long_name":"Lomas","color":"800080","text_color":"FFFFFF"
+    },"3192":{"short_name":"12","long_name":"Constitution Commuter","color":"B7FF00","text_color":"000000"
+    },"3193":{"short_name":"13","long_name":"Comanche Commuter","color":"006267","text_color":"FFFFFF"
+    },"3217":{"short_name":"66","long_name":"Central Avenue","color":"00DEC8","text_color":"000000"
+    },"3224":{"short_name":"93","long_name":"Academy Commuter","color":"9494FF","text_color":"000000"
+    },"3220":{"short_name":"777","long_name":"Green Line Rapid Ride","color":"00FF00","text_color":"000000"
     }
   },
-  "stops": {"1053":{"name":"Montgomery @ Juan Tabo","desc":"11704 MONTGOMERY BLVD NE","coordinates":[-106.5088,35.1305],"related_stops":["6832","1053","6864","2043","1993","1054"],"transfer_routes":["3129"],"related_routes":["3108"]
-    },"1054":{"name":"Montgomery @ Jamaica","desc":"11639 MONTGOMERY BLVD NE","coordinates":[-106.5093,35.1308],"related_stops":["6832","1053","6864","2043","1993","1054"],"transfer_routes":["3129"],"related_routes":["3108"]
-    },"1925":{"name":"Wenonah @ Dorado","desc":"13105 WENONAH AVE SE","coordinates":[-106.5023,35.0661],"related_stops":["1925","2105","2103","1927"],"transfer_routes":["3108","3136"],"related_routes":[]
-    },"1927":{"name":"Dorado @ Wenonah","desc":"303 DORADO PL SE \u0026 DORADO DR SE","coordinates":[-106.5037,35.0661],"related_stops":["1925","2105","2103","1927"],"transfer_routes":["3108"],"related_routes":["3136"]
-    },"1929":{"name":"Dorado @ Dunes Road","desc":"405 DORADO PL SE \u0026 DUNES RD SE","coordinates":[-106.5047,35.0652],"related_stops":["2101","1931","1929"],"transfer_routes":["3108"],"related_routes":[]
-    },"1931":{"name":"Singing Arrow @ Dorado","desc":"12711 SINGING ARROW AVE SE","coordinates":[-106.5057,35.0645],"related_stops":["2101","1931","1929"],"transfer_routes":["3108"],"related_routes":[]
-    },"1933":{"name":"Singing Arrow @ Western Skies","desc":"12527 SINGING ARROW AVE SE \u0026 WESTERN SKIES DR SE","coordinates":[-106.5089,35.0643],"related_stops":["2099","1933"],"transfer_routes":["3108"],"related_routes":[]
-    },"1935":{"name":"Singing Arrow @ Parkside","desc":"12421 SINGING ARROW AVE SE \u0026 PARKSIDE PL SE","coordinates":[-106.5106,35.0641],"related_stops":["2097","1935"],"transfer_routes":["3108"],"related_routes":[]
-    },"1937":{"name":"Singing Arrow @ Fawn Trail","desc":"SINGING ARROW AVE SE \u0026 FAWN TRL SE","coordinates":[-106.5129,35.0635],"related_stops":["2095","1937"],"transfer_routes":["3108"],"related_routes":[]
-    },"1943":{"name":"Juan Tabo @ Central","desc":"188 JUAN TABO BLVD SE \u0026 COCHITI RD SE","coordinates":[-106.5151,35.0691],"related_stops":["5990","1945","5684","7352","2089","4567","4563","1943","4545"],"transfer_routes":["3108"],"related_routes":["3136","3139"]
-    },"1945":{"name":"Juan Tabo @ Central","desc":"120 JUAN TABO BLVD NE","coordinates":[-106.515,35.0705],"related_stops":["5990","1945","5684","7352","2089","4567","4563","1943","4545"],"transfer_routes":["3108"],"related_routes":["3136","3139"]
-    },"1947":{"name":"Juan Tabo @ Hopi","desc":"408 JUAN TABO BLVD NE \u0026 BUENA VENTURA RD NE","coordinates":[-106.515,35.0735],"related_stops":["2085","1947"],"transfer_routes":["3108"],"related_routes":[]
-    },"1949":{"name":"Juan Tabo @ Copper","desc":"706 JUAN TABO BLVD NE \u0026 COPPER AVE NE","coordinates":[-106.515,35.0798],"related_stops":["2083","1949"],"transfer_routes":["3108"],"related_routes":[]
-    },"1953":{"name":"Juan Tabo @ Gable Lane","desc":"766 JUAN TABO BLVD NE","coordinates":[-106.5149,35.0838],"related_stops":["2079","1953"],"transfer_routes":["3108"],"related_routes":[]
-    },"1955":{"name":"Juan Tabo @ Lomas","desc":"JUAN TABO \u0026 LOMAS","coordinates":[-106.5148,35.0865],"related_stops":["4993","1957","1955","2077","2075","4939","4941","4943","4991"],"transfer_routes":["3108"],"related_routes":["3110"]
-    },"1957":{"name":"Juan Tabo @ Lomas","desc":"910 JUAN TABO BLVD NE \u0026 LOMAS BLVD NE","coordinates":[-106.5149,35.0872],"related_stops":["4993","1957","1955","2077","2075","4939","4941","4943","4991"],"transfer_routes":["3108"],"related_routes":["3110"]
-    },"1959":{"name":"Juan Tabo @ Mountain Rd","desc":"1108 JUAN TABO BLVD NE \u0026 MOUNTAIN RD NE","coordinates":[-106.515,35.0903],"related_stops":["2073","1959"],"transfer_routes":["3108"],"related_routes":[]
-    },"1961":{"name":"Juan Tabo @ Constitution","desc":"1230 JUAN TABO BLVD NE \u0026 CONSTITUTION AVE NE","coordinates":[-106.5151,35.0934],"related_stops":["3963","3965","3949","2071","3947","3945","7354","3967","1961","3969","3943"],"transfer_routes":["3108"],"related_routes":["3111"]
-    },"1963":{"name":"Juan Tabo @ Princess Jeanne","desc":"1418 JUAN TABO BLVD NE \u0026 PRINCESS JEANNE AVE NE","coordinates":[-106.5152,35.0963],"related_stops":["2069","1963"],"transfer_routes":["3108"],"related_routes":[]
-    },"1965":{"name":"Juan Tabo @ Indian School","desc":"1736 JUAN TABO BLVD NE","coordinates":[-106.5153,35.1007],"related_stops":["1965","7232","2065","3615","3613","3659"],"transfer_routes":["3108"],"related_routes":["3135"]
-    },"1969":{"name":"Juan Tabo @ Brentwood Hills","desc":"1946 JUAN TABO BLVD NE \u0026 BRENTWOOD HILLS BLVD NE","coordinates":[-106.5153,35.1049],"related_stops":["2063","1969"],"transfer_routes":["3108"],"related_routes":[]
-    },"1971":{"name":"Juan Tabo @ Menaul","desc":"2262 JUAN TABO BLVD NE \u0026 MENAUL BLVD NE","coordinates":[-106.5154,35.1085],"related_stops":["3219","1973","1971","2061","2059","3441","3439","3221"],"transfer_routes":["3108"],"related_routes":["3141"]
-    },"1973":{"name":"Juan Tabo @ Menaul","desc":"2410 JUAN TABO BLVD NE","coordinates":[-106.5154,35.1093],"related_stops":["3219","1973","1971","2061","2059","3441","3439","3221"],"transfer_routes":["3108"],"related_routes":["3141"]
-    },"1975":{"name":"Juan Tabo @ Phoenix","desc":"2442 JUAN TABO BLVD NE \u0026 PHOENIX AVE NE","coordinates":[-106.5154,35.1109],"related_stops":["2057","1975"],"transfer_routes":["3108"],"related_routes":[]
-    },"1977":{"name":"Juan Tabo @ Lexington","desc":"2598 JUAN TABO BLVD NE \u0026 LEXINGTON AVE NE","coordinates":[-106.5155,35.1132],"related_stops":["2055","1977"],"transfer_routes":["3108"],"related_routes":[]
-    },"1979":{"name":"Juan Tabo @ Candelaria","desc":"2924 JUAN TABO BLVD NE \u0026 CANDELARIA RD NE","coordinates":[-106.5155,35.1159],"related_stops":["4169","1979","1981","4211","4213","2053","2051","4171"],"transfer_routes":["3108"],"related_routes":["3137"]
-    },"1981":{"name":"Juan Tabo @ Candelaria","desc":"3026 JUAN TABO BLVD NE","coordinates":[-106.5155,35.1173],"related_stops":["4169","1979","1981","4211","4213","2053","2051","4171"],"transfer_routes":["3108"],"related_routes":["3137"]
-    },"1983":{"name":"Juan Tabo @ Golden Gate","desc":"3404 JUAN TABO BLVD NE","coordinates":[-106.5155,35.1207],"related_stops":["5804","1983"],"transfer_routes":["3108"],"related_routes":[]
-    },"1985":{"name":"Juan Tabo @ Comanche","desc":"3610 JUAN TABO BLVD NE \u0026 COMANCHE RD NE","coordinates":[-106.5155,35.1233],"related_stops":["2607","2367","2605","1985","2047","2369","2371","2603","2373"],"transfer_routes":["3108"],"related_routes":["3112"]
-    },"1987":{"name":"Juan Tabo @ Juan Tabo Place","desc":"EAGLE TRL NE \u0026 JUAN TABO BLVD NE","coordinates":[-106.5155,35.1263],"related_stops":["1989","2045","1987"],"transfer_routes":["3108"],"related_routes":[]
-    },"1989":{"name":"Juan Tabo @ Juan Tabo Place","desc":"4184 JUAN TABO BLVD NE","coordinates":[-106.5155,35.129],"related_stops":["1989","2045","1987"],"transfer_routes":["3108"],"related_routes":[]
-    },"1993":{"name":"Juan Tabo @ Montgomery","desc":"4406 JUAN TABO BLVD NE","coordinates":[-106.5155,35.1311],"related_stops":["6832","1053","6864","2043","1993","1054"],"transfer_routes":["3108"],"related_routes":["3129"]
-    },"1995":{"name":"Juan Tabo @ Baja","desc":"4708 JUAN TABO BLVD NE","coordinates":[-106.5155,35.1352],"related_stops":["2039","1995"],"transfer_routes":["3108"],"related_routes":[]
-    },"1997":{"name":"Juan Tabo @ Osuna","desc":"5106 JUAN TABO BLVD NE","coordinates":[-106.5162,35.1394],"related_stops":["2037","1997"],"transfer_routes":["3108"],"related_routes":[]
-    },"1999":{"name":"Juan Tabo @ Spain","desc":"5334 JUAN TABO BLVD NE","coordinates":[-106.5175,35.1424],"related_stops":["7688","1999"],"transfer_routes":["3108"],"related_routes":[]
-    },"2001":{"name":"Juan Tabo @ Camero","desc":"5522 JUAN TABO BLVD NE \u0026 CAMERO AVE NE","coordinates":[-106.519,35.1445],"related_stops":["2001"],"transfer_routes":["3108"],"related_routes":[]
-    },"2003":{"name":"Juan Tabo @ Burnhamwood","desc":"5642 JUAN TABO BLVD NE \u0026 GUADALAJARA AVE NE","coordinates":[-106.521,35.1457],"related_stops":["2003"],"transfer_routes":["3108"],"related_routes":[]
-    },"2005":{"name":"Juan Tabo @ Malaguena","desc":"5808 JUAN TABO BLVD NE \u0026 MALAGUENA LN NE","coordinates":[-106.5232,35.1469],"related_stops":["2005"],"transfer_routes":["3108"],"related_routes":[]
-    },"2007":{"name":"Juan Tabo @ Tierra Antigua","desc":"5990 JUAN TABO BLVD NE \u0026 TIERRA ANTIGUA  NE","coordinates":[-106.5251,35.1479],"related_stops":["2007"],"transfer_routes":["3108"],"related_routes":[]
-    },"2009":{"name":"Eubank @ Juan Tabo","desc":"","coordinates":[-106.526,35.1496],"related_stops":["2203","2273","2271","2009"],"transfer_routes":["3108","3120"],"related_routes":[]
-    },"2011":{"name":"Eubank @ Academy","desc":"","coordinates":[-106.5243,35.1525],"related_stops":["2011","2207","2269","2013"],"transfer_routes":["3108","3120"],"related_routes":["3143"]
-    },"2013":{"name":"Academy @ Eubank","desc":"10514 ACADEMY RD NE","coordinates":[-106.5233,35.1541],"related_stops":["2011","2207","2269","2013"],"transfer_routes":["3108","3143"],"related_routes":["3120"]
-    },"2015":{"name":"Academy @ Rolling Hills","desc":"10800 ACADEMY RD NE","coordinates":[-106.5202,35.1526],"related_stops":["2015"],"transfer_routes":["3108","3143"],"related_routes":[]
-    },"2017":{"name":"Academy @ Carruthers","desc":"11030 ACADEMY RD NE \u0026 CARRUTHERS ST NE","coordinates":[-106.5166,35.1508],"related_stops":["2649","2017"],"transfer_routes":["3108","3143"],"related_routes":[]
-    },"2019":{"name":"Academy @ Academy Ridge","desc":"11322 ACADEMY RD NE \u0026 ACADEMY RIDGE DR NE","coordinates":[-106.5119,35.1508],"related_stops":["2647","2019"],"transfer_routes":["3108","3143"],"related_routes":[]
-    },"2021":{"name":"Academy @ Lowell","desc":"11576 ACADEMY RD NE","coordinates":[-106.5077,35.1522],"related_stops":["2021","2645","2023"],"transfer_routes":["3108","3143"],"related_routes":[]
-    },"2023":{"name":"Lowell @ Academy","desc":"6365 LOWELL ST NE","coordinates":[-106.5071,35.1519],"related_stops":["2021","2645","2023"],"transfer_routes":["3108"],"related_routes":["3143"]
-    },"2025":{"name":"Lowell @ San Victorio","desc":"6087 LOWELL ST NE \u0026 SAN VICTORIO AVE NE","coordinates":[-106.507,35.1492],"related_stops":["2025"],"transfer_routes":["3108"],"related_routes":[]
-    },"2027":{"name":"Lowell @ Spain","desc":"5727 LOWELL ST NE","coordinates":[-106.507,35.1457],"related_stops":["2027"],"transfer_routes":["3108"],"related_routes":[]
-    },"2029":{"name":"Spain @ Nugget","desc":"11719 SPAIN RD NE \u0026 NUGGET ST NE","coordinates":[-106.5096,35.1445],"related_stops":["2029"],"transfer_routes":["3108"],"related_routes":[]
-    },"2031":{"name":"Spain @ Luttrell","desc":"11379 SPAIN RD NE \u0026 LUTTRELL CT NE","coordinates":[-106.5128,35.1437],"related_stops":["2031"],"transfer_routes":["3108"],"related_routes":[]
-    },"2033":{"name":"Spain @ Carruthers","desc":"11265 SPAIN RD NE \u0026 CARRUTHERS ST NE","coordinates":[-106.5144,35.1431],"related_stops":["2033"],"transfer_routes":["3108"],"related_routes":[]
-    },"2037":{"name":"Juan Tabo @ Osuna","desc":"5111 JUAN TABO BLVD NE","coordinates":[-106.5165,35.1395],"related_stops":["2037","1997"],"transfer_routes":["3108"],"related_routes":[]
-    },"2039":{"name":"Juan Tabo @ Baja","desc":"4611 JUAN TABO BLVD NE \u0026 BAJA DR NE","coordinates":[-106.5158,35.1344],"related_stops":["2039","1995"],"transfer_routes":["3108"],"related_routes":[]
-    },"2043":{"name":"Juan Tabo @ Montgomery","desc":"4331 JUAN TABO BLVD NE","coordinates":[-106.5159,35.1301],"related_stops":["6832","1053","6864","2043","1993","1054"],"transfer_routes":["3108"],"related_routes":["3129"]
-    },"2045":{"name":"Juan Tabo @ Juan Tabo Place","desc":"4023 JUAN TABO BLVD NE","coordinates":[-106.5158,35.1272],"related_stops":["1989","2045","1987"],"transfer_routes":["3108"],"related_routes":[]
-    },"2047":{"name":"Juan Tabo @ Comanche","desc":"3709 JUAN TABO BLVD NE \u0026 COMANCHE RD NE","coordinates":[-106.5159,35.1238],"related_stops":["2607","2367","2605","1985","2047","2369","2371","2603","2373"],"transfer_routes":["3108"],"related_routes":["3112"]
-    },"2051":{"name":"Juan Tabo @ Candelaria","desc":"3009 JUAN TABO BLVD NE \u0026 CANDELARIA RD NE","coordinates":[-106.5158,35.1165],"related_stops":["4169","1979","1981","4211","4213","2053","2051","4171"],"transfer_routes":["3108"],"related_routes":["3137"]
-    },"2053":{"name":"Juan Tabo @ Candelaria","desc":"2809 JUAN TABO BLVD NE","coordinates":[-106.5158,35.115],"related_stops":["4169","1979","1981","4211","4213","2053","2051","4171"],"transfer_routes":["3108"],"related_routes":["3137"]
-    },"2055":{"name":"Juan Tabo @ Claremont","desc":"2599 JUAN TABO BLVD NE \u0026 LEXINGTON AVE NE","coordinates":[-106.5158,35.1132],"related_stops":["2055","1977"],"transfer_routes":["3108"],"related_routes":[]
-    },"2057":{"name":"Juan Tabo @ Phoenix","desc":"2445 JUAN TABO BLVD NE \u0026 PHOENIX AVE NE","coordinates":[-106.5157,35.1112],"related_stops":["2057","1975"],"transfer_routes":["3108"],"related_routes":[]
-    },"2059":{"name":"Juan Tabo @ Menaul","desc":"2405 JUAN TABO BLVD NE \u0026 MENAUL BLVD NE","coordinates":[-106.5157,35.1091],"related_stops":["3219","1973","1971","2061","2059","3441","3439","3221"],"transfer_routes":["3108"],"related_routes":["3141"]
-    },"2061":{"name":"Juan Tabo @ Menaul","desc":"2305 JUAN TABO BLVD NE \u0026 MENAUL BLVD NE","coordinates":[-106.5157,35.1085],"related_stops":["3219","1973","1971","2061","2059","3441","3439","3221"],"transfer_routes":["3108"],"related_routes":["3141"]
-    },"2063":{"name":"Juan Tabo @ Brentwood Hills","desc":"2021 JUAN TABO BLVD NE","coordinates":[-106.5157,35.1061],"related_stops":["2063","1969"],"transfer_routes":["3108"],"related_routes":[]
-    },"2065":{"name":"Juan Tabo @ Indian School","desc":"1801 JUAN TABO BLVD NE \u0026 INDIAN SCHOOL RD NE","coordinates":[-106.5156,35.1016],"related_stops":["1965","7232","2065","3615","3613","3659"],"transfer_routes":["3108"],"related_routes":["3135"]
-    },"2067":{"name":"Juan Tabo @ Haines","desc":"1637 JUAN TABO BLVD NE \u0026 HAINES AVE NE","coordinates":[-106.5156,35.0995],"related_stops":["2067"],"transfer_routes":["3108"],"related_routes":[]
-    },"2069":{"name":"Juan Tabo @ Princess Jeanne","desc":"1505 JUAN TABO BLVD NE \u0026 PRINCESS JEANNE AVE NE","coordinates":[-106.5155,35.097],"related_stops":["2069","1963"],"transfer_routes":["3108"],"related_routes":[]
-    },"2071":{"name":"Juan Tabo @ Constitution","desc":"1223 JUAN TABO BLVD NE \u0026 CONSTITUTION AVE NE","coordinates":[-106.5154,35.0932],"related_stops":["3963","3965","3949","2071","3947","3945","7354","3967","1961","3969","3943"],"transfer_routes":["3108"],"related_routes":["3111"]
-    },"2073":{"name":"Juan Tabo @ Mountain","desc":"1119 JUAN TABO BLVD NE \u0026 MOUNTAIN RD NE","coordinates":[-106.5153,35.0905],"related_stops":["2073","1959"],"transfer_routes":["3108"],"related_routes":[]
-    },"2075":{"name":"Juan Tabo @ Lomas","desc":"909 JUAN TABO BLVD NE \u0026 LOMAS BLVD NE","coordinates":[-106.5152,35.0872],"related_stops":["4993","1957","1955","2077","2075","4939","4941","4943","4991"],"transfer_routes":["3108"],"related_routes":["3110"]
-    },"2077":{"name":"Juan Tabo @ Lomas","desc":"835 JUAN TABO BLVD NE \u0026 LOMAS BLVD NE","coordinates":[-106.5152,35.0864],"related_stops":["4993","1957","1955","2077","2075","4939","4941","4943","4991"],"transfer_routes":["3108"],"related_routes":["3110"]
-    },"2079":{"name":"Juan Tabo @ Marquette","desc":"715 JUAN TABO BLVD NE \u0026 MARQUETTE AVE NE","coordinates":[-106.5152,35.0835],"related_stops":["2079","1953"],"transfer_routes":["3108"],"related_routes":[]
-    },"2083":{"name":"Juan Tabo @ Copper","desc":"JUAN TABO BLVD NE \u0026 COPPER AVE NE","coordinates":[-106.5153,35.0797],"related_stops":["2083","1949"],"transfer_routes":["3108"],"related_routes":[]
-    },"2085":{"name":"Juan Tabo @ Buena Ventura","desc":"251 JUAN TABO BLVD NE \u0026 HOPI RD NE","coordinates":[-106.5153,35.0732],"related_stops":["2085","1947"],"transfer_routes":["3108"],"related_routes":[]
-    },"2089":{"name":"Juan Tabo @ Central","desc":"169 JUAN TABO BLVD SE \u0026 COCHITI RD SE","coordinates":[-106.5154,35.0693],"related_stops":["5990","1945","5684","7352","2089","4567","4563","1943","4545"],"transfer_routes":["3108"],"related_routes":["3136","3139"]
-    },"2093":{"name":"Singing Arrow @ Juan Tabo","desc":"12014 SINGING ARROW AVE SE \u0026 TRADING POST TRL SE","coordinates":[-106.5146,35.0628],"related_stops":["7440","2093"],"transfer_routes":["3108"],"related_routes":[]
-    },"2095":{"name":"Singing Arrow @ Fawn Trail","desc":"12208 SINGING ARROW AVE SE \u0026 FAWN TRL SE","coordinates":[-106.513,35.0633],"related_stops":["2095","1937"],"transfer_routes":["3108"],"related_routes":[]
-    },"2097":{"name":"Singing Arrow @ Horseshoe Trail","desc":"12336 SINGING ARROW AVE SE \u0026 HORSESHOE TRL SE","coordinates":[-106.5114,35.0639],"related_stops":["2097","1935"],"transfer_routes":["3108"],"related_routes":[]
-    },"2099":{"name":"Singing Arrow @ Western Skies","desc":"12624 SINGING ARROW AVE SE \u0026 WESTERN SKIES DR SE","coordinates":[-106.5073,35.0643],"related_stops":["2099","1933"],"transfer_routes":["3108"],"related_routes":[]
-    },"2101":{"name":"Dorado @ Singing Arrow","desc":"412 DORADO PL SE \u0026 SINGING ARROW AVE SE","coordinates":[-106.5048,35.0647],"related_stops":["2101","1931","1929"],"transfer_routes":["3108"],"related_routes":[]
-    },"2103":{"name":"Dorado @ Wenonah","desc":"304 DORADO PL SE \u0026 DORADO DR SE","coordinates":[-106.5036,35.066],"related_stops":["1925","2105","2103","1927"],"transfer_routes":["3108"],"related_routes":["3136"]
-    },"2105":{"name":"Dorado @ Wenonah","desc":"206 DORADO PL SE","coordinates":[-106.5034,35.0671],"related_stops":["1925","2105","2103","1927"],"transfer_routes":["3108","3136"],"related_routes":[]
-    },"2203":{"name":"Eubank @ Juan Tabo","desc":"EUBANK \u0026 JUAN TABO","coordinates":[-106.5276,35.1476],"related_stops":["2203","2273","2271","2009"],"transfer_routes":["3120"],"related_routes":["3108"]
-    },"2207":{"name":"Academy @ Eubank","desc":"10333 ACADEMY RD NE","coordinates":[-106.5254,35.1544],"related_stops":["2011","2207","2269","2013"],"transfer_routes":["3120","3143"],"related_routes":["3108"]
-    },"2269":{"name":"Eubank @ Academy","desc":"6459 EUBANK BLVD NE","coordinates":[-106.5247,35.1532],"related_stops":["2011","2207","2269","2013"],"transfer_routes":["3120"],"related_routes":["3108","3143"]
-    },"2271":{"name":"Eubank @ Juan Tabo","desc":"6005 EUBANK BLVD NE","coordinates":[-106.5268,35.1492],"related_stops":["2203","2273","2271","2009"],"transfer_routes":["3120"],"related_routes":["3108"]
-    },"2273":{"name":"Eubank @ Juan Tabo","desc":"5863 EUBANK BLVD NE","coordinates":[-106.528,35.1477],"related_stops":["2203","2273","2271","2009"],"transfer_routes":["3120"],"related_routes":["3108"]
-    },"2367":{"name":"Comanche @ Naples","desc":"11419 COMANCHE RD NE \u0026 NAPLES ST NE","coordinates":[-106.5128,35.1236],"related_stops":["2607","2367","2605","1985","2047","2369","2371","2603","2373"],"transfer_routes":["3112"],"related_routes":["3108"]
-    },"2369":{"name":"Comanche @ Madrid","desc":"11317 COMANCHE RD NE \u0026 MADRID DR NE","coordinates":[-106.5146,35.1236],"related_stops":["2607","2367","2605","1985","2047","2369","2371","2603","2373"],"transfer_routes":["3112"],"related_routes":["3108"]
-    },"2371":{"name":"Comanche @ Juan Tabo","desc":"10825 COMANCHE RD NE","coordinates":[-106.5162,35.1237],"related_stops":["2607","2367","2605","1985","2047","2369","2371","2603","2373"],"transfer_routes":["3112"],"related_routes":["3108"]
-    },"2373":{"name":"Comanche @ Juan Tabo","desc":"10803 COMANCHE RD NE","coordinates":[-106.518,35.1236],"related_stops":["2607","2367","2605","1985","2047","2369","2371","2603","2373"],"transfer_routes":["3112"],"related_routes":["3108"]
-    },"2603":{"name":"Comanche @ Juan Tabo","desc":"10828 COMANCHE RD NE \u0026 JUAN TABO BLVD NE","coordinates":[-106.5161,35.1235],"related_stops":["2607","2367","2605","1985","2047","2369","2371","2603","2373"],"transfer_routes":["3112"],"related_routes":["3108"]
-    },"2605":{"name":"Comanche @ Juan Tabo","desc":"11306 COMANCHE RD NE \u0026 JUAN TABO BLVD NE","coordinates":[-106.5152,35.1235],"related_stops":["2607","2367","2605","1985","2047","2369","2371","2603","2373"],"transfer_routes":["3112"],"related_routes":["3108"]
-    },"2607":{"name":"Comanche @ Juan Tabo","desc":"11416 COMANCHE RD NE \u0026 NAPLES ST NE","coordinates":[-106.5129,35.1235],"related_stops":["2607","2367","2605","1985","2047","2369","2371","2603","2373"],"transfer_routes":["3112"],"related_routes":["3108"]
-    },"2645":{"name":"Academy @ Lowell","desc":"11805 ACADEMY RD NE \u0026 LOWELL ST NE","coordinates":[-106.5066,35.1525],"related_stops":["2021","2645","2023"],"transfer_routes":["3143"],"related_routes":["3108"]
-    },"2647":{"name":"Academy @ Academy Ridge","desc":"11249 ACADEMY RD NE","coordinates":[-106.5131,35.1509],"related_stops":["2647","2019"],"transfer_routes":["3143"],"related_routes":["3108"]
-    },"2649":{"name":"Academy @ Carruthers","desc":"11059 ACADEMY RD NE","coordinates":[-106.5161,35.151],"related_stops":["2649","2017"],"transfer_routes":["3143"],"related_routes":["3108"]
-    },"3219":{"name":"Menaul @ Juan Tabo","desc":"11307 MENAUL BLVD NE \u0026 JUAN TABO BLVD NE","coordinates":[-106.5151,35.1089],"related_stops":["3219","1973","1971","2061","2059","3441","3439","3221"],"transfer_routes":["3141"],"related_routes":["3108"]
-    },"3221":{"name":"Menaul @ Juan Tabo","desc":"11233 MENAUL BLVD NE \u0026 JUAN TABO BLVD NE","coordinates":[-106.516,35.109],"related_stops":["3219","1973","1971","2061","2059","3441","3439","3221"],"transfer_routes":["3141"],"related_routes":["3108"]
-    },"3439":{"name":"Menaul @ Juan Tabo","desc":"11244 MENAUL BLVD NE \u0026 JUAN TABO BLVD NE","coordinates":[-106.5159,35.1087],"related_stops":["3219","1973","1971","2061","2059","3441","3439","3221"],"transfer_routes":["3141"],"related_routes":["3108"]
-    },"3441":{"name":"Menaul @ Juan Tabo","desc":"11306 MENAUL BLVD NE \u0026 JUAN TABO BLVD NE","coordinates":[-106.5151,35.1087],"related_stops":["3219","1973","1971","2061","2059","3441","3439","3221"],"transfer_routes":["3141"],"related_routes":["3108"]
-    },"3613":{"name":"Indian School @ Juan Tabo","desc":"INDIAN SCHOOL \u0026 JUAN TABO","coordinates":[-106.5159,35.1014],"related_stops":["1965","7232","2065","3615","3613","3659"],"transfer_routes":["3135"],"related_routes":["3108"]
-    },"3615":{"name":"Indian School @ Juan Tabo","desc":"INDIAN SCHOOL \u0026 JUAN TABO","coordinates":[-106.515,35.1014],"related_stops":["1965","7232","2065","3615","3613","3659"],"transfer_routes":["3135"],"related_routes":["3108"]
-    },"3659":{"name":"Indian School @ Juan Tabo","desc":"11711 INDIAN SCHOOL RD NE \u0026 JUAN TABO BLVD NE","coordinates":[-106.5159,35.1015],"related_stops":["1965","7232","2065","3615","3613","3659"],"transfer_routes":["3135"],"related_routes":["3108"]
-    },"3943":{"name":"Constitution @ Claudine","desc":"11602 CONSTITUTION AVE NE \u0026 CLAUDINE ST NE","coordinates":[-106.5183,35.0936],"related_stops":["3963","3965","3949","2071","3947","3945","7354","3967","1961","3969","3943"],"transfer_routes":["3111"],"related_routes":["3108"]
-    },"3945":{"name":"Constitution @ Juan Tabo","desc":"11762 CONSTITUTION AVE NE \u0026 MURIEL ST NE","coordinates":[-106.5162,35.0935],"related_stops":["3963","3965","3949","2071","3947","3945","7354","3967","1961","3969","3943"],"transfer_routes":["3111"],"related_routes":["3108"]
-    },"3947":{"name":"Constitution @ Juan Tabo","desc":"11938 CONSTITUTION AVE NE \u0026 JUAN TABO BLVD NE","coordinates":[-106.5148,35.0935],"related_stops":["3963","3965","3949","2071","3947","3945","7354","3967","1961","3969","3943"],"transfer_routes":["3111"],"related_routes":["3108"]
-    },"3949":{"name":"Constitution @ Kirby","desc":"12102 CONSTITUTION AVE NE \u0026 KIRBY ST NE","coordinates":[-106.5126,35.0936],"related_stops":["3963","3965","3949","2071","3947","3945","7354","3967","1961","3969","3943"],"transfer_routes":["3111"],"related_routes":["3108"]
-    },"3963":{"name":"Constitution @ Constitution Ct","desc":"12205 CONSTITUTION AVE NE \u0026 KINLEY PL NE","coordinates":[-106.5114,35.0937],"related_stops":["3963","3965","3949","2071","3947","3945","7354","3967","1961","3969","3943"],"transfer_routes":["3111"],"related_routes":["3108"]
-    },"3965":{"name":"Constitution @ Paisano","desc":"CONSTITUTION \u0026 PAISANO","coordinates":[-106.5136,35.0937],"related_stops":["3963","3965","3949","2071","3947","3945","7354","3967","1961","3969","3943"],"transfer_routes":["3111"],"related_routes":["3108"]
-    },"3967":{"name":"Constitution @ Juan Tabo","desc":"11797 CONSTITUTION AVE NE","coordinates":[-106.516,35.0936],"related_stops":["3963","3965","3949","2071","3947","3945","7354","3967","1961","3969","3943"],"transfer_routes":["3111"],"related_routes":["3108"]
-    },"3969":{"name":"Constitution @ Muriel","desc":"11613 CONSTITUTION AVE NE \u0026 MURIEL ST NE","coordinates":[-106.5174,35.0936],"related_stops":["3963","3965","3949","2071","3947","3945","7354","3967","1961","3969","3943"],"transfer_routes":["3111"],"related_routes":["3108"]
-    },"4169":{"name":"Candelaria @ Juan Tabo","desc":"11210 CANDELARIA RD NE \u0026 JUAN TABO BLVD NE","coordinates":[-106.5161,35.1162],"related_stops":["4169","1979","1981","4211","4213","2053","2051","4171"],"transfer_routes":["3137"],"related_routes":["3108"]
-    },"4171":{"name":"Candelaria @ Juan Tabo","desc":"11312 CANDELARIA RD NE \u0026 JUAN TABO BLVD NE","coordinates":[-106.5153,35.1162],"related_stops":["4169","1979","1981","4211","4213","2053","2051","4171"],"transfer_routes":["3137"],"related_routes":["3108"]
-    },"4211":{"name":"Candelaria @ Juan Tabo","desc":"11315 CANDELARIA RD NE \u0026 JUAN TABO BLVD NE","coordinates":[-106.5152,35.1164],"related_stops":["4169","1979","1981","4211","4213","2053","2051","4171"],"transfer_routes":["3137"],"related_routes":["3108"]
-    },"4213":{"name":"Candelaria @ Juan Tabo","desc":"11103 CANDELARIA RD NE \u0026 MURIEL ST NE","coordinates":[-106.5171,35.1163],"related_stops":["4169","1979","1981","4211","4213","2053","2051","4171"],"transfer_routes":["3137"],"related_routes":["3108"]
-    },"4545":{"name":"Central @ Juan Tabo","desc":"11930 CENTRAL AVE E","coordinates":[-106.5144,35.0699],"related_stops":["5990","1945","5684","7352","2089","4567","4563","1943","4545"],"transfer_routes":["3136"],"related_routes":["3108","3139"]
-    },"4553":{"name":"Central @ Dorado","desc":"13016 CENTRAL AVE E \u0026 DORADO PL SE","coordinates":[-106.5031,35.0686],"related_stops":["4557","5682","4553"],"transfer_routes":["3108","3136"],"related_routes":[]
-    },"4557":{"name":"Central @ Dorado","desc":"12903 CENTRAL AVE E","coordinates":[-106.5056,35.0692],"related_stops":["4557","5682","4553"],"transfer_routes":["3136"],"related_routes":["3108"]
-    },"4563":{"name":"Central @ Juan Tabo","desc":"11997 CENTRAL AVE E","coordinates":[-106.5131,35.07],"related_stops":["5990","1945","5684","7352","2089","4567","4563","1943","4545"],"transfer_routes":["3136"],"related_routes":["3108","3139"]
-    },"4567":{"name":"Central @ Juan Tabo (Rapid)","desc":"11787 CENTRAL AVE E \u0026 JUAN TABO BLVD NE","coordinates":[-106.5156,35.0702],"related_stops":["5990","1945","5684","7352","2089","4567","4563","1943","4545"],"transfer_routes":["3139"],"related_routes":["3108","3136"]
-    },"4939":{"name":"Lomas @ Juan Tabo","desc":"11820 LOMAS BLVD NE \u0026 JUAN TABO BLVD NE","coordinates":[-106.5154,35.0866],"related_stops":["4993","1957","1955","2077","2075","4939","4941","4943","4991"],"transfer_routes":["3110"],"related_routes":["3108"]
-    },"4941":{"name":"Lomas @ Juan Tabo","desc":"12006 LOMAS BLVD NE","coordinates":[-106.5145,35.0866],"related_stops":["4993","1957","1955","2077","2075","4939","4941","4943","4991"],"transfer_routes":["3110"],"related_routes":["3108"]
-    },"4943":{"name":"Lomas @ Juan Tabo","desc":"12302 LOMAS BLVD NE","coordinates":[-106.5118,35.0865],"related_stops":["4993","1957","1955","2077","2075","4939","4941","4943","4991"],"transfer_routes":["3110"],"related_routes":["3108"]
-    },"4991":{"name":"Lomas @ Juan Tabo","desc":"LOMAS \u0026 JUAN TABO","coordinates":[-106.5146,35.0869],"related_stops":["4993","1957","1955","2077","2075","4939","4941","4943","4991"],"transfer_routes":["3110"],"related_routes":["3108"]
-    },"4993":{"name":"Lomas @ Juan Tabo","desc":"11821 LOMAS BLVD NE","coordinates":[-106.5155,35.0869],"related_stops":["4993","1957","1955","2077","2075","4939","4941","4943","4991"],"transfer_routes":["3110"],"related_routes":["3108"]
-    },"5677":{"name":"Wenonah @ Tramway","desc":"13117 WENONAH AVE SE","coordinates":[-106.4987,35.0659],"related_stops":["5678","5677","7184"],"transfer_routes":["3136"],"related_routes":["3108","3139"]
-    },"5678":{"name":"Wenonah @ Tramway","desc":"13115 WENONAH AVE SE","coordinates":[-106.4988,35.0659],"related_stops":["5678","5677","7184"],"transfer_routes":["3108"],"related_routes":["3136","3139"]
-    },"5682":{"name":"Central @ Dorado","desc":"12908 CENTRAL AVE E","coordinates":[-106.5055,35.0689],"related_stops":["4557","5682","4553"],"transfer_routes":["3136"],"related_routes":["3108"]
-    },"5684":{"name":"Central @ Juan Tabo","desc":"11769 CENTRAL AVE E","coordinates":[-106.5159,35.0703],"related_stops":["5990","1945","5684","7352","2089","4567","4563","1943","4545"],"transfer_routes":["3136"],"related_routes":["3108","3139"]
-    },"5804":{"name":"Juan Tabo @ Golden Gate","desc":"3403 JUAN TABO BLVD NE \u0026 GOLDEN GATE AVE NE","coordinates":[-106.5159,35.1204],"related_stops":["5804","1983"],"transfer_routes":["3108"],"related_routes":[]
-    },"5990":{"name":"Central @ Juan Tabo (Rapid)","desc":"11922 CENTRAL AVE E","coordinates":[-106.5146,35.0699],"related_stops":["5990","1945","5684","7352","2089","4567","4563","1943","4545"],"transfer_routes":["3139"],"related_routes":["3108","3136"]
-    },"6832":{"name":"Montgomery @ Juan Tabo","desc":"11216 MONTGOMERY BLVD NE \u0026 JUAN TABO BLVD NE","coordinates":[-106.5152,35.1306],"related_stops":["6832","1053","6864","2043","1993","1054"],"transfer_routes":["3129"],"related_routes":["3108"]
-    },"6864":{"name":"Montgomery @ Juan Tabo","desc":"11055 MONTGOMERY BLVD NE","coordinates":[-106.5165,35.1308],"related_stops":["6832","1053","6864","2043","1993","1054"],"transfer_routes":["3129"],"related_routes":["3108"]
-    },"7184":{"name":"Tramway @ Wenonah (Rapid)","desc":"291 TRAMWAY BLVD SE \u0026 WENONAH AVE SE","coordinates":[-106.4981,35.0661],"related_stops":["5678","5677","7184"],"transfer_routes":["3139"],"related_routes":["3108","3136"]
-    },"7232":{"name":"Juan Tabo @ Indian School","desc":"1812 JUAN TABO BLVD NE","coordinates":[-106.5153,35.1019],"related_stops":["1965","7232","2065","3615","3613","3659"],"transfer_routes":["3108"],"related_routes":["3135"]
-    },"7352":{"name":"Juan Tabo @ Linn","desc":"139 JUAN TABO BLVD NE \u0026 LINN AVE NE","coordinates":[-106.5153,35.0708],"related_stops":["5990","1945","5684","7352","2089","4567","4563","1943","4545"],"transfer_routes":["3108"],"related_routes":["3136","3139"]
-    },"7354":{"name":"Juan Tabo @ Constitution","desc":"1334 JUAN TABO BLVD NE","coordinates":[-106.5152,35.0944],"related_stops":["3963","3965","3949","2071","3947","3945","7354","3967","1961","3969","3943"],"transfer_routes":["3108"],"related_routes":["3111"]
-    },"7440":{"name":"Juan Tabo @ Singing Arrow","desc":"538 JUAN TABO BLVD SE \u0026 SINGING ARROW AVE SE","coordinates":[-106.5152,35.0632],"related_stops":["7440","2093"],"transfer_routes":["3108"],"related_routes":[]
-    },"7442":{"name":"Juan Tabo @ Southern","desc":"JUAN TABO BLVD SE \u0026 HORSESHOE TRL SE","coordinates":[-106.5157,35.0664],"related_stops":["7442","7444"],"transfer_routes":["3108"],"related_routes":[]
-    },"7444":{"name":"Juan Tabo @ Southern","desc":"","coordinates":[-106.5161,35.0665],"related_stops":["7442","7444"],"transfer_routes":["3108"],"related_routes":[]
-    },"7688":{"name":"Juan Tabo @ Spain","desc":"5231 JUAN TABO BLVD NE","coordinates":[-106.5173,35.1414],"related_stops":["7688","1999"],"transfer_routes":["3108"],"related_routes":[]
+  "stops": {"1053":{"name":"Montgomery @ Juan Tabo","desc":"11704 MONTGOMERY BLVD NE","coordinates":[-106.5088,35.1305],"related_stops":["6832","1053","6864","2043","1993","1054"],"transfer_routes":["3210"],"related_routes":["3189"]
+    },"1054":{"name":"Montgomery @ Jamaica","desc":"11639 MONTGOMERY BLVD NE","coordinates":[-106.5093,35.1308],"related_stops":["6832","1053","6864","2043","1993","1054"],"transfer_routes":["3210"],"related_routes":["3189"]
+    },"1925":{"name":"Wenonah @ Dorado","desc":"13105 WENONAH AVE SE","coordinates":[-106.5023,35.0661],"related_stops":["1925","2105","2103","1927"],"transfer_routes":["3189","3217"],"related_routes":[]
+    },"1927":{"name":"Dorado @ Wenonah","desc":"303 DORADO PL SE \u0026 DORADO DR SE","coordinates":[-106.5037,35.0661],"related_stops":["1925","2105","2103","1927"],"transfer_routes":["3189"],"related_routes":["3217"]
+    },"1929":{"name":"Dorado @ Dunes Road","desc":"405 DORADO PL SE \u0026 DUNES RD SE","coordinates":[-106.5047,35.0652],"related_stops":["2101","1931","1929"],"transfer_routes":["3189"],"related_routes":[]
+    },"1931":{"name":"Singing Arrow @ Dorado","desc":"12711 SINGING ARROW AVE SE","coordinates":[-106.5057,35.0645],"related_stops":["2101","1931","1929"],"transfer_routes":["3189"],"related_routes":[]
+    },"1933":{"name":"Singing Arrow @ Western Skies","desc":"12527 SINGING ARROW AVE SE \u0026 WESTERN SKIES DR SE","coordinates":[-106.5089,35.0643],"related_stops":["2099","1933"],"transfer_routes":["3189"],"related_routes":[]
+    },"1935":{"name":"Singing Arrow @ Parkside","desc":"12421 SINGING ARROW AVE SE \u0026 PARKSIDE PL SE","coordinates":[-106.5106,35.0641],"related_stops":["2097","1935"],"transfer_routes":["3189"],"related_routes":[]
+    },"1937":{"name":"Singing Arrow @ Fawn Trail","desc":"SINGING ARROW AVE SE \u0026 FAWN TRL SE","coordinates":[-106.5129,35.0635],"related_stops":["2095","1937"],"transfer_routes":["3189"],"related_routes":[]
+    },"1943":{"name":"Juan Tabo @ Central","desc":"188 JUAN TABO BLVD SE \u0026 COCHITI RD SE","coordinates":[-106.5151,35.0691],"related_stops":["5990","1945","5684","7352","2089","4567","4563","1943","4545"],"transfer_routes":["3189"],"related_routes":["3217","3220"]
+    },"1945":{"name":"Juan Tabo @ Central","desc":"120 JUAN TABO BLVD NE","coordinates":[-106.515,35.0705],"related_stops":["5990","1945","5684","7352","2089","4567","4563","1943","4545"],"transfer_routes":["3189"],"related_routes":["3217","3220"]
+    },"1947":{"name":"Juan Tabo @ Hopi","desc":"408 JUAN TABO BLVD NE \u0026 BUENA VENTURA RD NE","coordinates":[-106.515,35.0735],"related_stops":["2085","1947"],"transfer_routes":["3189"],"related_routes":[]
+    },"1949":{"name":"Juan Tabo @ Copper","desc":"706 JUAN TABO BLVD NE \u0026 COPPER AVE NE","coordinates":[-106.515,35.0798],"related_stops":["2083","1949"],"transfer_routes":["3189"],"related_routes":[]
+    },"1953":{"name":"Juan Tabo @ Gable Lane","desc":"766 JUAN TABO BLVD NE","coordinates":[-106.5149,35.0838],"related_stops":["2079","1953"],"transfer_routes":["3189"],"related_routes":[]
+    },"1955":{"name":"Juan Tabo @ Lomas","desc":"JUAN TABO \u0026 LOMAS","coordinates":[-106.5148,35.0865],"related_stops":["4993","1957","1955","2077","2075","4939","4941","4943","4991"],"transfer_routes":["3189"],"related_routes":["3191"]
+    },"1957":{"name":"Juan Tabo @ Lomas","desc":"910 JUAN TABO BLVD NE \u0026 LOMAS BLVD NE","coordinates":[-106.5149,35.0872],"related_stops":["4993","1957","1955","2077","2075","4939","4941","4943","4991"],"transfer_routes":["3189"],"related_routes":["3191"]
+    },"1959":{"name":"Juan Tabo @ Mountain Rd","desc":"1108 JUAN TABO BLVD NE \u0026 MOUNTAIN RD NE","coordinates":[-106.515,35.0903],"related_stops":["2073","1959"],"transfer_routes":["3189"],"related_routes":[]
+    },"1961":{"name":"Juan Tabo @ Constitution","desc":"1230 JUAN TABO BLVD NE \u0026 CONSTITUTION AVE NE","coordinates":[-106.5151,35.0934],"related_stops":["3963","3965","3949","2071","3947","3945","7354","3967","1961","3969","3943"],"transfer_routes":["3189"],"related_routes":["3192"]
+    },"1963":{"name":"Juan Tabo @ Princess Jeanne","desc":"1418 JUAN TABO BLVD NE \u0026 PRINCESS JEANNE AVE NE","coordinates":[-106.5152,35.0963],"related_stops":["2069","1963"],"transfer_routes":["3189"],"related_routes":[]
+    },"1965":{"name":"Juan Tabo @ Indian School","desc":"1736 JUAN TABO BLVD NE","coordinates":[-106.5153,35.1007],"related_stops":["1965","7232","2065","3615","3613","3659"],"transfer_routes":["3189"],"related_routes":["3216"]
+    },"1969":{"name":"Juan Tabo @ Brentwood Hills","desc":"1946 JUAN TABO BLVD NE \u0026 BRENTWOOD HILLS BLVD NE","coordinates":[-106.5153,35.1049],"related_stops":["2063","1969"],"transfer_routes":["3189"],"related_routes":[]
+    },"1971":{"name":"Juan Tabo @ Menaul","desc":"2262 JUAN TABO BLVD NE \u0026 MENAUL BLVD NE","coordinates":[-106.5154,35.1085],"related_stops":["3219","1973","1971","2061","2059","3441","3439","3221"],"transfer_routes":["3189"],"related_routes":["3222"]
+    },"1973":{"name":"Juan Tabo @ Menaul","desc":"2410 JUAN TABO BLVD NE","coordinates":[-106.5154,35.1093],"related_stops":["3219","1973","1971","2061","2059","3441","3439","3221"],"transfer_routes":["3189"],"related_routes":["3222"]
+    },"1975":{"name":"Juan Tabo @ Phoenix","desc":"2442 JUAN TABO BLVD NE \u0026 PHOENIX AVE NE","coordinates":[-106.5154,35.1109],"related_stops":["2057","1975"],"transfer_routes":["3189"],"related_routes":[]
+    },"1977":{"name":"Juan Tabo @ Lexington","desc":"2598 JUAN TABO BLVD NE \u0026 LEXINGTON AVE NE","coordinates":[-106.5155,35.1132],"related_stops":["2055","1977"],"transfer_routes":["3189"],"related_routes":[]
+    },"1979":{"name":"Juan Tabo @ Candelaria","desc":"2924 JUAN TABO BLVD NE \u0026 CANDELARIA RD NE","coordinates":[-106.5155,35.1159],"related_stops":["4169","1979","1981","4211","4213","2053","2051","4171"],"transfer_routes":["3189"],"related_routes":["3218"]
+    },"1981":{"name":"Juan Tabo @ Candelaria","desc":"3026 JUAN TABO BLVD NE","coordinates":[-106.5155,35.1173],"related_stops":["4169","1979","1981","4211","4213","2053","2051","4171"],"transfer_routes":["3189"],"related_routes":["3218"]
+    },"1983":{"name":"Juan Tabo @ Golden Gate","desc":"3404 JUAN TABO BLVD NE","coordinates":[-106.5155,35.1207],"related_stops":["5804","1983"],"transfer_routes":["3189"],"related_routes":[]
+    },"1985":{"name":"Juan Tabo @ Comanche","desc":"3610 JUAN TABO BLVD NE \u0026 COMANCHE RD NE","coordinates":[-106.5155,35.1233],"related_stops":["2607","2367","2605","1985","2047","2369","2371","2603","2373"],"transfer_routes":["3189"],"related_routes":["3193"]
+    },"1987":{"name":"Juan Tabo @ Juan Tabo Place","desc":"EAGLE TRL NE \u0026 JUAN TABO BLVD NE","coordinates":[-106.5155,35.1263],"related_stops":["1989","2045","1987"],"transfer_routes":["3189"],"related_routes":[]
+    },"1989":{"name":"Juan Tabo @ Juan Tabo Place","desc":"4184 JUAN TABO BLVD NE","coordinates":[-106.5155,35.129],"related_stops":["1989","2045","1987"],"transfer_routes":["3189"],"related_routes":[]
+    },"1993":{"name":"Juan Tabo @ Montgomery","desc":"4406 JUAN TABO BLVD NE","coordinates":[-106.5155,35.1311],"related_stops":["6832","1053","6864","2043","1993","1054"],"transfer_routes":["3189"],"related_routes":["3210"]
+    },"1995":{"name":"Juan Tabo @ Baja","desc":"4708 JUAN TABO BLVD NE","coordinates":[-106.5155,35.1352],"related_stops":["2039","1995"],"transfer_routes":["3189"],"related_routes":[]
+    },"1997":{"name":"Juan Tabo @ Osuna","desc":"5106 JUAN TABO BLVD NE","coordinates":[-106.5162,35.1394],"related_stops":["2037","1997"],"transfer_routes":["3189"],"related_routes":[]
+    },"1999":{"name":"Juan Tabo @ Spain","desc":"5334 JUAN TABO BLVD NE","coordinates":[-106.5175,35.1424],"related_stops":["7688","1999"],"transfer_routes":["3189"],"related_routes":[]
+    },"2001":{"name":"Juan Tabo @ Camero","desc":"5522 JUAN TABO BLVD NE \u0026 CAMERO AVE NE","coordinates":[-106.519,35.1445],"related_stops":["2001"],"transfer_routes":["3189"],"related_routes":[]
+    },"2003":{"name":"Juan Tabo @ Burnhamwood","desc":"5642 JUAN TABO BLVD NE \u0026 GUADALAJARA AVE NE","coordinates":[-106.521,35.1457],"related_stops":["2003"],"transfer_routes":["3189"],"related_routes":[]
+    },"2005":{"name":"Juan Tabo @ Malaguena","desc":"5808 JUAN TABO BLVD NE \u0026 MALAGUENA LN NE","coordinates":[-106.5232,35.1469],"related_stops":["2005"],"transfer_routes":["3189"],"related_routes":[]
+    },"2007":{"name":"Juan Tabo @ Tierra Antigua","desc":"5990 JUAN TABO BLVD NE \u0026 TIERRA ANTIGUA  NE","coordinates":[-106.5251,35.1479],"related_stops":["2007"],"transfer_routes":["3189"],"related_routes":[]
+    },"2009":{"name":"Eubank @ Juan Tabo","desc":"","coordinates":[-106.526,35.1496],"related_stops":["2203","2273","2271","2009"],"transfer_routes":["3189","3201"],"related_routes":[]
+    },"2011":{"name":"Eubank @ Academy","desc":"","coordinates":[-106.5243,35.1525],"related_stops":["2011","2207","2269","2013"],"transfer_routes":["3189","3201"],"related_routes":["3224"]
+    },"2013":{"name":"Academy @ Eubank","desc":"10514 ACADEMY RD NE","coordinates":[-106.5233,35.1541],"related_stops":["2011","2207","2269","2013"],"transfer_routes":["3189","3224"],"related_routes":["3201"]
+    },"2015":{"name":"Academy @ Rolling Hills","desc":"10800 ACADEMY RD NE","coordinates":[-106.5202,35.1526],"related_stops":["2015"],"transfer_routes":["3189","3224"],"related_routes":[]
+    },"2017":{"name":"Academy @ Carruthers","desc":"11030 ACADEMY RD NE \u0026 CARRUTHERS ST NE","coordinates":[-106.5166,35.1508],"related_stops":["2649","2017"],"transfer_routes":["3189","3224"],"related_routes":[]
+    },"2019":{"name":"Academy @ Academy Ridge","desc":"11322 ACADEMY RD NE \u0026 ACADEMY RIDGE DR NE","coordinates":[-106.5119,35.1508],"related_stops":["2647","2019"],"transfer_routes":["3189","3224"],"related_routes":[]
+    },"2021":{"name":"Academy @ Lowell","desc":"11576 ACADEMY RD NE","coordinates":[-106.5077,35.1522],"related_stops":["2021","2645","2023"],"transfer_routes":["3189","3224"],"related_routes":[]
+    },"2023":{"name":"Lowell @ Academy","desc":"6365 LOWELL ST NE","coordinates":[-106.5071,35.1519],"related_stops":["2021","2645","2023"],"transfer_routes":["3189"],"related_routes":["3224"]
+    },"2025":{"name":"Lowell @ San Victorio","desc":"6087 LOWELL ST NE \u0026 SAN VICTORIO AVE NE","coordinates":[-106.507,35.1492],"related_stops":["2025"],"transfer_routes":["3189"],"related_routes":[]
+    },"2027":{"name":"Lowell @ Spain","desc":"5727 LOWELL ST NE","coordinates":[-106.507,35.1457],"related_stops":["2027"],"transfer_routes":["3189"],"related_routes":[]
+    },"2029":{"name":"Spain @ Nugget","desc":"11719 SPAIN RD NE \u0026 NUGGET ST NE","coordinates":[-106.5096,35.1445],"related_stops":["2029"],"transfer_routes":["3189"],"related_routes":[]
+    },"2031":{"name":"Spain @ Luttrell","desc":"11379 SPAIN RD NE \u0026 LUTTRELL CT NE","coordinates":[-106.5128,35.1437],"related_stops":["2031"],"transfer_routes":["3189"],"related_routes":[]
+    },"2033":{"name":"Spain @ Carruthers","desc":"11265 SPAIN RD NE \u0026 CARRUTHERS ST NE","coordinates":[-106.5144,35.1431],"related_stops":["2033"],"transfer_routes":["3189"],"related_routes":[]
+    },"2037":{"name":"Juan Tabo @ Osuna","desc":"5111 JUAN TABO BLVD NE","coordinates":[-106.5165,35.1395],"related_stops":["2037","1997"],"transfer_routes":["3189"],"related_routes":[]
+    },"2039":{"name":"Juan Tabo @ Baja","desc":"4611 JUAN TABO BLVD NE \u0026 BAJA DR NE","coordinates":[-106.5158,35.1344],"related_stops":["2039","1995"],"transfer_routes":["3189"],"related_routes":[]
+    },"2043":{"name":"Juan Tabo @ Montgomery","desc":"4331 JUAN TABO BLVD NE","coordinates":[-106.5159,35.1301],"related_stops":["6832","1053","6864","2043","1993","1054"],"transfer_routes":["3189"],"related_routes":["3210"]
+    },"2045":{"name":"Juan Tabo @ Juan Tabo Place","desc":"4023 JUAN TABO BLVD NE","coordinates":[-106.5158,35.1272],"related_stops":["1989","2045","1987"],"transfer_routes":["3189"],"related_routes":[]
+    },"2047":{"name":"Juan Tabo @ Comanche","desc":"3709 JUAN TABO BLVD NE \u0026 COMANCHE RD NE","coordinates":[-106.5159,35.1238],"related_stops":["2607","2367","2605","1985","2047","2369","2371","2603","2373"],"transfer_routes":["3189"],"related_routes":["3193"]
+    },"2051":{"name":"Juan Tabo @ Candelaria","desc":"3009 JUAN TABO BLVD NE \u0026 CANDELARIA RD NE","coordinates":[-106.5158,35.1165],"related_stops":["4169","1979","1981","4211","4213","2053","2051","4171"],"transfer_routes":["3189"],"related_routes":["3218"]
+    },"2053":{"name":"Juan Tabo @ Candelaria","desc":"2809 JUAN TABO BLVD NE","coordinates":[-106.5158,35.115],"related_stops":["4169","1979","1981","4211","4213","2053","2051","4171"],"transfer_routes":["3189"],"related_routes":["3218"]
+    },"2055":{"name":"Juan Tabo @ Claremont","desc":"2599 JUAN TABO BLVD NE \u0026 LEXINGTON AVE NE","coordinates":[-106.5158,35.1132],"related_stops":["2055","1977"],"transfer_routes":["3189"],"related_routes":[]
+    },"2057":{"name":"Juan Tabo @ Phoenix","desc":"2445 JUAN TABO BLVD NE \u0026 PHOENIX AVE NE","coordinates":[-106.5157,35.1112],"related_stops":["2057","1975"],"transfer_routes":["3189"],"related_routes":[]
+    },"2059":{"name":"Juan Tabo @ Menaul","desc":"2405 JUAN TABO BLVD NE \u0026 MENAUL BLVD NE","coordinates":[-106.5157,35.1091],"related_stops":["3219","1973","1971","2061","2059","3441","3439","3221"],"transfer_routes":["3189"],"related_routes":["3222"]
+    },"2061":{"name":"Juan Tabo @ Menaul","desc":"2305 JUAN TABO BLVD NE \u0026 MENAUL BLVD NE","coordinates":[-106.5157,35.1085],"related_stops":["3219","1973","1971","2061","2059","3441","3439","3221"],"transfer_routes":["3189"],"related_routes":["3222"]
+    },"2063":{"name":"Juan Tabo @ Brentwood Hills","desc":"2021 JUAN TABO BLVD NE","coordinates":[-106.5157,35.1061],"related_stops":["2063","1969"],"transfer_routes":["3189"],"related_routes":[]
+    },"2065":{"name":"Juan Tabo @ Indian School","desc":"1801 JUAN TABO BLVD NE \u0026 INDIAN SCHOOL RD NE","coordinates":[-106.5156,35.1016],"related_stops":["1965","7232","2065","3615","3613","3659"],"transfer_routes":["3189"],"related_routes":["3216"]
+    },"2067":{"name":"Juan Tabo @ Haines","desc":"1637 JUAN TABO BLVD NE \u0026 HAINES AVE NE","coordinates":[-106.5156,35.0995],"related_stops":["2067"],"transfer_routes":["3189"],"related_routes":[]
+    },"2069":{"name":"Juan Tabo @ Princess Jeanne","desc":"1505 JUAN TABO BLVD NE \u0026 PRINCESS JEANNE AVE NE","coordinates":[-106.5155,35.097],"related_stops":["2069","1963"],"transfer_routes":["3189"],"related_routes":[]
+    },"2071":{"name":"Juan Tabo @ Constitution","desc":"1223 JUAN TABO BLVD NE \u0026 CONSTITUTION AVE NE","coordinates":[-106.5154,35.0932],"related_stops":["3963","3965","3949","2071","3947","3945","7354","3967","1961","3969","3943"],"transfer_routes":["3189"],"related_routes":["3192"]
+    },"2073":{"name":"Juan Tabo @ Mountain","desc":"1119 JUAN TABO BLVD NE \u0026 MOUNTAIN RD NE","coordinates":[-106.5153,35.0905],"related_stops":["2073","1959"],"transfer_routes":["3189"],"related_routes":[]
+    },"2075":{"name":"Juan Tabo @ Lomas","desc":"909 JUAN TABO BLVD NE \u0026 LOMAS BLVD NE","coordinates":[-106.5152,35.0872],"related_stops":["4993","1957","1955","2077","2075","4939","4941","4943","4991"],"transfer_routes":["3189"],"related_routes":["3191"]
+    },"2077":{"name":"Juan Tabo @ Lomas","desc":"835 JUAN TABO BLVD NE \u0026 LOMAS BLVD NE","coordinates":[-106.5152,35.0864],"related_stops":["4993","1957","1955","2077","2075","4939","4941","4943","4991"],"transfer_routes":["3189"],"related_routes":["3191"]
+    },"2079":{"name":"Juan Tabo @ Marquette","desc":"715 JUAN TABO BLVD NE \u0026 MARQUETTE AVE NE","coordinates":[-106.5152,35.0835],"related_stops":["2079","1953"],"transfer_routes":["3189"],"related_routes":[]
+    },"2083":{"name":"Juan Tabo @ Copper","desc":"JUAN TABO BLVD NE \u0026 COPPER AVE NE","coordinates":[-106.5153,35.0797],"related_stops":["2083","1949"],"transfer_routes":["3189"],"related_routes":[]
+    },"2085":{"name":"Juan Tabo @ Buena Ventura","desc":"251 JUAN TABO BLVD NE \u0026 HOPI RD NE","coordinates":[-106.5153,35.0732],"related_stops":["2085","1947"],"transfer_routes":["3189"],"related_routes":[]
+    },"2089":{"name":"Juan Tabo @ Central","desc":"169 JUAN TABO BLVD SE \u0026 COCHITI RD SE","coordinates":[-106.5154,35.0693],"related_stops":["5990","1945","5684","7352","2089","4567","4563","1943","4545"],"transfer_routes":["3189"],"related_routes":["3217","3220"]
+    },"2093":{"name":"Singing Arrow @ Juan Tabo","desc":"12014 SINGING ARROW AVE SE \u0026 TRADING POST TRL SE","coordinates":[-106.5146,35.0628],"related_stops":["7440","2093"],"transfer_routes":["3189"],"related_routes":[]
+    },"2095":{"name":"Singing Arrow @ Fawn Trail","desc":"12208 SINGING ARROW AVE SE \u0026 FAWN TRL SE","coordinates":[-106.513,35.0633],"related_stops":["2095","1937"],"transfer_routes":["3189"],"related_routes":[]
+    },"2097":{"name":"Singing Arrow @ Horseshoe Trail","desc":"12336 SINGING ARROW AVE SE \u0026 HORSESHOE TRL SE","coordinates":[-106.5114,35.0639],"related_stops":["2097","1935"],"transfer_routes":["3189"],"related_routes":[]
+    },"2099":{"name":"Singing Arrow @ Western Skies","desc":"12624 SINGING ARROW AVE SE \u0026 WESTERN SKIES DR SE","coordinates":[-106.5073,35.0643],"related_stops":["2099","1933"],"transfer_routes":["3189"],"related_routes":[]
+    },"2101":{"name":"Dorado @ Singing Arrow","desc":"412 DORADO PL SE \u0026 SINGING ARROW AVE SE","coordinates":[-106.5048,35.0647],"related_stops":["2101","1931","1929"],"transfer_routes":["3189"],"related_routes":[]
+    },"2103":{"name":"Dorado @ Wenonah","desc":"304 DORADO PL SE \u0026 DORADO DR SE","coordinates":[-106.5036,35.066],"related_stops":["1925","2105","2103","1927"],"transfer_routes":["3189"],"related_routes":["3217"]
+    },"2105":{"name":"Dorado @ Wenonah","desc":"206 DORADO PL SE","coordinates":[-106.5034,35.0671],"related_stops":["1925","2105","2103","1927"],"transfer_routes":["3189","3217"],"related_routes":[]
+    },"2203":{"name":"Eubank @ Juan Tabo","desc":"EUBANK \u0026 JUAN TABO","coordinates":[-106.5276,35.1476],"related_stops":["2203","2273","2271","2009"],"transfer_routes":["3201"],"related_routes":["3189"]
+    },"2207":{"name":"Academy @ Eubank","desc":"10333 ACADEMY RD NE","coordinates":[-106.5254,35.1544],"related_stops":["2011","2207","2269","2013"],"transfer_routes":["3201","3224"],"related_routes":["3189"]
+    },"2269":{"name":"Eubank @ Academy","desc":"6459 EUBANK BLVD NE","coordinates":[-106.5247,35.1532],"related_stops":["2011","2207","2269","2013"],"transfer_routes":["3201"],"related_routes":["3189","3224"]
+    },"2271":{"name":"Eubank @ Juan Tabo","desc":"6005 EUBANK BLVD NE","coordinates":[-106.5268,35.1492],"related_stops":["2203","2273","2271","2009"],"transfer_routes":["3201"],"related_routes":["3189"]
+    },"2273":{"name":"Eubank @ Juan Tabo","desc":"5863 EUBANK BLVD NE","coordinates":[-106.528,35.1477],"related_stops":["2203","2273","2271","2009"],"transfer_routes":["3201"],"related_routes":["3189"]
+    },"2367":{"name":"Comanche @ Naples","desc":"11419 COMANCHE RD NE \u0026 NAPLES ST NE","coordinates":[-106.5128,35.1236],"related_stops":["2607","2367","2605","1985","2047","2369","2371","2603","2373"],"transfer_routes":["3193"],"related_routes":["3189"]
+    },"2369":{"name":"Comanche @ Madrid","desc":"11317 COMANCHE RD NE \u0026 MADRID DR NE","coordinates":[-106.5146,35.1236],"related_stops":["2607","2367","2605","1985","2047","2369","2371","2603","2373"],"transfer_routes":["3193"],"related_routes":["3189"]
+    },"2371":{"name":"Comanche @ Juan Tabo","desc":"10825 COMANCHE RD NE","coordinates":[-106.5162,35.1237],"related_stops":["2607","2367","2605","1985","2047","2369","2371","2603","2373"],"transfer_routes":["3193"],"related_routes":["3189"]
+    },"2373":{"name":"Comanche @ Juan Tabo","desc":"10803 COMANCHE RD NE","coordinates":[-106.518,35.1236],"related_stops":["2607","2367","2605","1985","2047","2369","2371","2603","2373"],"transfer_routes":["3193"],"related_routes":["3189"]
+    },"2603":{"name":"Comanche @ Juan Tabo","desc":"10828 COMANCHE RD NE \u0026 JUAN TABO BLVD NE","coordinates":[-106.5161,35.1235],"related_stops":["2607","2367","2605","1985","2047","2369","2371","2603","2373"],"transfer_routes":["3193"],"related_routes":["3189"]
+    },"2605":{"name":"Comanche @ Juan Tabo","desc":"11306 COMANCHE RD NE \u0026 JUAN TABO BLVD NE","coordinates":[-106.5152,35.1235],"related_stops":["2607","2367","2605","1985","2047","2369","2371","2603","2373"],"transfer_routes":["3193"],"related_routes":["3189"]
+    },"2607":{"name":"Comanche @ Juan Tabo","desc":"11416 COMANCHE RD NE \u0026 NAPLES ST NE","coordinates":[-106.5129,35.1235],"related_stops":["2607","2367","2605","1985","2047","2369","2371","2603","2373"],"transfer_routes":["3193"],"related_routes":["3189"]
+    },"2645":{"name":"Academy @ Lowell","desc":"11805 ACADEMY RD NE \u0026 LOWELL ST NE","coordinates":[-106.5066,35.1525],"related_stops":["2021","2645","2023"],"transfer_routes":["3224"],"related_routes":["3189"]
+    },"2647":{"name":"Academy @ Academy Ridge","desc":"11249 ACADEMY RD NE","coordinates":[-106.5131,35.1509],"related_stops":["2647","2019"],"transfer_routes":["3224"],"related_routes":["3189"]
+    },"2649":{"name":"Academy @ Carruthers","desc":"11059 ACADEMY RD NE","coordinates":[-106.5161,35.151],"related_stops":["2649","2017"],"transfer_routes":["3224"],"related_routes":["3189"]
+    },"3219":{"name":"Menaul @ Juan Tabo","desc":"11307 MENAUL BLVD NE \u0026 JUAN TABO BLVD NE","coordinates":[-106.5151,35.1089],"related_stops":["3219","1973","1971","2061","2059","3441","3439","3221"],"transfer_routes":["3222"],"related_routes":["3189"]
+    },"3221":{"name":"Menaul @ Juan Tabo","desc":"11233 MENAUL BLVD NE \u0026 JUAN TABO BLVD NE","coordinates":[-106.516,35.109],"related_stops":["3219","1973","1971","2061","2059","3441","3439","3221"],"transfer_routes":["3222"],"related_routes":["3189"]
+    },"3439":{"name":"Menaul @ Juan Tabo","desc":"11244 MENAUL BLVD NE \u0026 JUAN TABO BLVD NE","coordinates":[-106.5159,35.1087],"related_stops":["3219","1973","1971","2061","2059","3441","3439","3221"],"transfer_routes":["3222"],"related_routes":["3189"]
+    },"3441":{"name":"Menaul @ Juan Tabo","desc":"11306 MENAUL BLVD NE \u0026 JUAN TABO BLVD NE","coordinates":[-106.5151,35.1087],"related_stops":["3219","1973","1971","2061","2059","3441","3439","3221"],"transfer_routes":["3222"],"related_routes":["3189"]
+    },"3613":{"name":"Indian School @ Juan Tabo","desc":"INDIAN SCHOOL \u0026 JUAN TABO","coordinates":[-106.5159,35.1014],"related_stops":["1965","7232","2065","3615","3613","3659"],"transfer_routes":["3216"],"related_routes":["3189"]
+    },"3615":{"name":"Indian School @ Juan Tabo","desc":"INDIAN SCHOOL \u0026 JUAN TABO","coordinates":[-106.515,35.1014],"related_stops":["1965","7232","2065","3615","3613","3659"],"transfer_routes":["3216"],"related_routes":["3189"]
+    },"3659":{"name":"Indian School @ Juan Tabo","desc":"11711 INDIAN SCHOOL RD NE \u0026 JUAN TABO BLVD NE","coordinates":[-106.5159,35.1015],"related_stops":["1965","7232","2065","3615","3613","3659"],"transfer_routes":["3216"],"related_routes":["3189"]
+    },"3943":{"name":"Constitution @ Claudine","desc":"11602 CONSTITUTION AVE NE \u0026 CLAUDINE ST NE","coordinates":[-106.5183,35.0936],"related_stops":["3963","3965","3949","2071","3947","3945","7354","3967","1961","3969","3943"],"transfer_routes":["3192"],"related_routes":["3189"]
+    },"3945":{"name":"Constitution @ Juan Tabo","desc":"11762 CONSTITUTION AVE NE \u0026 MURIEL ST NE","coordinates":[-106.5162,35.0935],"related_stops":["3963","3965","3949","2071","3947","3945","7354","3967","1961","3969","3943"],"transfer_routes":["3192"],"related_routes":["3189"]
+    },"3947":{"name":"Constitution @ Juan Tabo","desc":"11938 CONSTITUTION AVE NE \u0026 JUAN TABO BLVD NE","coordinates":[-106.5148,35.0935],"related_stops":["3963","3965","3949","2071","3947","3945","7354","3967","1961","3969","3943"],"transfer_routes":["3192"],"related_routes":["3189"]
+    },"3949":{"name":"Constitution @ Kirby","desc":"12102 CONSTITUTION AVE NE \u0026 KIRBY ST NE","coordinates":[-106.5126,35.0936],"related_stops":["3963","3965","3949","2071","3947","3945","7354","3967","1961","3969","3943"],"transfer_routes":["3192"],"related_routes":["3189"]
+    },"3963":{"name":"Constitution @ Constitution Ct","desc":"12205 CONSTITUTION AVE NE \u0026 KINLEY PL NE","coordinates":[-106.5114,35.0937],"related_stops":["3963","3965","3949","2071","3947","3945","7354","3967","1961","3969","3943"],"transfer_routes":["3192"],"related_routes":["3189"]
+    },"3965":{"name":"Constitution @ Paisano","desc":"CONSTITUTION \u0026 PAISANO","coordinates":[-106.5136,35.0937],"related_stops":["3963","3965","3949","2071","3947","3945","7354","3967","1961","3969","3943"],"transfer_routes":["3192"],"related_routes":["3189"]
+    },"3967":{"name":"Constitution @ Juan Tabo","desc":"11797 CONSTITUTION AVE NE","coordinates":[-106.516,35.0936],"related_stops":["3963","3965","3949","2071","3947","3945","7354","3967","1961","3969","3943"],"transfer_routes":["3192"],"related_routes":["3189"]
+    },"3969":{"name":"Constitution @ Muriel","desc":"11613 CONSTITUTION AVE NE \u0026 MURIEL ST NE","coordinates":[-106.5174,35.0936],"related_stops":["3963","3965","3949","2071","3947","3945","7354","3967","1961","3969","3943"],"transfer_routes":["3192"],"related_routes":["3189"]
+    },"4169":{"name":"Candelaria @ Juan Tabo","desc":"11210 CANDELARIA RD NE \u0026 JUAN TABO BLVD NE","coordinates":[-106.5161,35.1162],"related_stops":["4169","1979","1981","4211","4213","2053","2051","4171"],"transfer_routes":["3218"],"related_routes":["3189"]
+    },"4171":{"name":"Candelaria @ Juan Tabo","desc":"11312 CANDELARIA RD NE \u0026 JUAN TABO BLVD NE","coordinates":[-106.5153,35.1162],"related_stops":["4169","1979","1981","4211","4213","2053","2051","4171"],"transfer_routes":["3218"],"related_routes":["3189"]
+    },"4211":{"name":"Candelaria @ Juan Tabo","desc":"11315 CANDELARIA RD NE \u0026 JUAN TABO BLVD NE","coordinates":[-106.5152,35.1164],"related_stops":["4169","1979","1981","4211","4213","2053","2051","4171"],"transfer_routes":["3218"],"related_routes":["3189"]
+    },"4213":{"name":"Candelaria @ Juan Tabo","desc":"11103 CANDELARIA RD NE \u0026 MURIEL ST NE","coordinates":[-106.5171,35.1163],"related_stops":["4169","1979","1981","4211","4213","2053","2051","4171"],"transfer_routes":["3218"],"related_routes":["3189"]
+    },"4545":{"name":"Central @ Juan Tabo","desc":"11930 CENTRAL AVE E","coordinates":[-106.5144,35.0699],"related_stops":["5990","1945","5684","7352","2089","4567","4563","1943","4545"],"transfer_routes":["3217"],"related_routes":["3189","3220"]
+    },"4553":{"name":"Central @ Dorado","desc":"13016 CENTRAL AVE E \u0026 DORADO PL SE","coordinates":[-106.5031,35.0686],"related_stops":["4557","5682","4553"],"transfer_routes":["3189","3217"],"related_routes":[]
+    },"4557":{"name":"Central @ Dorado","desc":"12903 CENTRAL AVE E","coordinates":[-106.5056,35.0692],"related_stops":["4557","5682","4553"],"transfer_routes":["3217"],"related_routes":["3189"]
+    },"4563":{"name":"Central @ Juan Tabo","desc":"11997 CENTRAL AVE E","coordinates":[-106.5131,35.07],"related_stops":["5990","1945","5684","7352","2089","4567","4563","1943","4545"],"transfer_routes":["3217"],"related_routes":["3189","3220"]
+    },"4567":{"name":"Central @ Juan Tabo (Rapid)","desc":"11787 CENTRAL AVE E \u0026 JUAN TABO BLVD NE","coordinates":[-106.5156,35.0702],"related_stops":["5990","1945","5684","7352","2089","4567","4563","1943","4545"],"transfer_routes":["3220"],"related_routes":["3189","3217"]
+    },"4939":{"name":"Lomas @ Juan Tabo","desc":"11820 LOMAS BLVD NE \u0026 JUAN TABO BLVD NE","coordinates":[-106.5154,35.0866],"related_stops":["4993","1957","1955","2077","2075","4939","4941","4943","4991"],"transfer_routes":["3191"],"related_routes":["3189"]
+    },"4941":{"name":"Lomas @ Juan Tabo","desc":"12006 LOMAS BLVD NE","coordinates":[-106.5145,35.0866],"related_stops":["4993","1957","1955","2077","2075","4939","4941","4943","4991"],"transfer_routes":["3191"],"related_routes":["3189"]
+    },"4943":{"name":"Lomas @ Juan Tabo","desc":"12302 LOMAS BLVD NE","coordinates":[-106.5118,35.0865],"related_stops":["4993","1957","1955","2077","2075","4939","4941","4943","4991"],"transfer_routes":["3191"],"related_routes":["3189"]
+    },"4991":{"name":"Lomas @ Juan Tabo","desc":"LOMAS \u0026 JUAN TABO","coordinates":[-106.5146,35.0869],"related_stops":["4993","1957","1955","2077","2075","4939","4941","4943","4991"],"transfer_routes":["3191"],"related_routes":["3189"]
+    },"4993":{"name":"Lomas @ Juan Tabo","desc":"11821 LOMAS BLVD NE","coordinates":[-106.5155,35.0869],"related_stops":["4993","1957","1955","2077","2075","4939","4941","4943","4991"],"transfer_routes":["3191"],"related_routes":["3189"]
+    },"5677":{"name":"Wenonah @ Tramway","desc":"13117 WENONAH AVE SE","coordinates":[-106.4987,35.0659],"related_stops":["5678","5677","7184"],"transfer_routes":["3217"],"related_routes":["3189","3220"]
+    },"5678":{"name":"Wenonah @ Tramway","desc":"13115 WENONAH AVE SE","coordinates":[-106.4988,35.0659],"related_stops":["5678","5677","7184"],"transfer_routes":["3189"],"related_routes":["3217","3220"]
+    },"5682":{"name":"Central @ Dorado","desc":"12908 CENTRAL AVE E","coordinates":[-106.5055,35.0689],"related_stops":["4557","5682","4553"],"transfer_routes":["3217"],"related_routes":["3189"]
+    },"5684":{"name":"Central @ Juan Tabo","desc":"11769 CENTRAL AVE E","coordinates":[-106.5159,35.0703],"related_stops":["5990","1945","5684","7352","2089","4567","4563","1943","4545"],"transfer_routes":["3217"],"related_routes":["3189","3220"]
+    },"5804":{"name":"Juan Tabo @ Golden Gate","desc":"3403 JUAN TABO BLVD NE \u0026 GOLDEN GATE AVE NE","coordinates":[-106.5159,35.1204],"related_stops":["5804","1983"],"transfer_routes":["3189"],"related_routes":[]
+    },"5990":{"name":"Central @ Juan Tabo (Rapid)","desc":"11922 CENTRAL AVE E","coordinates":[-106.5146,35.0699],"related_stops":["5990","1945","5684","7352","2089","4567","4563","1943","4545"],"transfer_routes":["3220"],"related_routes":["3189","3217"]
+    },"6832":{"name":"Montgomery @ Juan Tabo","desc":"11216 MONTGOMERY BLVD NE \u0026 JUAN TABO BLVD NE","coordinates":[-106.5152,35.1306],"related_stops":["6832","1053","6864","2043","1993","1054"],"transfer_routes":["3210"],"related_routes":["3189"]
+    },"6864":{"name":"Montgomery @ Juan Tabo","desc":"11055 MONTGOMERY BLVD NE","coordinates":[-106.5165,35.1308],"related_stops":["6832","1053","6864","2043","1993","1054"],"transfer_routes":["3210"],"related_routes":["3189"]
+    },"7184":{"name":"Tramway @ Wenonah (Rapid)","desc":"291 TRAMWAY BLVD SE \u0026 WENONAH AVE SE","coordinates":[-106.4981,35.0661],"related_stops":["5678","5677","7184"],"transfer_routes":["3220"],"related_routes":["3189","3217"]
+    },"7232":{"name":"Juan Tabo @ Indian School","desc":"1812 JUAN TABO BLVD NE","coordinates":[-106.5153,35.1019],"related_stops":["1965","7232","2065","3615","3613","3659"],"transfer_routes":["3189"],"related_routes":["3216"]
+    },"7352":{"name":"Juan Tabo @ Linn","desc":"139 JUAN TABO BLVD NE \u0026 LINN AVE NE","coordinates":[-106.5153,35.0708],"related_stops":["5990","1945","5684","7352","2089","4567","4563","1943","4545"],"transfer_routes":["3189"],"related_routes":["3217","3220"]
+    },"7354":{"name":"Juan Tabo @ Constitution","desc":"1334 JUAN TABO BLVD NE","coordinates":[-106.5152,35.0944],"related_stops":["3963","3965","3949","2071","3947","3945","7354","3967","1961","3969","3943"],"transfer_routes":["3189"],"related_routes":["3192"]
+    },"7440":{"name":"Juan Tabo @ Singing Arrow","desc":"538 JUAN TABO BLVD SE \u0026 SINGING ARROW AVE SE","coordinates":[-106.5152,35.0632],"related_stops":["7440","2093"],"transfer_routes":["3189"],"related_routes":[]
+    },"7442":{"name":"Juan Tabo @ Southern","desc":"JUAN TABO BLVD SE \u0026 HORSESHOE TRL SE","coordinates":[-106.5157,35.0664],"related_stops":["7442","7444"],"transfer_routes":["3189"],"related_routes":[]
+    },"7444":{"name":"Juan Tabo @ Southern","desc":"","coordinates":[-106.5161,35.0665],"related_stops":["7442","7444"],"transfer_routes":["3189"],"related_routes":[]
+    },"7688":{"name":"Juan Tabo @ Spain","desc":"5231 JUAN TABO BLVD NE","coordinates":[-106.5173,35.1414],"related_stops":["7688","1999"],"transfer_routes":["3189"],"related_routes":[]
     }
   },
   "trip_data": {
     "shapes": {
-      "bae7c": {
+      "8ee89": {
         "bearing": 166.36,"centroid":[-106.5122,35.1033],
         "bounds": [[-106.5246,35.0629],[0.0,35.1544]
         ],"coordinates":[[-106.52446500002864,35.153624],[-106.52461600002864,35.152614],[-106.52451800002864,35.154352],[-106.52261800002837,35.154146],[-106.52073300002812,35.153167],[-106.51826000002777,35.151482],[-106.5170260000276,35.150983],[-106.51606800002747,35.150837],[-106.5118240000269,35.150866],[-106.50922600002656,35.152034],[-106.50827000002643,35.152285],[-106.50686500002625,35.152316],[-106.50689000002623,35.145087],[-106.51250200002697,35.143672],[-106.5173440000276,35.141869],[-106.51580200002739,35.13785],[-106.51569800002738,35.13705],[-106.51565800002732,35.113386],[-106.51530900002723,35.093585],[-106.51500700002717,35.086764],[-106.51522000002717,35.078359],[-106.51509200002715,35.076662],[-106.51520000002715,35.069016],[-106.51575400002723,35.068181],[-106.51677500002735,35.067326],[-106.51591700002724,35.066358],[-106.51525200002715,35.065275],[-106.51533000002716,35.062865],[-106.51377600002694,35.062929],[-106.51160600002666,35.063985],[-106.50965600002641,35.06399],[-106.50856900002626,35.0644],[-106.5049900000258,35.064412],[-106.50447900002574,35.0654],[-106.50327900002559,35.066319],[-106.5034380000256,35.066773],[-106.50344300002561,35.068785],[-106.49756300002485,35.068185],[-106.4979440000249,35.066928],[-106.49782300002488,35.06604],[-106.49844700002497,35.065891]],
         "distances": [0.0,0.1137,0.1949,0.3686,0.5717,0.8643,0.9882,1.0767,1.4601,1.73,1.8208,1.9479,2.7571,3.289,3.7707,4.2413,4.3319,6.9794,9.1961,9.9598,10.9013,11.0907,11.9469,12.053,12.1863,12.3197,12.4548,12.7239,12.8658,13.096,13.272,13.3816,13.7056,13.8247,13.9755,14.028,14.253,14.789,14.9332,15.0348,15.0952]
       },
-      "6ddbf": {
+      "2d0a3": {
         "bearing": 346.13,"centroid":[-106.5136,35.0908],
         "bounds": [[-106.5269,35.0629],[0.0,35.1526]
         ],"coordinates":[[-106.49844600002497,35.06589],[-106.50065000002523,35.065873],[-106.50279500002553,35.066121],[-106.50327900002559,35.066319],[-106.50447900002574,35.0654],[-106.5049900000258,35.064412],[-106.50856900002626,35.0644],[-106.50965600002641,35.06399],[-106.51160600002666,35.063985],[-106.51377600002694,35.062929],[-106.51533000002716,35.062865],[-106.51525200002715,35.065275],[-106.51591700002724,35.066358],[-106.51677500002735,35.067326],[-106.51575400002723,35.068181],[-106.51520000002715,35.069016],[-106.51517800002716,35.07008],[-106.51509200002715,35.076662],[-106.51522000002717,35.078359],[-106.51500700002717,35.086764],[-106.51530900002723,35.093585],[-106.51565800002732,35.113386],[-106.51569800002738,35.13705],[-106.51580200002739,35.13785],[-106.51734300002761,35.141867],[-106.51885200002782,35.144221],[-106.520032000028,35.145071],[-106.52692400002896,35.148766],[-106.52541200002877,35.150713],[-106.52461600002864,35.152614]],
@@ -203,17 +201,17 @@
     "stop_times": {
       "74c63": [0,34,72,115,161,208,221,254,300,332,361,375,410,431,487,540,580,627,674,727,748,772,800,828,840,878,950,985,1024,1086,1130,1184,1200,1249,1317,1430,1471,1500,1558,1632,1655,1680,1737,1772,1800,1821,1854,1980],
       "6e1db": [0,27,57,91,128,165,176,202,240,272,301,315,350,371,427,480,520,567,614,667,688,712,740,768,780,818,890,925,964,1026,1070,1124,1140,1189,1257,1370,1411,1440,1498,1572,1595,1620,1677,1712,1740,1761,1794,1920],
-      "fecdd": [0,44,62,80,101,141,163,193,231,281,333,360,413,526,597,645,660,710,760,775,806,877,896,944,1002,1020,1046,1083,1128,1150,1205,1249,1297,1341,1380,1437,1495,1539,1572,1600,1629,1654,1693,1740],
       "2fd9a": [0,44,62,80,101,141,163,193,231,281,333,360,413,526,597,645,660,710,760,775,806,877,896,944,1002,1020,1050,1093,1146,1172,1236,1287,1343,1394,1440,1497,1555,1599,1632,1660,1689,1714,1753,1800],
-      "3731e": [0,44,62,80,101,141,163,193,231,281,333,360,403,493,550,589,600,650,700,715,746,817,836,884,942,960,981,1012,1050,1068,1114,1150,1190,1227,1260,1317,1375,1419,1452,1480,1509,1534,1573,1620],
+      "fecdd": [0,44,62,80,101,141,163,193,231,281,333,360,413,526,597,645,660,710,760,775,806,877,896,944,1002,1020,1046,1083,1128,1150,1205,1249,1297,1341,1380,1437,1495,1539,1572,1600,1629,1654,1693,1740],
       "b98e8": [0,34,72,115,161,208,221,254,300,341,378,396,440,467,538,600,648,704,760,823,849,877,911,945,960,998,1070,1105,1144,1206,1250,1304,1320,1379,1461,1597,1647,1680,1746,1829,1855,1883,1947,1987,2019,2042,2079,2220],
       "c1d8c": [0,44,62,80,101,141,163,193,231,281,333,360,392,459,502,531,540,581,623,636,662,721,736,776,824,840,861,892,930,948,994,1030,1070,1107,1140,1187,1236,1272,1299,1322,1346,1367,1399,1440],
+      "3731e": [0,44,62,80,101,141,163,193,231,281,333,360,403,493,550,589,600,650,700,715,746,817,836,884,942,960,981,1012,1050,1068,1114,1150,1190,1227,1260,1317,1375,1419,1452,1480,1509,1534,1573,1620],
       "4f6dd": [0,34,72,115,161,208,221,254,300,341,378,396,440,467,538,600,648,704,760,823,849,877,911,945,960,998,1070,1105,1144,1206,1250,1304,1320,1369,1437,1550,1591,1620,1678,1752,1775,1800,1857,1892,1920,1941,1974,2100],
       "e1efb": [0,34,72,115,161,208,221,254,300,332,361,375,410,431,487,540,588,644,700,763,789,817,851,885,900,938,1010,1045,1084,1146,1190,1244,1260,1309,1377,1490,1531,1560,1618,1692,1715,1740,1797,1832,1860,1881,1914,2040],
       "a78ce": [0,44,62,80,101,141,163,193,231,281,333,360,392,459,502,531,540,581,623,636,662,721,736,776,824,840,861,892,930,948,994,1030,1070,1107,1140,1197,1255,1299,1332,1360,1389,1414,1453,1500],
+      "e94a3": [0,27,57,91,128,165,176,202,240,272,301,315,350,371,427,480,520,567,614,667,688,712,740,768,780,812,872,901,933,985,1021,1066,1080,1129,1197,1310,1351,1380,1438,1512,1535,1560,1617,1652,1680,1701,1734,1860],
       "d8268": [0,44,62,80,101,141,163,193,231,281,333,360,403,493,550,589,600,641,683,696,722,781,796,836,884,900,921,952,990,1008,1054,1090,1130,1167,1200,1257,1315,1359,1392,1420,1449,1474,1513,1560],
-      "de6fe": [0,44,62,80,101,141,163,193,231,281,333,360,392,459,502,531,540,573,606,616,637,684,696,728,767,780,801,832,870,888,934,970,1010,1047,1080,1137,1195,1239,1272,1300,1329,1354,1393,1440],
-      "e94a3": [0,27,57,91,128,165,176,202,240,272,301,315,350,371,427,480,520,567,614,667,688,712,740,768,780,812,872,901,933,985,1021,1066,1080,1129,1197,1310,1351,1380,1438,1512,1535,1560,1617,1652,1680,1701,1734,1860]
+      "de6fe": [0,44,62,80,101,141,163,193,231,281,333,360,392,459,502,531,540,573,606,616,637,684,696,728,767,780,801,832,870,888,934,970,1010,1047,1080,1137,1195,1239,1272,1300,1329,1354,1393,1440]
     },
     "stop_distances": {
       "878d2": [0.0,0.3043,0.6456,1.0329,1.4522,1.8738,1.9969,2.2969,2.682,3.0142,3.3172,3.4671,3.8251,4.0474,4.6229,5.108,5.432,5.814,6.1961,6.6254,6.8014,6.9965,7.2267,7.4577,7.5307,7.7978,8.294,8.537,8.808,9.2381,9.5415,9.9158,10.0058,10.3198,10.755,11.4779,11.7429,11.9109,12.3017,12.793,12.9493,13.117,13.4996,13.7359,13.9273,14.068,14.2892,15.0952],
@@ -224,80 +222,80 @@
       "b7dd5": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
     },
     "trips": {
-      "1": [
-        {"id":"402835","direction":0,"start_time":22740,"stops_key":"be107","stop_distances":"878d2","stop_times":"e94a3","stop_dwells":"b7dd5","shape_key":"bae7c"},
-        {"id":"402834","direction":0,"start_time":24420,"stops_key":"be107","stop_distances":"878d2","stop_times":"e94a3","stop_dwells":"b7dd5","shape_key":"bae7c"},
-        {"id":"402833","direction":0,"start_time":26220,"stops_key":"be107","stop_distances":"878d2","stop_times":"e94a3","stop_dwells":"b7dd5","shape_key":"bae7c"},
-        {"id":"402832","direction":0,"start_time":28020,"stops_key":"be107","stop_distances":"878d2","stop_times":"e94a3","stop_dwells":"b7dd5","shape_key":"bae7c"},
-        {"id":"402831","direction":0,"start_time":29820,"stops_key":"be107","stop_distances":"878d2","stop_times":"e94a3","stop_dwells":"b7dd5","shape_key":"bae7c"},
-        {"id":"402830","direction":0,"start_time":31620,"stops_key":"be107","stop_distances":"878d2","stop_times":"e94a3","stop_dwells":"b7dd5","shape_key":"bae7c"},
-        {"id":"402829","direction":0,"start_time":34320,"stops_key":"be107","stop_distances":"878d2","stop_times":"e94a3","stop_dwells":"b7dd5","shape_key":"bae7c"},
-        {"id":"402828","direction":0,"start_time":36840,"stops_key":"be107","stop_distances":"878d2","stop_times":"e1efb","stop_dwells":"b7dd5","shape_key":"bae7c"},
-        {"id":"402827","direction":0,"start_time":39540,"stops_key":"be107","stop_distances":"878d2","stop_times":"e1efb","stop_dwells":"b7dd5","shape_key":"bae7c"},
-        {"id":"402826","direction":0,"start_time":42240,"stops_key":"be107","stop_distances":"878d2","stop_times":"e1efb","stop_dwells":"b7dd5","shape_key":"bae7c"},
-        {"id":"402825","direction":0,"start_time":44940,"stops_key":"be107","stop_distances":"878d2","stop_times":"e1efb","stop_dwells":"b7dd5","shape_key":"bae7c"},
-        {"id":"402824","direction":0,"start_time":47640,"stops_key":"be107","stop_distances":"878d2","stop_times":"e1efb","stop_dwells":"b7dd5","shape_key":"bae7c"},
-        {"id":"402823","direction":0,"start_time":50340,"stops_key":"be107","stop_distances":"878d2","stop_times":"e1efb","stop_dwells":"b7dd5","shape_key":"bae7c"},
-        {"id":"402822","direction":0,"start_time":52140,"stops_key":"be107","stop_distances":"878d2","stop_times":"b98e8","stop_dwells":"b7dd5","shape_key":"bae7c"},
-        {"id":"402821","direction":0,"start_time":53760,"stops_key":"be107","stop_distances":"878d2","stop_times":"b98e8","stop_dwells":"b7dd5","shape_key":"bae7c"},
-        {"id":"402820","direction":0,"start_time":55560,"stops_key":"be107","stop_distances":"878d2","stop_times":"b98e8","stop_dwells":"b7dd5","shape_key":"bae7c"},
-        {"id":"402819","direction":0,"start_time":57360,"stops_key":"be107","stop_distances":"878d2","stop_times":"b98e8","stop_dwells":"b7dd5","shape_key":"bae7c"},
-        {"id":"402818","direction":0,"start_time":59220,"stops_key":"be107","stop_distances":"878d2","stop_times":"4f6dd","stop_dwells":"b7dd5","shape_key":"bae7c"},
-        {"id":"402817","direction":0,"start_time":61080,"stops_key":"be107","stop_distances":"878d2","stop_times":"e1efb","stop_dwells":"b7dd5","shape_key":"bae7c"},
-        {"id":"402816","direction":0,"start_time":63000,"stops_key":"be107","stop_distances":"878d2","stop_times":"74c63","stop_dwells":"b7dd5","shape_key":"bae7c"},
-        {"id":"402815","direction":0,"start_time":64800,"stops_key":"be107","stop_distances":"878d2","stop_times":"74c63","stop_dwells":"b7dd5","shape_key":"bae7c"},
-        {"id":"402858","direction":1,"start_time":20640,"stops_key":"a7978","stop_distances":"ab902","stop_times":"de6fe","stop_dwells":"5dc32","shape_key":"6ddbf"},
-        {"id":"402857","direction":1,"start_time":22440,"stops_key":"a7978","stop_distances":"ab902","stop_times":"de6fe","stop_dwells":"5dc32","shape_key":"6ddbf"},
-        {"id":"402856","direction":1,"start_time":23940,"stops_key":"a7978","stop_distances":"ab902","stop_times":"3731e","stop_dwells":"5dc32","shape_key":"6ddbf"},
-        {"id":"402855","direction":1,"start_time":25920,"stops_key":"a7978","stop_distances":"ab902","stop_times":"3731e","stop_dwells":"5dc32","shape_key":"6ddbf"},
-        {"id":"402854","direction":1,"start_time":27840,"stops_key":"a7978","stop_distances":"ab902","stop_times":"3731e","stop_dwells":"5dc32","shape_key":"6ddbf"},
-        {"id":"402853","direction":1,"start_time":29640,"stops_key":"a7978","stop_distances":"ab902","stop_times":"3731e","stop_dwells":"5dc32","shape_key":"6ddbf"},
-        {"id":"402852","direction":1,"start_time":31440,"stops_key":"a7978","stop_distances":"ab902","stop_times":"3731e","stop_dwells":"5dc32","shape_key":"6ddbf"},
-        {"id":"402851","direction":1,"start_time":34140,"stops_key":"a7978","stop_distances":"ab902","stop_times":"fecdd","stop_dwells":"5dc32","shape_key":"6ddbf"},
-        {"id":"402850","direction":1,"start_time":36840,"stops_key":"a7978","stop_distances":"ab902","stop_times":"fecdd","stop_dwells":"5dc32","shape_key":"6ddbf"},
-        {"id":"402849","direction":1,"start_time":39540,"stops_key":"a7978","stop_distances":"ab902","stop_times":"fecdd","stop_dwells":"5dc32","shape_key":"6ddbf"},
-        {"id":"402848","direction":1,"start_time":42240,"stops_key":"a7978","stop_distances":"ab902","stop_times":"fecdd","stop_dwells":"5dc32","shape_key":"6ddbf"},
-        {"id":"402847","direction":1,"start_time":44940,"stops_key":"a7978","stop_distances":"ab902","stop_times":"fecdd","stop_dwells":"5dc32","shape_key":"6ddbf"},
-        {"id":"402846","direction":1,"start_time":47640,"stops_key":"a7978","stop_distances":"ab902","stop_times":"2fd9a","stop_dwells":"5dc32","shape_key":"6ddbf"},
-        {"id":"402836","direction":1,"start_time":49440,"stops_key":"a7978","stop_distances":"ab902","stop_times":"2fd9a","stop_dwells":"5dc32","shape_key":"6ddbf"},
-        {"id":"402845","direction":1,"start_time":51240,"stops_key":"a7978","stop_distances":"ab902","stop_times":"2fd9a","stop_dwells":"5dc32","shape_key":"6ddbf"},
-        {"id":"402844","direction":1,"start_time":53040,"stops_key":"a7978","stop_distances":"ab902","stop_times":"2fd9a","stop_dwells":"5dc32","shape_key":"6ddbf"},
-        {"id":"402843","direction":1,"start_time":54840,"stops_key":"a7978","stop_distances":"ab902","stop_times":"3731e","stop_dwells":"5dc32","shape_key":"6ddbf"},
-        {"id":"402842","direction":1,"start_time":56640,"stops_key":"a7978","stop_distances":"ab902","stop_times":"3731e","stop_dwells":"5dc32","shape_key":"6ddbf"},
-        {"id":"402841","direction":1,"start_time":58440,"stops_key":"a7978","stop_distances":"ab902","stop_times":"3731e","stop_dwells":"5dc32","shape_key":"6ddbf"},
-        {"id":"402840","direction":1,"start_time":60240,"stops_key":"a7978","stop_distances":"ab902","stop_times":"3731e","stop_dwells":"5dc32","shape_key":"6ddbf"},
-        {"id":"402839","direction":1,"start_time":62040,"stops_key":"a7978","stop_distances":"ab902","stop_times":"d8268","stop_dwells":"5dc32","shape_key":"6ddbf"},
-        {"id":"402838","direction":1,"start_time":63840,"stops_key":"a7978","stop_distances":"ab902","stop_times":"d8268","stop_dwells":"5dc32","shape_key":"6ddbf"},
-        {"id":"402837","direction":1,"start_time":65640,"stops_key":"a7978","stop_distances":"ab902","stop_times":"d8268","stop_dwells":"5dc32","shape_key":"6ddbf"}
+      "2_merged_704231086": [
+        {"id":"412679","direction":0,"start_time":38340,"stops_key":"be107","stop_distances":"878d2","stop_times":"6e1db","stop_dwells":"b7dd5","shape_key":"8ee89"},
+        {"id":"412680","direction":0,"start_time":42540,"stops_key":"be107","stop_distances":"878d2","stop_times":"6e1db","stop_dwells":"b7dd5","shape_key":"8ee89"},
+        {"id":"412681","direction":0,"start_time":46740,"stops_key":"be107","stop_distances":"878d2","stop_times":"6e1db","stop_dwells":"b7dd5","shape_key":"8ee89"},
+        {"id":"412682","direction":0,"start_time":50940,"stops_key":"be107","stop_distances":"878d2","stop_times":"6e1db","stop_dwells":"b7dd5","shape_key":"8ee89"},
+        {"id":"412683","direction":0,"start_time":55080,"stops_key":"be107","stop_distances":"878d2","stop_times":"6e1db","stop_dwells":"b7dd5","shape_key":"8ee89"},
+        {"id":"412684","direction":0,"start_time":59280,"stops_key":"be107","stop_distances":"878d2","stop_times":"6e1db","stop_dwells":"b7dd5","shape_key":"8ee89"},
+        {"id":"412685","direction":1,"start_time":36660,"stops_key":"a7978","stop_distances":"ab902","stop_times":"d8268","stop_dwells":"5dc32","shape_key":"2d0a3"},
+        {"id":"412686","direction":1,"start_time":40860,"stops_key":"a7978","stop_distances":"ab902","stop_times":"d8268","stop_dwells":"5dc32","shape_key":"2d0a3"},
+        {"id":"412687","direction":1,"start_time":45060,"stops_key":"a7978","stop_distances":"ab902","stop_times":"d8268","stop_dwells":"5dc32","shape_key":"2d0a3"},
+        {"id":"412688","direction":1,"start_time":49260,"stops_key":"a7978","stop_distances":"ab902","stop_times":"d8268","stop_dwells":"5dc32","shape_key":"2d0a3"},
+        {"id":"412689","direction":1,"start_time":53460,"stops_key":"a7978","stop_distances":"ab902","stop_times":"a78ce","stop_dwells":"5dc32","shape_key":"2d0a3"},
+        {"id":"412690","direction":1,"start_time":57660,"stops_key":"a7978","stop_distances":"ab902","stop_times":"a78ce","stop_dwells":"5dc32","shape_key":"2d0a3"},
+        {"id":"412691","direction":1,"start_time":61860,"stops_key":"a7978","stop_distances":"ab902","stop_times":"a78ce","stop_dwells":"5dc32","shape_key":"2d0a3"}
       ],
-      "2": [
-        {"id":"402795","direction":0,"start_time":38340,"stops_key":"be107","stop_distances":"878d2","stop_times":"6e1db","stop_dwells":"b7dd5","shape_key":"bae7c"},
-        {"id":"402794","direction":0,"start_time":42540,"stops_key":"be107","stop_distances":"878d2","stop_times":"6e1db","stop_dwells":"b7dd5","shape_key":"bae7c"},
-        {"id":"402793","direction":0,"start_time":46740,"stops_key":"be107","stop_distances":"878d2","stop_times":"6e1db","stop_dwells":"b7dd5","shape_key":"bae7c"},
-        {"id":"402792","direction":0,"start_time":50940,"stops_key":"be107","stop_distances":"878d2","stop_times":"6e1db","stop_dwells":"b7dd5","shape_key":"bae7c"},
-        {"id":"402791","direction":0,"start_time":55080,"stops_key":"be107","stop_distances":"878d2","stop_times":"6e1db","stop_dwells":"b7dd5","shape_key":"bae7c"},
-        {"id":"402790","direction":0,"start_time":59280,"stops_key":"be107","stop_distances":"878d2","stop_times":"6e1db","stop_dwells":"b7dd5","shape_key":"bae7c"},
-        {"id":"402802","direction":1,"start_time":36660,"stops_key":"a7978","stop_distances":"ab902","stop_times":"d8268","stop_dwells":"5dc32","shape_key":"6ddbf"},
-        {"id":"402801","direction":1,"start_time":40860,"stops_key":"a7978","stop_distances":"ab902","stop_times":"d8268","stop_dwells":"5dc32","shape_key":"6ddbf"},
-        {"id":"402800","direction":1,"start_time":45060,"stops_key":"a7978","stop_distances":"ab902","stop_times":"d8268","stop_dwells":"5dc32","shape_key":"6ddbf"},
-        {"id":"402799","direction":1,"start_time":49260,"stops_key":"a7978","stop_distances":"ab902","stop_times":"d8268","stop_dwells":"5dc32","shape_key":"6ddbf"},
-        {"id":"402798","direction":1,"start_time":53460,"stops_key":"a7978","stop_distances":"ab902","stop_times":"a78ce","stop_dwells":"5dc32","shape_key":"6ddbf"},
-        {"id":"402797","direction":1,"start_time":57660,"stops_key":"a7978","stop_distances":"ab902","stop_times":"a78ce","stop_dwells":"5dc32","shape_key":"6ddbf"},
-        {"id":"402796","direction":1,"start_time":61860,"stops_key":"a7978","stop_distances":"ab902","stop_times":"a78ce","stop_dwells":"5dc32","shape_key":"6ddbf"}
+      "3_merged_704231085": [
+        {"id":"412692","direction":0,"start_time":38280,"stops_key":"be107","stop_distances":"878d2","stop_times":"6e1db","stop_dwells":"b7dd5","shape_key":"8ee89"},
+        {"id":"412693","direction":0,"start_time":42480,"stops_key":"be107","stop_distances":"878d2","stop_times":"6e1db","stop_dwells":"b7dd5","shape_key":"8ee89"},
+        {"id":"412694","direction":0,"start_time":46680,"stops_key":"be107","stop_distances":"878d2","stop_times":"6e1db","stop_dwells":"b7dd5","shape_key":"8ee89"},
+        {"id":"412695","direction":0,"start_time":50880,"stops_key":"be107","stop_distances":"878d2","stop_times":"6e1db","stop_dwells":"b7dd5","shape_key":"8ee89"},
+        {"id":"412696","direction":0,"start_time":55080,"stops_key":"be107","stop_distances":"878d2","stop_times":"6e1db","stop_dwells":"b7dd5","shape_key":"8ee89"},
+        {"id":"412697","direction":0,"start_time":59280,"stops_key":"be107","stop_distances":"878d2","stop_times":"6e1db","stop_dwells":"b7dd5","shape_key":"8ee89"},
+        {"id":"412698","direction":1,"start_time":36720,"stops_key":"a7978","stop_distances":"ab902","stop_times":"c1d8c","stop_dwells":"5dc32","shape_key":"2d0a3"},
+        {"id":"412699","direction":1,"start_time":40920,"stops_key":"a7978","stop_distances":"ab902","stop_times":"c1d8c","stop_dwells":"5dc32","shape_key":"2d0a3"},
+        {"id":"412700","direction":1,"start_time":45120,"stops_key":"a7978","stop_distances":"ab902","stop_times":"c1d8c","stop_dwells":"5dc32","shape_key":"2d0a3"},
+        {"id":"412701","direction":1,"start_time":49320,"stops_key":"a7978","stop_distances":"ab902","stop_times":"c1d8c","stop_dwells":"5dc32","shape_key":"2d0a3"},
+        {"id":"412702","direction":1,"start_time":53520,"stops_key":"a7978","stop_distances":"ab902","stop_times":"c1d8c","stop_dwells":"5dc32","shape_key":"2d0a3"},
+        {"id":"412703","direction":1,"start_time":57720,"stops_key":"a7978","stop_distances":"ab902","stop_times":"c1d8c","stop_dwells":"5dc32","shape_key":"2d0a3"}
       ],
-      "3": [
-        {"id":"402808","direction":0,"start_time":38280,"stops_key":"be107","stop_distances":"878d2","stop_times":"6e1db","stop_dwells":"b7dd5","shape_key":"bae7c"},
-        {"id":"402807","direction":0,"start_time":42480,"stops_key":"be107","stop_distances":"878d2","stop_times":"6e1db","stop_dwells":"b7dd5","shape_key":"bae7c"},
-        {"id":"402806","direction":0,"start_time":46680,"stops_key":"be107","stop_distances":"878d2","stop_times":"6e1db","stop_dwells":"b7dd5","shape_key":"bae7c"},
-        {"id":"402805","direction":0,"start_time":50880,"stops_key":"be107","stop_distances":"878d2","stop_times":"6e1db","stop_dwells":"b7dd5","shape_key":"bae7c"},
-        {"id":"402804","direction":0,"start_time":55080,"stops_key":"be107","stop_distances":"878d2","stop_times":"6e1db","stop_dwells":"b7dd5","shape_key":"bae7c"},
-        {"id":"402803","direction":0,"start_time":59280,"stops_key":"be107","stop_distances":"878d2","stop_times":"6e1db","stop_dwells":"b7dd5","shape_key":"bae7c"},
-        {"id":"402814","direction":1,"start_time":36720,"stops_key":"a7978","stop_distances":"ab902","stop_times":"c1d8c","stop_dwells":"5dc32","shape_key":"6ddbf"},
-        {"id":"402813","direction":1,"start_time":40920,"stops_key":"a7978","stop_distances":"ab902","stop_times":"c1d8c","stop_dwells":"5dc32","shape_key":"6ddbf"},
-        {"id":"402812","direction":1,"start_time":45120,"stops_key":"a7978","stop_distances":"ab902","stop_times":"c1d8c","stop_dwells":"5dc32","shape_key":"6ddbf"},
-        {"id":"402811","direction":1,"start_time":49320,"stops_key":"a7978","stop_distances":"ab902","stop_times":"c1d8c","stop_dwells":"5dc32","shape_key":"6ddbf"},
-        {"id":"402810","direction":1,"start_time":53520,"stops_key":"a7978","stop_distances":"ab902","stop_times":"c1d8c","stop_dwells":"5dc32","shape_key":"6ddbf"},
-        {"id":"402809","direction":1,"start_time":57720,"stops_key":"a7978","stop_distances":"ab902","stop_times":"c1d8c","stop_dwells":"5dc32","shape_key":"6ddbf"}
+      "1_merged_704231081": [
+        {"id":"412704","direction":0,"start_time":22740,"stops_key":"be107","stop_distances":"878d2","stop_times":"e94a3","stop_dwells":"b7dd5","shape_key":"8ee89"},
+        {"id":"412705","direction":0,"start_time":24420,"stops_key":"be107","stop_distances":"878d2","stop_times":"e94a3","stop_dwells":"b7dd5","shape_key":"8ee89"},
+        {"id":"412706","direction":0,"start_time":26220,"stops_key":"be107","stop_distances":"878d2","stop_times":"e94a3","stop_dwells":"b7dd5","shape_key":"8ee89"},
+        {"id":"412707","direction":0,"start_time":28020,"stops_key":"be107","stop_distances":"878d2","stop_times":"e94a3","stop_dwells":"b7dd5","shape_key":"8ee89"},
+        {"id":"412708","direction":0,"start_time":29820,"stops_key":"be107","stop_distances":"878d2","stop_times":"e94a3","stop_dwells":"b7dd5","shape_key":"8ee89"},
+        {"id":"412709","direction":0,"start_time":31620,"stops_key":"be107","stop_distances":"878d2","stop_times":"e94a3","stop_dwells":"b7dd5","shape_key":"8ee89"},
+        {"id":"412710","direction":0,"start_time":34320,"stops_key":"be107","stop_distances":"878d2","stop_times":"e94a3","stop_dwells":"b7dd5","shape_key":"8ee89"},
+        {"id":"412711","direction":0,"start_time":36840,"stops_key":"be107","stop_distances":"878d2","stop_times":"e1efb","stop_dwells":"b7dd5","shape_key":"8ee89"},
+        {"id":"412712","direction":0,"start_time":39540,"stops_key":"be107","stop_distances":"878d2","stop_times":"e1efb","stop_dwells":"b7dd5","shape_key":"8ee89"},
+        {"id":"412713","direction":0,"start_time":42240,"stops_key":"be107","stop_distances":"878d2","stop_times":"e1efb","stop_dwells":"b7dd5","shape_key":"8ee89"},
+        {"id":"412714","direction":0,"start_time":44940,"stops_key":"be107","stop_distances":"878d2","stop_times":"e1efb","stop_dwells":"b7dd5","shape_key":"8ee89"},
+        {"id":"412715","direction":0,"start_time":47640,"stops_key":"be107","stop_distances":"878d2","stop_times":"e1efb","stop_dwells":"b7dd5","shape_key":"8ee89"},
+        {"id":"412716","direction":0,"start_time":50340,"stops_key":"be107","stop_distances":"878d2","stop_times":"e1efb","stop_dwells":"b7dd5","shape_key":"8ee89"},
+        {"id":"412717","direction":0,"start_time":52140,"stops_key":"be107","stop_distances":"878d2","stop_times":"b98e8","stop_dwells":"b7dd5","shape_key":"8ee89"},
+        {"id":"412718","direction":0,"start_time":53760,"stops_key":"be107","stop_distances":"878d2","stop_times":"b98e8","stop_dwells":"b7dd5","shape_key":"8ee89"},
+        {"id":"412719","direction":0,"start_time":55560,"stops_key":"be107","stop_distances":"878d2","stop_times":"b98e8","stop_dwells":"b7dd5","shape_key":"8ee89"},
+        {"id":"412720","direction":0,"start_time":57360,"stops_key":"be107","stop_distances":"878d2","stop_times":"b98e8","stop_dwells":"b7dd5","shape_key":"8ee89"},
+        {"id":"412721","direction":0,"start_time":59220,"stops_key":"be107","stop_distances":"878d2","stop_times":"4f6dd","stop_dwells":"b7dd5","shape_key":"8ee89"},
+        {"id":"412722","direction":0,"start_time":61080,"stops_key":"be107","stop_distances":"878d2","stop_times":"e1efb","stop_dwells":"b7dd5","shape_key":"8ee89"},
+        {"id":"412723","direction":0,"start_time":63000,"stops_key":"be107","stop_distances":"878d2","stop_times":"74c63","stop_dwells":"b7dd5","shape_key":"8ee89"},
+        {"id":"412724","direction":0,"start_time":64800,"stops_key":"be107","stop_distances":"878d2","stop_times":"74c63","stop_dwells":"b7dd5","shape_key":"8ee89"},
+        {"id":"412725","direction":1,"start_time":20640,"stops_key":"a7978","stop_distances":"ab902","stop_times":"de6fe","stop_dwells":"5dc32","shape_key":"2d0a3"},
+        {"id":"412726","direction":1,"start_time":22440,"stops_key":"a7978","stop_distances":"ab902","stop_times":"de6fe","stop_dwells":"5dc32","shape_key":"2d0a3"},
+        {"id":"412727","direction":1,"start_time":23940,"stops_key":"a7978","stop_distances":"ab902","stop_times":"3731e","stop_dwells":"5dc32","shape_key":"2d0a3"},
+        {"id":"412728","direction":1,"start_time":25920,"stops_key":"a7978","stop_distances":"ab902","stop_times":"3731e","stop_dwells":"5dc32","shape_key":"2d0a3"},
+        {"id":"412729","direction":1,"start_time":27840,"stops_key":"a7978","stop_distances":"ab902","stop_times":"3731e","stop_dwells":"5dc32","shape_key":"2d0a3"},
+        {"id":"412730","direction":1,"start_time":29640,"stops_key":"a7978","stop_distances":"ab902","stop_times":"3731e","stop_dwells":"5dc32","shape_key":"2d0a3"},
+        {"id":"412731","direction":1,"start_time":31440,"stops_key":"a7978","stop_distances":"ab902","stop_times":"3731e","stop_dwells":"5dc32","shape_key":"2d0a3"},
+        {"id":"412732","direction":1,"start_time":34140,"stops_key":"a7978","stop_distances":"ab902","stop_times":"fecdd","stop_dwells":"5dc32","shape_key":"2d0a3"},
+        {"id":"412733","direction":1,"start_time":36840,"stops_key":"a7978","stop_distances":"ab902","stop_times":"fecdd","stop_dwells":"5dc32","shape_key":"2d0a3"},
+        {"id":"412734","direction":1,"start_time":39540,"stops_key":"a7978","stop_distances":"ab902","stop_times":"fecdd","stop_dwells":"5dc32","shape_key":"2d0a3"},
+        {"id":"412735","direction":1,"start_time":42240,"stops_key":"a7978","stop_distances":"ab902","stop_times":"fecdd","stop_dwells":"5dc32","shape_key":"2d0a3"},
+        {"id":"412736","direction":1,"start_time":44940,"stops_key":"a7978","stop_distances":"ab902","stop_times":"fecdd","stop_dwells":"5dc32","shape_key":"2d0a3"},
+        {"id":"412737","direction":1,"start_time":47640,"stops_key":"a7978","stop_distances":"ab902","stop_times":"2fd9a","stop_dwells":"5dc32","shape_key":"2d0a3"},
+        {"id":"412747","direction":1,"start_time":49440,"stops_key":"a7978","stop_distances":"ab902","stop_times":"2fd9a","stop_dwells":"5dc32","shape_key":"2d0a3"},
+        {"id":"412738","direction":1,"start_time":51240,"stops_key":"a7978","stop_distances":"ab902","stop_times":"2fd9a","stop_dwells":"5dc32","shape_key":"2d0a3"},
+        {"id":"412739","direction":1,"start_time":53040,"stops_key":"a7978","stop_distances":"ab902","stop_times":"2fd9a","stop_dwells":"5dc32","shape_key":"2d0a3"},
+        {"id":"412740","direction":1,"start_time":54840,"stops_key":"a7978","stop_distances":"ab902","stop_times":"3731e","stop_dwells":"5dc32","shape_key":"2d0a3"},
+        {"id":"412741","direction":1,"start_time":56640,"stops_key":"a7978","stop_distances":"ab902","stop_times":"3731e","stop_dwells":"5dc32","shape_key":"2d0a3"},
+        {"id":"412742","direction":1,"start_time":58440,"stops_key":"a7978","stop_distances":"ab902","stop_times":"3731e","stop_dwells":"5dc32","shape_key":"2d0a3"},
+        {"id":"412743","direction":1,"start_time":60240,"stops_key":"a7978","stop_distances":"ab902","stop_times":"3731e","stop_dwells":"5dc32","shape_key":"2d0a3"},
+        {"id":"412744","direction":1,"start_time":62040,"stops_key":"a7978","stop_distances":"ab902","stop_times":"d8268","stop_dwells":"5dc32","shape_key":"2d0a3"},
+        {"id":"412745","direction":1,"start_time":63840,"stops_key":"a7978","stop_distances":"ab902","stop_times":"d8268","stop_dwells":"5dc32","shape_key":"2d0a3"},
+        {"id":"412746","direction":1,"start_time":65640,"stops_key":"a7978","stop_distances":"ab902","stop_times":"d8268","stop_dwells":"5dc32","shape_key":"2d0a3"}
       ]
     }
   }
