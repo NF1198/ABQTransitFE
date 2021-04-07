@@ -1,231 +1,215 @@
 {
-  "id": "3366",
+  "id": "3727",
   "short_name": "777",
   "long_name": "ART Green Line",
   "color": "00FF00",
   "text_color": "000000",
   "schedules": {
     "1": {
-      "start_date": "20191130",
-      "end_date": "20200515",
-      "days_mask_mon_sun": 124,"added_days":[],"removed_days":["20191224","20191225","20200101","20200120"
+      "start_date": "20210227",
+      "end_date": "20210813",
+      "days_mask_mon_sun": 124,"added_days":[],"removed_days":["20210531"
       ]
     },
     "2": {
-      "start_date": "20191130",
-      "end_date": "20200515",
-      "days_mask_mon_sun": 2,"added_days":["20200120"
-      ],"removed_days":[]
+      "start_date": "20210227",
+      "end_date": "20210813",
+      "days_mask_mon_sun": 2,"added_days":[],"removed_days":[]
     },
     "3": {
-      "start_date": "20191130",
-      "end_date": "20200515",
-      "days_mask_mon_sun": 1,"added_days":[],"removed_days":[]
+      "start_date": "20210227",
+      "end_date": "20210813",
+      "days_mask_mon_sun": 1,"added_days":[],"removed_days":["20210704"
+      ]
     }
   },
-  "related_route_data": {"3325":{"short_name":"1","long_name":"Juan Tabo","color":"E17F38","text_color":"000000"
-    },"3337":{"short_name":"2","long_name":"Eubank-Ventura","color":"DC5D2E","text_color":"000000"
-    },"3346":{"short_name":"5","long_name":"Montgomery/Carlisle","color":"FF4E21","text_color":"000000"
-    },"3352":{"short_name":"6","long_name":"Indian School Commuter","color":"E171E1","text_color":"000000"
-    },"3354":{"short_name":"7","long_name":"Candelaria Commuter","color":"FF7F54","text_color":"000000"
-    },"3358":{"short_name":"8","long_name":"Menaul","color":"7B097B","text_color":"FFFFFF"
-    },"3326":{"short_name":"10","long_name":"North Fourth Street","color":"C30000","text_color":"FFFFFF"
-    },"3327":{"short_name":"11","long_name":"Lomas","color":"800080","text_color":"FFFFFF"
-    },"3328":{"short_name":"12","long_name":"Constitution Commuter","color":"B7FF00","text_color":"000000"
-    },"3329":{"short_name":"13","long_name":"Comanche Commuter","color":"006267","text_color":"FFFFFF"
-    },"3334":{"short_name":"16","long_name":"University/Gibson/Broadway","color":"C01D8C","text_color":"FFFFFF"
-    },"3342":{"short_name":"31","long_name":"Wyoming","color":"852300","text_color":"FFFFFF"
-    },"3344":{"short_name":"36","long_name":"12th Street/Rio Grande","color":"800000","text_color":"FFFFFF"
-    },"3345":{"short_name":"37","long_name":"Rio Grande/12th Street","color":"800000","text_color":"FFFFFF"
-    },"3347":{"short_name":"50","long_name":"Airport/Downtown","color":"71220F","text_color":"FFFFFF"
-    },"3348":{"short_name":"51","long_name":"Atrisco/Rio Bravo","color":"572820","text_color":"FFFFFF"
-    },"3349":{"short_name":"53","long_name":"Isleta","color":"2390CF","text_color":"000000"
-    },"3350":{"short_name":"54","long_name":"Bridge/Westgate","color":"006097","text_color":"FFFFFF"
-    },"3353":{"short_name":"66","long_name":"Central Avenue","color":"00DEC8","text_color":"000000"
-    },"3359":{"short_name":"92","long_name":"Taylor Ranch Express","color":"D43815","text_color":"FFFFFF"
-    },"3360":{"short_name":"93","long_name":"Academy Commuter","color":"9494FF","text_color":"000000"
-    },"3361":{"short_name":"94","long_name":"Unser Commuter","color":"3988FF","text_color":"000000"
-    },"3363":{"short_name":"97","long_name":"Zuni Express","color":"6600FF","text_color":"FFFFFF"
-    },"3364":{"short_name":"98","long_name":"Wyoming Commuter","color":"005B3C","text_color":"FFFFFF"
-    },"3330":{"short_name":"140","long_name":"San Mateo / CNM Work Force","color":"420080","text_color":"FFFFFF"
-    },"3331":{"short_name":"141","long_name":"San Mateo","color":"7E0080","text_color":"FFFFFF"
-    },"3332":{"short_name":"155","long_name":"Coors","color":"FF8900","text_color":"000000"
-    },"3333":{"short_name":"157","long_name":"Cottonwood/Montano/UTC","color":"008047","text_color":"FFFFFF"
-    },"3336":{"short_name":"198","long_name":"98th / Dennis Chavez","color":"00FF00","text_color":"FFFFFF"
-    },"3338":{"short_name":"217","long_name":"Downtown-KAFB Ltd.","color":"FDDC00","text_color":"000000"
-    },"3340":{"short_name":"250","long_name":"Airport/Downtown Express","color":"F34C00","text_color":"000000"
-    },"3367":{"short_name":"766","long_name":"ART Red Line","color":"EC0000","text_color":"FFFFFF"
-    },"3366":{"short_name":"777","long_name":"ART Green Line","color":"00FF00","text_color":"000000"
-    },"3357":{"short_name":"790","long_name":"Blue Line Rapid Ride","color":"0000FF","text_color":"FFFFFF"
+  "related_route_data": {"3696":{"short_name":"1","long_name":"Juan Tabo","color":"E17F38","text_color":"000000"
+    },"3708":{"short_name":"2","long_name":"Eubank-Ventura","color":"DC5D2E","text_color":"000000"
+    },"3717":{"short_name":"5","long_name":"Montgomery/Carlisle","color":"FF4E21","text_color":"000000"
+    },"3729":{"short_name":"8","long_name":"Menaul","color":"7B097B","text_color":"FFFFFF"
+    },"3697":{"short_name":"10","long_name":"North Fourth Street","color":"C30000","text_color":"FFFFFF"
+    },"3698":{"short_name":"11","long_name":"Lomas","color":"800080","text_color":"FFFFFF"
+    },"3705":{"short_name":"16","long_name":"University/Gibson/Broadway","color":"C01D8C","text_color":"FFFFFF"
+    },"3713":{"short_name":"31","long_name":"Wyoming","color":"852300","text_color":"FFFFFF"
+    },"3715":{"short_name":"36","long_name":"12th Street/Rio Grande","color":"800000","text_color":"FFFFFF"
+    },"3716":{"short_name":"37","long_name":"Rio Grande/12th Street","color":"800000","text_color":"FFFFFF"
+    },"3718":{"short_name":"50","long_name":"Airport/Downtown","color":"71220F","text_color":"FFFFFF"
+    },"3719":{"short_name":"51","long_name":"Atrisco/Rio Bravo","color":"572820","text_color":"FFFFFF"
+    },"3720":{"short_name":"53","long_name":"Isleta","color":"2390CF","text_color":"000000"
+    },"3721":{"short_name":"54","long_name":"Bridge/Westgate","color":"006097","text_color":"FFFFFF"
+    },"3724":{"short_name":"66","long_name":"Central Avenue","color":"00DEC8","text_color":"000000"
+    },"3734":{"short_name":"97","long_name":"Zuni Express","color":"6600FF","text_color":"FFFFFF"
+    },"3701":{"short_name":"140","long_name":"San Mateo / CNM Work Force","color":"420080","text_color":"FFFFFF"
+    },"3702":{"short_name":"141","long_name":"San Mateo","color":"7E0080","text_color":"FFFFFF"
+    },"3703":{"short_name":"155","long_name":"Coors","color":"FF8900","text_color":"000000"
+    },"3704":{"short_name":"157","long_name":"Cottonwood/Montano/UTC","color":"008047","text_color":"FFFFFF"
+    },"3707":{"short_name":"198","long_name":"98th / Dennis Chavez","color":"00FF00","text_color":"FFFFFF"
+    },"3726":{"short_name":"766","long_name":"ART Red Line","color":"EC0000","text_color":"FFFFFF"
+    },"3727":{"short_name":"777","long_name":"ART Green Line","color":"00FF00","text_color":"000000"
+    },"3736":{"short_name":"790","long_name":"ARTx Blue Line","color":"0000FF","text_color":"FFFFFF"
     }
   },
-  "stops": {"1082":{"name":"Wyoming @ Zuni","desc":"210 WYOMING BLVD SE","coordinates":[-106.5503,35.0719],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3342"],"related_routes":["3353","3363","3364","3366"]
-    },"1249":{"name":"Wyoming @ Central","desc":"117 WYOMING BLVD NE \u0026 WYOMING BLVD SE","coordinates":[-106.5506,35.0742],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3342","3364"],"related_routes":["3353","3363","3366"]
-    },"1251":{"name":"Wyoming @ Zuni","desc":"111 WYOMING BLVD SE","coordinates":[-106.5505,35.0732],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3342"],"related_routes":["3353","3363","3364","3366"]
-    },"1253":{"name":"Wyoming @ Zuni","desc":"219 WYOMING BLVD SE","coordinates":[-106.5506,35.0721],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3342"],"related_routes":["3353","3363","3364","3366"]
-    },"1943":{"name":"Juan Tabo @ Central","desc":"188 JUAN TABO BLVD SE \u0026 COCHITI RD SE","coordinates":[-106.5151,35.0691],"related_stops":["5990","1945","5684","7352","2089","4567","4563","1943","4545"],"transfer_routes":["3325"],"related_routes":["3353","3366"]
-    },"1945":{"name":"Juan Tabo @ Central","desc":"120 JUAN TABO BLVD NE","coordinates":[-106.515,35.0705],"related_stops":["5990","1945","5684","7352","2089","4567","4563","1943","4545"],"transfer_routes":["3325"],"related_routes":["3353","3366"]
-    },"2089":{"name":"Juan Tabo @ Central","desc":"169 JUAN TABO BLVD SE \u0026 COCHITI RD SE","coordinates":[-106.5154,35.0693],"related_stops":["5990","1945","5684","7352","2089","4567","4563","1943","4545"],"transfer_routes":["3325"],"related_routes":["3353","3366"]
-    },"2119":{"name":"Eubank @ Cochiti","desc":"119 EUBANK BLVD SE \u0026 COCHITI RD SE","coordinates":[-106.5326,35.071],"related_stops":["5640","5638","4529","2345","2131","5642","5992","2119","4531","4581","5994"],"transfer_routes":["3337"],"related_routes":["3353","3366"]
-    },"2131":{"name":"Eubank @ Central","desc":"126 EUBANK BLVD NE","coordinates":[-106.5323,35.0725],"related_stops":["5640","5638","4529","2345","2131","5642","5992","2119","4531","4581","5994"],"transfer_routes":["3337"],"related_routes":["3353","3366"]
-    },"2345":{"name":"Eubank @ Central","desc":"119 EUBANK BLVD NE","coordinates":[-106.5326,35.0727],"related_stops":["5640","5638","4529","2345","2131","5642","5992","2119","4531","4581","5994"],"transfer_routes":["3337"],"related_routes":["3353","3366"]
-    },"2485":{"name":"6th @ Silver","desc":"322 6TH ST SW \u0026 SILVER AVE SW","coordinates":[-106.6543,35.0826],"related_stops":["4437","7506","2485","6979","6980"],"transfer_routes":["3349","3350"],"related_routes":["3358","3344","3345","3353","3367","3366"]
-    },"2775":{"name":"Louisiana @ Central","desc":"105 LOUISIANA BLVD NE \u0026 CENTRAL AVE E","coordinates":[-106.5687,35.0761],"related_stops":["2823","4623","4627","2775","7518","7517","2777","4503","4509","4507","4621","2821"],"transfer_routes":["3333"],"related_routes":["3353","3367","3366"]
-    },"2777":{"name":"Louisiana @ Cochiti","desc":"97 LOUISIANA BLVD SE \u0026 COCHITI RD SE","coordinates":[-106.5687,35.0751],"related_stops":["2823","4623","4627","2775","7518","7517","2777","4503","4509","4507","4621","2821"],"transfer_routes":["3333"],"related_routes":["3353","3367","3366"]
-    },"2821":{"name":"Louisiana @ Cochiti","desc":"206 LOUISIANA BLVD SE \u0026 COCHITI RD SE","coordinates":[-106.5684,35.0747],"related_stops":["2823","4623","4627","2775","7518","7517","2777","4503","4509","4507","4621","2821"],"transfer_routes":["3333"],"related_routes":["3353","3367","3366"]
-    },"2823":{"name":"Louisiana @ Central","desc":"114 LOUISIANA BLVD NE","coordinates":[-106.5685,35.0765],"related_stops":["2823","4623","4627","2775","7518","7517","2777","4503","4509","4507","4621","2821"],"transfer_routes":["3333"],"related_routes":["3353","3367","3366"]
-    },"3455":{"name":"Zuni @ Wyoming","desc":"9017 ZUNI RD SE","coordinates":[-106.5495,35.0728],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3363"],"related_routes":["3342","3353","3364","3366"]
-    },"4329":{"name":"Central @ Atrisco","desc":"4101 CENTRAL AVE W","coordinates":[-106.6855,35.0857],"related_stops":["4329","4405","5369","4401","4331","7533","7502","7178","5944"],"transfer_routes":["3353"],"related_routes":["3348","3367","3366"]
-    },"4331":{"name":"Central @ Atrisco","desc":"CENTRAL \u0026 ATRISCO","coordinates":[-106.6881,35.0851],"related_stops":["4329","4405","5369","4401","4331","7533","7502","7178","5944"],"transfer_routes":["3353"],"related_routes":["3348","3367","3366"]
-    },"4339":{"name":"Central @ Old Coors","desc":"5313 CENTRAL AVE W \u0026 OLD COORS DR SW","coordinates":[-106.6978,35.0829],"related_stops":["4339","7274","7534","7501"],"transfer_routes":["3353"],"related_routes":["3367","3366"]
-    },"4353":{"name":"Central @ Coors","desc":"6679 CENTRAL AVE W","coordinates":[-106.7116,35.0798],"related_stops":["6951","4353","4379","7008","7220","7535","7500","7298","7276"],"transfer_routes":["3353"],"related_routes":["3332","3367","3366"]
-    },"4379":{"name":"Central @ Coors","desc":"6684 CENTRAL AVE W","coordinates":[-106.7117,35.0796],"related_stops":["6951","4353","4379","7008","7220","7535","7500","7298","7276"],"transfer_routes":["3353"],"related_routes":["3332","3367","3366"]
-    },"4401":{"name":"Central @ 46th","desc":"4506 CENTRAL AVE W","coordinates":[-106.6884,35.0848],"related_stops":["4329","4405","5369","4401","4331","7533","7502","7178","5944"],"transfer_routes":["3353"],"related_routes":["3348","3367","3366"]
-    },"4405":{"name":"Central @ Atrisco","desc":"4100 CENTRAL AVE W \u0026 ATRISCO DR NW","coordinates":[-106.6851,35.0856],"related_stops":["4329","4405","5369","4401","4331","7533","7502","7178","5944"],"transfer_routes":["3353"],"related_routes":["3348","3367","3366"]
-    },"4412":{"name":"Central @ Tingley","desc":"CENTRAL AVE W \u0026 TINGLEY DR SW","coordinates":[-106.6788,35.0914],"related_stops":["4413","7532","7503","5636","4412","7248"],"transfer_routes":["3353"],"related_routes":["3367","3366"]
-    },"4413":{"name":"Central @ New York","desc":"2542 CENTRAL AVE W","coordinates":[-106.6776,35.094],"related_stops":["4413","7532","7503","5636","4412","7248"],"transfer_routes":["3353"],"related_routes":["3367","3366"]
-    },"4419":{"name":"Central @ Rio Grande","desc":"2026 CENTRAL AVE W \u0026 ROMERO ST NW","coordinates":[-106.6708,35.0947],"related_stops":["7531","7504","4419","7166"],"transfer_routes":["3344","3353","3357"],"related_routes":["3345","3367","3366"]
-    },"4437":{"name":"Gold @ 5th","desc":"506 GOLD AVE SW \u0026 5TH ST SW","coordinates":[-106.6535,35.0837],"related_stops":["4437","7506","2485","6979","6980"],"transfer_routes":["3349","3350","3353"],"related_routes":["3358","3344","3345","3367","3366"]
-    },"4439":{"name":"1st @ Central (in front of A.T.C.)","desc":"110 1ST ST SW","coordinates":[-106.6481,35.0835],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4439","6972","4847","4837","4839","4829","7507","7528"],"transfer_routes":["3353"],"related_routes":["3346","3352","3354","3358","3326","3327","3328","3329","3334","3344","3345","3347","3349","3350","3360","3361","3363","3338","3340","3367","3366"]
-    },"4451":{"name":"Central @ Spruce","desc":"1212 CENTRAL AVE E \u0026 CEDAR ST NE","coordinates":[-106.6332,35.0821],"related_stops":["4451","7526","7509","4691"],"transfer_routes":["3353"],"related_routes":["3367","3366"]
-    },"4457":{"name":"Central @ Mesa","desc":"103 MESA ST SE \u0026 CENTRAL AVE E","coordinates":[-106.6257,35.0811],"related_stops":["4681","4683","6444","6446","7525","7510","6334","4457"],"transfer_routes":["3353"],"related_routes":["3334","3359","3367","3366"]
-    },"4477":{"name":"Central @ Aliso","desc":"3816 CENTRAL AVE E \u0026 ALISO DR SE","coordinates":[-106.6013,35.0793],"related_stops":["4477","7522","7513","7472"],"transfer_routes":["3353"],"related_routes":["3367","3366"]
-    },"4483":{"name":"Central @ Washington","desc":"4416 CENTRAL AVE E \u0026 ADAMS ST NE","coordinates":[-106.5946,35.0786],"related_stops":["4483","7521","7514","4655"],"transfer_routes":["3353"],"related_routes":["3367","3366"]
-    },"4487":{"name":"Central @ San Mateo","desc":"5200 CENTRAL AVE E \u0026 TRUMAN ST NE","coordinates":[-106.5872,35.0778],"related_stops":["6742","4487","4641","6520","6522","4491","4645","7520","7515","6740"],"transfer_routes":["3353"],"related_routes":["3330","3331","3367","3366"]
-    },"4491":{"name":"Central @ San Mateo","desc":"5394 CENTRAL AVE E \u0026 MADEIRA DR SE","coordinates":[-106.5849,35.0775],"related_stops":["6742","4487","4641","6520","6522","4491","4645","7520","7515","6740"],"transfer_routes":["3353"],"related_routes":["3330","3331","3367","3366"]
-    },"4503":{"name":"Central @ Louisiana","desc":"6976 CENTRAL AVE E","coordinates":[-106.5693,35.0758],"related_stops":["2823","4623","4627","2775","7518","7517","2777","4503","4509","4507","4621","2821"],"transfer_routes":["3353"],"related_routes":["3333","3367","3366"]
-    },"4507":{"name":"Central @ Alcazar","desc":"7118 CENTRAL AVE E \u0026 ALCAZAR ST NE","coordinates":[-106.5676,35.0757],"related_stops":["2823","4623","4627","2775","7518","7517","2777","4503","4509","4507","4621","2821"],"transfer_routes":["3353"],"related_routes":["3333","3367","3366"]
-    },"4509":{"name":"Central @ Alcazar","desc":"CENTRAL \u0026 ALCAZAR","coordinates":[-106.5659,35.0755],"related_stops":["2823","4623","4627","2775","7518","7517","2777","4503","4509","4507","4621","2821"],"transfer_routes":["3353"],"related_routes":["3333","3367","3366"]
-    },"4519":{"name":"Central @ Wyoming","desc":"8614 CENTRAL AVE E \u0026 WYOMING BLVD SE","coordinates":[-106.5506,35.0738],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3353"],"related_routes":["3342","3363","3364","3366"]
-    },"4521":{"name":"Central @ Wyoming","desc":"8738 CENTRAL AVE E \u0026 WYOMING BLVD SE","coordinates":[-106.5501,35.0737],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3353"],"related_routes":["3342","3363","3364","3366"]
-    },"4529":{"name":"Central @ Eubank","desc":"10224 CENTRAL AVE E","coordinates":[-106.5342,35.072],"related_stops":["5640","5638","4529","2345","2131","5642","5992","2119","4531","4581","5994"],"transfer_routes":["3353"],"related_routes":["3337","3366"]
-    },"4531":{"name":"Central @ Eubank","desc":"10422 CENTRAL AVE E \u0026 EUBANK BLVD SE","coordinates":[-106.532,35.0718],"related_stops":["5640","5638","4529","2345","2131","5642","5992","2119","4531","4581","5994"],"transfer_routes":["3353"],"related_routes":["3337","3366"]
-    },"4545":{"name":"Central @ Juan Tabo","desc":"11930 CENTRAL AVE E","coordinates":[-106.5144,35.0699],"related_stops":["5990","1945","5684","7352","2089","4567","4563","1943","4545"],"transfer_routes":["3353"],"related_routes":["3325","3366"]
-    },"4563":{"name":"Central @ Juan Tabo","desc":"11997 CENTRAL AVE E","coordinates":[-106.5131,35.07],"related_stops":["5990","1945","5684","7352","2089","4567","4563","1943","4545"],"transfer_routes":["3353"],"related_routes":["3325","3366"]
-    },"4567":{"name":"Central @ Juan Tabo (Rapid)","desc":"11787 CENTRAL AVE E \u0026 JUAN TABO BLVD NE","coordinates":[-106.5156,35.0702],"related_stops":["5990","1945","5684","7352","2089","4567","4563","1943","4545"],"transfer_routes":["3366"],"related_routes":["3325","3353"]
-    },"4581":{"name":"Central @ Eubank (Rapid)","desc":"10303 CENTRAL AVE E \u0026 GLORIETA ST NE","coordinates":[-106.5334,35.0722],"related_stops":["5640","5638","4529","2345","2131","5642","5992","2119","4531","4581","5994"],"transfer_routes":["3366"],"related_routes":["3337","3353"]
-    },"4597":{"name":"Central @ Wyoming","desc":"8709 CENTRAL AVE E \u0026 WYOMING BLVD SE","coordinates":[-106.5501,35.074],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3353"],"related_routes":["3342","3363","3364","3366"]
-    },"4599":{"name":"Wyoming @ Central","desc":"120 WYOMING BLVD NE","coordinates":[-106.5503,35.0744],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3342","3364"],"related_routes":["3353","3363","3366"]
-    },"4611":{"name":"Central @ Wyoming (Rapid)","desc":"8615 CENTRAL AVE E \u0026 WYOMING BLVD SE","coordinates":[-106.5509,35.0741],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3366"],"related_routes":["3342","3353","3363","3364"]
-    },"4621":{"name":"Central @ Mesilla","desc":"CENTRAL \u0026 MESILLA","coordinates":[-106.5655,35.0757],"related_stops":["2823","4623","4627","2775","7518","7517","2777","4503","4509","4507","4621","2821"],"transfer_routes":["3353"],"related_routes":["3333","3367","3366"]
-    },"4623":{"name":"Central @ Louisiana","desc":"7103 CENTRAL AVE E \u0026 LOUISIANA BLVD NE","coordinates":[-106.5684,35.076],"related_stops":["2823","4623","4627","2775","7518","7517","2777","4503","4509","4507","4621","2821"],"transfer_routes":["3353"],"related_routes":["3333","3367","3366"]
-    },"4627":{"name":"Central @ Louisiana","desc":"6967 CENTRAL AVE E","coordinates":[-106.5695,35.0761],"related_stops":["2823","4623","4627","2775","7518","7517","2777","4503","4509","4507","4621","2821"],"transfer_routes":["3353"],"related_routes":["3333","3367","3366"]
-    },"4641":{"name":"Central @ San Mateo","desc":"5323 CENTRAL AVE E \u0026 SAN MATEO BLVD SE","coordinates":[-106.5858,35.0779],"related_stops":["6742","4487","4641","6520","6522","4491","4645","7520","7515","6740"],"transfer_routes":["3353"],"related_routes":["3330","3331","3367","3366"]
-    },"4645":{"name":"Central @ Truman","desc":"102 TRUMAN ST NE \u0026 CENTRAL AVE E","coordinates":[-106.5872,35.078],"related_stops":["6742","4487","4641","6520","6522","4491","4645","7520","7515","6740"],"transfer_routes":["3353"],"related_routes":["3330","3331","3367","3366"]
-    },"4655":{"name":"Central @ Washington","desc":"4413 CENTRAL AVE E \u0026 ADAMS ST NE","coordinates":[-106.5947,35.0788],"related_stops":["4483","7521","7514","4655"],"transfer_routes":["3353"],"related_routes":["3367","3366"]
-    },"4681":{"name":"Central @ University","desc":"1903 CENTRAL AVE E \u0026 MESA ST SE","coordinates":[-106.6254,35.0813],"related_stops":["4681","4683","6444","6446","7525","7510","6334","4457"],"transfer_routes":["3353"],"related_routes":["3334","3359","3367","3366"]
-    },"4683":{"name":"Central @ University","desc":"1703 CENTRAL AVE E \u0026 PINE ST NE","coordinates":[-106.6273,35.0815],"related_stops":["4681","4683","6444","6446","7525","7510","6334","4457"],"transfer_routes":["3353"],"related_routes":["3334","3359","3367","3366"]
-    },"4691":{"name":"Central @ Spruce","desc":"1211 CENTRAL AVE E \u0026 SPRUCE ST SE","coordinates":[-106.6329,35.0823],"related_stops":["4451","7526","7509","4691"],"transfer_routes":["3353"],"related_routes":["3367","3366"]
-    },"4695":{"name":"Central @ High","desc":"609 CENTRAL AVE E \u0026 HIGH ST SE","coordinates":[-106.6403,35.0832],"related_stops":["7256","7527","7508","4695","4697"],"transfer_routes":["3353"],"related_routes":["3367","3366"]
-    },"4697":{"name":"Central @ Edith","desc":"415 CENTRAL AVE E \u0026 EDITH BLVD NE","coordinates":[-106.6427,35.0835],"related_stops":["7256","7527","7508","4695","4697"],"transfer_routes":["3353"],"related_routes":["3367","3366"]
-    },"4703":{"name":"Central @ 1st (across from A.T.C.)","desc":"113 CENTRAL AVE W","coordinates":[-106.6487,35.0843],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4439","6972","4847","4837","4839","4829","7507","7528"],"transfer_routes":["3353"],"related_routes":["3346","3352","3354","3358","3326","3327","3328","3329","3334","3344","3345","3347","3349","3350","3360","3361","3363","3338","3340","3367","3366"]
-    },"4709":{"name":"Copper @ 6th","desc":"503 COPPER AVE NW \u0026 6TH ST NW","coordinates":[-106.6534,35.0859],"related_stops":["6982","4709","7529"],"transfer_routes":["3353"],"related_routes":["3358","3344","3345","3367","3366"]
-    },"4829":{"name":"A.T.C.  (Bay K)","desc":"GOLD AVE SW","coordinates":[-106.6478,35.0827],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4439","6972","4847","4837","4839","4829","7507","7528"],"transfer_routes":["3338"],"related_routes":["3346","3352","3354","3358","3326","3327","3328","3329","3334","3344","3345","3347","3349","3350","3353","3360","3361","3363","3340","3367","3366"]
-    },"4831":{"name":"A.T.C.  (Bay L)","desc":"1ST ST SW \u0026 GOLD AVE SW","coordinates":[-106.6477,35.0829],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4439","6972","4847","4837","4839","4829","7507","7528"],"transfer_routes":["3350"],"related_routes":["3346","3352","3354","3358","3326","3327","3328","3329","3334","3344","3345","3347","3349","3353","3360","3361","3363","3338","3340","3367","3366"]
-    },"4833":{"name":"A.T.C.  (Bay M)","desc":"1ST ST SW \u0026 GOLD AVE SW","coordinates":[-106.6477,35.0831],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4439","6972","4847","4837","4839","4829","7507","7528"],"transfer_routes":["3352","3328","3334"],"related_routes":["3346","3354","3358","3326","3327","3329","3344","3345","3347","3349","3350","3353","3360","3361","3363","3338","3340","3367","3366"]
-    },"4835":{"name":"A.T.C.  (Bay C)","desc":"CENTRAL AVE W \u0026 COPPER AVE NW","coordinates":[-106.6476,35.0837],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4439","6972","4847","4837","4839","4829","7507","7528"],"transfer_routes":["3326"],"related_routes":["3346","3352","3354","3358","3327","3328","3329","3334","3344","3345","3347","3349","3350","3353","3360","3361","3363","3338","3340","3367","3366"]
-    },"4837":{"name":"A.T.C.  (Bay D)","desc":"","coordinates":[-106.6475,35.0836],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4439","6972","4847","4837","4839","4829","7507","7528"],"transfer_routes":["3327"],"related_routes":["3346","3352","3354","3358","3326","3328","3329","3334","3344","3345","3347","3349","3350","3353","3360","3361","3363","3338","3340","3367","3366"]
-    },"4839":{"name":"A.T.C.  (Bay E)","desc":"","coordinates":[-106.6475,35.0834],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4439","6972","4847","4837","4839","4829","7507","7528"],"transfer_routes":["3361","3340"],"related_routes":["3346","3352","3354","3358","3326","3327","3328","3329","3334","3344","3345","3347","3349","3350","3353","3360","3363","3338","3367","3366"]
-    },"4841":{"name":"A.T.C.  (Bay F)","desc":"","coordinates":[-106.6475,35.0832],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4439","6972","4847","4837","4839","4829","7507","7528"],"transfer_routes":["3349"],"related_routes":["3346","3352","3354","3358","3326","3327","3328","3329","3334","3344","3345","3347","3350","3353","3360","3361","3363","3338","3340","3367","3366"]
-    },"4843":{"name":"A.T.C.  (Bay G)","desc":"","coordinates":[-106.6476,35.083],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4439","6972","4847","4837","4839","4829","7507","7528"],"transfer_routes":["3346"],"related_routes":["3352","3354","3358","3326","3327","3328","3329","3334","3344","3345","3347","3349","3350","3353","3360","3361","3363","3338","3340","3367","3366"]
-    },"4845":{"name":"A.T.C.  (Bay H)","desc":"","coordinates":[-106.6476,35.0829],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4439","6972","4847","4837","4839","4829","7507","7528"],"transfer_routes":["3358"],"related_routes":["3346","3352","3354","3326","3327","3328","3329","3334","3344","3345","3347","3349","3350","3353","3360","3361","3363","3338","3340","3367","3366"]
-    },"4847":{"name":"A.T.C.  (Bay J)","desc":"","coordinates":[-106.6476,35.0827],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4439","6972","4847","4837","4839","4829","7507","7528"],"transfer_routes":["3363"],"related_routes":["3346","3352","3354","3358","3326","3327","3328","3329","3334","3344","3345","3347","3349","3350","3353","3360","3361","3338","3340","3367","3366"]
-    },"5369":{"name":"Atrisco @ Central","desc":"ATRISCO \u0026 CENTRAL","coordinates":[-106.6839,35.0848],"related_stops":["4329","4405","5369","4401","4331","7533","7502","7178","5944"],"transfer_routes":["3348"],"related_routes":["3353","3367","3366"]
-    },"5636":{"name":"Central @ New York","desc":"2557 CENTRAL AVE W","coordinates":[-106.6779,35.0939],"related_stops":["4413","7532","7503","5636","4412","7248"],"transfer_routes":["3353"],"related_routes":["3367","3366"]
-    },"5638":{"name":"Central @ Britt","desc":"10600 CENTRAL AVE E \u0026 BRITT ST SE","coordinates":[-106.5285,35.0714],"related_stops":["5640","5638","4529","2345","2131","5642","5992","2119","4531","4581","5994"],"transfer_routes":["3353"],"related_routes":["3337","3366"]
-    },"5640":{"name":"Central @ Eubank","desc":"10711 CENTRAL AVE E \u0026 BRITT ST SE","coordinates":[-106.5279,35.0716],"related_stops":["5640","5638","4529","2345","2131","5642","5992","2119","4531","4581","5994"],"transfer_routes":["3353"],"related_routes":["3337","3366"]
-    },"5642":{"name":"Central @ Eubank","desc":"10461 CENTRAL AVE E","coordinates":[-106.5312,35.0719],"related_stops":["5640","5638","4529","2345","2131","5642","5992","2119","4531","4581","5994"],"transfer_routes":["3353"],"related_routes":["3337","3366"]
-    },"5677":{"name":"Wenonah @ Tramway","desc":"13117 WENONAH AVE SE","coordinates":[-106.4987,35.0659],"related_stops":["5678","5677","7184"],"transfer_routes":["3353"],"related_routes":["3325","3366"]
-    },"5678":{"name":"Wenonah @ Tramway","desc":"13115 WENONAH AVE SE","coordinates":[-106.4988,35.0659],"related_stops":["5678","5677","7184"],"transfer_routes":["3325"],"related_routes":["3353","3366"]
-    },"5684":{"name":"Central @ Juan Tabo","desc":"11769 CENTRAL AVE E","coordinates":[-106.5159,35.0703],"related_stops":["5990","1945","5684","7352","2089","4567","4563","1943","4545"],"transfer_routes":["3353"],"related_routes":["3325","3366"]
-    },"5688":{"name":"Central @ Wyoming","desc":"8609 CENTRAL AVE E \u0026 WISCONSIN ST NE","coordinates":[-106.5511,35.0741],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3353"],"related_routes":["3342","3363","3364","3366"]
-    },"5692":{"name":"Central @ Bryn Mawr","desc":"3121 CENTRAL AVE E \u0026 BRYN MAWR DR NE","coordinates":[-106.6098,35.0806],"related_stops":["7523","5692","7512"],"transfer_routes":["3334","3353"],"related_routes":["3367","3366"]
-    },"5698":{"name":"Central @ Cornell","desc":"2323 CENTRAL AVE E","coordinates":[-106.6202,35.0811],"related_stops":["5698","7524","7511","7350"],"transfer_routes":["3353"],"related_routes":["3367","3366"]
-    },"5944":{"name":"Artisco @ Draxton","desc":"161 ATRISCO DR SW","coordinates":[-106.6838,35.0838],"related_stops":["4329","4405","5369","4401","4331","7533","7502","7178","5944"],"transfer_routes":["3348"],"related_routes":["3353","3367","3366"]
-    },"5958":{"name":"CUTC Bay C","desc":"","coordinates":[-106.7253,35.079],"related_stops":["5958","5962","5960"],"transfer_routes":["3350"],"related_routes":["3353","3336","3367","3366"]
-    },"5960":{"name":"CUTC Bay B","desc":"","coordinates":[-106.7252,35.0787],"related_stops":["5958","5962","5960"],"transfer_routes":["3366"],"related_routes":["3350","3353","3336","3367"]
-    },"5962":{"name":"CUTC Bay A","desc":"","coordinates":[-106.7251,35.0785],"related_stops":["5958","5962","5960"],"transfer_routes":["3353","3336","3367"],"related_routes":["3350","3366"]
-    },"5990":{"name":"Central @ Juan Tabo (Rapid)","desc":"11922 CENTRAL AVE E","coordinates":[-106.5146,35.0699],"related_stops":["5990","1945","5684","7352","2089","4567","4563","1943","4545"],"transfer_routes":["3366"],"related_routes":["3325","3353"]
-    },"5992":{"name":"Central @ Eubank (Rapid)","desc":"10444 CENTRAL AVE E","coordinates":[-106.5316,35.0717],"related_stops":["5640","5638","4529","2345","2131","5642","5992","2119","4531","4581","5994"],"transfer_routes":["3366"],"related_routes":["3337","3353"]
-    },"5994":{"name":"Central @ Glorieta St.","desc":"10239 CENTRAL AVE E \u0026 GLORIETA ST NE","coordinates":[-106.5339,35.0722],"related_stops":["5640","5638","4529","2345","2131","5642","5992","2119","4531","4581","5994"],"transfer_routes":["3353"],"related_routes":["3337","3366"]
-    },"5996":{"name":"Central @ Wyoming (Rapid)","desc":"8770 CENTRAL AVE E \u0026 GENERAL MARSHALL ST NE","coordinates":[-106.5497,35.0737],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3366"],"related_routes":["3342","3353","3363","3364"]
-    },"6334":{"name":"University @ Central","desc":"105 UNIVERSITY BLVD NE \u0026 CENTRAL AVE E","coordinates":[-106.6269,35.0817],"related_stops":["4681","4683","6444","6446","7525","7510","6334","4457"],"transfer_routes":["3334","3359"],"related_routes":["3353","3367","3366"]
-    },"6444":{"name":"University @ Central","desc":"104 UNIVERSITY BLVD SE \u0026 CENTRAL AVE E","coordinates":[-106.6267,35.081],"related_stops":["4681","4683","6444","6446","7525","7510","6334","4457"],"transfer_routes":["3334"],"related_routes":["3353","3359","3367","3366"]
-    },"6446":{"name":"University @ Central","desc":"108 UNIVERSITY BLVD NE \u0026 CENTRAL AVE E","coordinates":[-106.6266,35.0817],"related_stops":["4681","4683","6444","6446","7525","7510","6334","4457"],"transfer_routes":["3334","3359"],"related_routes":["3353","3367","3366"]
-    },"6520":{"name":"San Mateo @ Central","desc":"130 SAN MATEO BLVD SE \u0026 SILVER AVE SE","coordinates":[-106.586,35.0771],"related_stops":["6742","4487","4641","6520","6522","4491","4645","7520","7515","6740"],"transfer_routes":["3330","3331"],"related_routes":["3353","3367","3366"]
-    },"6522":{"name":"San Mateo @ Central","desc":"160 SAN MATEO BLVD NE","coordinates":[-106.586,35.0786],"related_stops":["6742","4487","4641","6520","6522","4491","4645","7520","7515","6740"],"transfer_routes":["3330","3331"],"related_routes":["3353","3367","3366"]
-    },"6740":{"name":"San Mateo @ Central","desc":"127 SAN MATEO BLVD NE \u0026 SAN MATEO BLVD SE","coordinates":[-106.5864,35.0782],"related_stops":["6742","4487","4641","6520","6522","4491","4645","7520","7515","6740"],"transfer_routes":["3330","3331"],"related_routes":["3353","3367","3366"]
-    },"6742":{"name":"San Mateo @ Central","desc":"117 SAN MATEO BLVD SE \u0026 SILVER AVE SE","coordinates":[-106.5864,35.0773],"related_stops":["6742","4487","4641","6520","6522","4491","4645","7520","7515","6740"],"transfer_routes":["3330","3331"],"related_routes":["3353","3367","3366"]
-    },"6930":{"name":"A.T.C.  (Bay B)","desc":"","coordinates":[-106.6476,35.0835],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4439","6972","4847","4837","4839","4829","7507","7528"],"transfer_routes":["3344","3345"],"related_routes":["3346","3352","3354","3358","3326","3327","3328","3329","3334","3347","3349","3350","3353","3360","3361","3363","3338","3340","3367","3366"]
-    },"6932":{"name":"A.T.C.  (Bay A)","desc":"","coordinates":[-106.6477,35.0833],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4439","6972","4847","4837","4839","4829","7507","7528"],"transfer_routes":["3347"],"related_routes":["3346","3352","3354","3358","3326","3327","3328","3329","3334","3344","3345","3349","3350","3353","3360","3361","3363","3338","3340","3367","3366"]
-    },"6951":{"name":"Coors @ Central","desc":"","coordinates":[-106.7107,35.0792],"related_stops":["6951","4353","4379","7008","7220","7535","7500","7298","7276"],"transfer_routes":["3332"],"related_routes":["3353","3367","3366"]
-    },"6972":{"name":"A.T.C.  (Bay N)","desc":"","coordinates":[-106.648,35.0827],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4439","6972","4847","4837","4839","4829","7507","7528"],"transfer_routes":["3354","3329","3334","3360"],"related_routes":["3346","3352","3358","3326","3327","3328","3344","3345","3347","3349","3350","3353","3361","3363","3338","3340","3367","3366"]
-    },"6979":{"name":"6th @ Gold","desc":"205 6TH ST SW \u0026 GOLD AVE SW","coordinates":[-106.6543,35.0836],"related_stops":["4437","7506","2485","6979","6980"],"transfer_routes":["3358","3344","3345"],"related_routes":["3349","3350","3353","3367","3366"]
-    },"6980":{"name":"5th @ Gold","desc":"5TH ST SW \u0026 GOLD AVE SW","coordinates":[-106.6529,35.0841],"related_stops":["4437","7506","2485","6979","6980"],"transfer_routes":["3358","3344","3345"],"related_routes":["3349","3350","3353","3367","3366"]
-    },"6982":{"name":"5th @ Copper","desc":"226 SILVER AVE SW \u0026 5TH ST SW","coordinates":[-106.6525,35.086],"related_stops":["6982","4709","7529"],"transfer_routes":["3358","3344","3345"],"related_routes":["3353","3367","3366"]
-    },"7008":{"name":"Coors @ Central","desc":"116 COORS BLVD NW","coordinates":[-106.7105,35.0809],"related_stops":["6951","4353","4379","7008","7220","7535","7500","7298","7276"],"transfer_routes":["3332"],"related_routes":["3353","3367","3366"]
-    },"7166":{"name":"Central @ Rio Grande (Rapid)","desc":"2023 CENTRAL AVE W \u0026 ROMERO ST NW","coordinates":[-106.6705,35.0948],"related_stops":["7531","7504","4419","7166"],"transfer_routes":["3345","3353","3357"],"related_routes":["3344","3367","3366"]
-    },"7178":{"name":"Atrisco Ln. @ Central","desc":"Atrisco Drive \u0026 Central","coordinates":[-106.6837,35.0854],"related_stops":["4329","4405","5369","4401","4331","7533","7502","7178","5944"],"transfer_routes":["3348"],"related_routes":["3353","3367","3366"]
-    },"7184":{"name":"Tramway @ Wenonah (Rapid)","desc":"291 TRAMWAY BLVD SE \u0026 WENONAH AVE SE","coordinates":[-106.4981,35.0661],"related_stops":["5678","5677","7184"],"transfer_routes":["3366"],"related_routes":["3325","3353"]
-    },"7220":{"name":"Coors @ Central","desc":"121 COORS BLVD NW","coordinates":[-106.7109,35.0811],"related_stops":["6951","4353","4379","7008","7220","7535","7500","7298","7276"],"transfer_routes":["3332"],"related_routes":["3353","3367","3366"]
-    },"7242":{"name":"Wyoming @ Central","desc":"110 WYOMING BLVD SE","coordinates":[-106.5503,35.0733],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3342","3363"],"related_routes":["3353","3364","3366"]
-    },"7248":{"name":"Central @ Tingley","desc":"2715 CENTRAL AVE W","coordinates":[-106.6786,35.0923],"related_stops":["4413","7532","7503","5636","4412","7248"],"transfer_routes":["3353"],"related_routes":["3367","3366"]
-    },"7256":{"name":"Central @ Edith","desc":"516 CENTRAL AVE E \u0026 WALTER ST SE","coordinates":[-106.6415,35.0832],"related_stops":["7256","7527","7508","4695","4697"],"transfer_routes":["3353"],"related_routes":["3367","3366"]
-    },"7274":{"name":"Central @ 53rd","desc":"5302 CENTRAL AVE W \u0026 53RD ST SW","coordinates":[-106.6968,35.0829],"related_stops":["4339","7274","7534","7501"],"transfer_routes":["3353"],"related_routes":["3367","3366"]
-    },"7276":{"name":"Central @ 65th","desc":"6428 CENTRAL AVE W \u0026 65TH ST NW","coordinates":[-106.709,35.0802],"related_stops":["6951","4353","4379","7008","7220","7535","7500","7298","7276"],"transfer_routes":["3353"],"related_routes":["3332","3367","3366"]
-    },"7298":{"name":"Central @ 65th","desc":"6431 CENTRAL AVE W \u0026 65TH ST SW","coordinates":[-106.7093,35.0803],"related_stops":["6951","4353","4379","7008","7220","7535","7500","7298","7276"],"transfer_routes":["3353"],"related_routes":["3332","3367","3366"]
-    },"7350":{"name":"Central @ Cornell","desc":"2322 CENTRAL AVE E \u0026 CORNELL DR SE","coordinates":[-106.6198,35.0809],"related_stops":["5698","7524","7511","7350"],"transfer_routes":["3353"],"related_routes":["3367","3366"]
-    },"7352":{"name":"Juan Tabo @ Linn","desc":"139 JUAN TABO BLVD NE \u0026 LINN AVE NE","coordinates":[-106.5153,35.0708],"related_stops":["5990","1945","5684","7352","2089","4567","4563","1943","4545"],"transfer_routes":["3325"],"related_routes":["3353","3366"]
-    },"7472":{"name":"Central @ Aliso","desc":"3817 CENTRAL AVE E \u0026 ALISO DR SE","coordinates":[-106.6012,35.0795],"related_stops":["4477","7522","7513","7472"],"transfer_routes":["3353"],"related_routes":["3367","3366"]
-    },"7500":{"name":"ART - West Central Station","desc":"6510 CENTRAL AVE W \u0026 COORS BLVD NW","coordinates":[-106.7101,35.08],"related_stops":["6951","4353","4379","7008","7220","7535","7500","7298","7276"],"transfer_routes":["3367","3366"],"related_routes":["3353","3332"]
-    },"7501":{"name":"ART - The Bluffs Station","desc":"5406 CENTRAL AVE W \u0026 YUCCA DR NW","coordinates":[-106.6984,35.0827],"related_stops":["4339","7274","7534","7501"],"transfer_routes":["3367","3366"],"related_routes":["3353"]
-    },"7502":{"name":"ART - Town of Atrisco Station","desc":"4100 CENTRAL AVE W \u0026 ATRISCO DR NW","coordinates":[-106.6851,35.0857],"related_stops":["4329","4405","5369","4401","4331","7533","7502","7178","5944"],"transfer_routes":["3367","3366"],"related_routes":["3348","3353"]
-    },"7503":{"name":"ART - BioPark Station","desc":"2626 CENTRAL AVE W","coordinates":[-106.6781,35.0932],"related_stops":["4413","7532","7503","5636","4412","7248"],"transfer_routes":["3367","3366"],"related_routes":["3353"]
-    },"7504":{"name":"ART - Old Town Station","desc":"2110 LOMAS BLVD NW \u0026 SAN FELIPE ST NW","coordinates":[-106.6699,35.0943],"related_stops":["7531","7504","4419","7166"],"transfer_routes":["3367","3366"],"related_routes":["3344","3345","3353","3357"]
-    },"7505":{"name":"ART - West Downtown Station","desc":"1503 CENTRAL AVE W \u0026 15TH ST SW","coordinates":[-106.6643,35.0895],"related_stops":["7530","7505"],"transfer_routes":["3367","3366"],"related_routes":[]
-    },"7506":{"name":"ART - Barelas Station","desc":"604 GOLD AVE SW \u0026 6TH ST SW","coordinates":[-106.6544,35.0839],"related_stops":["4437","7506","2485","6979","6980"],"transfer_routes":["3367","3366"],"related_routes":["3358","3344","3345","3349","3350","3353"]
-    },"7507":{"name":"ART - Alvarado Transportation Center","desc":"110 1ST ST SW","coordinates":[-106.6481,35.0835],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4439","6972","4847","4837","4839","4829","7507","7528"],"transfer_routes":["3367","3366"],"related_routes":["3346","3352","3354","3358","3326","3327","3328","3329","3334","3344","3345","3347","3349","3350","3353","3360","3361","3363","3338","3340"]
-    },"7508":{"name":"ART - EDo Station","desc":"600 CENTRAL AVE E \u0026 WALTER ST SE","coordinates":[-106.6409,35.0832],"related_stops":["7256","7527","7508","4695","4697"],"transfer_routes":["3367","3366"],"related_routes":["3353"]
-    },"7509":{"name":"ART - Presbyterian Station","desc":"1218 CENTRAL AVE E \u0026 SPRUCE ST SE","coordinates":[-106.6329,35.0822],"related_stops":["4451","7526","7509","4691"],"transfer_routes":["3367","3366"],"related_routes":["3353"]
-    },"7510":{"name":"ART - U.N.M. / C.N.M. Station","desc":"1808 CENTRAL AVE E \u0026 UNIVERSITY BLVD SE","coordinates":[-106.6264,35.0813],"related_stops":["4681","4683","6444","6446","7525","7510","6334","4457"],"transfer_routes":["3367","3366"],"related_routes":["3334","3353","3359"]
-    },"7511":{"name":"ART - U.N.M. Popejoy Station","desc":"2322 CENTRAL AVE E \u0026 CORNELL DR SE","coordinates":[-106.6198,35.081],"related_stops":["5698","7524","7511","7350"],"transfer_routes":["3367","3366"],"related_routes":["3353"]
-    },"7512":{"name":"ART - Nob Hill Station","desc":"100 BRYN MAWR DR NE \u0026 CENTRAL AVE E","coordinates":[-106.6095,35.0805],"related_stops":["7523","5692","7512"],"transfer_routes":["3367","3366"],"related_routes":["3334","3353"]
-    },"7513":{"name":"ART - Nob Hill East Station","desc":"3716 CENTRAL AVE E \u0026 SOLANO DR NE","coordinates":[-106.6021,35.0795],"related_stops":["4477","7522","7513","7472"],"transfer_routes":["3367","3366"],"related_routes":["3353"]
-    },"7514":{"name":"ART - Highland Station","desc":"4316 CENTRAL AVE E \u0026 WASHINGTON ST NE","coordinates":[-106.5956,35.0788],"related_stops":["4483","7521","7514","4655"],"transfer_routes":["3367","3366"],"related_routes":["3353"]
-    },"7515":{"name":"ART - San Mateo Station","desc":"5206","coordinates":[-106.5867,35.0779],"related_stops":["6742","4487","4641","6520","6522","4491","4645","7520","7515","6740"],"transfer_routes":["3367","3366"],"related_routes":["3353","3330","3331"]
-    },"7517":{"name":"ART - International District Station","desc":"6990 CENTRAL AVE E \u0026 LOUISIANA BLVD NE","coordinates":[-106.569,35.0759],"related_stops":["2823","4623","4627","2775","7518","7517","2777","4503","4509","4507","4621","2821"],"transfer_routes":["3367","3366"],"related_routes":["3353","3333"]
-    },"7518":{"name":"ART - International District Station","desc":"6973 CENTRAL AVE E","coordinates":[-106.5693,35.076],"related_stops":["2823","4623","4627","2775","7518","7517","2777","4503","4509","4507","4621","2821"],"transfer_routes":["3367","3366"],"related_routes":["3353","3333"]
-    },"7520":{"name":"ART - San Mateo Station","desc":"5209 CENTRAL AVE E \u0026 SAN MATEO BLVD SE","coordinates":[-106.5866,35.0779],"related_stops":["6742","4487","4641","6520","6522","4491","4645","7520","7515","6740"],"transfer_routes":["3367","3366"],"related_routes":["3353","3330","3331"]
-    },"7521":{"name":"ART - Highland Station","desc":"4315 CENTRAL AVE E \u0026 WASHINGTON ST NE","coordinates":[-106.5957,35.0789],"related_stops":["4483","7521","7514","4655"],"transfer_routes":["3367","3366"],"related_routes":["3353"]
-    },"7522":{"name":"ART - Nob Hill East Station","desc":"3716 CENTRAL AVE E \u0026 SOLANO DR NE","coordinates":[-106.6022,35.0795],"related_stops":["4477","7522","7513","7472"],"transfer_routes":["3367","3366"],"related_routes":["3353"]
-    },"7523":{"name":"ART - Nob Hill Station","desc":"102 BRYN MAWR DR NE \u0026 CENTRAL AVE E","coordinates":[-106.6096,35.0805],"related_stops":["7523","5692","7512"],"transfer_routes":["3367","3366"],"related_routes":["3334","3353"]
-    },"7524":{"name":"ART - U.N.M. Popejoy Station","desc":"2316 CENTRAL AVE E","coordinates":[-106.6201,35.0811],"related_stops":["5698","7524","7511","7350"],"transfer_routes":["3367","3366"],"related_routes":["3353"]
-    },"7525":{"name":"ART- U.N.M. / C.N.M. Station","desc":"1806 CENTRAL AVE E \u0026 UNIVERSITY BLVD SE","coordinates":[-106.6265,35.0813],"related_stops":["4681","4683","6444","6446","7525","7510","6334","4457"],"transfer_routes":["3367","3366"],"related_routes":["3334","3353","3359"]
-    },"7526":{"name":"ART - Presbyterian Station","desc":"1214 CENTRAL AVE E \u0026 SPRUCE ST SE","coordinates":[-106.633,35.0822],"related_stops":["4451","7526","7509","4691"],"transfer_routes":["3367","3366"],"related_routes":["3353"]
-    },"7527":{"name":"ART - EDo Station","desc":"524 CENTRAL AVE E \u0026 WALTER ST SE","coordinates":[-106.641,35.0832],"related_stops":["7256","7527","7508","4695","4697"],"transfer_routes":["3367","3366"],"related_routes":["3353"]
-    },"7528":{"name":"ART - Downtown Station","desc":"COPPER AVE NW \u0026 1ST ST NW","coordinates":[-106.648,35.0848],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4439","6972","4847","4837","4839","4829","7507","7528"],"transfer_routes":["3367","3366"],"related_routes":["3346","3352","3354","3358","3326","3327","3328","3329","3334","3344","3345","3347","3349","3350","3353","3360","3361","3363","3338","3340"]
-    },"7529":{"name":"ART - Main Library Station","desc":"504 COPPER AVE NW \u0026 6TH ST NW","coordinates":[-106.6536,35.0859],"related_stops":["6982","4709","7529"],"transfer_routes":["3367","3366"],"related_routes":["3358","3344","3345","3353"]
-    },"7530":{"name":"ART - West Downtown Station","desc":"1503 CENTRAL AVE W","coordinates":[-106.6643,35.0896],"related_stops":["7530","7505"],"transfer_routes":["3367","3366"],"related_routes":[]
-    },"7531":{"name":"ART - Old Town Station","desc":"2112 LOMAS BLVD NW \u0026 CENTRAL AVE W","coordinates":[-106.67,35.0944],"related_stops":["7531","7504","4419","7166"],"transfer_routes":["3367","3366"],"related_routes":["3344","3345","3353","3357"]
-    },"7532":{"name":"ART - BioPark Station","desc":"2626 CENTRAL AVE W","coordinates":[-106.6782,35.0931],"related_stops":["4413","7532","7503","5636","4412","7248"],"transfer_routes":["3367","3366"],"related_routes":["3353"]
-    },"7533":{"name":"ART - Town of Atrisco Station","desc":"4100 CENTRAL AVE W \u0026 ATRISCO DR NW","coordinates":[-106.6851,35.0857],"related_stops":["4329","4405","5369","4401","4331","7533","7502","7178","5944"],"transfer_routes":["3367","3366"],"related_routes":["3348","3353"]
-    },"7534":{"name":"ART - The Bluffs Station","desc":"5406 CENTRAL AVE W \u0026 YUCCA DR NW","coordinates":[-106.6983,35.0827],"related_stops":["4339","7274","7534","7501"],"transfer_routes":["3367","3366"],"related_routes":["3353"]
-    },"7535":{"name":"ART - West Central Station","desc":"6510 CENTRAL AVE W \u0026 COORS BLVD NW","coordinates":[-106.7101,35.08],"related_stops":["6951","4353","4379","7008","7220","7535","7500","7298","7276"],"transfer_routes":["3367","3366"],"related_routes":["3353","3332"]
+  "stops": {"1082":{"name":"Wyoming @ Zuni","desc":"210 WYOMING BLVD SE","coordinates":[-106.5503,35.0719],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3713"],"related_routes":["3724","3734","3727"]
+    },"1249":{"name":"Wyoming @ Central","desc":"117 WYOMING BLVD NE \u0026 WYOMING BLVD SE","coordinates":[-106.5506,35.0742],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3713"],"related_routes":["3724","3734","3727"]
+    },"1251":{"name":"Wyoming @ Zuni","desc":"111 WYOMING BLVD SE","coordinates":[-106.5505,35.0732],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3713"],"related_routes":["3724","3734","3727"]
+    },"1253":{"name":"Wyoming @ Zuni","desc":"219 WYOMING BLVD SE","coordinates":[-106.5506,35.0721],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3713"],"related_routes":["3724","3734","3727"]
+    },"1943":{"name":"Juan Tabo @ Central","desc":"188 JUAN TABO BLVD SE \u0026 COCHITI RD SE","coordinates":[-106.5151,35.0691],"related_stops":["5990","1945","5684","7352","2089","4567","4563","1943","4545"],"transfer_routes":["3696"],"related_routes":["3724","3727"]
+    },"1945":{"name":"Juan Tabo @ Central","desc":"120 JUAN TABO BLVD NE","coordinates":[-106.515,35.0705],"related_stops":["5990","1945","5684","7352","2089","4567","4563","1943","4545"],"transfer_routes":["3696"],"related_routes":["3724","3727"]
+    },"2089":{"name":"Juan Tabo @ Central","desc":"169 JUAN TABO BLVD SE \u0026 COCHITI RD SE","coordinates":[-106.5154,35.0693],"related_stops":["5990","1945","5684","7352","2089","4567","4563","1943","4545"],"transfer_routes":["3696"],"related_routes":["3724","3727"]
+    },"2119":{"name":"Eubank @ Cochiti","desc":"119 EUBANK BLVD SE \u0026 COCHITI RD SE","coordinates":[-106.5326,35.071],"related_stops":["5640","5638","4529","2345","2131","5642","5992","2119","4531","4581","5994"],"transfer_routes":["3708"],"related_routes":["3724","3727"]
+    },"2131":{"name":"Eubank @ Central","desc":"126 EUBANK BLVD NE","coordinates":[-106.5323,35.0725],"related_stops":["5640","5638","4529","2345","2131","5642","5992","2119","4531","4581","5994"],"transfer_routes":["3708"],"related_routes":["3724","3727"]
+    },"2345":{"name":"Eubank @ Central","desc":"119 EUBANK BLVD NE","coordinates":[-106.5326,35.0727],"related_stops":["5640","5638","4529","2345","2131","5642","5992","2119","4531","4581","5994"],"transfer_routes":["3708"],"related_routes":["3724","3727"]
+    },"2485":{"name":"6th @ Silver","desc":"322 6TH ST SW \u0026 SILVER AVE SW","coordinates":[-106.6543,35.0826],"related_stops":["4437","7506","2485","6979","6980"],"transfer_routes":["3720","3721"],"related_routes":["3729","3715","3716","3724","3726","3727"]
+    },"2775":{"name":"Louisiana @ Central","desc":"105 LOUISIANA BLVD NE \u0026 CENTRAL AVE E","coordinates":[-106.5687,35.0761],"related_stops":["2823","4623","4627","2775","7518","7517","2777","4503","4509","4507","4621","2821"],"transfer_routes":["3704"],"related_routes":["3724","3726","3727"]
+    },"2777":{"name":"Louisiana @ Cochiti","desc":"97 LOUISIANA BLVD SE \u0026 COCHITI RD SE","coordinates":[-106.5687,35.0751],"related_stops":["2823","4623","4627","2775","7518","7517","2777","4503","4509","4507","4621","2821"],"transfer_routes":["3704"],"related_routes":["3724","3726","3727"]
+    },"2821":{"name":"Louisiana @ Cochiti","desc":"206 LOUISIANA BLVD SE \u0026 COCHITI RD SE","coordinates":[-106.5684,35.0747],"related_stops":["2823","4623","4627","2775","7518","7517","2777","4503","4509","4507","4621","2821"],"transfer_routes":["3704"],"related_routes":["3724","3726","3727"]
+    },"2823":{"name":"Louisiana @ Central","desc":"114 LOUISIANA BLVD NE","coordinates":[-106.5685,35.0765],"related_stops":["2823","4623","4627","2775","7518","7517","2777","4503","4509","4507","4621","2821"],"transfer_routes":["3704"],"related_routes":["3724","3726","3727"]
+    },"3455":{"name":"Zuni @ Wyoming","desc":"9017 ZUNI RD SE","coordinates":[-106.5495,35.0728],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3734"],"related_routes":["3713","3724","3727"]
+    },"4331":{"name":"Central @ Atrisco","desc":"CENTRAL \u0026 ATRISCO","coordinates":[-106.6881,35.0851],"related_stops":["4405","5369","4401","4331","7533","7502","7178","5944"],"transfer_routes":["3724"],"related_routes":["3719","3726","3727"]
+    },"4339":{"name":"Central @ Old Coors","desc":"5313 CENTRAL AVE W \u0026 OLD COORS DR SW","coordinates":[-106.6978,35.0829],"related_stops":["4339","7274","7534","7501"],"transfer_routes":["3724"],"related_routes":["3726","3727"]
+    },"4353":{"name":"Central @ Coors","desc":"6679 CENTRAL AVE W","coordinates":[-106.7116,35.0798],"related_stops":["6951","4353","4379","7008","7220","7535","7500","7298","7276"],"transfer_routes":["3724"],"related_routes":["3703","3726","3727"]
+    },"4379":{"name":"Central @ Coors","desc":"6684 CENTRAL AVE W","coordinates":[-106.7117,35.0796],"related_stops":["6951","4353","4379","7008","7220","7535","7500","7298","7276"],"transfer_routes":["3724"],"related_routes":["3703","3726","3727"]
+    },"4401":{"name":"Central @ 46th","desc":"4506 CENTRAL AVE W","coordinates":[-106.6884,35.0848],"related_stops":["4405","5369","4401","4331","7533","7502","7178","5944"],"transfer_routes":["3724"],"related_routes":["3719","3726","3727"]
+    },"4405":{"name":"Central @ Atrisco","desc":"4100 CENTRAL AVE W \u0026 ATRISCO DR NW","coordinates":[-106.6851,35.0856],"related_stops":["4405","5369","4401","4331","7533","7502","7178","5944"],"transfer_routes":["3724"],"related_routes":["3719","3726","3727"]
+    },"4412":{"name":"Central @ Tingley","desc":"CENTRAL AVE W \u0026 TINGLEY DR SW","coordinates":[-106.6788,35.0914],"related_stops":["4413","7532","7503","5636","4412","7248"],"transfer_routes":["3724"],"related_routes":["3726","3727"]
+    },"4413":{"name":"Central @ New York","desc":"2542 CENTRAL AVE W","coordinates":[-106.6776,35.094],"related_stops":["4413","7532","7503","5636","4412","7248"],"transfer_routes":["3724"],"related_routes":["3726","3727"]
+    },"4419":{"name":"Central @ Rio Grande","desc":"2026 CENTRAL AVE W \u0026 ROMERO ST NW","coordinates":[-106.6708,35.0947],"related_stops":["7918","7902","4419","7531","7504","7166"],"transfer_routes":["3715","3724"],"related_routes":["3716","3726","3727","3736"]
+    },"4437":{"name":"Gold @ 5th","desc":"506 GOLD AVE SW \u0026 5TH ST SW","coordinates":[-106.6535,35.0837],"related_stops":["4437","7506","2485","6979","6980"],"transfer_routes":["3720","3721","3724"],"related_routes":["3729","3715","3716","3726","3727"]
+    },"4441":{"name":"1st @ Central (in front of A.T.C.)","desc":"1ST ST SW \u0026 1ST ST NW","coordinates":[-106.648,35.0838],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["3724"],"related_routes":["3717","3729","3697","3698","3705","3715","3716","3718","3720","3721","3734","3726","3727"]
+    },"4451":{"name":"Central @ Spruce","desc":"1212 CENTRAL AVE E \u0026 CEDAR ST NE","coordinates":[-106.6332,35.0821],"related_stops":["4451","7526","7509","4691"],"transfer_routes":["3724"],"related_routes":["3726","3727"]
+    },"4457":{"name":"Central @ Mesa","desc":"103 MESA ST SE \u0026 CENTRAL AVE E","coordinates":[-106.6257,35.0811],"related_stops":["4681","4683","6444","6446","7525","7510","6334","4457"],"transfer_routes":["3724"],"related_routes":["3705","3726","3727"]
+    },"4477":{"name":"Central @ Aliso","desc":"3816 CENTRAL AVE E \u0026 ALISO DR SE","coordinates":[-106.6013,35.0793],"related_stops":["4477","7522","7513","7472"],"transfer_routes":["3724"],"related_routes":["3726","3727"]
+    },"4483":{"name":"Central @ Washington","desc":"4416 CENTRAL AVE E \u0026 ADAMS ST NE","coordinates":[-106.5946,35.0786],"related_stops":["4483","7521","7514","4655"],"transfer_routes":["3724"],"related_routes":["3726","3727"]
+    },"4487":{"name":"Central @ San Mateo","desc":"5200 CENTRAL AVE E \u0026 TRUMAN ST NE","coordinates":[-106.5872,35.0778],"related_stops":["6742","4487","4641","6520","6522","7520","7515","6740"],"transfer_routes":["3724"],"related_routes":["3701","3702","3726","3727"]
+    },"4503":{"name":"Central @ Louisiana","desc":"6976 CENTRAL AVE E","coordinates":[-106.5693,35.0758],"related_stops":["2823","4623","4627","2775","7518","7517","2777","4503","4509","4507","4621","2821"],"transfer_routes":["3724"],"related_routes":["3704","3726","3727"]
+    },"4507":{"name":"Central @ Alcazar","desc":"7118 CENTRAL AVE E \u0026 ALCAZAR ST NE","coordinates":[-106.5676,35.0757],"related_stops":["2823","4623","4627","2775","7518","7517","2777","4503","4509","4507","4621","2821"],"transfer_routes":["3724"],"related_routes":["3704","3726","3727"]
+    },"4509":{"name":"Central @ Alcazar","desc":"CENTRAL \u0026 ALCAZAR","coordinates":[-106.5659,35.0755],"related_stops":["2823","4623","4627","2775","7518","7517","2777","4503","4509","4507","4621","2821"],"transfer_routes":["3724"],"related_routes":["3704","3726","3727"]
+    },"4519":{"name":"Central @ Wyoming","desc":"8614 CENTRAL AVE E \u0026 WYOMING BLVD SE","coordinates":[-106.5506,35.0738],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3724"],"related_routes":["3713","3734","3727"]
+    },"4521":{"name":"Central @ Wyoming","desc":"8738 CENTRAL AVE E \u0026 WYOMING BLVD SE","coordinates":[-106.5501,35.0737],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3724"],"related_routes":["3713","3734","3727"]
+    },"4529":{"name":"Central @ Eubank","desc":"10224 CENTRAL AVE E","coordinates":[-106.5342,35.072],"related_stops":["5640","5638","4529","2345","2131","5642","5992","2119","4531","4581","5994"],"transfer_routes":["3724"],"related_routes":["3708","3727"]
+    },"4531":{"name":"Central @ Eubank","desc":"10422 CENTRAL AVE E \u0026 EUBANK BLVD SE","coordinates":[-106.532,35.0718],"related_stops":["5640","5638","4529","2345","2131","5642","5992","2119","4531","4581","5994"],"transfer_routes":["3724"],"related_routes":["3708","3727"]
+    },"4545":{"name":"Central @ Juan Tabo","desc":"11930 CENTRAL AVE E","coordinates":[-106.5144,35.0699],"related_stops":["5990","1945","5684","7352","2089","4567","4563","1943","4545"],"transfer_routes":["3724"],"related_routes":["3696","3727"]
+    },"4563":{"name":"Central @ Juan Tabo","desc":"11997 CENTRAL AVE E","coordinates":[-106.5131,35.07],"related_stops":["5990","1945","5684","7352","2089","4567","4563","1943","4545"],"transfer_routes":["3724"],"related_routes":["3696","3727"]
+    },"4567":{"name":"Central @ Juan Tabo (Rapid)","desc":"11787 CENTRAL AVE E \u0026 JUAN TABO BLVD NE","coordinates":[-106.5156,35.0702],"related_stops":["5990","1945","5684","7352","2089","4567","4563","1943","4545"],"transfer_routes":["3727"],"related_routes":["3696","3724"]
+    },"4581":{"name":"Central @ Eubank (Rapid)","desc":"10303 CENTRAL AVE E \u0026 GLORIETA ST NE","coordinates":[-106.5334,35.0722],"related_stops":["5640","5638","4529","2345","2131","5642","5992","2119","4531","4581","5994"],"transfer_routes":["3727"],"related_routes":["3708","3724"]
+    },"4597":{"name":"Central @ Wyoming","desc":"8709 CENTRAL AVE E \u0026 WYOMING BLVD SE","coordinates":[-106.5501,35.074],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3724"],"related_routes":["3713","3734","3727"]
+    },"4599":{"name":"Wyoming @ Central","desc":"120 WYOMING BLVD NE","coordinates":[-106.5503,35.0744],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3713"],"related_routes":["3724","3734","3727"]
+    },"4611":{"name":"Central @ Wyoming (Rapid)","desc":"8615 CENTRAL AVE E \u0026 WYOMING BLVD SE","coordinates":[-106.5509,35.0741],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3727"],"related_routes":["3713","3724","3734"]
+    },"4621":{"name":"Central @ Mesilla","desc":"CENTRAL \u0026 MESILLA","coordinates":[-106.5655,35.0757],"related_stops":["2823","4623","4627","2775","7518","7517","2777","4503","4509","4507","4621","2821"],"transfer_routes":["3724"],"related_routes":["3704","3726","3727"]
+    },"4623":{"name":"Central @ Louisiana","desc":"7103 CENTRAL AVE E \u0026 LOUISIANA BLVD NE","coordinates":[-106.5684,35.076],"related_stops":["2823","4623","4627","2775","7518","7517","2777","4503","4509","4507","4621","2821"],"transfer_routes":["3724"],"related_routes":["3704","3726","3727"]
+    },"4627":{"name":"Central @ Louisiana","desc":"6967 CENTRAL AVE E","coordinates":[-106.5695,35.0761],"related_stops":["2823","4623","4627","2775","7518","7517","2777","4503","4509","4507","4621","2821"],"transfer_routes":["3724"],"related_routes":["3704","3726","3727"]
+    },"4641":{"name":"Central @ San Mateo","desc":"5323 CENTRAL AVE E \u0026 SAN MATEO BLVD SE","coordinates":[-106.5858,35.0779],"related_stops":["6742","4487","4641","6520","6522","7520","7515","6740"],"transfer_routes":["3724"],"related_routes":["3701","3702","3726","3727"]
+    },"4655":{"name":"Central @ Washington","desc":"4413 CENTRAL AVE E \u0026 ADAMS ST NE","coordinates":[-106.5947,35.0788],"related_stops":["4483","7521","7514","4655"],"transfer_routes":["3724"],"related_routes":["3726","3727"]
+    },"4681":{"name":"Central @ University","desc":"1903 CENTRAL AVE E \u0026 MESA ST SE","coordinates":[-106.6254,35.0813],"related_stops":["4681","4683","6444","6446","7525","7510","6334","4457"],"transfer_routes":["3724"],"related_routes":["3705","3726","3727"]
+    },"4683":{"name":"Central @ University","desc":"1703 CENTRAL AVE E \u0026 PINE ST NE","coordinates":[-106.6273,35.0815],"related_stops":["4681","4683","6444","6446","7525","7510","6334","4457"],"transfer_routes":["3724"],"related_routes":["3705","3726","3727"]
+    },"4691":{"name":"Central @ Spruce","desc":"1211 CENTRAL AVE E \u0026 SPRUCE ST SE","coordinates":[-106.6329,35.0823],"related_stops":["4451","7526","7509","4691"],"transfer_routes":["3724"],"related_routes":["3726","3727"]
+    },"4695":{"name":"Central @ High","desc":"609 CENTRAL AVE E \u0026 HIGH ST SE","coordinates":[-106.6403,35.0832],"related_stops":["7256","7527","7508","4695","4697"],"transfer_routes":["3724"],"related_routes":["3726","3727"]
+    },"4697":{"name":"Central @ Edith","desc":"415 CENTRAL AVE E \u0026 EDITH BLVD NE","coordinates":[-106.6427,35.0835],"related_stops":["7256","7527","7508","4695","4697"],"transfer_routes":["3724"],"related_routes":["3726","3727"]
+    },"4703":{"name":"Central @ 1st (across from A.T.C.)","desc":"113 CENTRAL AVE W","coordinates":[-106.6487,35.0843],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["3724"],"related_routes":["3717","3729","3697","3698","3705","3715","3716","3718","3720","3721","3734","3726","3727"]
+    },"4831":{"name":"A.T.C.  (Bay L)","desc":"1ST ST SW \u0026 GOLD AVE SW","coordinates":[-106.6477,35.0829],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["3721"],"related_routes":["3717","3729","3697","3698","3705","3715","3716","3718","3720","3724","3734","3726","3727"]
+    },"4833":{"name":"A.T.C.  (Bay M)","desc":"1ST ST SW \u0026 GOLD AVE SW","coordinates":[-106.6477,35.0831],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["3705"],"related_routes":["3717","3729","3697","3698","3715","3716","3718","3720","3721","3724","3734","3726","3727"]
+    },"4835":{"name":"A.T.C.  (Bay C)","desc":"CENTRAL AVE W \u0026 COPPER AVE NW","coordinates":[-106.6476,35.0837],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["3697"],"related_routes":["3717","3729","3698","3705","3715","3716","3718","3720","3721","3724","3734","3726","3727"]
+    },"4837":{"name":"A.T.C.  (Bay D)","desc":"","coordinates":[-106.6475,35.0836],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["3698"],"related_routes":["3717","3729","3697","3705","3715","3716","3718","3720","3721","3724","3734","3726","3727"]
+    },"4841":{"name":"A.T.C.  (Bay F)","desc":"","coordinates":[-106.6475,35.0832],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["3720"],"related_routes":["3717","3729","3697","3698","3705","3715","3716","3718","3721","3724","3734","3726","3727"]
+    },"4843":{"name":"A.T.C.  (Bay G)","desc":"","coordinates":[-106.6476,35.083],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["3717"],"related_routes":["3729","3697","3698","3705","3715","3716","3718","3720","3721","3724","3734","3726","3727"]
+    },"4845":{"name":"A.T.C.  (Bay H)","desc":"","coordinates":[-106.6476,35.0829],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["3729"],"related_routes":["3717","3697","3698","3705","3715","3716","3718","3720","3721","3724","3734","3726","3727"]
+    },"4847":{"name":"A.T.C.  (Bay J)","desc":"","coordinates":[-106.6476,35.0827],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["3734"],"related_routes":["3717","3729","3697","3698","3705","3715","3716","3718","3720","3721","3724","3726","3727"]
+    },"5369":{"name":"Atrisco @ Central","desc":"ATRISCO \u0026 CENTRAL","coordinates":[-106.6839,35.0848],"related_stops":["4405","5369","4401","4331","7533","7502","7178","5944"],"transfer_routes":["3719"],"related_routes":["3724","3726","3727"]
+    },"5636":{"name":"Central @ New York","desc":"2557 CENTRAL AVE W","coordinates":[-106.6779,35.0939],"related_stops":["4413","7532","7503","5636","4412","7248"],"transfer_routes":["3724"],"related_routes":["3726","3727"]
+    },"5638":{"name":"Central @ Britt","desc":"10600 CENTRAL AVE E \u0026 BRITT ST SE","coordinates":[-106.5285,35.0714],"related_stops":["5640","5638","4529","2345","2131","5642","5992","2119","4531","4581","5994"],"transfer_routes":["3724"],"related_routes":["3708","3727"]
+    },"5640":{"name":"Central @ Eubank","desc":"10711 CENTRAL AVE E \u0026 BRITT ST SE","coordinates":[-106.5279,35.0716],"related_stops":["5640","5638","4529","2345","2131","5642","5992","2119","4531","4581","5994"],"transfer_routes":["3724"],"related_routes":["3708","3727"]
+    },"5642":{"name":"Central @ Eubank","desc":"10461 CENTRAL AVE E","coordinates":[-106.5312,35.0719],"related_stops":["5640","5638","4529","2345","2131","5642","5992","2119","4531","4581","5994"],"transfer_routes":["3724"],"related_routes":["3708","3727"]
+    },"5677":{"name":"Wenonah @ Tramway","desc":"13117 WENONAH AVE SE","coordinates":[-106.4987,35.0659],"related_stops":["5677","7184"],"transfer_routes":["3696","3724"],"related_routes":["3727"]
+    },"5684":{"name":"Central @ Juan Tabo","desc":"11769 CENTRAL AVE E","coordinates":[-106.5159,35.0703],"related_stops":["5990","1945","5684","7352","2089","4567","4563","1943","4545"],"transfer_routes":["3724"],"related_routes":["3696","3727"]
+    },"5688":{"name":"Central @ Wyoming","desc":"8609 CENTRAL AVE E \u0026 WISCONSIN ST NE","coordinates":[-106.5511,35.0741],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3724"],"related_routes":["3713","3734","3727"]
+    },"5692":{"name":"Central @ Bryn Mawr","desc":"3121 CENTRAL AVE E \u0026 BRYN MAWR DR NE","coordinates":[-106.6098,35.0806],"related_stops":["7523","5692","7512"],"transfer_routes":["3705","3724"],"related_routes":["3726","3727"]
+    },"5698":{"name":"Central @ Cornell","desc":"2323 CENTRAL AVE E","coordinates":[-106.6202,35.0811],"related_stops":["7524","7511","5698"],"transfer_routes":["3724"],"related_routes":["3726","3727"]
+    },"5944":{"name":"Artisco @ Draxton","desc":"161 ATRISCO DR SW","coordinates":[-106.6838,35.0838],"related_stops":["4405","5369","4401","4331","7533","7502","7178","5944"],"transfer_routes":["3719"],"related_routes":["3724","3726","3727"]
+    },"5958":{"name":"CUTC Bay C","desc":"","coordinates":[-106.7253,35.079],"related_stops":["5958","5962","5960"],"transfer_routes":["3721"],"related_routes":["3724","3707","3726","3727"]
+    },"5960":{"name":"CUTC Bay B","desc":"","coordinates":[-106.7252,35.0787],"related_stops":["5958","5962","5960"],"transfer_routes":["3727"],"related_routes":["3721","3724","3707","3726"]
+    },"5962":{"name":"CUTC Bay A","desc":"","coordinates":[-106.7251,35.0785],"related_stops":["5958","5962","5960"],"transfer_routes":["3724","3707","3726"],"related_routes":["3721","3727"]
+    },"5990":{"name":"Central @ Juan Tabo (Rapid)","desc":"11922 CENTRAL AVE E","coordinates":[-106.5146,35.0699],"related_stops":["5990","1945","5684","7352","2089","4567","4563","1943","4545"],"transfer_routes":["3727"],"related_routes":["3696","3724"]
+    },"5992":{"name":"Central @ Eubank (Rapid)","desc":"10444 CENTRAL AVE E","coordinates":[-106.5316,35.0717],"related_stops":["5640","5638","4529","2345","2131","5642","5992","2119","4531","4581","5994"],"transfer_routes":["3727"],"related_routes":["3708","3724"]
+    },"5994":{"name":"Central @ Glorieta St.","desc":"10239 CENTRAL AVE E \u0026 GLORIETA ST NE","coordinates":[-106.5339,35.0722],"related_stops":["5640","5638","4529","2345","2131","5642","5992","2119","4531","4581","5994"],"transfer_routes":["3724"],"related_routes":["3708","3727"]
+    },"5996":{"name":"Central @ Wyoming (Rapid)","desc":"8770 CENTRAL AVE E \u0026 GENERAL MARSHALL ST NE","coordinates":[-106.5497,35.0737],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3727"],"related_routes":["3713","3724","3734"]
+    },"6334":{"name":"University @ Central","desc":"105 UNIVERSITY BLVD NE \u0026 CENTRAL AVE E","coordinates":[-106.6269,35.0817],"related_stops":["4681","4683","6444","6446","7525","7510","6334","4457"],"transfer_routes":["3705"],"related_routes":["3724","3726","3727"]
+    },"6444":{"name":"University @ Central","desc":"104 UNIVERSITY BLVD SE \u0026 CENTRAL AVE E","coordinates":[-106.6267,35.081],"related_stops":["4681","4683","6444","6446","7525","7510","6334","4457"],"transfer_routes":["3705"],"related_routes":["3724","3726","3727"]
+    },"6446":{"name":"University @ Central","desc":"108 UNIVERSITY BLVD NE \u0026 CENTRAL AVE E","coordinates":[-106.6266,35.0817],"related_stops":["4681","4683","6444","6446","7525","7510","6334","4457"],"transfer_routes":["3705"],"related_routes":["3724","3726","3727"]
+    },"6520":{"name":"San Mateo @ Central","desc":"130 SAN MATEO BLVD SE \u0026 SILVER AVE SE","coordinates":[-106.586,35.0771],"related_stops":["6742","4487","4641","6520","6522","7520","7515","6740"],"transfer_routes":["3701","3702"],"related_routes":["3724","3726","3727"]
+    },"6522":{"name":"San Mateo @ Central","desc":"160 SAN MATEO BLVD NE","coordinates":[-106.586,35.0786],"related_stops":["6742","4487","4641","6520","6522","7520","7515","6740"],"transfer_routes":["3701","3702"],"related_routes":["3724","3726","3727"]
+    },"6740":{"name":"San Mateo @ Central","desc":"127 SAN MATEO BLVD NE \u0026 SAN MATEO BLVD SE","coordinates":[-106.5864,35.0782],"related_stops":["6742","4487","4641","6520","6522","7520","7515","6740"],"transfer_routes":["3701","3702"],"related_routes":["3724","3726","3727"]
+    },"6742":{"name":"San Mateo @ Central","desc":"117 SAN MATEO BLVD SE \u0026 SILVER AVE SE","coordinates":[-106.5864,35.0773],"related_stops":["6742","4487","4641","6520","6522","7520","7515","6740"],"transfer_routes":["3701","3702"],"related_routes":["3724","3726","3727"]
+    },"6930":{"name":"A.T.C.  (Bay B)","desc":"","coordinates":[-106.6476,35.0835],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["3715","3716"],"related_routes":["3717","3729","3697","3698","3705","3718","3720","3721","3724","3734","3726","3727"]
+    },"6932":{"name":"A.T.C.  (Bay A)","desc":"","coordinates":[-106.6477,35.0833],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["3718"],"related_routes":["3717","3729","3697","3698","3705","3715","3716","3720","3721","3724","3734","3726","3727"]
+    },"6951":{"name":"Coors @ Central","desc":"","coordinates":[-106.7107,35.0792],"related_stops":["6951","4353","4379","7008","7220","7535","7500","7298","7276"],"transfer_routes":["3703"],"related_routes":["3724","3726","3727"]
+    },"6972":{"name":"A.T.C.  (Bay N)","desc":"","coordinates":[-106.648,35.0827],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["3705"],"related_routes":["3717","3729","3697","3698","3715","3716","3718","3720","3721","3724","3734","3726","3727"]
+    },"6979":{"name":"6th @ Gold","desc":"205 6TH ST SW \u0026 GOLD AVE SW","coordinates":[-106.6543,35.0836],"related_stops":["4437","7506","2485","6979","6980"],"transfer_routes":["3729","3715","3716"],"related_routes":["3720","3721","3724","3726","3727"]
+    },"6980":{"name":"5th @ Gold","desc":"5TH ST SW \u0026 GOLD AVE SW","coordinates":[-106.6529,35.0841],"related_stops":["4437","7506","2485","6979","6980"],"transfer_routes":["3729","3715","3716"],"related_routes":["3720","3721","3724","3726","3727"]
+    },"6982":{"name":"5th @ Copper","desc":"226 SILVER AVE SW \u0026 5TH ST SW","coordinates":[-106.6525,35.086],"related_stops":["6982","7529"],"transfer_routes":["3729","3715","3716"],"related_routes":["3726","3727"]
+    },"7008":{"name":"Coors @ Central","desc":"116 COORS BLVD NW","coordinates":[-106.7105,35.0809],"related_stops":["6951","4353","4379","7008","7220","7535","7500","7298","7276"],"transfer_routes":["3703"],"related_routes":["3724","3726","3727"]
+    },"7166":{"name":"Central @ Rio Grande","desc":"2023 CENTRAL AVE W \u0026 ROMERO ST NW","coordinates":[-106.6705,35.0948],"related_stops":["7918","7902","4419","7531","7504","7166"],"transfer_routes":["3716","3724"],"related_routes":["3715","3726","3727","3736"]
+    },"7178":{"name":"Atrisco Ln. @ Central","desc":"Atrisco Drive \u0026 Central","coordinates":[-106.6837,35.0854],"related_stops":["4405","5369","4401","4331","7533","7502","7178","5944"],"transfer_routes":["3719"],"related_routes":["3724","3726","3727"]
+    },"7184":{"name":"Tramway @ Wenonah (Rapid)","desc":"291 TRAMWAY BLVD SE \u0026 WENONAH AVE SE","coordinates":[-106.4981,35.0661],"related_stops":["5677","7184"],"transfer_routes":["3727"],"related_routes":["3696","3724"]
+    },"7220":{"name":"Coors @ Central","desc":"121 COORS BLVD NW","coordinates":[-106.7109,35.0811],"related_stops":["6951","4353","4379","7008","7220","7535","7500","7298","7276"],"transfer_routes":["3703"],"related_routes":["3724","3726","3727"]
+    },"7242":{"name":"Wyoming @ Central","desc":"110 WYOMING BLVD SE","coordinates":[-106.5503,35.0733],"related_stops":["1253","1251","3455","1082","4519","4521","4597","4599","7242","4611","1249","5996","5688"],"transfer_routes":["3713","3734"],"related_routes":["3724","3727"]
+    },"7248":{"name":"Central @ Tingley","desc":"2715 CENTRAL AVE W","coordinates":[-106.6786,35.0923],"related_stops":["4413","7532","7503","5636","4412","7248"],"transfer_routes":["3724"],"related_routes":["3726","3727"]
+    },"7256":{"name":"Central @ Edith","desc":"516 CENTRAL AVE E \u0026 WALTER ST SE","coordinates":[-106.6415,35.0832],"related_stops":["7256","7527","7508","4695","4697"],"transfer_routes":["3724"],"related_routes":["3726","3727"]
+    },"7274":{"name":"Central @ 53rd","desc":"5302 CENTRAL AVE W \u0026 53RD ST SW","coordinates":[-106.6968,35.0829],"related_stops":["4339","7274","7534","7501"],"transfer_routes":["3724"],"related_routes":["3726","3727"]
+    },"7276":{"name":"Central @ 65th","desc":"6428 CENTRAL AVE W \u0026 65TH ST NW","coordinates":[-106.709,35.0802],"related_stops":["6951","4353","4379","7008","7220","7535","7500","7298","7276"],"transfer_routes":["3724"],"related_routes":["3703","3726","3727"]
+    },"7298":{"name":"Central @ 65th","desc":"6431 CENTRAL AVE W \u0026 65TH ST SW","coordinates":[-106.7093,35.0803],"related_stops":["6951","4353","4379","7008","7220","7535","7500","7298","7276"],"transfer_routes":["3724"],"related_routes":["3703","3726","3727"]
+    },"7352":{"name":"Juan Tabo @ Linn","desc":"139 JUAN TABO BLVD NE \u0026 LINN AVE NE","coordinates":[-106.5153,35.0708],"related_stops":["5990","1945","5684","7352","2089","4567","4563","1943","4545"],"transfer_routes":["3696"],"related_routes":["3724","3727"]
+    },"7472":{"name":"Central @ Aliso","desc":"3817 CENTRAL AVE E \u0026 ALISO DR SE","coordinates":[-106.6012,35.0795],"related_stops":["4477","7522","7513","7472"],"transfer_routes":["3724"],"related_routes":["3726","3727"]
+    },"7500":{"name":"ART - West Central Station","desc":"6510 CENTRAL AVE W \u0026 COORS BLVD NW","coordinates":[-106.7101,35.08],"related_stops":["6951","4353","4379","7008","7220","7535","7500","7298","7276"],"transfer_routes":["3726","3727"],"related_routes":["3724","3703"]
+    },"7501":{"name":"ART - The Bluffs Station","desc":"5406 CENTRAL AVE W \u0026 YUCCA DR NW","coordinates":[-106.6984,35.0827],"related_stops":["4339","7274","7534","7501"],"transfer_routes":["3726","3727"],"related_routes":["3724"]
+    },"7502":{"name":"ART - Town of Atrisco Station","desc":"4100 CENTRAL AVE W \u0026 ATRISCO DR NW","coordinates":[-106.6851,35.0857],"related_stops":["4405","5369","4401","4331","7533","7502","7178","5944"],"transfer_routes":["3726","3727"],"related_routes":["3719","3724"]
+    },"7503":{"name":"ART - BioPark Station","desc":"2626 CENTRAL AVE W","coordinates":[-106.6781,35.0932],"related_stops":["4413","7532","7503","5636","4412","7248"],"transfer_routes":["3726","3727"],"related_routes":["3724"]
+    },"7504":{"name":"ART - Old Town Station","desc":"2110 LOMAS BLVD NW \u0026 SAN FELIPE ST NW","coordinates":[-106.6699,35.0943],"related_stops":["7918","7902","4419","7531","7504","7166"],"transfer_routes":["3726","3727"],"related_routes":["3715","3716","3724","3736"]
+    },"7505":{"name":"ART - West Downtown Station","desc":"1503 CENTRAL AVE W \u0026 15TH ST SW","coordinates":[-106.6643,35.0895],"related_stops":["7530","7505"],"transfer_routes":["3726","3727"],"related_routes":[]
+    },"7506":{"name":"ART - Barelas Station","desc":"604 GOLD AVE SW \u0026 6TH ST SW","coordinates":[-106.6544,35.0839],"related_stops":["4437","7506","2485","6979","6980"],"transfer_routes":["3726","3727"],"related_routes":["3729","3715","3716","3720","3721","3724"]
+    },"7507":{"name":"ART - Alvarado Transportation Center","desc":"110 1ST ST SW","coordinates":[-106.6481,35.0835],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["3726","3727"],"related_routes":["3717","3729","3697","3698","3705","3715","3716","3718","3720","3721","3724","3734"]
+    },"7508":{"name":"ART - EDo Station","desc":"600 CENTRAL AVE E \u0026 WALTER ST SE","coordinates":[-106.6409,35.0832],"related_stops":["7256","7527","7508","4695","4697"],"transfer_routes":["3726","3727"],"related_routes":["3724"]
+    },"7509":{"name":"ART - Presbyterian Station","desc":"1218 CENTRAL AVE E \u0026 SPRUCE ST SE","coordinates":[-106.6329,35.0822],"related_stops":["4451","7526","7509","4691"],"transfer_routes":["3726","3727"],"related_routes":["3724"]
+    },"7510":{"name":"ART - U.N.M. / C.N.M. Station","desc":"1808 CENTRAL AVE E \u0026 UNIVERSITY BLVD SE","coordinates":[-106.6264,35.0813],"related_stops":["4681","4683","6444","6446","7525","7510","6334","4457"],"transfer_routes":["3726","3727"],"related_routes":["3705","3724"]
+    },"7511":{"name":"ART - U.N.M. Popejoy Station","desc":"2322 CENTRAL AVE E \u0026 CORNELL DR SE","coordinates":[-106.6198,35.081],"related_stops":["7524","7511","5698"],"transfer_routes":["3726","3727"],"related_routes":["3724"]
+    },"7512":{"name":"ART - Nob Hill Station","desc":"100 BRYN MAWR DR NE \u0026 CENTRAL AVE E","coordinates":[-106.6095,35.0805],"related_stops":["7523","5692","7512"],"transfer_routes":["3726","3727"],"related_routes":["3705","3724"]
+    },"7513":{"name":"ART - Nob Hill East Station","desc":"3716 CENTRAL AVE E \u0026 SOLANO DR NE","coordinates":[-106.6021,35.0795],"related_stops":["4477","7522","7513","7472"],"transfer_routes":["3726","3727"],"related_routes":["3724"]
+    },"7514":{"name":"ART - Highland Station","desc":"4316 CENTRAL AVE E \u0026 WASHINGTON ST NE","coordinates":[-106.5956,35.0788],"related_stops":["4483","7521","7514","4655"],"transfer_routes":["3726","3727"],"related_routes":["3724"]
+    },"7515":{"name":"ART - San Mateo Station","desc":"5206","coordinates":[-106.5867,35.0779],"related_stops":["6742","4487","4641","6520","6522","7520","7515","6740"],"transfer_routes":["3726","3727"],"related_routes":["3724","3701","3702"]
+    },"7517":{"name":"ART - International District Station","desc":"6990 CENTRAL AVE E \u0026 LOUISIANA BLVD NE","coordinates":[-106.569,35.0759],"related_stops":["2823","4623","4627","2775","7518","7517","2777","4503","4509","4507","4621","2821"],"transfer_routes":["3726","3727"],"related_routes":["3724","3704"]
+    },"7518":{"name":"ART - International District Station","desc":"6973 CENTRAL AVE E","coordinates":[-106.5693,35.076],"related_stops":["2823","4623","4627","2775","7518","7517","2777","4503","4509","4507","4621","2821"],"transfer_routes":["3726","3727"],"related_routes":["3724","3704"]
+    },"7520":{"name":"ART - San Mateo Station","desc":"5209 CENTRAL AVE E \u0026 SAN MATEO BLVD SE","coordinates":[-106.5866,35.0779],"related_stops":["6742","4487","4641","6520","6522","7520","7515","6740"],"transfer_routes":["3726","3727"],"related_routes":["3724","3701","3702"]
+    },"7521":{"name":"ART - Highland Station","desc":"4315 CENTRAL AVE E \u0026 WASHINGTON ST NE","coordinates":[-106.5957,35.0789],"related_stops":["4483","7521","7514","4655"],"transfer_routes":["3726","3727"],"related_routes":["3724"]
+    },"7522":{"name":"ART - Nob Hill East Station","desc":"3716 CENTRAL AVE E \u0026 SOLANO DR NE","coordinates":[-106.6022,35.0795],"related_stops":["4477","7522","7513","7472"],"transfer_routes":["3726","3727"],"related_routes":["3724"]
+    },"7523":{"name":"ART - Nob Hill Station","desc":"102 BRYN MAWR DR NE \u0026 CENTRAL AVE E","coordinates":[-106.6096,35.0805],"related_stops":["7523","5692","7512"],"transfer_routes":["3726","3727"],"related_routes":["3705","3724"]
+    },"7524":{"name":"ART - U.N.M. Popejoy Station","desc":"2316 CENTRAL AVE E","coordinates":[-106.6201,35.0811],"related_stops":["7524","7511","5698"],"transfer_routes":["3726","3727"],"related_routes":["3724"]
+    },"7525":{"name":"ART- U.N.M. / C.N.M. Station","desc":"1806 CENTRAL AVE E \u0026 UNIVERSITY BLVD SE","coordinates":[-106.6265,35.0813],"related_stops":["4681","4683","6444","6446","7525","7510","6334","4457"],"transfer_routes":["3726","3727"],"related_routes":["3705","3724"]
+    },"7526":{"name":"ART - Presbyterian Station","desc":"1214 CENTRAL AVE E \u0026 SPRUCE ST SE","coordinates":[-106.633,35.0822],"related_stops":["4451","7526","7509","4691"],"transfer_routes":["3726","3727"],"related_routes":["3724"]
+    },"7527":{"name":"ART - EDo Station","desc":"524 CENTRAL AVE E \u0026 WALTER ST SE","coordinates":[-106.641,35.0832],"related_stops":["7256","7527","7508","4695","4697"],"transfer_routes":["3726","3727"],"related_routes":["3724"]
+    },"7528":{"name":"ART - Downtown Station","desc":"COPPER AVE NW \u0026 1ST ST NW","coordinates":[-106.648,35.0848],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["3726","3727"],"related_routes":["3717","3729","3697","3698","3705","3715","3716","3718","3720","3721","3724","3734"]
+    },"7529":{"name":"ART - Main Library Station","desc":"504 COPPER AVE NW \u0026 6TH ST NW","coordinates":[-106.6536,35.0859],"related_stops":["6982","7529"],"transfer_routes":["3726","3727"],"related_routes":["3729","3715","3716"]
+    },"7530":{"name":"ART - West Downtown Station","desc":"1503 CENTRAL AVE W","coordinates":[-106.6643,35.0896],"related_stops":["7530","7505"],"transfer_routes":["3726","3727"],"related_routes":[]
+    },"7531":{"name":"ART - Old Town Station","desc":"2112 LOMAS BLVD NW \u0026 CENTRAL AVE W","coordinates":[-106.67,35.0944],"related_stops":["7918","7902","4419","7531","7504","7166"],"transfer_routes":["3726","3727"],"related_routes":["3715","3716","3724","3736"]
+    },"7532":{"name":"ART - BioPark Station","desc":"2626 CENTRAL AVE W","coordinates":[-106.6782,35.0931],"related_stops":["4413","7532","7503","5636","4412","7248"],"transfer_routes":["3726","3727"],"related_routes":["3724"]
+    },"7533":{"name":"ART - Town of Atrisco Station","desc":"4100 CENTRAL AVE W \u0026 ATRISCO DR NW","coordinates":[-106.6851,35.0857],"related_stops":["4405","5369","4401","4331","7533","7502","7178","5944"],"transfer_routes":["3726","3727"],"related_routes":["3719","3724"]
+    },"7534":{"name":"ART - The Bluffs Station","desc":"5406 CENTRAL AVE W \u0026 YUCCA DR NW","coordinates":[-106.6983,35.0827],"related_stops":["4339","7274","7534","7501"],"transfer_routes":["3726","3727"],"related_routes":["3724"]
+    },"7535":{"name":"ART - West Central Station","desc":"6510 CENTRAL AVE W \u0026 COORS BLVD NW","coordinates":[-106.7101,35.08],"related_stops":["6951","4353","4379","7008","7220","7535","7500","7298","7276"],"transfer_routes":["3726","3727"],"related_routes":["3724","3703"]
+    },"7902":{"name":"Central @ Rio Grande","desc":"2020 CENTRAL AVE W \u0026 LOMAS BLVD NW","coordinates":[-106.6704,35.0948],"related_stops":["7918","7902","4419","7531","7504","7166"],"transfer_routes":["3736"],"related_routes":["3715","3716","3724","3726","3727"]
+    },"7918":{"name":"Central @ Rio Grande","desc":"2034 CENTRAL AVE W \u0026 ROMERO ST NW","coordinates":[-106.6708,35.0947],"related_stops":["7918","7902","4419","7531","7504","7166"],"transfer_routes":["3736"],"related_routes":["3715","3716","3724","3726","3727"]
     }
   },
   "trip_data": {
     "shapes": {
-      "9df6a": {
-        "bearing": 273.81,"centroid":[-106.6253,35.0812],
-        "bounds": [[-106.7255,35.0659],[0.0,35.0954]
-        ],"coordinates":[[-106.49794200002489,35.066362],[-106.49782500002489,35.066042],[-106.49844700002497,35.065891],[-106.50065100002524,35.065875],[-106.50303900002555,35.066189],[-106.50328000002558,35.066321],[-106.5034280000256,35.066688],[-106.50344300002561,35.068785],[-106.6010520000409,35.079352],[-106.61204100004302,35.080777],[-106.61316100004323,35.081027],[-106.6240060000454,35.081011],[-106.64806100005055,35.084086],[-106.64786800005052,35.085101],[-106.65839900005292,35.086409],[-106.6596460000532,35.087147],[-106.66235400005384,35.088348],[-106.66414600005427,35.089433],[-106.66584300005468,35.091116],[-106.67108600005596,35.095031],[-106.67199500005617,35.095228],[-106.67531500005698,35.095437],[-106.6761830000572,35.09527],[-106.67749300005752,35.09446],[-106.67884200005786,35.091665],[-106.68289600005886,35.087095],[-106.68470800005932,35.085824],[-106.72500500007031,35.076644],[-106.72552100007047,35.078128],[-106.72509000007034,35.07827],[-106.72525500007039,35.078762]],
-        "distances": [0.0,0.0367,0.0976,0.2976,0.5166,0.5432,0.5863,0.8204,9.7284,10.7357,10.8406,11.822,14.0258,14.1402,15.1042,15.2444,15.5233,15.7255,15.9687,16.6148,16.7009,17.0019,17.0827,17.2321,17.5682,18.197,18.4146,22.2008,22.3733,22.4175,22.4769]
-      },
-      "84002": {
+      "71998": {
         "bearing": 93.81,"centroid":[-106.6489,35.0841],
         "bounds": [[-106.7254,35.0664],[0.0,35.0954]
         ],"coordinates":[[-106.72525500007039,35.078762],[-106.72537600007043,35.079066],[-106.72369600006994,35.079525],[-106.72286100006968,35.077121],[-106.68470800005932,35.085824],[-106.68289600005886,35.087095],[-106.67884200005786,35.091665],[-106.67749300005752,35.09446],[-106.6761830000572,35.09527],[-106.67531500005698,35.095437],[-106.67199500005617,35.095228],[-106.67070200005587,35.094813],[-106.66584300005468,35.091116],[-106.66414600005427,35.089433],[-106.66235400005384,35.088348],[-106.6596460000532,35.087147],[-106.65652700005248,35.085233],[-106.65654900005248,35.084145],[-106.6482210000506,35.083076],[-106.64806100005055,35.084086],[-106.64754300005043,35.084055],[-106.6240060000454,35.081011],[-106.61316100004323,35.081027],[-106.61204100004302,35.080777],[-106.6010520000409,35.079352],[-106.49756500002485,35.068187],[-106.4979440000249,35.066928],[-106.49794200002489,35.066362]],
         "distances": [0.0,0.0357,0.1954,0.475,4.0608,4.2784,4.9072,5.2433,5.3927,5.4735,5.7745,5.9023,6.5068,6.7499,6.9522,7.231,7.586,7.7134,8.4756,8.5895,8.6366,10.7932,11.7746,11.8795,12.8869,22.3297,22.4747,22.5387]
+      },
+      "4db9e": {
+        "bearing": 273.81,"centroid":[-106.6253,35.0812],
+        "bounds": [[-106.7255,35.0659],[0.0,35.0954]
+        ],"coordinates":[[-106.49794200002489,35.066362],[-106.49782500002489,35.066042],[-106.49844700002497,35.065891],[-106.50065100002524,35.065875],[-106.50303900002555,35.066189],[-106.50328000002558,35.066321],[-106.5034280000256,35.066688],[-106.50344300002561,35.068785],[-106.6010520000409,35.079352],[-106.61204100004302,35.080777],[-106.61316100004323,35.081027],[-106.6240060000454,35.081011],[-106.64806100005055,35.084086],[-106.64786800005052,35.085101],[-106.65839900005292,35.086409],[-106.6596460000532,35.087147],[-106.66235400005384,35.088348],[-106.66414600005427,35.089433],[-106.66584300005468,35.091116],[-106.67108600005596,35.095031],[-106.67199500005617,35.095228],[-106.67531500005698,35.095437],[-106.6761830000572,35.09527],[-106.67749300005752,35.09446],[-106.67884200005786,35.091665],[-106.68289600005886,35.087095],[-106.68470800005932,35.085824],[-106.72500500007031,35.076644],[-106.72552100007047,35.078128],[-106.72509000007034,35.07827],[-106.72525500007039,35.078762]],
+        "distances": [0.0,0.0367,0.0976,0.2976,0.5166,0.5432,0.5863,0.8204,9.7284,10.7357,10.8406,11.822,14.0258,14.1402,15.1042,15.2444,15.5233,15.7255,15.9687,16.6148,16.7009,17.0019,17.0827,17.2321,17.5682,18.197,18.4146,22.2008,22.3733,22.4175,22.4745]
       }
     },
     "stop_lists": {
@@ -233,326 +217,280 @@
       "03863": ["5960","7500","7501","7502","7503","7504","7505","7506","7507","7508","7509","7510","7511","7512","7513","7514","7515","7517","5996","5992","5990","7184"]
     },
     "stop_times": {
-      "904db": [0,199,330,479,600,764,885,1142,1260,1378,1501,1600,1699,1860,1947,2024,2130,2340,2532,2713,2882,3060],
-      "bc266": [0,199,330,479,600,779,911,1192,1320,1462,1610,1729,1848,2040,2138,2224,2343,2580,2772,2953,3122,3300],
-      "282e2": [0,199,330,479,600,779,911,1192,1320,1438,1561,1660,1759,1920,2007,2084,2190,2400,2592,2773,2942,3120],
-      "11a67": [0,214,381,545,720,926,1033,1110,1200,1411,1543,1675,1836,1980,2082,2256,2374,2520,2650,2814,2943,3180],
-      "2af3c": [0,232,413,590,780,986,1093,1170,1260,1471,1603,1735,1896,2040,2142,2316,2434,2580,2710,2874,3003,3240],
-      "09959": [0,214,381,545,720,926,1033,1110,1200,1394,1516,1638,1786,1920,2010,2164,2269,2400,2542,2721,2862,3120],
-      "9b6d2": [0,214,381,545,720,926,1033,1110,1200,1411,1543,1675,1836,1980,2093,2286,2417,2580,2722,2901,3042,3300],
-      "70eae": [0,199,330,479,600,764,885,1142,1260,1378,1501,1600,1699,1860,1969,2065,2197,2460,2636,2802,2957,3120],
-      "40bdd": [0,268,477,682,900,1106,1213,1290,1380,1574,1696,1818,1966,2100,2202,2376,2494,2640,2794,2988,3141,3420],
-      "ef8c6": [0,196,349,499,660,840,933,1001,1080,1274,1396,1518,1666,1800,1890,2044,2149,2280,2410,2574,2703,2940],
-      "9d044": [0,232,413,590,780,986,1093,1170,1260,1471,1603,1735,1896,2040,2153,2346,2477,2640,2782,2961,3102,3360],
-      "fd08d": [0,159,264,383,480,629,739,973,1080,1186,1297,1386,1475,1620,1707,1784,1890,2100,2276,2442,2597,2760],
-      "957d2": [0,232,413,590,780,986,1093,1170,1260,1454,1576,1698,1846,1980,2082,2256,2374,2520,2662,2841,2982,3240],
-      "71e63": [0,159,264,383,480,629,739,973,1080,1186,1297,1386,1475,1620,1707,1784,1890,2100,2260,2411,2552,2700],
-      "56838": [0,196,349,499,660,866,973,1050,1140,1318,1430,1542,1678,1800,1902,2076,2194,2340,2470,2634,2763,3000],
-      "5939f": [0,250,445,636,840,1046,1153,1230,1320,1514,1636,1758,1906,2040,2142,2316,2434,2580,2734,2928,3081,3360],
-      "a59e6": [0,214,381,545,720,926,1033,1110,1200,1378,1490,1602,1738,1860,1950,2104,2209,2340,2470,2634,2763,3000],
-      "0be1f": [0,199,330,479,600,779,911,1192,1320,1462,1610,1729,1848,2040,2127,2204,2310,2520,2712,2893,3062,3240],
-      "1a752": [0,219,363,527,660,824,945,1202,1320,1473,1633,1762,1891,2100,2198,2284,2403,2640,2848,3044,3227,3420],
-      "2586f": [0,199,330,479,600,764,885,1142,1260,1378,1501,1600,1699,1860,1947,2024,2130,2340,2516,2682,2837,3000],
-      "0a38e": [0,178,317,453,600,780,873,941,1020,1198,1310,1422,1558,1680,1770,1924,2029,2160,2279,2428,2546,2760],
-      "c2b89": [0,214,381,545,720,926,1033,1110,1200,1394,1516,1638,1786,1920,2022,2196,2314,2460,2602,2781,2922,3180],
-      "031f5": [0,250,445,636,840,1046,1153,1230,1320,1531,1663,1795,1956,2100,2213,2406,2537,2700,2842,3021,3162,3420],
-      "5e7b3": [0,179,297,431,540,689,799,1033,1140,1258,1381,1480,1579,1740,1827,1904,2010,2220,2396,2562,2717,2880],
-      "81c48": [0,214,381,545,720,900,993,1061,1140,1334,1456,1578,1726,1860,1950,2104,2209,2340,2470,2634,2763,3000],
-      "7cb66": [0,232,413,590,780,986,1093,1170,1260,1454,1576,1698,1846,1980,2082,2256,2374,2520,2650,2814,2943,3180],
-      "cddad": [0,196,349,499,660,840,933,1001,1080,1258,1370,1482,1618,1740,1830,1984,2089,2220,2339,2488,2606,2820],
-      "0539e": [0,214,381,545,720,926,1033,1110,1200,1378,1490,1602,1738,1860,1962,2136,2254,2400,2530,2694,2823,3060],
-      "d95c5": [0,219,363,527,660,839,971,1252,1380,1510,1646,1755,1864,2040,2149,2245,2377,2640,2832,3013,3182,3360],
-      "350dd": [0,219,363,527,660,824,945,1202,1320,1438,1561,1660,1759,1920,2029,2125,2257,2520,2712,2893,3062,3240],
-      "272cf": [0,232,413,590,780,986,1093,1170,1260,1438,1550,1662,1798,1920,2022,2196,2314,2460,2590,2754,2883,3120],
-      "4e760": [0,232,413,590,780,986,1093,1170,1260,1454,1576,1698,1846,1980,2093,2286,2417,2580,2722,2901,3042,3300],
-      "4b994": [0,199,330,479,600,779,911,1192,1320,1462,1610,1729,1848,2040,2127,2204,2310,2520,2728,2924,3107,3300],
-      "336a4": [0,199,330,479,600,779,911,1192,1320,1450,1586,1695,1804,1980,2078,2164,2283,2520,2728,2924,3107,3300],
-      "e3bcf": [0,196,349,499,660,866,973,1050,1140,1318,1430,1542,1678,1800,1890,2044,2149,2280,2410,2574,2703,2940],
-      "eb192": [0,214,381,545,720,926,1033,1110,1200,1394,1516,1638,1786,1920,2022,2196,2314,2460,2590,2754,2883,3120],
-      "d1854": [0,179,297,431,540,689,799,1033,1140,1258,1381,1480,1579,1740,1827,1904,2010,2220,2380,2531,2672,2820],
-      "343cc": [0,199,330,479,600,764,885,1142,1260,1390,1526,1635,1744,1920,2018,2104,2223,2460,2652,2833,3002,3180],
-      "ae675": [0,199,330,479,600,764,885,1142,1260,1378,1501,1600,1699,1860,1958,2044,2163,2400,2576,2742,2897,3060],
-      "f3c9c": [0,199,330,479,600,764,885,1142,1260,1402,1550,1669,1788,1980,2078,2164,2283,2520,2744,2955,3152,3360],
-      "27f78": [0,232,413,590,780,986,1093,1170,1260,1438,1550,1662,1798,1920,2033,2226,2357,2520,2650,2814,2943,3180],
-      "5be6b": [0,199,330,479,600,779,911,1192,1320,1462,1610,1729,1848,2040,2138,2224,2343,2580,2788,2984,3167,3360],
-      "22e21": [0,199,330,479,600,764,885,1142,1260,1378,1501,1600,1699,1860,1958,2044,2163,2400,2592,2773,2942,3120],
-      "91914": [0,179,297,431,540,704,825,1082,1200,1306,1417,1506,1595,1740,1838,1924,2043,2280,2456,2622,2777,2940]
+      "7ddfe": [0,199,330,479,600,779,911,1192,1320,1529,1643,1730,1971,2040,2138,2224,2343,2580,2768,2945,3110,3300],
+      "4db92": [0,159,264,383,480,629,739,973,1080,1236,1322,1387,1568,1620,1707,1784,1890,2100,2257,2404,2542,2700],
+      "5be13": [0,203,374,541,720,926,1033,1110,1200,1396,1532,1637,1787,1920,2022,2196,2314,2460,2592,2758,2889,3120],
+      "68339": [0,199,330,479,600,779,911,1192,1320,1511,1616,1695,1916,1980,2078,2164,2283,2520,2724,2916,3095,3300],
+      "cfc49": [0,220,405,586,780,986,1093,1170,1260,1472,1619,1733,1896,2040,2142,2316,2434,2580,2712,2878,3009,3240],
+      "3127e": [0,199,330,479,600,764,885,1142,1260,1434,1529,1601,1802,1860,1947,2024,2130,2340,2528,2705,2870,3060],
+      "a9bd4": [0,199,330,479,600,764,885,1142,1260,1434,1529,1601,1802,1860,1947,2024,2130,2340,2512,2674,2826,3000],
+      "dae76": [0,237,436,631,840,1046,1153,1230,1320,1532,1679,1793,1956,2100,2213,2406,2537,2700,2844,3025,3168,3420],
+      "8cbe8": [0,199,330,479,600,764,885,1142,1260,1434,1529,1601,1802,1860,1958,2044,2163,2400,2588,2765,2930,3120],
+      "aff4b": [0,203,374,541,720,926,1033,1110,1200,1412,1559,1673,1836,1980,2093,2286,2417,2580,2724,2905,3048,3300],
+      "a8312": [0,186,342,495,660,866,973,1050,1140,1319,1443,1539,1677,1800,1890,2044,2149,2280,2412,2578,2709,2940],
+      "b1819": [0,186,342,495,660,866,973,1050,1140,1319,1443,1539,1677,1800,1902,2076,2194,2340,2472,2638,2769,3000],
+      "e740f": [0,220,405,586,780,986,1093,1170,1260,1439,1563,1659,1797,1920,2022,2196,2314,2460,2592,2758,2889,3120],
+      "f7755": [0,159,264,383,480,629,739,973,1080,1236,1322,1387,1568,1620,1707,1784,1890,2100,2272,2434,2586,2760],
+      "323de": [0,179,297,431,540,689,799,1033,1140,1314,1409,1481,1682,1740,1827,1904,2010,2220,2377,2524,2662,2820],
+      "d989b": [0,203,374,541,720,926,1033,1110,1200,1396,1532,1637,1787,1920,2022,2196,2314,2460,2604,2785,2928,3180],
+      "c43a3": [0,199,330,479,600,779,911,1192,1320,1529,1643,1730,1971,2040,2138,2224,2343,2580,2784,2976,3155,3360],
+      "bebf2": [0,199,330,479,600,764,885,1142,1260,1434,1529,1601,1802,1860,1958,2044,2163,2400,2572,2734,2886,3060],
+      "6ecc8": [0,220,405,586,780,986,1093,1170,1260,1456,1592,1697,1847,1980,2082,2256,2374,2520,2664,2845,2988,3240],
+      "138b4": [0,220,405,586,780,986,1093,1170,1260,1456,1592,1697,1847,1980,2082,2256,2374,2520,2652,2818,2949,3180],
+      "5c6b9": [0,199,330,479,600,764,885,1142,1260,1451,1556,1635,1856,1920,2018,2104,2223,2460,2648,2825,2990,3180],
+      "31e08": [0,203,374,541,720,900,993,1061,1140,1336,1472,1577,1727,1860,1950,2104,2209,2340,2472,2638,2769,3000],
+      "985ec": [0,203,374,541,720,926,1033,1110,1200,1379,1503,1599,1737,1860,1962,2136,2254,2400,2532,2698,2829,3060],
+      "6aee8": [0,220,405,586,780,986,1093,1170,1260,1472,1619,1733,1896,2040,2153,2346,2477,2640,2784,2965,3108,3360],
+      "b4f20": [0,220,405,586,780,986,1093,1170,1260,1456,1592,1697,1847,1980,2093,2286,2417,2580,2724,2905,3048,3300],
+      "98ac2": [0,186,342,495,660,840,933,1001,1080,1259,1383,1479,1617,1740,1830,1984,2089,2220,2340,2491,2610,2820],
+      "3d49d": [0,203,374,541,720,926,1033,1110,1200,1412,1559,1673,1836,1980,2082,2256,2374,2520,2652,2818,2949,3180],
+      "15bda": [0,179,297,431,540,689,799,1033,1140,1314,1409,1481,1682,1740,1827,1904,2010,2220,2392,2554,2706,2880],
+      "3a255": [0,169,311,450,600,780,873,941,1020,1199,1323,1419,1557,1680,1770,1924,2029,2160,2280,2431,2550,2760]
     },
     "stop_distances": {
-      "b56b6": [0.0,1.6702,2.7755,4.027,5.0321,5.9023,6.5471,7.9116,8.5271,9.2352,9.9755,10.5709,11.1664,12.1159,12.7941,13.3896,14.2103,15.8197,17.581,19.2395,20.7901,22.4033],
-      "af0db": [0.0,1.9353,3.5604,5.1534,6.8361,8.4156,9.2384,9.8351,10.5133,11.471,12.0664,12.6619,13.3861,14.0281,14.6667,15.7541,16.4955,17.3985,18.417,19.6982,20.7077,22.4769]
+      "8d2be": [0.0,1.9353,3.5604,5.1534,6.8361,8.4156,9.2384,9.8351,10.5133,11.471,12.1345,12.6489,13.3837,14.0258,14.6643,15.7517,16.4931,17.3961,18.4146,19.6958,20.7053,22.4745],
+      "fd730": [0.0,1.6702,2.7755,4.027,5.0321,5.9023,6.5471,7.9116,8.5271,9.5678,10.1384,10.5724,11.7746,12.109,12.7872,13.3827,14.2034,15.8128,17.5741,19.2325,20.7832,22.5432]
     },
     "dwell_times": {
       "f2331": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
     },
     "trips": {
       "1": [
-        {"id":"433363","direction":0,"start_time":19140,"stops_key":"03863","stop_distances":"b56b6","stop_times":"71e63","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433364","direction":0,"start_time":20340,"stops_key":"03863","stop_distances":"b56b6","stop_times":"71e63","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433365","direction":0,"start_time":21540,"stops_key":"03863","stop_distances":"b56b6","stop_times":"71e63","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433366","direction":0,"start_time":22560,"stops_key":"03863","stop_distances":"b56b6","stop_times":"5e7b3","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433367","direction":0,"start_time":23520,"stops_key":"03863","stop_distances":"b56b6","stop_times":"5e7b3","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433368","direction":0,"start_time":24420,"stops_key":"03863","stop_distances":"b56b6","stop_times":"5e7b3","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433369","direction":0,"start_time":25320,"stops_key":"03863","stop_distances":"b56b6","stop_times":"5e7b3","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433370","direction":0,"start_time":25920,"stops_key":"03863","stop_distances":"b56b6","stop_times":"282e2","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433371","direction":0,"start_time":26880,"stops_key":"03863","stop_distances":"b56b6","stop_times":"282e2","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433372","direction":0,"start_time":27780,"stops_key":"03863","stop_distances":"b56b6","stop_times":"282e2","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433373","direction":0,"start_time":28680,"stops_key":"03863","stop_distances":"b56b6","stop_times":"282e2","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433374","direction":0,"start_time":29640,"stops_key":"03863","stop_distances":"b56b6","stop_times":"282e2","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433375","direction":0,"start_time":30420,"stops_key":"03863","stop_distances":"b56b6","stop_times":"282e2","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433376","direction":0,"start_time":31320,"stops_key":"03863","stop_distances":"b56b6","stop_times":"0be1f","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433377","direction":0,"start_time":32220,"stops_key":"03863","stop_distances":"b56b6","stop_times":"0be1f","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433378","direction":0,"start_time":33120,"stops_key":"03863","stop_distances":"b56b6","stop_times":"0be1f","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433379","direction":0,"start_time":34020,"stops_key":"03863","stop_distances":"b56b6","stop_times":"0be1f","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433380","direction":0,"start_time":34920,"stops_key":"03863","stop_distances":"b56b6","stop_times":"0be1f","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433381","direction":0,"start_time":35820,"stops_key":"03863","stop_distances":"b56b6","stop_times":"0be1f","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433382","direction":0,"start_time":36660,"stops_key":"03863","stop_distances":"b56b6","stop_times":"4b994","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433383","direction":0,"start_time":37560,"stops_key":"03863","stop_distances":"b56b6","stop_times":"4b994","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433384","direction":0,"start_time":38460,"stops_key":"03863","stop_distances":"b56b6","stop_times":"4b994","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433385","direction":0,"start_time":39360,"stops_key":"03863","stop_distances":"b56b6","stop_times":"4b994","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433386","direction":0,"start_time":40260,"stops_key":"03863","stop_distances":"b56b6","stop_times":"4b994","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433387","direction":0,"start_time":41160,"stops_key":"03863","stop_distances":"b56b6","stop_times":"4b994","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433388","direction":0,"start_time":42120,"stops_key":"03863","stop_distances":"b56b6","stop_times":"f3c9c","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433389","direction":0,"start_time":43020,"stops_key":"03863","stop_distances":"b56b6","stop_times":"f3c9c","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433390","direction":0,"start_time":43920,"stops_key":"03863","stop_distances":"b56b6","stop_times":"f3c9c","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433391","direction":0,"start_time":44820,"stops_key":"03863","stop_distances":"b56b6","stop_times":"f3c9c","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433392","direction":0,"start_time":45720,"stops_key":"03863","stop_distances":"b56b6","stop_times":"f3c9c","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433393","direction":0,"start_time":46620,"stops_key":"03863","stop_distances":"b56b6","stop_times":"f3c9c","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433394","direction":0,"start_time":47520,"stops_key":"03863","stop_distances":"b56b6","stop_times":"f3c9c","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433395","direction":0,"start_time":48420,"stops_key":"03863","stop_distances":"b56b6","stop_times":"f3c9c","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433396","direction":0,"start_time":49320,"stops_key":"03863","stop_distances":"b56b6","stop_times":"f3c9c","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433397","direction":0,"start_time":50220,"stops_key":"03863","stop_distances":"b56b6","stop_times":"f3c9c","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433398","direction":0,"start_time":51120,"stops_key":"03863","stop_distances":"b56b6","stop_times":"f3c9c","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433399","direction":0,"start_time":52020,"stops_key":"03863","stop_distances":"b56b6","stop_times":"f3c9c","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433400","direction":0,"start_time":52860,"stops_key":"03863","stop_distances":"b56b6","stop_times":"1a752","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433401","direction":0,"start_time":53760,"stops_key":"03863","stop_distances":"b56b6","stop_times":"1a752","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433402","direction":0,"start_time":54660,"stops_key":"03863","stop_distances":"b56b6","stop_times":"1a752","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433403","direction":0,"start_time":55560,"stops_key":"03863","stop_distances":"b56b6","stop_times":"1a752","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433404","direction":0,"start_time":56460,"stops_key":"03863","stop_distances":"b56b6","stop_times":"1a752","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433405","direction":0,"start_time":57360,"stops_key":"03863","stop_distances":"b56b6","stop_times":"1a752","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433406","direction":0,"start_time":58260,"stops_key":"03863","stop_distances":"b56b6","stop_times":"1a752","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433407","direction":0,"start_time":59160,"stops_key":"03863","stop_distances":"b56b6","stop_times":"1a752","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433408","direction":0,"start_time":60060,"stops_key":"03863","stop_distances":"b56b6","stop_times":"1a752","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433409","direction":0,"start_time":60960,"stops_key":"03863","stop_distances":"b56b6","stop_times":"d95c5","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433410","direction":0,"start_time":61860,"stops_key":"03863","stop_distances":"b56b6","stop_times":"d95c5","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433411","direction":0,"start_time":62760,"stops_key":"03863","stop_distances":"b56b6","stop_times":"d95c5","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433412","direction":0,"start_time":63720,"stops_key":"03863","stop_distances":"b56b6","stop_times":"350dd","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433413","direction":0,"start_time":64620,"stops_key":"03863","stop_distances":"b56b6","stop_times":"350dd","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433414","direction":0,"start_time":65520,"stops_key":"03863","stop_distances":"b56b6","stop_times":"350dd","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433415","direction":0,"start_time":66480,"stops_key":"03863","stop_distances":"b56b6","stop_times":"70eae","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433416","direction":0,"start_time":67440,"stops_key":"03863","stop_distances":"b56b6","stop_times":"70eae","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433417","direction":0,"start_time":68460,"stops_key":"03863","stop_distances":"b56b6","stop_times":"70eae","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433418","direction":0,"start_time":69480,"stops_key":"03863","stop_distances":"b56b6","stop_times":"ae675","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433419","direction":0,"start_time":70680,"stops_key":"03863","stop_distances":"b56b6","stop_times":"ae675","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433420","direction":0,"start_time":71820,"stops_key":"03863","stop_distances":"b56b6","stop_times":"ae675","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433421","direction":0,"start_time":73020,"stops_key":"03863","stop_distances":"b56b6","stop_times":"ae675","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433422","direction":0,"start_time":74220,"stops_key":"03863","stop_distances":"b56b6","stop_times":"ae675","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433423","direction":0,"start_time":75480,"stops_key":"03863","stop_distances":"b56b6","stop_times":"91914","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433424","direction":1,"start_time":18780,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"cddad","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433425","direction":1,"start_time":19980,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"cddad","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433426","direction":1,"start_time":21000,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"cddad","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433427","direction":1,"start_time":21900,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"cddad","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433428","direction":1,"start_time":22680,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"a59e6","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433429","direction":1,"start_time":23580,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"a59e6","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433430","direction":1,"start_time":24420,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"27f78","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433431","direction":1,"start_time":25260,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"27f78","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433432","direction":1,"start_time":26220,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"27f78","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433433","direction":1,"start_time":27120,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"27f78","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433434","direction":1,"start_time":28020,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"27f78","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433435","direction":1,"start_time":28920,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"27f78","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433436","direction":1,"start_time":29820,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"27f78","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433437","direction":1,"start_time":30720,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"27f78","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433438","direction":1,"start_time":31620,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"27f78","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433439","direction":1,"start_time":32400,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"2af3c","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433440","direction":1,"start_time":33300,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"2af3c","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433441","direction":1,"start_time":34200,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"2af3c","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433442","direction":1,"start_time":35100,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"2af3c","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433443","direction":1,"start_time":36000,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"2af3c","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433444","direction":1,"start_time":36900,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"2af3c","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433445","direction":1,"start_time":37800,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"2af3c","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433446","direction":1,"start_time":38700,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"2af3c","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433447","direction":1,"start_time":39600,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"2af3c","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433448","direction":1,"start_time":40440,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"031f5","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433449","direction":1,"start_time":41340,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"031f5","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433450","direction":1,"start_time":42240,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"031f5","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433451","direction":1,"start_time":43140,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"031f5","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433452","direction":1,"start_time":44040,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"031f5","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433453","direction":1,"start_time":44940,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"031f5","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433454","direction":1,"start_time":45840,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"031f5","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433455","direction":1,"start_time":46740,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"031f5","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433456","direction":1,"start_time":47640,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"031f5","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433457","direction":1,"start_time":48540,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"031f5","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433458","direction":1,"start_time":49440,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"031f5","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433459","direction":1,"start_time":50340,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"031f5","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433460","direction":1,"start_time":51240,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"031f5","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433461","direction":1,"start_time":52140,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"031f5","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433462","direction":1,"start_time":53040,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"031f5","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433463","direction":1,"start_time":53940,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"40bdd","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433464","direction":1,"start_time":54840,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"40bdd","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433465","direction":1,"start_time":55740,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"40bdd","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433466","direction":1,"start_time":56640,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"40bdd","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433467","direction":1,"start_time":57540,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"40bdd","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433468","direction":1,"start_time":58440,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"40bdd","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433469","direction":1,"start_time":59340,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"40bdd","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433470","direction":1,"start_time":60240,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"40bdd","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433471","direction":1,"start_time":61140,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"40bdd","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433472","direction":1,"start_time":62100,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"5939f","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433473","direction":1,"start_time":63000,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"5939f","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433474","direction":1,"start_time":63900,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"5939f","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433475","direction":1,"start_time":64800,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"5939f","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433476","direction":1,"start_time":65700,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"5939f","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433477","direction":1,"start_time":66840,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"09959","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433478","direction":1,"start_time":68100,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"09959","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433479","direction":1,"start_time":69240,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"09959","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433480","direction":1,"start_time":70440,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"09959","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433481","direction":1,"start_time":71640,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"09959","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433482","direction":1,"start_time":73020,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"ef8c6","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433483","direction":1,"start_time":74220,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"ef8c6","stop_dwells":"f2331","shape_key":"9df6a"}
+        {"id":"486902","direction":0,"start_time":19140,"stops_key":"03863","stop_distances":"fd730","stop_times":"4db92","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486946","direction":0,"start_time":20520,"stops_key":"03863","stop_distances":"fd730","stop_times":"4db92","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486945","direction":0,"start_time":22320,"stops_key":"03863","stop_distances":"fd730","stop_times":"4db92","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486944","direction":0,"start_time":24060,"stops_key":"03863","stop_distances":"fd730","stop_times":"323de","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486943","direction":0,"start_time":25860,"stops_key":"03863","stop_distances":"fd730","stop_times":"323de","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486942","direction":0,"start_time":27240,"stops_key":"03863","stop_distances":"fd730","stop_times":"a9bd4","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486941","direction":0,"start_time":28440,"stops_key":"03863","stop_distances":"fd730","stop_times":"a9bd4","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486940","direction":0,"start_time":29640,"stops_key":"03863","stop_distances":"fd730","stop_times":"a9bd4","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486939","direction":0,"start_time":30840,"stops_key":"03863","stop_distances":"fd730","stop_times":"a9bd4","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486938","direction":0,"start_time":32040,"stops_key":"03863","stop_distances":"fd730","stop_times":"a9bd4","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486937","direction":0,"start_time":33180,"stops_key":"03863","stop_distances":"fd730","stop_times":"68339","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486936","direction":0,"start_time":34380,"stops_key":"03863","stop_distances":"fd730","stop_times":"68339","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486935","direction":0,"start_time":35580,"stops_key":"03863","stop_distances":"fd730","stop_times":"68339","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486934","direction":0,"start_time":36780,"stops_key":"03863","stop_distances":"fd730","stop_times":"68339","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486933","direction":0,"start_time":37980,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486932","direction":0,"start_time":39180,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486931","direction":0,"start_time":40380,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486930","direction":0,"start_time":41580,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486929","direction":0,"start_time":42780,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486928","direction":0,"start_time":43980,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486927","direction":0,"start_time":45180,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486926","direction":0,"start_time":46380,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486925","direction":0,"start_time":47580,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486924","direction":0,"start_time":48780,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486923","direction":0,"start_time":49980,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486922","direction":0,"start_time":51180,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486921","direction":0,"start_time":52380,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486920","direction":0,"start_time":53580,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486919","direction":0,"start_time":54780,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486918","direction":0,"start_time":55980,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486917","direction":0,"start_time":57180,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486916","direction":0,"start_time":58380,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486915","direction":0,"start_time":59580,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486914","direction":0,"start_time":60780,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486913","direction":0,"start_time":61980,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486912","direction":0,"start_time":63180,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486911","direction":0,"start_time":64380,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486910","direction":0,"start_time":65640,"stops_key":"03863","stop_distances":"fd730","stop_times":"5c6b9","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486909","direction":0,"start_time":66840,"stops_key":"03863","stop_distances":"fd730","stop_times":"5c6b9","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486908","direction":0,"start_time":68040,"stops_key":"03863","stop_distances":"fd730","stop_times":"5c6b9","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486907","direction":0,"start_time":69300,"stops_key":"03863","stop_distances":"fd730","stop_times":"5c6b9","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486906","direction":0,"start_time":70560,"stops_key":"03863","stop_distances":"fd730","stop_times":"5c6b9","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486905","direction":0,"start_time":71820,"stops_key":"03863","stop_distances":"fd730","stop_times":"8cbe8","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486904","direction":0,"start_time":73020,"stops_key":"03863","stop_distances":"fd730","stop_times":"8cbe8","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486903","direction":0,"start_time":74220,"stops_key":"03863","stop_distances":"fd730","stop_times":"8cbe8","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486947","direction":1,"start_time":18780,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"98ac2","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486991","direction":1,"start_time":20880,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"98ac2","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486990","direction":1,"start_time":22680,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"98ac2","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486989","direction":1,"start_time":24420,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"a8312","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486988","direction":1,"start_time":26220,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"a8312","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486987","direction":1,"start_time":27720,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"a8312","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486986","direction":1,"start_time":28920,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"a8312","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486985","direction":1,"start_time":30000,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"e740f","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486984","direction":1,"start_time":31200,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"e740f","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486983","direction":1,"start_time":32400,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"e740f","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486982","direction":1,"start_time":33600,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"e740f","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486981","direction":1,"start_time":34800,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"e740f","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486980","direction":1,"start_time":36000,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"e740f","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486979","direction":1,"start_time":37200,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"e740f","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486978","direction":1,"start_time":38400,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"e740f","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486977","direction":1,"start_time":39480,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"cfc49","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486976","direction":1,"start_time":40680,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"cfc49","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486975","direction":1,"start_time":41880,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"cfc49","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486974","direction":1,"start_time":43080,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"cfc49","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486973","direction":1,"start_time":44220,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"dae76","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486972","direction":1,"start_time":45420,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"dae76","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486971","direction":1,"start_time":46620,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"dae76","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486970","direction":1,"start_time":47820,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"dae76","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486969","direction":1,"start_time":49020,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"dae76","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486968","direction":1,"start_time":50220,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"dae76","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486967","direction":1,"start_time":51420,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"dae76","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486966","direction":1,"start_time":52620,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"dae76","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486965","direction":1,"start_time":53940,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"b4f20","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486964","direction":1,"start_time":55140,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"b4f20","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486963","direction":1,"start_time":56340,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"6ecc8","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486962","direction":1,"start_time":57540,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"6ecc8","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486961","direction":1,"start_time":58740,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"6ecc8","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486960","direction":1,"start_time":59940,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"6ecc8","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486959","direction":1,"start_time":61140,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"6ecc8","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486958","direction":1,"start_time":62340,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"6ecc8","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486957","direction":1,"start_time":63540,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"6ecc8","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486956","direction":1,"start_time":64740,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"138b4","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486955","direction":1,"start_time":65940,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"138b4","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486954","direction":1,"start_time":67080,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"138b4","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486953","direction":1,"start_time":68220,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"138b4","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486952","direction":1,"start_time":69360,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"138b4","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486951","direction":1,"start_time":70500,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"138b4","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486950","direction":1,"start_time":71640,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"138b4","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486949","direction":1,"start_time":72960,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"31e08","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486948","direction":1,"start_time":74160,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"31e08","stop_dwells":"f2331","shape_key":"4db9e"}
       ],
       "2": [
-        {"id":"433625","direction":0,"start_time":20520,"stops_key":"03863","stop_distances":"b56b6","stop_times":"71e63","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433626","direction":0,"start_time":22320,"stops_key":"03863","stop_distances":"b56b6","stop_times":"71e63","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433627","direction":0,"start_time":24060,"stops_key":"03863","stop_distances":"b56b6","stop_times":"d1854","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433628","direction":0,"start_time":25860,"stops_key":"03863","stop_distances":"b56b6","stop_times":"d1854","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433629","direction":0,"start_time":27240,"stops_key":"03863","stop_distances":"b56b6","stop_times":"2586f","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433630","direction":0,"start_time":28440,"stops_key":"03863","stop_distances":"b56b6","stop_times":"2586f","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433631","direction":0,"start_time":29640,"stops_key":"03863","stop_distances":"b56b6","stop_times":"2586f","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433632","direction":0,"start_time":30840,"stops_key":"03863","stop_distances":"b56b6","stop_times":"2586f","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433633","direction":0,"start_time":32040,"stops_key":"03863","stop_distances":"b56b6","stop_times":"2586f","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433634","direction":0,"start_time":33180,"stops_key":"03863","stop_distances":"b56b6","stop_times":"336a4","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433635","direction":0,"start_time":34380,"stops_key":"03863","stop_distances":"b56b6","stop_times":"336a4","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433636","direction":0,"start_time":35580,"stops_key":"03863","stop_distances":"b56b6","stop_times":"336a4","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433637","direction":0,"start_time":36780,"stops_key":"03863","stop_distances":"b56b6","stop_times":"336a4","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433638","direction":0,"start_time":37980,"stops_key":"03863","stop_distances":"b56b6","stop_times":"5be6b","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433639","direction":0,"start_time":39180,"stops_key":"03863","stop_distances":"b56b6","stop_times":"5be6b","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433640","direction":0,"start_time":40380,"stops_key":"03863","stop_distances":"b56b6","stop_times":"5be6b","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433641","direction":0,"start_time":41580,"stops_key":"03863","stop_distances":"b56b6","stop_times":"5be6b","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433642","direction":0,"start_time":42780,"stops_key":"03863","stop_distances":"b56b6","stop_times":"5be6b","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433643","direction":0,"start_time":43980,"stops_key":"03863","stop_distances":"b56b6","stop_times":"5be6b","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433644","direction":0,"start_time":45180,"stops_key":"03863","stop_distances":"b56b6","stop_times":"5be6b","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433645","direction":0,"start_time":46380,"stops_key":"03863","stop_distances":"b56b6","stop_times":"5be6b","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433646","direction":0,"start_time":47580,"stops_key":"03863","stop_distances":"b56b6","stop_times":"5be6b","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433647","direction":0,"start_time":48780,"stops_key":"03863","stop_distances":"b56b6","stop_times":"5be6b","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433648","direction":0,"start_time":49980,"stops_key":"03863","stop_distances":"b56b6","stop_times":"5be6b","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433649","direction":0,"start_time":51180,"stops_key":"03863","stop_distances":"b56b6","stop_times":"5be6b","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433650","direction":0,"start_time":52380,"stops_key":"03863","stop_distances":"b56b6","stop_times":"5be6b","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433651","direction":0,"start_time":53580,"stops_key":"03863","stop_distances":"b56b6","stop_times":"5be6b","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433652","direction":0,"start_time":54780,"stops_key":"03863","stop_distances":"b56b6","stop_times":"5be6b","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433653","direction":0,"start_time":55980,"stops_key":"03863","stop_distances":"b56b6","stop_times":"5be6b","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433654","direction":0,"start_time":57180,"stops_key":"03863","stop_distances":"b56b6","stop_times":"5be6b","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433655","direction":0,"start_time":58380,"stops_key":"03863","stop_distances":"b56b6","stop_times":"5be6b","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433656","direction":0,"start_time":59580,"stops_key":"03863","stop_distances":"b56b6","stop_times":"5be6b","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433657","direction":0,"start_time":60780,"stops_key":"03863","stop_distances":"b56b6","stop_times":"5be6b","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433658","direction":0,"start_time":61980,"stops_key":"03863","stop_distances":"b56b6","stop_times":"5be6b","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433659","direction":0,"start_time":63180,"stops_key":"03863","stop_distances":"b56b6","stop_times":"5be6b","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433660","direction":0,"start_time":64380,"stops_key":"03863","stop_distances":"b56b6","stop_times":"5be6b","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433661","direction":0,"start_time":65640,"stops_key":"03863","stop_distances":"b56b6","stop_times":"343cc","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433662","direction":0,"start_time":66840,"stops_key":"03863","stop_distances":"b56b6","stop_times":"343cc","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433663","direction":0,"start_time":68040,"stops_key":"03863","stop_distances":"b56b6","stop_times":"343cc","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433664","direction":0,"start_time":69300,"stops_key":"03863","stop_distances":"b56b6","stop_times":"343cc","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433665","direction":0,"start_time":70560,"stops_key":"03863","stop_distances":"b56b6","stop_times":"343cc","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433666","direction":0,"start_time":71820,"stops_key":"03863","stop_distances":"b56b6","stop_times":"22e21","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433667","direction":0,"start_time":73020,"stops_key":"03863","stop_distances":"b56b6","stop_times":"22e21","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433668","direction":0,"start_time":74220,"stops_key":"03863","stop_distances":"b56b6","stop_times":"22e21","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"433669","direction":1,"start_time":20880,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"cddad","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433670","direction":1,"start_time":22680,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"cddad","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433671","direction":1,"start_time":24420,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"e3bcf","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433672","direction":1,"start_time":26220,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"e3bcf","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433673","direction":1,"start_time":27720,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"e3bcf","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433674","direction":1,"start_time":28920,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"e3bcf","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433675","direction":1,"start_time":30000,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"272cf","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433676","direction":1,"start_time":31200,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"272cf","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433677","direction":1,"start_time":32400,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"272cf","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433678","direction":1,"start_time":33600,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"272cf","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433679","direction":1,"start_time":34800,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"272cf","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433680","direction":1,"start_time":36000,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"272cf","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433681","direction":1,"start_time":37200,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"272cf","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433682","direction":1,"start_time":38400,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"272cf","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433683","direction":1,"start_time":39480,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"2af3c","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433684","direction":1,"start_time":40680,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"2af3c","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433685","direction":1,"start_time":41880,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"2af3c","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433686","direction":1,"start_time":43080,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"2af3c","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433687","direction":1,"start_time":44220,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"031f5","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433688","direction":1,"start_time":45420,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"031f5","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433689","direction":1,"start_time":46620,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"031f5","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433690","direction":1,"start_time":47820,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"031f5","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433691","direction":1,"start_time":49020,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"031f5","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433692","direction":1,"start_time":50220,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"031f5","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433693","direction":1,"start_time":51420,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"031f5","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433694","direction":1,"start_time":52620,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"031f5","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433695","direction":1,"start_time":53940,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"4e760","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433696","direction":1,"start_time":55140,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"4e760","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433697","direction":1,"start_time":56340,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"957d2","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433698","direction":1,"start_time":57540,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"957d2","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433699","direction":1,"start_time":58740,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"957d2","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433700","direction":1,"start_time":59940,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"957d2","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433701","direction":1,"start_time":61140,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"957d2","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433702","direction":1,"start_time":62340,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"957d2","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433703","direction":1,"start_time":63540,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"957d2","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433704","direction":1,"start_time":64740,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"7cb66","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433705","direction":1,"start_time":65940,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"7cb66","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433706","direction":1,"start_time":67080,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"7cb66","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433707","direction":1,"start_time":68220,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"7cb66","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433708","direction":1,"start_time":69360,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"7cb66","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433709","direction":1,"start_time":70500,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"7cb66","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433710","direction":1,"start_time":71640,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"7cb66","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433711","direction":1,"start_time":72960,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"81c48","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"433815","direction":1,"start_time":74160,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"81c48","stop_dwells":"f2331","shape_key":"9df6a"}
+        {"id":"486761","direction":0,"start_time":20520,"stops_key":"03863","stop_distances":"fd730","stop_times":"4db92","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486762","direction":0,"start_time":22320,"stops_key":"03863","stop_distances":"fd730","stop_times":"4db92","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486763","direction":0,"start_time":24060,"stops_key":"03863","stop_distances":"fd730","stop_times":"323de","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486764","direction":0,"start_time":25860,"stops_key":"03863","stop_distances":"fd730","stop_times":"323de","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486765","direction":0,"start_time":27240,"stops_key":"03863","stop_distances":"fd730","stop_times":"a9bd4","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486766","direction":0,"start_time":28440,"stops_key":"03863","stop_distances":"fd730","stop_times":"a9bd4","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486767","direction":0,"start_time":29640,"stops_key":"03863","stop_distances":"fd730","stop_times":"a9bd4","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486768","direction":0,"start_time":30840,"stops_key":"03863","stop_distances":"fd730","stop_times":"a9bd4","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486769","direction":0,"start_time":32040,"stops_key":"03863","stop_distances":"fd730","stop_times":"a9bd4","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486770","direction":0,"start_time":33180,"stops_key":"03863","stop_distances":"fd730","stop_times":"68339","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486771","direction":0,"start_time":34380,"stops_key":"03863","stop_distances":"fd730","stop_times":"68339","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486772","direction":0,"start_time":35580,"stops_key":"03863","stop_distances":"fd730","stop_times":"68339","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486773","direction":0,"start_time":36780,"stops_key":"03863","stop_distances":"fd730","stop_times":"68339","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486774","direction":0,"start_time":37980,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486775","direction":0,"start_time":39180,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486776","direction":0,"start_time":40380,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486777","direction":0,"start_time":41580,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486778","direction":0,"start_time":42780,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486779","direction":0,"start_time":43980,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486780","direction":0,"start_time":45180,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486781","direction":0,"start_time":46380,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486782","direction":0,"start_time":47580,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486783","direction":0,"start_time":48780,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486784","direction":0,"start_time":49980,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486785","direction":0,"start_time":51180,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486786","direction":0,"start_time":52380,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486787","direction":0,"start_time":53580,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486788","direction":0,"start_time":54780,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486789","direction":0,"start_time":55980,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486790","direction":0,"start_time":57180,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486791","direction":0,"start_time":58380,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486792","direction":0,"start_time":59580,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486793","direction":0,"start_time":60780,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486794","direction":0,"start_time":61980,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486795","direction":0,"start_time":63180,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486796","direction":0,"start_time":64380,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486797","direction":0,"start_time":65640,"stops_key":"03863","stop_distances":"fd730","stop_times":"5c6b9","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486798","direction":0,"start_time":66840,"stops_key":"03863","stop_distances":"fd730","stop_times":"5c6b9","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486799","direction":0,"start_time":68040,"stops_key":"03863","stop_distances":"fd730","stop_times":"5c6b9","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486800","direction":0,"start_time":69300,"stops_key":"03863","stop_distances":"fd730","stop_times":"5c6b9","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486801","direction":0,"start_time":70560,"stops_key":"03863","stop_distances":"fd730","stop_times":"5c6b9","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486802","direction":0,"start_time":71820,"stops_key":"03863","stop_distances":"fd730","stop_times":"8cbe8","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486803","direction":0,"start_time":73020,"stops_key":"03863","stop_distances":"fd730","stop_times":"8cbe8","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486804","direction":0,"start_time":74220,"stops_key":"03863","stop_distances":"fd730","stop_times":"8cbe8","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486805","direction":1,"start_time":20880,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"98ac2","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486806","direction":1,"start_time":22680,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"98ac2","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486807","direction":1,"start_time":24420,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"a8312","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486808","direction":1,"start_time":26220,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"a8312","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486809","direction":1,"start_time":27720,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"a8312","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486810","direction":1,"start_time":28920,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"a8312","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486811","direction":1,"start_time":30000,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"e740f","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486812","direction":1,"start_time":31200,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"e740f","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486813","direction":1,"start_time":32400,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"e740f","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486814","direction":1,"start_time":33600,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"e740f","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486815","direction":1,"start_time":34800,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"e740f","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486816","direction":1,"start_time":36000,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"e740f","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486817","direction":1,"start_time":37200,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"e740f","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486818","direction":1,"start_time":38400,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"e740f","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486819","direction":1,"start_time":39480,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"cfc49","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486820","direction":1,"start_time":40680,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"cfc49","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486821","direction":1,"start_time":41880,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"cfc49","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486822","direction":1,"start_time":43080,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"cfc49","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486823","direction":1,"start_time":44220,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"dae76","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486824","direction":1,"start_time":45420,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"dae76","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486825","direction":1,"start_time":46620,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"dae76","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486826","direction":1,"start_time":47820,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"dae76","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486827","direction":1,"start_time":49020,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"dae76","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486828","direction":1,"start_time":50220,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"dae76","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486829","direction":1,"start_time":51420,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"dae76","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486830","direction":1,"start_time":52620,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"dae76","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486831","direction":1,"start_time":53940,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"b4f20","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486832","direction":1,"start_time":55140,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"b4f20","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486833","direction":1,"start_time":56340,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"6ecc8","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486834","direction":1,"start_time":57540,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"6ecc8","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486835","direction":1,"start_time":58740,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"6ecc8","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486836","direction":1,"start_time":59940,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"6ecc8","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486837","direction":1,"start_time":61140,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"6ecc8","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486838","direction":1,"start_time":62340,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"6ecc8","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486839","direction":1,"start_time":63540,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"6ecc8","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486840","direction":1,"start_time":64740,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"138b4","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486841","direction":1,"start_time":65940,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"138b4","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486842","direction":1,"start_time":67080,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"138b4","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486843","direction":1,"start_time":68220,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"138b4","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486844","direction":1,"start_time":69360,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"138b4","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486845","direction":1,"start_time":70500,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"138b4","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486846","direction":1,"start_time":71640,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"138b4","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486847","direction":1,"start_time":72960,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"31e08","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486848","direction":1,"start_time":74160,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"31e08","stop_dwells":"f2331","shape_key":"4db9e"}
       ],
       "3": [
-        {"id":"442683","direction":0,"start_time":22620,"stops_key":"03863","stop_distances":"b56b6","stop_times":"71e63","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"442631","direction":0,"start_time":24420,"stops_key":"03863","stop_distances":"b56b6","stop_times":"71e63","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"442632","direction":0,"start_time":26220,"stops_key":"03863","stop_distances":"b56b6","stop_times":"71e63","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"442633","direction":0,"start_time":28020,"stops_key":"03863","stop_distances":"b56b6","stop_times":"fd08d","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"442634","direction":0,"start_time":29820,"stops_key":"03863","stop_distances":"b56b6","stop_times":"fd08d","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"442635","direction":0,"start_time":31560,"stops_key":"03863","stop_distances":"b56b6","stop_times":"5e7b3","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"442636","direction":0,"start_time":33360,"stops_key":"03863","stop_distances":"b56b6","stop_times":"5e7b3","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"442637","direction":0,"start_time":35040,"stops_key":"03863","stop_distances":"b56b6","stop_times":"904db","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"442638","direction":0,"start_time":36840,"stops_key":"03863","stop_distances":"b56b6","stop_times":"343cc","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"442639","direction":0,"start_time":38640,"stops_key":"03863","stop_distances":"b56b6","stop_times":"343cc","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"442640","direction":0,"start_time":40380,"stops_key":"03863","stop_distances":"b56b6","stop_times":"336a4","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"442641","direction":0,"start_time":42180,"stops_key":"03863","stop_distances":"b56b6","stop_times":"5be6b","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"442642","direction":0,"start_time":43980,"stops_key":"03863","stop_distances":"b56b6","stop_times":"5be6b","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"442643","direction":0,"start_time":45780,"stops_key":"03863","stop_distances":"b56b6","stop_times":"5be6b","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"442644","direction":0,"start_time":47580,"stops_key":"03863","stop_distances":"b56b6","stop_times":"bc266","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"442645","direction":0,"start_time":49380,"stops_key":"03863","stop_distances":"b56b6","stop_times":"bc266","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"442646","direction":0,"start_time":51180,"stops_key":"03863","stop_distances":"b56b6","stop_times":"bc266","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"442647","direction":0,"start_time":52980,"stops_key":"03863","stop_distances":"b56b6","stop_times":"bc266","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"442648","direction":0,"start_time":54780,"stops_key":"03863","stop_distances":"b56b6","stop_times":"bc266","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"442649","direction":0,"start_time":56580,"stops_key":"03863","stop_distances":"b56b6","stop_times":"bc266","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"442650","direction":0,"start_time":58380,"stops_key":"03863","stop_distances":"b56b6","stop_times":"bc266","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"442651","direction":0,"start_time":60180,"stops_key":"03863","stop_distances":"b56b6","stop_times":"bc266","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"442652","direction":0,"start_time":61980,"stops_key":"03863","stop_distances":"b56b6","stop_times":"bc266","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"442653","direction":0,"start_time":63840,"stops_key":"03863","stop_distances":"b56b6","stop_times":"ae675","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"442654","direction":0,"start_time":65640,"stops_key":"03863","stop_distances":"b56b6","stop_times":"ae675","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"442655","direction":0,"start_time":67440,"stops_key":"03863","stop_distances":"b56b6","stop_times":"ae675","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"442656","direction":0,"start_time":69240,"stops_key":"03863","stop_distances":"b56b6","stop_times":"ae675","stop_dwells":"f2331","shape_key":"84002"},
-        {"id":"442657","direction":1,"start_time":22920,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"0a38e","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"442658","direction":1,"start_time":24600,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"e3bcf","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"442659","direction":1,"start_time":26400,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"e3bcf","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"442660","direction":1,"start_time":28200,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"e3bcf","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"442661","direction":1,"start_time":30000,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"56838","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"442662","direction":1,"start_time":31740,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"0539e","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"442663","direction":1,"start_time":33540,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"0539e","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"442664","direction":1,"start_time":35220,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"11a67","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"442665","direction":1,"start_time":37020,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"11a67","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"442666","direction":1,"start_time":38820,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"9b6d2","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"442667","direction":1,"start_time":40620,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"9b6d2","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"442668","direction":1,"start_time":42420,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"9b6d2","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"442669","direction":1,"start_time":44160,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"9d044","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"442670","direction":1,"start_time":45900,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"031f5","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"442671","direction":1,"start_time":47700,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"031f5","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"442672","direction":1,"start_time":49500,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"031f5","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"442673","direction":1,"start_time":51420,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"4e760","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"442674","direction":1,"start_time":53220,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"4e760","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"442675","direction":1,"start_time":55020,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"4e760","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"442676","direction":1,"start_time":56820,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"4e760","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"442677","direction":1,"start_time":58680,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"c2b89","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"442678","direction":1,"start_time":60480,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"c2b89","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"442679","direction":1,"start_time":62280,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"eb192","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"442680","direction":1,"start_time":64080,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"eb192","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"442681","direction":1,"start_time":65880,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"eb192","stop_dwells":"f2331","shape_key":"9df6a"},
-        {"id":"442682","direction":1,"start_time":67680,"stops_key":"dbfb9","stop_distances":"af0db","stop_times":"eb192","stop_dwells":"f2331","shape_key":"9df6a"}
+        {"id":"486875","direction":0,"start_time":22620,"stops_key":"03863","stop_distances":"fd730","stop_times":"4db92","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486849","direction":0,"start_time":24420,"stops_key":"03863","stop_distances":"fd730","stop_times":"4db92","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486850","direction":0,"start_time":26220,"stops_key":"03863","stop_distances":"fd730","stop_times":"4db92","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486851","direction":0,"start_time":28020,"stops_key":"03863","stop_distances":"fd730","stop_times":"f7755","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486852","direction":0,"start_time":29820,"stops_key":"03863","stop_distances":"fd730","stop_times":"f7755","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486853","direction":0,"start_time":31560,"stops_key":"03863","stop_distances":"fd730","stop_times":"15bda","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486854","direction":0,"start_time":33360,"stops_key":"03863","stop_distances":"fd730","stop_times":"15bda","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486855","direction":0,"start_time":35040,"stops_key":"03863","stop_distances":"fd730","stop_times":"3127e","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486856","direction":0,"start_time":36840,"stops_key":"03863","stop_distances":"fd730","stop_times":"5c6b9","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486857","direction":0,"start_time":38640,"stops_key":"03863","stop_distances":"fd730","stop_times":"5c6b9","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486858","direction":0,"start_time":40380,"stops_key":"03863","stop_distances":"fd730","stop_times":"68339","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486859","direction":0,"start_time":42180,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486860","direction":0,"start_time":43980,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486861","direction":0,"start_time":45780,"stops_key":"03863","stop_distances":"fd730","stop_times":"c43a3","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486862","direction":0,"start_time":47580,"stops_key":"03863","stop_distances":"fd730","stop_times":"7ddfe","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486863","direction":0,"start_time":49380,"stops_key":"03863","stop_distances":"fd730","stop_times":"7ddfe","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486864","direction":0,"start_time":51180,"stops_key":"03863","stop_distances":"fd730","stop_times":"7ddfe","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486865","direction":0,"start_time":52980,"stops_key":"03863","stop_distances":"fd730","stop_times":"7ddfe","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486866","direction":0,"start_time":54780,"stops_key":"03863","stop_distances":"fd730","stop_times":"7ddfe","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486867","direction":0,"start_time":56580,"stops_key":"03863","stop_distances":"fd730","stop_times":"7ddfe","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486868","direction":0,"start_time":58380,"stops_key":"03863","stop_distances":"fd730","stop_times":"7ddfe","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486869","direction":0,"start_time":60180,"stops_key":"03863","stop_distances":"fd730","stop_times":"7ddfe","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486870","direction":0,"start_time":61980,"stops_key":"03863","stop_distances":"fd730","stop_times":"7ddfe","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486871","direction":0,"start_time":63840,"stops_key":"03863","stop_distances":"fd730","stop_times":"bebf2","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486872","direction":0,"start_time":65640,"stops_key":"03863","stop_distances":"fd730","stop_times":"bebf2","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486873","direction":0,"start_time":67440,"stops_key":"03863","stop_distances":"fd730","stop_times":"bebf2","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486874","direction":0,"start_time":69240,"stops_key":"03863","stop_distances":"fd730","stop_times":"bebf2","stop_dwells":"f2331","shape_key":"71998"},
+        {"id":"486876","direction":1,"start_time":22920,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"3a255","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486877","direction":1,"start_time":24600,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"a8312","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486878","direction":1,"start_time":26400,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"a8312","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486879","direction":1,"start_time":28200,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"a8312","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486880","direction":1,"start_time":30000,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"b1819","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486881","direction":1,"start_time":31740,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"985ec","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486882","direction":1,"start_time":33540,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"985ec","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486883","direction":1,"start_time":35220,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"3d49d","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486884","direction":1,"start_time":37020,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"3d49d","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486885","direction":1,"start_time":38820,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"aff4b","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486886","direction":1,"start_time":40620,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"aff4b","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486887","direction":1,"start_time":42420,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"aff4b","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486888","direction":1,"start_time":44160,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"6aee8","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486889","direction":1,"start_time":45900,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"dae76","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486890","direction":1,"start_time":47700,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"dae76","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486891","direction":1,"start_time":49500,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"dae76","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486892","direction":1,"start_time":51420,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"b4f20","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486893","direction":1,"start_time":53220,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"b4f20","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486894","direction":1,"start_time":55020,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"b4f20","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486895","direction":1,"start_time":56820,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"b4f20","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486896","direction":1,"start_time":58680,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"d989b","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486897","direction":1,"start_time":60480,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"d989b","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486898","direction":1,"start_time":62280,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"5be13","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486899","direction":1,"start_time":64080,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"5be13","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486900","direction":1,"start_time":65880,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"5be13","stop_dwells":"f2331","shape_key":"4db9e"},
+        {"id":"486901","direction":1,"start_time":67680,"stops_key":"dbfb9","stop_distances":"8d2be","stop_times":"5be13","stop_dwells":"f2331","shape_key":"4db9e"}
       ]
     }
   }
