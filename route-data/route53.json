@@ -1,169 +1,171 @@
 {
-  "id": "3720",
+  "id": "4242",
   "short_name": "53",
   "long_name": "Isleta",
   "color": "2390CF",
   "text_color": "000000",
   "schedules": {
     "1": {
-      "start_date": "20210227",
-      "end_date": "20210813",
-      "days_mask_mon_sun": 124,"added_days":[],"removed_days":["20210531"
-      ]
+      "start_date": "20221105",
+      "end_date": "20230317",
+      "days_mask_mon_sun": 124,"added_days":[],"removed_days":[]
     },
     "2": {
-      "start_date": "20210227",
-      "end_date": "20210813",
+      "start_date": "20221105",
+      "end_date": "20230317",
       "days_mask_mon_sun": 2,"added_days":[],"removed_days":[]
     }
   },
-  "related_route_data": {"3717":{"short_name":"5","long_name":"Montgomery/Carlisle","color":"FF4E21","text_color":"000000"
-    },"3729":{"short_name":"8","long_name":"Menaul","color":"7B097B","text_color":"FFFFFF"
-    },"3697":{"short_name":"10","long_name":"North Fourth Street","color":"C30000","text_color":"FFFFFF"
-    },"3698":{"short_name":"11","long_name":"Lomas","color":"800080","text_color":"FFFFFF"
-    },"3705":{"short_name":"16","long_name":"University/Gibson/Broadway","color":"C01D8C","text_color":"FFFFFF"
-    },"3715":{"short_name":"36","long_name":"12th Street/Rio Grande","color":"800000","text_color":"FFFFFF"
-    },"3716":{"short_name":"37","long_name":"Rio Grande/12th Street","color":"800000","text_color":"FFFFFF"
-    },"3718":{"short_name":"50","long_name":"Airport/Downtown","color":"71220F","text_color":"FFFFFF"
-    },"3719":{"short_name":"51","long_name":"Atrisco/Rio Bravo","color":"572820","text_color":"FFFFFF"
-    },"3720":{"short_name":"53","long_name":"Isleta","color":"2390CF","text_color":"000000"
-    },"3721":{"short_name":"54","long_name":"Bridge/Westgate","color":"006097","text_color":"FFFFFF"
-    },"3724":{"short_name":"66","long_name":"Central Avenue","color":"00DEC8","text_color":"000000"
-    },"3734":{"short_name":"97","long_name":"Zuni Express","color":"6600FF","text_color":"FFFFFF"
-    },"3726":{"short_name":"766","long_name":"ART Red Line","color":"EC0000","text_color":"FFFFFF"
-    },"3727":{"short_name":"777","long_name":"ART Green Line","color":"00FF00","text_color":"000000"
+  "related_route_data": {"4239":{"short_name":"5","long_name":"Montgomery/Carlisle","color":"FF4E21","text_color":"000000"
+    },"4247":{"short_name":"7","long_name":"Candelaria Commuter","color":"FF7F54","text_color":"000000"
+    },"4251":{"short_name":"8","long_name":"Menaul","color":"7B097B","text_color":"FFFFFF"
+    },"4219":{"short_name":"10","long_name":"North Fourth Street","color":"C30000","text_color":"FFFFFF"
+    },"4220":{"short_name":"11","long_name":"Lomas","color":"800080","text_color":"FFFFFF"
+    },"4221":{"short_name":"12","long_name":"Constitution Commuter","color":"B7FF00","text_color":"000000"
+    },"4227":{"short_name":"16","long_name":"University/Gibson/Broadway","color":"C01D8C","text_color":"FFFFFF"
+    },"4237":{"short_name":"36","long_name":"12th Street/Rio Grande","color":"800000","text_color":"FFFFFF"
+    },"4240":{"short_name":"50","long_name":"Airport/Downtown","color":"71220F","text_color":"FFFFFF"
+    },"4241":{"short_name":"51","long_name":"Atrisco/Rio Bravo","color":"572820","text_color":"FFFFFF"
+    },"4242":{"short_name":"53","long_name":"Isleta","color":"2390CF","text_color":"000000"
+    },"4243":{"short_name":"54","long_name":"Bridge/Westgate","color":"006097","text_color":"FFFFFF"
+    },"4246":{"short_name":"66","long_name":"Central Avenue","color":"00DEC8","text_color":"000000"
+    },"4256":{"short_name":"97","long_name":"Zuni Express","color":"6600FF","text_color":"FFFFFF"
+    },"4232":{"short_name":"222","long_name":"Rio Bravo/ Rail Runner/ KAFB","color":"804A80","text_color":"FFFFFF"
+    },"4248":{"short_name":"766","long_name":"ART Red Line","color":"EC0000","text_color":"FFFFFF"
+    },"4249":{"short_name":"777","long_name":"ART Green Line","color":"00FF00","text_color":"000000"
     }
   },
-  "stops": {"1735":{"name":"Lead @ 5th","desc":"411 LEAD AVE SW","coordinates":[-106.6527,35.0817],"related_stops":["1735","6976","6978"],"transfer_routes":["3720","3721"],"related_routes":["3729","3715","3716"]
-    },"1911":{"name":"Bridge @ La Vega","desc":"708 BRIDGE BLVD SW","coordinates":[-106.6634,35.0692],"related_stops":["7470","1911"],"transfer_routes":["3720","3721"],"related_routes":[]
-    },"2485":{"name":"6th @ Silver","desc":"322 6TH ST SW \u0026 SILVER AVE SW","coordinates":[-106.6543,35.0826],"related_stops":["4437","7506","2485","6979","6980"],"transfer_routes":["3720","3721"],"related_routes":["3729","3715","3716","3724","3726","3727"]
-    },"4437":{"name":"Gold @ 5th","desc":"506 GOLD AVE SW \u0026 5TH ST SW","coordinates":[-106.6535,35.0837],"related_stops":["4437","7506","2485","6979","6980"],"transfer_routes":["3720","3721","3724"],"related_routes":["3729","3715","3716","3726","3727"]
-    },"4441":{"name":"1st @ Central (in front of A.T.C.)","desc":"1ST ST SW \u0026 1ST ST NW","coordinates":[-106.648,35.0838],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["3724"],"related_routes":["3717","3729","3697","3698","3705","3715","3716","3718","3720","3721","3734","3726","3727"]
-    },"4703":{"name":"Central @ 1st (across from A.T.C.)","desc":"113 CENTRAL AVE W","coordinates":[-106.6487,35.0843],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["3724"],"related_routes":["3717","3729","3697","3698","3705","3715","3716","3718","3720","3721","3734","3726","3727"]
-    },"4831":{"name":"A.T.C.  (Bay L)","desc":"1ST ST SW \u0026 GOLD AVE SW","coordinates":[-106.6477,35.0829],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["3721"],"related_routes":["3717","3729","3697","3698","3705","3715","3716","3718","3720","3724","3734","3726","3727"]
-    },"4833":{"name":"A.T.C.  (Bay M)","desc":"1ST ST SW \u0026 GOLD AVE SW","coordinates":[-106.6477,35.0831],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["3705"],"related_routes":["3717","3729","3697","3698","3715","3716","3718","3720","3721","3724","3734","3726","3727"]
-    },"4835":{"name":"A.T.C.  (Bay C)","desc":"CENTRAL AVE W \u0026 COPPER AVE NW","coordinates":[-106.6476,35.0837],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["3697"],"related_routes":["3717","3729","3698","3705","3715","3716","3718","3720","3721","3724","3734","3726","3727"]
-    },"4837":{"name":"A.T.C.  (Bay D)","desc":"","coordinates":[-106.6475,35.0836],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["3698"],"related_routes":["3717","3729","3697","3705","3715","3716","3718","3720","3721","3724","3734","3726","3727"]
-    },"4841":{"name":"A.T.C.  (Bay F)","desc":"","coordinates":[-106.6475,35.0832],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["3720"],"related_routes":["3717","3729","3697","3698","3705","3715","3716","3718","3721","3724","3734","3726","3727"]
-    },"4843":{"name":"A.T.C.  (Bay G)","desc":"","coordinates":[-106.6476,35.083],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["3717"],"related_routes":["3729","3697","3698","3705","3715","3716","3718","3720","3721","3724","3734","3726","3727"]
-    },"4845":{"name":"A.T.C.  (Bay H)","desc":"","coordinates":[-106.6476,35.0829],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["3729"],"related_routes":["3717","3697","3698","3705","3715","3716","3718","3720","3721","3724","3734","3726","3727"]
-    },"4847":{"name":"A.T.C.  (Bay J)","desc":"","coordinates":[-106.6476,35.0827],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["3734"],"related_routes":["3717","3729","3697","3698","3705","3715","3716","3718","3720","3721","3724","3726","3727"]
-    },"5387":{"name":"Isleta @ Blake","desc":"2515 ISLETA BLVD SW","coordinates":[-106.6796,35.0379],"related_stops":["5439","5387","5413"],"transfer_routes":["3719","3720"],"related_routes":[]
-    },"5389":{"name":"Isleta @ Val Verde","desc":"2641 ISLETA BLVD SW \u0026 VAL VERDE DR SW","coordinates":[-106.6796,35.0352],"related_stops":["5389","5411"],"transfer_routes":["3719","3720"],"related_routes":[]
-    },"5411":{"name":"Isleta @ Beall","desc":"2704 ISLETA BLVD SW \u0026 VAL VERDE DR SW","coordinates":[-106.6794,35.0349],"related_stops":["5389","5411"],"transfer_routes":["3719","3720"],"related_routes":[]
-    },"5413":{"name":"Isleta @ Blake","desc":"ISLETA BLVD SW \u0026 ROSENDO CT SW","coordinates":[-106.6793,35.0389],"related_stops":["5439","5387","5413"],"transfer_routes":["3720"],"related_routes":["3719"]
-    },"5415":{"name":"Isleta @ Valley","desc":"2400 ISLETA BLVD SW \u0026 VALLEY RD SW","coordinates":[-106.6794,35.0406],"related_stops":["5437","5415"],"transfer_routes":["3720"],"related_routes":[]
-    },"5421":{"name":"Isleta @ Valdora","desc":"1820 ISLETA BLVD SW","coordinates":[-106.678,35.0496],"related_stops":["5423","5429","5421"],"transfer_routes":["3720"],"related_routes":[]
-    },"5423":{"name":"Isleta @ Valdora","desc":"1716 ISLETA BLVD SW","coordinates":[-106.6778,35.0512],"related_stops":["5423","5429","5421"],"transfer_routes":["3720"],"related_routes":[]
-    },"5425":{"name":"Isleta @ Arenal","desc":"ISLETA \u0026 ARENAL","coordinates":[-106.6761,35.0536],"related_stops":["5807","5543","5427","5425"],"transfer_routes":["3720"],"related_routes":[]
-    },"5427":{"name":"Isleta @ Arenal","desc":"1611 ISLETA BLVD SW","coordinates":[-106.6778,35.053],"related_stops":["5807","5543","5427","5425"],"transfer_routes":["3720"],"related_routes":[]
-    },"5429":{"name":"Isleta @ Valdora","desc":"1823 ISLETA BLVD SW","coordinates":[-106.6783,35.0495],"related_stops":["5423","5429","5421"],"transfer_routes":["3720"],"related_routes":[]
-    },"5433":{"name":"Isleta @ Centro Familiar","desc":"2033 ISLETA BLVD SW \u0026 CENTRO FAMILIAR BLVD SW","coordinates":[-106.6792,35.0448],"related_stops":["5433"],"transfer_routes":["3720"],"related_routes":[]
-    },"5437":{"name":"Isleta @ Valley","desc":"2287 ISLETA BLVD SW \u0026 PATTON RD SW","coordinates":[-106.6796,35.041],"related_stops":["5437","5415"],"transfer_routes":["3720"],"related_routes":[]
-    },"5439":{"name":"Blake @ Isleta","desc":"BLAKE \u0026 ISLETA","coordinates":[-106.68,35.0383],"related_stops":["5439","5387","5413"],"transfer_routes":["3719"],"related_routes":["3720"]
-    },"5453":{"name":"Isleta @ Del Sur","desc":"3505 ISLETA BLVD SW \u0026 LA MORA LN SW","coordinates":[-106.6808,35.0255],"related_stops":["5541","5453","5744","5746","7690"],"transfer_routes":["3720"],"related_routes":["3719"]
-    },"5455":{"name":"Isleta @ Clinton","desc":"3717 ISLETA BLVD SW \u0026 SANTA ROSA AVE SW","coordinates":[-106.6821,35.0224],"related_stops":["5539","5455"],"transfer_routes":["3720"],"related_routes":[]
-    },"5457":{"name":"Isleta @ Camino Del Valle","desc":"4003 ISLETA BLVD SW","coordinates":[-106.684,35.0182],"related_stops":["5537","5457"],"transfer_routes":["3720"],"related_routes":[]
-    },"5459":{"name":"Isleta @ Cottrell Lane","desc":"COTTRELL LN SW \u0026 ISLETA BLVD SW","coordinates":[-106.6848,35.0164],"related_stops":["5535","5459"],"transfer_routes":["3720"],"related_routes":[]
-    },"5471":{"name":"Isleta @ Lakeview","desc":"4267 ISLETA BLVD SW \u0026 LAKEVIEW RD SW","coordinates":[-106.6857,35.0147],"related_stops":["5533","5471"],"transfer_routes":["3720"],"related_routes":[]
-    },"5472":{"name":"Isleta @ Gunclub","desc":"4403 ISLETA BLVD SW \u0026 GUN CLUB RD SW","coordinates":[-106.6873,35.0116],"related_stops":["5531","5472"],"transfer_routes":["3720"],"related_routes":[]
-    },"5473":{"name":"Isleta @ Don Felipe","desc":"5987 ISLETA BLVD SW \u0026 APPLETON RD SW","coordinates":[-106.6955,34.9903],"related_stops":["5521","5523","5473"],"transfer_routes":["3720"],"related_routes":[]
-    },"5474":{"name":"Isleta @ Sunshine","desc":"4633 ISLETA BLVD SW \u0026 SUNSHINE RD SW","coordinates":[-106.6889,35.0073],"related_stops":["5474"],"transfer_routes":["3720"],"related_routes":[]
-    },"5475":{"name":"Isleta @ Pajarito","desc":"6079 ISLETA BLVD SW \u0026 PAJARITO RD SW","coordinates":[-106.6966,34.9871],"related_stops":["5519","5475"],"transfer_routes":["3720"],"related_routes":[]
-    },"5477":{"name":"Isleta @ Margo","desc":"6305 ISLETA BLVD SW \u0026 BROWN RD SW","coordinates":[-106.6971,34.9834],"related_stops":["5517","5477"],"transfer_routes":["3720"],"related_routes":[]
-    },"5478":{"name":"Isleta @ Muniz","desc":"5187 ISLETA BLVD SW","coordinates":[-106.6915,35.0007],"related_stops":["5527","5478"],"transfer_routes":["3720"],"related_routes":[]
-    },"5479":{"name":"Isleta @ Raymac","desc":"6457 ISLETA BLVD SW","coordinates":[-106.6968,34.9771],"related_stops":["5513","5515","5479"],"transfer_routes":["3720"],"related_routes":[]
-    },"5480":{"name":"Isleta @ Torres (CNM South Campus)","desc":"5819 ISLETA BLVD SW \u0026 TORRES RD SW","coordinates":[-106.6936,34.9962],"related_stops":["5525","5480"],"transfer_routes":["3720"],"related_routes":[]
-    },"5481":{"name":"Isleta @ Markham","desc":"6603 ISLETA BLVD SW \u0026 MARKHAM RD SW","coordinates":[-106.6966,34.9738],"related_stops":["5509","5483","5511","5481"],"transfer_routes":["3720"],"related_routes":[]
-    },"5482":{"name":"Isleta @ Mayflower","desc":"5843 ISLETA BLVD SW","coordinates":[-106.6942,34.9944],"related_stops":["5482"],"transfer_routes":["3720"],"related_routes":[]
-    },"5483":{"name":"Isleta @ Taylor","desc":"6637 ISLETA BLVD SW \u0026 PEPPER LN SW","coordinates":[-106.6963,34.9723],"related_stops":["5509","5483","5511","5481"],"transfer_routes":["3720"],"related_routes":[]
-    },"5485":{"name":"Isleta @ Cherry Tree","desc":"6729 ISLETA BLVD SW \u0026 TURRIETTA LN SW","coordinates":[-106.696,34.9699],"related_stops":["5507","5485"],"transfer_routes":["3720"],"related_routes":[]
-    },"5487":{"name":"Isleta @ Paul","desc":"6971 ISLETA BLVD SW","coordinates":[-106.6955,34.9643],"related_stops":["5505","5503","5487"],"transfer_routes":["3720"],"related_routes":[]
-    },"5489":{"name":"Isleta @ Luchetti","desc":"7055 ISLETA BLVD SW","coordinates":[-106.6958,34.9618],"related_stops":["5489"],"transfer_routes":["3720"],"related_routes":[]
-    },"5490":{"name":"Isleta @ Celeste","desc":"7215 ISLETA BLVD SW \u0026 CELESTE RD SW","coordinates":[-106.696,34.9594],"related_stops":["5490","5501"],"transfer_routes":["3720"],"related_routes":[]
-    },"5491":{"name":"Isleta @ Los Padillas","desc":"7331 ISLETA BLVD SW \u0026 DESIDERIO RD SW","coordinates":[-106.6959,34.9572],"related_stops":["5491","5499"],"transfer_routes":["3720"],"related_routes":[]
-    },"5493":{"name":"Isleta @ Rays Ct","desc":"2104 RAYS CT SW \u0026 ISLETA BLVD SW","coordinates":[-106.6951,34.9534],"related_stops":["5497","5493"],"transfer_routes":["3720"],"related_routes":[]
-    },"5495":{"name":"Isleta @ Malpais","desc":"7612 ISLETA BLVD SW","coordinates":[-106.6943,34.9514],"related_stops":["5495"],"transfer_routes":["3720"],"related_routes":[]
-    },"5497":{"name":"Isleta @ Marcelino","desc":"7532 ISLETA BLVD SW \u0026 RAYS CT SW","coordinates":[-106.6949,34.9533],"related_stops":["5497","5493"],"transfer_routes":["3720"],"related_routes":[]
-    },"5499":{"name":"Isleta @ Desiderio","desc":"7324 ISLETA BLVD SW \u0026 DESIDERIO RD SW","coordinates":[-106.6957,34.9574],"related_stops":["5491","5499"],"transfer_routes":["3720"],"related_routes":[]
-    },"5501":{"name":"Isleta @ Celeste","desc":"7206 ISLETA BLVD SW","coordinates":[-106.6958,34.9595],"related_stops":["5490","5501"],"transfer_routes":["3720"],"related_routes":[]
-    },"5503":{"name":"Isleta @ Ilfield","desc":"7022 ISLETA BLVD SW","coordinates":[-106.6955,34.9629],"related_stops":["5505","5503","5487"],"transfer_routes":["3720"],"related_routes":[]
-    },"5505":{"name":"Isleta @ Ilfield","desc":"6954 ISLETA BLVD SW","coordinates":[-106.6953,34.9645],"related_stops":["5505","5503","5487"],"transfer_routes":["3720"],"related_routes":[]
-    },"5507":{"name":"Isleta @ Turrietta","desc":"6734 ISLETA BLVD SW \u0026 CHERRY TREE LN SW","coordinates":[-106.6957,34.9698],"related_stops":["5507","5485"],"transfer_routes":["3720"],"related_routes":[]
-    },"5509":{"name":"Isleta @ Pepper Lane","desc":"6640 ISLETA BLVD SW \u0026 PEPPER LN SW","coordinates":[-106.6961,34.9722],"related_stops":["5509","5483","5511","5481"],"transfer_routes":["3720"],"related_routes":[]
-    },"5511":{"name":"Isleta @ Pepper Lane","desc":"6604 ISLETA BLVD SW \u0026 MARKHAM RD SW","coordinates":[-106.6964,34.9737],"related_stops":["5509","5483","5511","5481"],"transfer_routes":["3720"],"related_routes":[]
-    },"5513":{"name":"Isleta @ Raymac","desc":"6424 ISLETA BLVD SW \u0026 RAYMAC RD SW","coordinates":[-106.6966,34.9777],"related_stops":["5513","5515","5479"],"transfer_routes":["3720"],"related_routes":[]
-    },"5515":{"name":"Isleta @ Raymac","desc":"6372 ISLETA BLVD SW","coordinates":[-106.6965,34.9795],"related_stops":["5513","5515","5479"],"transfer_routes":["3720"],"related_routes":[]
-    },"5517":{"name":"Isleta @ Le Ave","desc":"6320 ISLETA BLVD SW \u0026 ISLETA LN SW","coordinates":[-106.697,34.9825],"related_stops":["5517","5477"],"transfer_routes":["3720"],"related_routes":[]
-    },"5519":{"name":"Isleta @ Appleton","desc":"6076 ISLETA BLVD SW \u0026 PAJARITO RD SW","coordinates":[-106.6964,34.9871],"related_stops":["5519","5475"],"transfer_routes":["3720"],"related_routes":[]
-    },"5521":{"name":"Isleta @ Don Felipe","desc":"6006 ISLETA BLVD SW \u0026 APPLETON RD SW","coordinates":[-106.6952,34.9903],"related_stops":["5521","5523","5473"],"transfer_routes":["3720"],"related_routes":[]
-    },"5523":{"name":"Isleta @ Don Felipe","desc":"5922 ISLETA BLVD SW \u0026 DON FELIPE RD SW","coordinates":[-106.6945,34.9925],"related_stops":["5521","5523","5473"],"transfer_routes":["3720"],"related_routes":[]
-    },"5525":{"name":"Isleta @ Torres (CNM South Campus)","desc":"5818 ISLETA BLVD SW \u0026 TORRES RD SW","coordinates":[-106.6935,34.9961],"related_stops":["5525","5480"],"transfer_routes":["3720"],"related_routes":[]
-    },"5527":{"name":"Isleta @ Muniz","desc":"5002 ISLETA BLVD SW","coordinates":[-106.6912,35.0014],"related_stops":["5527","5478"],"transfer_routes":["3720"],"related_routes":[]
-    },"5529":{"name":"Isleta @ Metzgar","desc":"4628 ISLETA BLVD SW","coordinates":[-106.6892,35.0062],"related_stops":["5529"],"transfer_routes":["3720"],"related_routes":[]
-    },"5531":{"name":"Isleta @ Gunclub","desc":"4416 ISLETA BLVD SW \u0026 GUN CLUB RD SW","coordinates":[-106.6871,35.0116],"related_stops":["5531","5472"],"transfer_routes":["3720"],"related_routes":[]
-    },"5533":{"name":"Isleta @ Lakeview","desc":"4300 ISLETA BLVD SW \u0026 LAKEVIEW RD SW","coordinates":[-106.6857,35.0143],"related_stops":["5533","5471"],"transfer_routes":["3720"],"related_routes":[]
-    },"5535":{"name":"Isleta @ Lakeview Road","desc":"4138 ISLETA BLVD SW \u0026 COTTRELL LN SW","coordinates":[-106.6845,35.0164],"related_stops":["5535","5459"],"transfer_routes":["3720"],"related_routes":[]
-    },"5537":{"name":"Isleta @ Camino Del Valle","desc":"3990 ISLETA BLVD SW","coordinates":[-106.6837,35.0183],"related_stops":["5537","5457"],"transfer_routes":["3720"],"related_routes":[]
-    },"5539":{"name":"Isleta @ Santa Rosa","desc":"3718 ISLETA BLVD SW \u0026 SANTA ROSA AVE SW","coordinates":[-106.6819,35.0223],"related_stops":["5539","5455"],"transfer_routes":["3720"],"related_routes":[]
-    },"5541":{"name":"Isleta @ Rio Bravo","desc":"3504 ISLETA BLVD SW \u0026 LA MORA LN SW","coordinates":[-106.6806,35.0255],"related_stops":["5541","5453","5744","5746","7690"],"transfer_routes":["3720"],"related_routes":["3719"]
-    },"5543":{"name":"Isleta @ St Anne","desc":"1242 ISLETA BLVD SW","coordinates":[-106.674,35.0542],"related_stops":["5807","5543","5427","5425"],"transfer_routes":["3720"],"related_routes":[]
-    },"5547":{"name":"Isleta @ Lopez","desc":"950 ISLETA BLVD SW \u0026 TOMMIE LN SW","coordinates":[-106.6688,35.0559],"related_stops":["5803","5547"],"transfer_routes":["3720"],"related_routes":[]
-    },"5551":{"name":"Isleta @ Hardy","desc":"518 ISLETA BLVD SW \u0026 HARDY AVE SW","coordinates":[-106.6675,35.0614],"related_stops":["7328","5551"],"transfer_routes":["3720"],"related_routes":[]
-    },"5553":{"name":"Isleta @ Sunbeam","desc":"342 ISLETA BLVD SW \u0026 SUNBEAM RD SW","coordinates":[-106.6673,35.0655],"related_stops":["5559","5553"],"transfer_routes":["3720"],"related_routes":[]
-    },"5557":{"name":"Isleta @ Bridge","desc":"151 ISLETA BLVD SW","coordinates":[-106.6669,35.0674],"related_stops":["5557","7245","5728"],"transfer_routes":["3720"],"related_routes":["3721"]
-    },"5559":{"name":"Isleta @ Sunbeam","desc":"345 ISLETA BLVD SW \u0026 SUNBEAM RD SW","coordinates":[-106.6675,35.0655],"related_stops":["5559","5553"],"transfer_routes":["3720"],"related_routes":[]
-    },"5571":{"name":"8th @ Bridge","desc":"1502 8TH ST SW \u0026 SIMPIER LN SW","coordinates":[-106.6561,35.0708],"related_stops":["5591","7330","5571"],"transfer_routes":["3720"],"related_routes":["3721"]
-    },"5573":{"name":"8th @ Cromwell","desc":"1128 8TH ST SW \u0026 CROMWELL AVE SW","coordinates":[-106.6571,35.0738],"related_stops":["5585","5573"],"transfer_routes":["3720"],"related_routes":[]
-    },"5575":{"name":"8th @ Santa Fe","desc":"8 TH STREET \u0026 SANTA FE","coordinates":[-106.6573,35.0759],"related_stops":["5575"],"transfer_routes":["3720"],"related_routes":[]
-    },"5577":{"name":"8th @ Atlantic","desc":"8 TH STREET \u0026 ATLANTIC","coordinates":[-106.6574,35.0778],"related_stops":["5974","5577"],"transfer_routes":["3720"],"related_routes":[]
-    },"5579":{"name":"8th @ Stover","desc":"8 TH STREET \u0026 STOVER","coordinates":[-106.6574,35.0791],"related_stops":["5579"],"transfer_routes":["3720"],"related_routes":[]
-    },"5581":{"name":"8th @ Coal","desc":"506 8TH ST SW \u0026 COAL AVE SW","coordinates":[-106.6571,35.0809],"related_stops":["5583","5581"],"transfer_routes":["3720"],"related_routes":[]
-    },"5583":{"name":"8th @ Iron","desc":"802 IRON AVE SW \u0026 8TH ST SW","coordinates":[-106.6574,35.0802],"related_stops":["5583","5581"],"transfer_routes":["3720"],"related_routes":[]
-    },"5585":{"name":"8th @ Pacific","desc":"1105 8TH ST SW \u0026 PACIFIC AVE SW","coordinates":[-106.6574,35.0746],"related_stops":["5585","5573"],"transfer_routes":["3720"],"related_routes":[]
-    },"5589":{"name":"8th @ Marquez","desc":"800 NUANES LN SW \u0026 8TH ST SW","coordinates":[-106.6569,35.0725],"related_stops":["5589"],"transfer_routes":["3720"],"related_routes":[]
-    },"5591":{"name":"8th @ Bridge","desc":"1503 8TH ST SW \u0026 SIMPIER LN SW","coordinates":[-106.6563,35.0707],"related_stops":["5591","7330","5571"],"transfer_routes":["3720"],"related_routes":["3721"]
-    },"5728":{"name":"Isleta @ Lavato","desc":"222 ISLETA BLVD SW \u0026 LOVATO RD SW","coordinates":[-106.667,35.0666],"related_stops":["5557","7245","5728"],"transfer_routes":["3720"],"related_routes":["3721"]
-    },"5730":{"name":"Isleta @ Perry Road","desc":"2002 ISLETA BLVD SW \u0026 STARUSTKA LN SW","coordinates":[-106.6787,35.0461],"related_stops":["5732","5730"],"transfer_routes":["3720"],"related_routes":[]
-    },"5732":{"name":"Isleta @ McEwen","desc":"1608 STARUSTKA LN SW \u0026 ISLETA BLVD SW","coordinates":[-106.679,35.0461],"related_stops":["5732","5730"],"transfer_routes":["3720"],"related_routes":[]
-    },"5734":{"name":"Isleta @ Rinconado","desc":"2116 ISLETA BLVD SW \u0026 FERRIS AVE SW","coordinates":[-106.6793,35.0436],"related_stops":["5734"],"transfer_routes":["3720"],"related_routes":[]
-    },"5736":{"name":"Isleta @ Shadyside Park","desc":"2906 ISLETA BLVD SW \u0026 SHADYSIDE DR SW","coordinates":[-106.6794,35.033],"related_stops":["5738","5736"],"transfer_routes":["3719","3720"],"related_routes":[]
-    },"5738":{"name":"Isleta @ Shadyside","desc":"2927 ISLETA BLVD SW \u0026 BONAGUIDI RD SW","coordinates":[-106.6796,35.0327],"related_stops":["5738","5736"],"transfer_routes":["3719","3720"],"related_routes":[]
-    },"5740":{"name":"Isleta @ Barcelona","desc":"3032 ISLETA BLVD SW","coordinates":[-106.6794,35.0315],"related_stops":["5742","5740"],"transfer_routes":["3719","3720"],"related_routes":[]
-    },"5742":{"name":"Isleta @ Barcelona","desc":"3209 ISLETA BLVD SW \u0026 BARCELONA RD SW","coordinates":[-106.6798,35.0304],"related_stops":["5742","5740"],"transfer_routes":["3719","3720"],"related_routes":[]
-    },"5744":{"name":"Isleta @ Rio Bravo","desc":"3292 ISLETA BLVD SW \u0026 DEL NORTE DR SW","coordinates":[-106.6799,35.0286],"related_stops":["5541","5453","5744","5746","7690"],"transfer_routes":["3719","3720"],"related_routes":[]
-    },"5746":{"name":"Isleta @ Rio Bravo","desc":"3293 ISLETA BLVD SW \u0026 DEL NORTE DR SW","coordinates":[-106.6801,35.0287],"related_stops":["5541","5453","5744","5746","7690"],"transfer_routes":["3719"],"related_routes":["3720"]
-    },"5801":{"name":"Isleta @ Nashville","desc":"635 ISLETA BLVD SW \u0026 NASHVILLE AVE SW","coordinates":[-106.6678,35.0594],"related_stops":["5801"],"transfer_routes":["3720"],"related_routes":[]
-    },"5803":{"name":"Isleta @ Lopez","desc":"1017 ISLETA BLVD SW","coordinates":[-106.6699,35.0558],"related_stops":["5803","5547"],"transfer_routes":["3720"],"related_routes":[]
-    },"5805":{"name":"Isleta @ Gate Wood","desc":"1127 ISLETA BLVD SW","coordinates":[-106.6716,35.0556],"related_stops":["5805"],"transfer_routes":["3720"],"related_routes":[]
-    },"5807":{"name":"Isleta @ Soliz Court","desc":"1327 ISLETA BLVD SW \u0026 SOLIZ CT SW","coordinates":[-106.6752,35.0541],"related_stops":["5807","5543","5427","5425"],"transfer_routes":["3720"],"related_routes":[]
-    },"5974":{"name":"8th @ Atlantic (Zoo)","desc":"800 ATLANTIC AVE SW \u0026 8TH ST SW","coordinates":[-106.6575,35.0771],"related_stops":["5974","5577"],"transfer_routes":["3720"],"related_routes":[]
-    },"6930":{"name":"A.T.C.  (Bay B)","desc":"","coordinates":[-106.6476,35.0835],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["3715","3716"],"related_routes":["3717","3729","3697","3698","3705","3718","3720","3721","3724","3734","3726","3727"]
-    },"6932":{"name":"A.T.C.  (Bay A)","desc":"","coordinates":[-106.6477,35.0833],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["3718"],"related_routes":["3717","3729","3697","3698","3705","3715","3716","3720","3721","3724","3734","3726","3727"]
-    },"6972":{"name":"A.T.C.  (Bay N)","desc":"","coordinates":[-106.648,35.0827],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["3705"],"related_routes":["3717","3729","3697","3698","3715","3716","3718","3720","3721","3724","3734","3726","3727"]
-    },"6976":{"name":"Silver @ 5Th","desc":"411 1ST ST SW \u0026 5TH ST SW","coordinates":[-106.6528,35.0827],"related_stops":["1735","6976","6978"],"transfer_routes":["3729","3715","3716"],"related_routes":["3720","3721"]
-    },"6978":{"name":"4th @ Silver","desc":"404 SILVER AVE SW \u0026 4TH ST SW","coordinates":[-106.6524,35.0825],"related_stops":["1735","6976","6978"],"transfer_routes":["3729","3715","3716"],"related_routes":["3720","3721"]
-    },"6979":{"name":"6th @ Gold","desc":"205 6TH ST SW \u0026 GOLD AVE SW","coordinates":[-106.6543,35.0836],"related_stops":["4437","7506","2485","6979","6980"],"transfer_routes":["3729","3715","3716"],"related_routes":["3720","3721","3724","3726","3727"]
-    },"6980":{"name":"5th @ Gold","desc":"5TH ST SW \u0026 GOLD AVE SW","coordinates":[-106.6529,35.0841],"related_stops":["4437","7506","2485","6979","6980"],"transfer_routes":["3729","3715","3716"],"related_routes":["3720","3721","3724","3726","3727"]
-    },"7245":{"name":"Bridge @ Isleta","desc":"102 ISLETA BLVD SW \u0026 BRIDGE BLVD SW","coordinates":[-106.6661,35.0684],"related_stops":["5557","7245","5728"],"transfer_routes":["3720","3721"],"related_routes":[]
-    },"7328":{"name":"Isleta @ Bletcher","desc":"505 ISLETA BLVD SW \u0026 HARDY AVE SW","coordinates":[-106.6678,35.0617],"related_stops":["7328","5551"],"transfer_routes":["3720"],"related_routes":[]
-    },"7330":{"name":"Bridge @ 8th","desc":"603 BRIDGE BLVD SW","coordinates":[-106.6572,35.07],"related_stops":["5591","7330","5571"],"transfer_routes":["3720","3721"],"related_routes":[]
-    },"7470":{"name":"Bridge @ Orchard Garden","desc":"703 BRIDGE BLVD SW","coordinates":[-106.6632,35.0696],"related_stops":["7470","1911"],"transfer_routes":["3720","3721"],"related_routes":[]
-    },"7506":{"name":"ART - Barelas Station","desc":"604 GOLD AVE SW \u0026 6TH ST SW","coordinates":[-106.6544,35.0839],"related_stops":["4437","7506","2485","6979","6980"],"transfer_routes":["3726","3727"],"related_routes":["3729","3715","3716","3720","3721","3724"]
-    },"7507":{"name":"ART - Alvarado Transportation Center","desc":"110 1ST ST SW","coordinates":[-106.6481,35.0835],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["3726","3727"],"related_routes":["3717","3729","3697","3698","3705","3715","3716","3718","3720","3721","3724","3734"]
-    },"7528":{"name":"ART - Downtown Station","desc":"COPPER AVE NW \u0026 1ST ST NW","coordinates":[-106.648,35.0848],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["3726","3727"],"related_routes":["3717","3729","3697","3698","3705","3715","3716","3718","3720","3721","3724","3734"]
-    },"7690":{"name":"Isleta @ Rio Bravo","desc":"3353 ISLETA BLVD SW","coordinates":[-106.6803,35.0279],"related_stops":["5541","5453","5744","5746","7690"],"transfer_routes":["3720"],"related_routes":["3719"]
+  "stops": {"1735":{"name":"Lead @ 5th","desc":"LEAD AVE SW \u0026 5TH ST. SW","coordinates":[-106.6527,35.0817],"related_stops":["1735","6976","6978"],"transfer_routes":["4242","4243"],"related_routes":["4251","4237"]
+    },"1911":{"name":"Bridge @ La Vega","desc":"BRIDGE BLVD SW \u0026 LA VEGA DR. SW","coordinates":[-106.6634,35.0692],"related_stops":["7470","1911"],"transfer_routes":["4242","4243"],"related_routes":[]
+    },"2485":{"name":"6th @ Silver","desc":"6TH ST SW \u0026 SILVER AVE SW","coordinates":[-106.6543,35.0826],"related_stops":["4437","7506","2485","6979","6980"],"transfer_routes":["4242","4243"],"related_routes":["4251","4237","4246","4248","4249"]
+    },"4437":{"name":"Gold @ 5th","desc":"GOLD AVE SW \u0026 5TH ST SW","coordinates":[-106.6535,35.0837],"related_stops":["4437","7506","2485","6979","6980"],"transfer_routes":["4242","4243","4246"],"related_routes":["4251","4237","4248","4249"]
+    },"4441":{"name":"1st @ Central (ATC)","desc":"1ST ST SW \u0026 CENTRAL AVE SW","coordinates":[-106.648,35.0838],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["4246"],"related_routes":["4239","4247","4251","4219","4220","4221","4227","4237","4240","4242","4243","4256","4248","4249"]
+    },"4703":{"name":"Central @ 1st (across from ATC)","desc":"CENTRAL AVE nW \u0026 1st St NW","coordinates":[-106.6487,35.0843],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["4246"],"related_routes":["4239","4247","4251","4219","4220","4221","4227","4237","4240","4242","4243","4256","4248","4249"]
+    },"4831":{"name":"A.T.C.  (Bay L)","desc":"ATC BAY L","coordinates":[-106.6477,35.0829],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["4243"],"related_routes":["4239","4247","4251","4219","4220","4221","4227","4237","4240","4242","4246","4256","4248","4249"]
+    },"4833":{"name":"A.T.C.  (Bay M)","desc":"ATC BAY M","coordinates":[-106.6477,35.0831],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["4221","4227"],"related_routes":["4239","4247","4251","4219","4220","4237","4240","4242","4243","4246","4256","4248","4249"]
+    },"4835":{"name":"A.T.C.  (Bay C)","desc":"ATC BAY C","coordinates":[-106.6476,35.0837],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["4219"],"related_routes":["4239","4247","4251","4220","4221","4227","4237","4240","4242","4243","4246","4256","4248","4249"]
+    },"4837":{"name":"A.T.C.  (Bay D)","desc":"ATC BAY D","coordinates":[-106.6475,35.0836],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["4220"],"related_routes":["4239","4247","4251","4219","4221","4227","4237","4240","4242","4243","4246","4256","4248","4249"]
+    },"4841":{"name":"A.T.C.  (Bay F)","desc":"ATC BAY F","coordinates":[-106.6475,35.0832],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["4242"],"related_routes":["4239","4247","4251","4219","4220","4221","4227","4237","4240","4243","4246","4256","4248","4249"]
+    },"4843":{"name":"A.T.C.  (Bay G)","desc":"ATC BAY G","coordinates":[-106.6476,35.083],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["4239"],"related_routes":["4247","4251","4219","4220","4221","4227","4237","4240","4242","4243","4246","4256","4248","4249"]
+    },"4845":{"name":"A.T.C.  (Bay H)","desc":"ATC BAY H","coordinates":[-106.6476,35.0829],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["4251"],"related_routes":["4239","4247","4219","4220","4221","4227","4237","4240","4242","4243","4246","4256","4248","4249"]
+    },"4847":{"name":"A.T.C.  (Bay J)","desc":"ATC Bay J","coordinates":[-106.6476,35.0827],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["4256"],"related_routes":["4239","4247","4251","4219","4220","4221","4227","4237","4240","4242","4243","4246","4248","4249"]
+    },"5387":{"name":"Isleta @ Blake","desc":"ISLETA BLVD SW \u0026 BLAKE RD SW","coordinates":[-106.6796,35.0379],"related_stops":["5439","5387","5413"],"transfer_routes":["4241","4242"],"related_routes":[]
+    },"5389":{"name":"Isleta @ Val Verde","desc":"ISLETA BLVD SW \u0026 VAL VERDE DR SW","coordinates":[-106.6796,35.0352],"related_stops":["5389","5411"],"transfer_routes":["4241","4242"],"related_routes":[]
+    },"5411":{"name":"Isleta @ Beall","desc":"ISLETA BLVD SW \u0026 VAL VERDE DR SW","coordinates":[-106.6794,35.0349],"related_stops":["5389","5411"],"transfer_routes":["4241","4242"],"related_routes":[]
+    },"5413":{"name":"Isleta @ Blake","desc":"ISLETA BLVD SW \u0026 BLAKE RD SW","coordinates":[-106.6793,35.0389],"related_stops":["5439","5387","5413"],"transfer_routes":["4242"],"related_routes":["4241"]
+    },"5415":{"name":"Isleta @ Valley","desc":"ISLETA BLVD SW \u0026 VALLEY RD SW","coordinates":[-106.6794,35.0406],"related_stops":["5437","5415"],"transfer_routes":["4242"],"related_routes":[]
+    },"5421":{"name":"Isleta @ Valdora","desc":"ISLETA BLVD SW \u0026 VALDORA AVE SW","coordinates":[-106.678,35.0496],"related_stops":["5423","5429","5421"],"transfer_routes":["4242"],"related_routes":[]
+    },"5423":{"name":"Isleta @ Valdora","desc":"ISLETA BLVD SW \u0026 VALDORA AVE SW","coordinates":[-106.6778,35.0512],"related_stops":["5423","5429","5421"],"transfer_routes":["4242"],"related_routes":[]
+    },"5425":{"name":"Isleta @ Arenal","desc":"ISLETA BLVD SW \u0026 ARENAL RD SW","coordinates":[-106.6761,35.0536],"related_stops":["5807","5543","5427","5425"],"transfer_routes":["4242"],"related_routes":[]
+    },"5427":{"name":"Isleta @ Arenal","desc":"ISLETA BLVD SW \u0026 ARENAL RD SW","coordinates":[-106.6778,35.053],"related_stops":["5807","5543","5427","5425"],"transfer_routes":["4242"],"related_routes":[]
+    },"5429":{"name":"Isleta @ Valdora","desc":"ISLETA BLVD SW \u0026 VALDORA AVE SW","coordinates":[-106.6783,35.0495],"related_stops":["5423","5429","5421"],"transfer_routes":["4242"],"related_routes":[]
+    },"5433":{"name":"Isleta @ Centro Familiar","desc":"ISLETA BLVD SW \u0026 CENTRO FAMILIAR BLVD SW","coordinates":[-106.6792,35.0448],"related_stops":["5433"],"transfer_routes":["4242"],"related_routes":[]
+    },"5437":{"name":"Isleta @ Valley","desc":"ISLETA BLVD SW \u0026 PATTON RD SW","coordinates":[-106.6796,35.041],"related_stops":["5437","5415"],"transfer_routes":["4242"],"related_routes":[]
+    },"5439":{"name":"Blake @ Isleta","desc":"BLAKE RD SW \u0026 ISLETA BLVD SW","coordinates":[-106.68,35.0383],"related_stops":["5439","5387","5413"],"transfer_routes":["4241"],"related_routes":["4242"]
+    },"5453":{"name":"Isleta @ Del Sur","desc":"ISLETA BLVD SW \u0026 DEL SUR DR SW","coordinates":[-106.6808,35.0255],"related_stops":["5541","5453"],"transfer_routes":["4242"],"related_routes":[]
+    },"5455":{"name":"Isleta @ Clinton","desc":"ISLETA BLVD SW \u0026 CLINTON BLVD SW","coordinates":[-106.6821,35.0224],"related_stops":["5539","5455"],"transfer_routes":["4242"],"related_routes":[]
+    },"5457":{"name":"Isleta @ Camino Del Valle","desc":"ISLETA BLVD SW \u0026 CAMINO DEL VALLE","coordinates":[-106.684,35.0182],"related_stops":["5537","5457"],"transfer_routes":["4242"],"related_routes":[]
+    },"5459":{"name":"Isleta @ Cottrell Lane","desc":"ISLETA BLVD SW \u0026 COTTRELL LN SW","coordinates":[-106.6848,35.0164],"related_stops":["5535","5459"],"transfer_routes":["4242"],"related_routes":[]
+    },"5471":{"name":"Isleta @ Lakeview","desc":"4267 ISLETA BLVD SW \u0026 LAKEVIEW RD SW","coordinates":[-106.6857,35.0147],"related_stops":["5533","5471"],"transfer_routes":["4242"],"related_routes":[]
+    },"5472":{"name":"Isleta @ Gunclub","desc":"ISLETA BLVD SW \u0026 GUN CLUB RD SW","coordinates":[-106.6873,35.0116],"related_stops":["5531","5472"],"transfer_routes":["4242"],"related_routes":[]
+    },"5473":{"name":"Isleta @ Don Felipe","desc":"ISLETA BLVD SW \u0026 DON FELIPE RD SW","coordinates":[-106.6955,34.9903],"related_stops":["5521","5473"],"transfer_routes":["4242"],"related_routes":[]
+    },"5474":{"name":"Isleta @ Sunshine","desc":"ISLETA BLVD SW \u0026 SUNSHINE RD SW","coordinates":[-106.6889,35.0073],"related_stops":["5474"],"transfer_routes":["4242"],"related_routes":[]
+    },"5475":{"name":"Isleta @ Pajarito","desc":"ISLETA BLVD SW \u0026 PAJARITO RD SW","coordinates":[-106.6966,34.9871],"related_stops":["5519","5475"],"transfer_routes":["4242"],"related_routes":[]
+    },"5477":{"name":"Isleta @ Margo","desc":"ISLETA BLVD SW \u0026 MARGO RD SW","coordinates":[-106.6971,34.9834],"related_stops":["5517","5477"],"transfer_routes":["4242"],"related_routes":[]
+    },"5478":{"name":"Isleta @ Muniz","desc":"ISLETA BLVD SW \u0026 MUNIZ RD SW","coordinates":[-106.6915,35.0007],"related_stops":["5527","5478"],"transfer_routes":["4242"],"related_routes":[]
+    },"5479":{"name":"Isleta @ Raymac","desc":"ISLETA BLVD SW \u0026 RAYMAC RD SW","coordinates":[-106.6968,34.9771],"related_stops":["5513","5515","5479"],"transfer_routes":["4242"],"related_routes":[]
+    },"5480":{"name":"Isleta @ Torres (CNM South Campus)","desc":"ISLETA BLVD SW \u0026 TORRES RD SW","coordinates":[-106.6936,34.9962],"related_stops":["5525","5480"],"transfer_routes":["4242"],"related_routes":[]
+    },"5481":{"name":"Isleta @ Markham","desc":"ISLETA BLVD SW \u0026 MARKHAM RD SW","coordinates":[-106.6966,34.9738],"related_stops":["5481","5511"],"transfer_routes":["4242"],"related_routes":[]
+    },"5482":{"name":"Isleta @ Mayflower","desc":"ISLETA BLVD SW \u0026 MAYFLOWER RD SW","coordinates":[-106.6942,34.9944],"related_stops":["5482"],"transfer_routes":["4242"],"related_routes":[]
+    },"5483":{"name":"Isleta @ Taylor","desc":"ISLETA BLVD SW \u0026 TAYLOR LN SW","coordinates":[-106.6963,34.9723],"related_stops":["5509","5483"],"transfer_routes":["4242"],"related_routes":[]
+    },"5485":{"name":"Isleta @ Cherry Tree","desc":"ISLETA BLVD SW \u0026 CHERRY TREE LN SW","coordinates":[-106.696,34.9699],"related_stops":["5507","5485"],"transfer_routes":["4242"],"related_routes":[]
+    },"5487":{"name":"Isleta @ Paul","desc":"ISLETA BLVD SW \u0026 PAUL RD SW","coordinates":[-106.6955,34.9643],"related_stops":["5505","5503","5487"],"transfer_routes":["4242"],"related_routes":[]
+    },"5489":{"name":"Isleta @ Luchetti","desc":"ISLETA BLVD SW \u0026 LUCHETTI RD SW","coordinates":[-106.6958,34.9618],"related_stops":["5489"],"transfer_routes":["4242"],"related_routes":[]
+    },"5490":{"name":"Isleta @ Celeste","desc":"ISLETA BLVD SW \u0026 CELESTE RD SW","coordinates":[-106.696,34.9594],"related_stops":["5490","5501"],"transfer_routes":["4242"],"related_routes":[]
+    },"5491":{"name":"Isleta @ Los Padillas","desc":"ISLETA BLVD SW \u0026 DESIDERIO RD SW","coordinates":[-106.6959,34.9572],"related_stops":["5491","5499"],"transfer_routes":["4242"],"related_routes":[]
+    },"5493":{"name":"Isleta @ Rays Ct","desc":"RAYS CT SW \u0026 ISLETA BLVD SW","coordinates":[-106.6951,34.9534],"related_stops":["5497","5493"],"transfer_routes":["4242"],"related_routes":[]
+    },"5495":{"name":"Isleta @ Malpais","desc":"ISLETA BLVD SW \u0026 MALPAIS RD SW","coordinates":[-106.6943,34.9514],"related_stops":["5495"],"transfer_routes":["4242"],"related_routes":[]
+    },"5497":{"name":"Isleta @ Marcelino","desc":"ISLETA BLVD SW \u0026 MARCELINO RD SW","coordinates":[-106.6949,34.9533],"related_stops":["5497","5493"],"transfer_routes":["4242"],"related_routes":[]
+    },"5499":{"name":"Isleta @ Desiderio","desc":"ISLETA BLVD SW \u0026 DESIDERIO RD SW","coordinates":[-106.6957,34.9574],"related_stops":["5491","5499"],"transfer_routes":["4242"],"related_routes":[]
+    },"5501":{"name":"Isleta @ El Ranchito","desc":"0 ISLETA BLVD SW \u0026 EL RANCHITO SW","coordinates":[-106.6958,34.9595],"related_stops":["5490","5501"],"transfer_routes":["4242"],"related_routes":[]
+    },"5503":{"name":"Isleta @ Ilfield","desc":"ISLETA BLVD SW \u0026 ILFELD RD SW","coordinates":[-106.6955,34.9629],"related_stops":["5505","5503","5487"],"transfer_routes":["4242"],"related_routes":[]
+    },"5505":{"name":"Isleta @ Ilfield","desc":"ISLETA BLVD SW \u0026 ILFELD RD SW","coordinates":[-106.6953,34.9645],"related_stops":["5505","5503","5487"],"transfer_routes":["4242"],"related_routes":[]
+    },"5507":{"name":"Isleta @ Turrietta","desc":"ISLETA BLVD SW \u0026 TURRIETTA LN SW","coordinates":[-106.6957,34.9698],"related_stops":["5507","5485"],"transfer_routes":["4242"],"related_routes":[]
+    },"5509":{"name":"Isleta @ Pepper Lane","desc":"ISLETA BLVD SW \u0026 PEPPER LN SW","coordinates":[-106.6961,34.9722],"related_stops":["5509","5483"],"transfer_routes":["4242"],"related_routes":[]
+    },"5511":{"name":"Isleta @ Pepper Ln.","desc":"ISLETA BLVD SW \u0026 PEPPER LN. SW","coordinates":[-106.6964,34.9737],"related_stops":["5481","5511"],"transfer_routes":["4242"],"related_routes":[]
+    },"5513":{"name":"Isleta @ Raymac","desc":"ISLETA BLVD SW \u0026 RAYMAC RD SW","coordinates":[-106.6966,34.9777],"related_stops":["5513","5515","5479"],"transfer_routes":["4242"],"related_routes":[]
+    },"5515":{"name":"Isleta @ Raymac","desc":"ISLETA BLVD SW \u0026 RAYMAC RD SW","coordinates":[-106.6965,34.9795],"related_stops":["5513","5515","5479"],"transfer_routes":["4242"],"related_routes":[]
+    },"5517":{"name":"Isleta @ Le Ave","desc":"ISLETA BLVD SW \u0026 LE AVE SW","coordinates":[-106.697,34.9825],"related_stops":["5517","5477"],"transfer_routes":["4242"],"related_routes":[]
+    },"5519":{"name":"Isleta @ Appleton","desc":"ISLETA BLVD SW \u0026 APPLETON RD SW","coordinates":[-106.6964,34.9871],"related_stops":["5519","5475"],"transfer_routes":["4242"],"related_routes":[]
+    },"5521":{"name":"Isleta @ Don Felipe","desc":"ISLETA BLVD SW \u0026 APPLETON RD SW","coordinates":[-106.6952,34.9903],"related_stops":["5521","5473"],"transfer_routes":["4242"],"related_routes":[]
+    },"5523":{"name":"Isleta @ Sandi Ln","desc":"ISLETA BLVD SW \u0026 SANDI LN SW","coordinates":[-106.6945,34.9925],"related_stops":["5523"],"transfer_routes":["4242"],"related_routes":[]
+    },"5525":{"name":"Isleta @ Torres (CNM South Campus)","desc":"ISLETA BLVD SW \u0026 TORRES RD SW","coordinates":[-106.6935,34.9961],"related_stops":["5525","5480"],"transfer_routes":["4242"],"related_routes":[]
+    },"5527":{"name":"Isleta @ Isabella Ct.","desc":"0 ISLETA BLVD SW \u0026 ISABELLA CT SW","coordinates":[-106.6912,35.0014],"related_stops":["5527","5478"],"transfer_routes":["4242"],"related_routes":[]
+    },"5529":{"name":"Isleta @ Metzgar","desc":"ISLETA BLVD SW \u0026 METZGAR RD SW","coordinates":[-106.6892,35.0062],"related_stops":["5529"],"transfer_routes":["4242"],"related_routes":[]
+    },"5531":{"name":"Isleta @ Gunclub","desc":"ISLETA BLVD SW \u0026 GUN CLUB RD SW","coordinates":[-106.6871,35.0116],"related_stops":["5531","5472"],"transfer_routes":["4242"],"related_routes":[]
+    },"5533":{"name":"Isleta @ Lakeview","desc":"ISLETA BLVD SW \u0026 LAKEVIEW RD SW","coordinates":[-106.6857,35.0143],"related_stops":["5533","5471"],"transfer_routes":["4242"],"related_routes":[]
+    },"5535":{"name":"Isleta @ Lakeview Rd","desc":"ISLETA BLVD SW \u0026 LAKEVIEW RD SW","coordinates":[-106.6845,35.0164],"related_stops":["5535","5459"],"transfer_routes":["4242"],"related_routes":[]
+    },"5537":{"name":"Isleta @ Camino Del Valle","desc":"ISLETA BLVD SW \u0026 CAMINO DEL VALLE SW","coordinates":[-106.6837,35.0183],"related_stops":["5537","5457"],"transfer_routes":["4242"],"related_routes":[]
+    },"5539":{"name":"Isleta @ Santa Rosa","desc":"ISLETA BLVD SW \u0026 SANTA ROSA AVE SW","coordinates":[-106.6819,35.0223],"related_stops":["5539","5455"],"transfer_routes":["4242"],"related_routes":[]
+    },"5541":{"name":"Isleta @ La Mora Ln","desc":"ISLETA BLVD SW \u0026 LA MORA LN SW","coordinates":[-106.6806,35.0255],"related_stops":["5541","5453"],"transfer_routes":["4242"],"related_routes":[]
+    },"5543":{"name":"Isleta @ Montrose Pl","desc":"ISLETA BLVD SW \u0026 MONTROSE PL SW","coordinates":[-106.674,35.0542],"related_stops":["5807","5543","5427","5425"],"transfer_routes":["4242"],"related_routes":[]
+    },"5547":{"name":"Isleta @ Lopez","desc":"ISLETA BLVD SW \u0026 LOPEZ RD SW","coordinates":[-106.6688,35.0559],"related_stops":["5803","5547"],"transfer_routes":["4242"],"related_routes":[]
+    },"5551":{"name":"Isleta @ Hardy","desc":"ISLETA BLVD SW \u0026 HARDY AVE SW","coordinates":[-106.6675,35.0614],"related_stops":["7328","5551"],"transfer_routes":["4242"],"related_routes":[]
+    },"5553":{"name":"Isleta @ Sunbeam","desc":"342 ISLETA BLVD SW \u0026 SUNBEAM RD SW","coordinates":[-106.6673,35.0655],"related_stops":["5559","5553"],"transfer_routes":["4242"],"related_routes":[]
+    },"5557":{"name":"Isleta @ Bridge","desc":"ISLETA BLVD SW \u0026 BRIDGE BLVD SW","coordinates":[-106.6669,35.0674],"related_stops":["5557","5728","7245"],"transfer_routes":["4242"],"related_routes":["4243"]
+    },"5559":{"name":"Isleta @ Sunbeam","desc":"ISLETA BLVD SW \u0026 SUNBEAM RD SW","coordinates":[-106.6675,35.0655],"related_stops":["5559","5553"],"transfer_routes":["4242"],"related_routes":[]
+    },"5571":{"name":"8th @ Sumpier Ln","desc":"8TH ST SW \u0026 SIMPIER LN SW","coordinates":[-106.6561,35.0708],"related_stops":["5591","5571","7330"],"transfer_routes":["4242"],"related_routes":["4243"]
+    },"5573":{"name":"8th @ Cromwell","desc":"8TH ST SW \u0026 CROMWELL AVE SW","coordinates":[-106.6571,35.0738],"related_stops":["5573"],"transfer_routes":["4242"],"related_routes":[]
+    },"5575":{"name":"8th @ Santa Fe","desc":"8TH ST SW \u0026 SANTA FE AVE SW","coordinates":[-106.6573,35.0759],"related_stops":["5575"],"transfer_routes":["4242"],"related_routes":[]
+    },"5577":{"name":"8th @ Atlantic","desc":"8TH ST SW \u0026 ATLANTIC AVE SW","coordinates":[-106.6574,35.0778],"related_stops":["5974","5577"],"transfer_routes":["4242"],"related_routes":[]
+    },"5579":{"name":"8th @ Stover","desc":"8TH ST SW \u0026 STOVER AVE SW","coordinates":[-106.6574,35.0791],"related_stops":["5579"],"transfer_routes":["4242"],"related_routes":[]
+    },"5581":{"name":"8th @ Coal","desc":"8TH ST SW \u0026 COAL AVE SW","coordinates":[-106.6571,35.0809],"related_stops":["5583","5581"],"transfer_routes":["4242"],"related_routes":[]
+    },"5583":{"name":"8th @ Iron","desc":"8TH ST SW \u0026 IRON AVE SW","coordinates":[-106.6574,35.0802],"related_stops":["5583","5581"],"transfer_routes":["4242"],"related_routes":[]
+    },"5589":{"name":"8th @ Nuanes","desc":"800 NUANES LN SW \u0026 8TH ST SW","coordinates":[-106.6569,35.0725],"related_stops":["5589"],"transfer_routes":["4242"],"related_routes":[]
+    },"5591":{"name":"8th @ Bridge","desc":"0 8TH ST SW \u0026 BRIDGE BLVD. SW","coordinates":[-106.6563,35.0707],"related_stops":["5591","5571","7330"],"transfer_routes":["4242"],"related_routes":["4243"]
+    },"5728":{"name":"Isleta @ Bridge","desc":"0 ISLETA BLVD SW \u0026 BRIDGE BLVD. SW","coordinates":[-106.667,35.0666],"related_stops":["5557","5728","7245"],"transfer_routes":["4242"],"related_routes":["4243"]
+    },"5730":{"name":"Isleta @ Perry Road","desc":"ISLETA BLVD SW \u0026 PERRY RD SW","coordinates":[-106.6787,35.0461],"related_stops":["5732","5730"],"transfer_routes":["4242"],"related_routes":[]
+    },"5732":{"name":"Isleta @ Starustka","desc":"ISLETA BLVD SW \u0026 STARUSTKA LN SW","coordinates":[-106.679,35.0461],"related_stops":["5732","5730"],"transfer_routes":["4242"],"related_routes":[]
+    },"5734":{"name":"Isleta @ Rinconado Ln","desc":"ISLETA BLVD SW \u0026 RINCONADO LN SW","coordinates":[-106.6793,35.0436],"related_stops":["5734"],"transfer_routes":["4242"],"related_routes":[]
+    },"5736":{"name":"Isleta @ Saunders Rd.","desc":"0 ISLETA BLVD. SW \u0026 SAUNDERS RD. SW","coordinates":[-106.6794,35.033],"related_stops":["5738","5736"],"transfer_routes":["4241","4242"],"related_routes":[]
+    },"5738":{"name":"Isleta @ Shadyside","desc":"ISLETA BLVD SW \u0026 SHADYSIDE DR SW","coordinates":[-106.6796,35.0327],"related_stops":["5738","5736"],"transfer_routes":["4241","4242"],"related_routes":[]
+    },"5740":{"name":"Isleta @ Barcelona","desc":"ISLETA BLVD SW \u0026 BARCELONA RD SW","coordinates":[-106.6794,35.0315],"related_stops":["5742","5740"],"transfer_routes":["4241","4242"],"related_routes":[]
+    },"5742":{"name":"Isleta @ Barcelona","desc":"ISLETA BLVD SW \u0026 BARCELONA RD SW","coordinates":[-106.6798,35.0304],"related_stops":["5742","5740"],"transfer_routes":["4241","4242"],"related_routes":[]
+    },"5744":{"name":"Isleta @ Kelsey","desc":"ISLETA BLVD SW \u0026 KELSEY RD SW","coordinates":[-106.6799,35.0286],"related_stops":["7690","5746","5744","7694","7692"],"transfer_routes":["4241","4242"],"related_routes":["4232"]
+    },"5746":{"name":"Isleta @ Rio Bravo","desc":"ISLETA BLVD SW \u0026 DEL NORTE DR SW","coordinates":[-106.6801,35.0287],"related_stops":["7690","5746","5744","7694","7692"],"transfer_routes":["4241"],"related_routes":["4242","4232"]
+    },"5801":{"name":"Isleta @ Nashville","desc":"ISLETA BLVD SW \u0026 NASHVILLE AVE SW","coordinates":[-106.6678,35.0594],"related_stops":["5801"],"transfer_routes":["4242"],"related_routes":[]
+    },"5803":{"name":"Isleta @ Lopez","desc":"ISLETA BLVD SW \u0026 LOPEZ RD.SW","coordinates":[-106.6699,35.0558],"related_stops":["5803","5547"],"transfer_routes":["4242"],"related_routes":[]
+    },"5805":{"name":"Isleta @ Gatewood","desc":"ISLETA BLVD SW \u0026 GATEWOOD RD SW","coordinates":[-106.6716,35.0556],"related_stops":["5805"],"transfer_routes":["4242"],"related_routes":[]
+    },"5807":{"name":"Isleta @ Soliz Court","desc":"ISLETA BLVD SW \u0026 SOLIZ CT SW","coordinates":[-106.6752,35.0541],"related_stops":["5807","5543","5427","5425"],"transfer_routes":["4242"],"related_routes":[]
+    },"5974":{"name":"8th @ Atlantic (Zoo)","desc":"8TH ST SW \u0026 ATLANTIC AVE SW","coordinates":[-106.6575,35.0771],"related_stops":["5974","5577"],"transfer_routes":["4242"],"related_routes":[]
+    },"6930":{"name":"A.T.C.  (Bay B)","desc":"","coordinates":[-106.6476,35.0835],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["4237"],"related_routes":["4239","4247","4251","4219","4220","4221","4227","4240","4242","4243","4246","4256","4248","4249"]
+    },"6932":{"name":"A.T.C.  (Bay A)","desc":"ATC BAY A \u0026 1ST ST SW","coordinates":[-106.6477,35.0833],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["4240"],"related_routes":["4239","4247","4251","4219","4220","4221","4227","4237","4242","4243","4246","4256","4248","4249"]
+    },"6972":{"name":"A.T.C.  (Bay N)","desc":"ATC BAY N \u0026 1ST ST SW","coordinates":[-106.648,35.0827],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["4247","4227"],"related_routes":["4239","4251","4219","4220","4221","4237","4240","4242","4243","4246","4256","4248","4249"]
+    },"6976":{"name":"Silver @ 5th","desc":"1ST ST SW \u0026 5TH ST SW","coordinates":[-106.6528,35.0827],"related_stops":["1735","6976","6978"],"transfer_routes":["4251","4237"],"related_routes":["4242","4243"]
+    },"6978":{"name":"Silver @ 4th","desc":"SILVER AVE SW \u0026 4TH ST SW","coordinates":[-106.6524,35.0825],"related_stops":["1735","6976","6978"],"transfer_routes":["4251","4237"],"related_routes":["4242","4243"]
+    },"6979":{"name":"6th @ Gold","desc":"6TH ST SW \u0026 GOLD AVE SW","coordinates":[-106.6543,35.0836],"related_stops":["4437","7506","2485","6979","6980"],"transfer_routes":["4251","4237"],"related_routes":["4242","4243","4246","4248","4249"]
+    },"6980":{"name":"5th @ Gold","desc":"0 5th Street \u0026 Gold","coordinates":[-106.6528,35.0841],"related_stops":["4437","7506","2485","6979","6980"],"transfer_routes":["4251","4237"],"related_routes":["4242","4243","4246","4248","4249"]
+    },"7245":{"name":"Bridge @ Isleta","desc":"ISLETA BLVD SW \u0026 BRIDGE BLVD SW","coordinates":[-106.6661,35.0684],"related_stops":["5557","5728","7245"],"transfer_routes":["4242","4243"],"related_routes":[]
+    },"7328":{"name":"Isleta @ Bletcher","desc":"ISLETA BLVD SW \u0026 BLETCHER RD SW","coordinates":[-106.6678,35.0617],"related_stops":["7328","5551"],"transfer_routes":["4242"],"related_routes":[]
+    },"7330":{"name":"Bridge @ 8th","desc":"BRIDGE BLVD SW \u0026 8TH ST SW","coordinates":[-106.6572,35.07],"related_stops":["5591","5571","7330"],"transfer_routes":["4242","4243"],"related_routes":[]
+    },"7470":{"name":"Bridge @ La Vega","desc":"BRIDGE BLVD SW \u0026 LA VEGA DR SW","coordinates":[-106.6632,35.0696],"related_stops":["7470","1911"],"transfer_routes":["4242","4243"],"related_routes":[]
+    },"7506":{"name":"ART - Barelas Station","desc":"GOLD AVE SW \u0026 6TH ST SW","coordinates":[-106.6544,35.0839],"related_stops":["4437","7506","2485","6979","6980"],"transfer_routes":["4248","4249"],"related_routes":["4251","4237","4242","4243","4246"]
+    },"7507":{"name":"ART - Alvarado Transportation Center","desc":"1ST ST SW \u0026 CENTRAL AVE SW","coordinates":[-106.6481,35.0835],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["4248","4249"],"related_routes":["4239","4247","4251","4219","4220","4221","4227","4237","4240","4242","4243","4246","4256"]
+    },"7528":{"name":"ART - Downtown Station","desc":"1ST ST NW \u0026 COPPER AVE NW","coordinates":[-106.648,35.0848],"related_stops":["6930","6932","4841","4831","4843","4833","4845","4703","4835","4441","6972","4847","4837","7507","7528"],"transfer_routes":["4248","4249"],"related_routes":["4239","4247","4251","4219","4220","4221","4227","4237","4240","4242","4243","4246","4256"]
+    },"7690":{"name":"Isleta @ Rio Bravo","desc":"ISLETA BLVD SW \u0026 RIO BRAVO SW","coordinates":[-106.6803,35.0279],"related_stops":["7690","5746","5744","7694","7692"],"transfer_routes":["4242"],"related_routes":["4241","4232"]
+    },"7692":{"name":"Rio Bravo @ Isleta","desc":"RIO BRAVO BLVD SW \u0026 ISLETA BLVD SW","coordinates":[-106.6811,35.027],"related_stops":["7690","5746","5744","7694","7692"],"transfer_routes":["4232"],"related_routes":["4241","4242"]
+    },"7694":{"name":"Rio Bravo @ Isleta","desc":"RIO BRAVO BLVD SW \u0026 ISLETA BLVD SW","coordinates":[-106.6816,35.0267],"related_stops":["7690","5746","5744","7694","7692"],"transfer_routes":["4232"],"related_routes":["4241","4242"]
     }
   },
   "trip_data": {
     "shapes": {
-      "9e751": {
+      "08a1a": {
         "bearing": 196.05,"centroid":[-106.6771,35.0304],
         "bounds": [[-106.6971,34.9504],[0.0,35.0832]
         ],"coordinates":[[-106.64754200005044,35.083188],[-106.64771000005048,35.082581],[-106.64835100005062,35.082622],[-106.6482220000506,35.083078],[-106.64942800005086,35.083249],[-106.64977400005093,35.081282],[-106.65692100005255,35.082191],[-106.65750000005268,35.079495],[-106.6572330000526,35.073336],[-106.65621700005235,35.071517],[-106.65622600005236,35.07],[-106.66295700005392,35.069501],[-106.66610100005465,35.068557],[-106.66728400005493,35.066257],[-106.66778900005504,35.062802],[-106.66744300005496,35.060402],[-106.66835200005515,35.05677],[-106.66865400005523,35.056115],[-106.66927900005538,35.055757],[-106.67235700005612,35.055378],[-106.67411700005654,35.05429],[-106.67657200005715,35.053573],[-106.6775630000574,35.053498],[-106.67749300005737,35.052565],[-106.6780060000575,35.050948],[-106.67841000005758,35.047707],[-106.67925500005778,35.044191],[-106.67949700005784,35.042485],[-106.6794770000578,35.031525],[-106.68060300005806,35.025768],[-106.68101300005814,35.024395],[-106.6841230000589,35.017461],[-106.6877270000598,35.010474],[-106.68868000006005,35.007568],[-106.6909800000606,35.002155],[-106.69203000006087,34.998699],[-106.69330000006119,34.996609],[-106.69512400006165,34.990724],[-106.69662500006203,34.986659],[-106.69663500006203,34.985282],[-106.69710500006214,34.981813],[-106.69704300006211,34.980644],[-106.69654700006197,34.978973],[-106.69675000006201,34.975294],[-106.69663100006198,34.973953],[-106.69614700006184,34.971916],[-106.69543600006163,34.965299],[-106.69591900006175,34.959863],[-106.69587400006172,34.957539],[-106.6954810000616,34.954978],[-106.69419600006125,34.950368]],
         "distances": [0.0,0.0709,0.1291,0.1813,0.292,0.5142,1.1679,1.4771,2.1671,2.3909,2.561,3.1732,3.4771,3.7552,4.1451,4.4153,4.8303,4.9085,4.9801,5.2625,5.4637,5.6999,5.7906,5.8949,6.0817,6.4466,6.8479,7.0402,8.2665,8.9185,9.0769,9.9017,10.7499,11.0863,11.727,12.1261,12.3872,13.0665,13.5415,13.6955,14.0861,14.2172,14.4098,14.8212,14.9716,15.2042,15.9471,16.5577,16.8178,17.1083,17.6376]
       },
-      "1fe63": {
+      "80ae7": {
         "bearing": 16.05,"centroid":[-106.6778,35.0294],
         "bounds": [[-106.6971,34.9504],[0.0,35.0838]
         ],"coordinates":[[-106.69419600006125,34.950368],[-106.6954810000616,34.954978],[-106.69587400006172,34.957539],[-106.69591900006175,34.959863],[-106.69543600006163,34.965299],[-106.69614700006184,34.971916],[-106.69663100006198,34.973953],[-106.69675000006201,34.975294],[-106.69654700006197,34.978973],[-106.69704300006211,34.980644],[-106.69710500006214,34.981813],[-106.69663500006203,34.985282],[-106.69662500006203,34.986659],[-106.69512400006165,34.990724],[-106.69330000006119,34.996609],[-106.69203000006087,34.998699],[-106.6909800000606,35.002155],[-106.68868000006005,35.007568],[-106.6877270000598,35.010474],[-106.6841230000589,35.017461],[-106.68101300005814,35.024395],[-106.68060300005806,35.025768],[-106.6794770000578,35.031525],[-106.67949700005784,35.042485],[-106.67925500005778,35.044191],[-106.67841000005758,35.047707],[-106.6780060000575,35.050948],[-106.67749300005737,35.052565],[-106.6775630000574,35.053498],[-106.67657200005715,35.053573],[-106.67411700005654,35.05429],[-106.67235700005612,35.055378],[-106.66927900005538,35.055757],[-106.66865400005523,35.056115],[-106.66835200005515,35.05677],[-106.66744300005496,35.060402],[-106.66778900005504,35.062802],[-106.66728400005493,35.066257],[-106.66610100005465,35.068557],[-106.66295700005392,35.069501],[-106.65622600005236,35.07],[-106.65621700005235,35.071517],[-106.6572330000526,35.073336],[-106.65750000005268,35.079495],[-106.6570990000526,35.081217],[-106.65473400005206,35.080923],[-106.65416000005193,35.083845],[-106.6478300000505,35.083019],[-106.64751800005044,35.083796],[-106.64754200005044,35.083188]],
@@ -171,109 +173,109 @@
       }
     },
     "stop_lists": {
-      "1841d": ["4841","1735","5583","5974","5585","5589","5591","7330","7470","5557","5559","7328","5801","5803","5805","5807","5427","5429","5732","5433","5437","5387","5389","5738","5742","7690","5453","5455","5457","5459","5471","5472","5474","5478","5480","5482","5473","5475","5477","5479","5481","5483","5485","5487","5489","5490","5491","5493","5495"],
+      "06035": ["4841","1735","5583","5974","5589","5591","7330","7470","5557","5559","7328","5801","5803","5805","5807","5427","5429","5732","5433","5437","5387","5389","5738","5742","7690","5453","5455","5457","5459","5471","5472","5474","5478","5480","5482","5473","5475","5477","5479","5481","5483","5485","5487","5489","5490","5491","5493","5495"],
       "a32f7": ["5495","5497","5499","5501","5503","5505","5507","5509","5511","5513","5515","5517","5519","5521","5523","5525","5527","5529","5531","5533","5535","5537","5539","5541","5744","5740","5736","5411","5413","5415","5734","5730","5421","5423","5425","5543","5547","5551","5553","5728","7245","1911","5571","5573","5575","5577","5579","5581","2485","4437","4841"]
     },
     "stop_times": {
-      "83fbf": [0,107,191,240,284,322,357,383,468,540,564,609,637,692,708,748,780,826,872,888,937,978,1012,1044,1080,1109,1137,1174,1226,1248,1269,1308,1360,1440,1500,1517,1555,1586,1619,1680,1711,1724,1746,1797,1820,1841,1861,1896,1920],
+      "d1faa": [0,134,239,300,365,393,414,482,540,558,591,612,653,665,695,720,766,812,828,877,918,952,984,1020,1045,1069,1101,1146,1165,1183,1216,1260,1329,1380,1397,1435,1466,1499,1560,1591,1604,1626,1677,1700,1721,1741,1776,1800],
+      "08a16": [0,107,191,240,322,357,383,468,540,558,591,612,653,665,695,720,766,812,828,877,918,952,984,1020,1049,1077,1114,1166,1188,1209,1248,1300,1380,1440,1457,1495,1526,1559,1620,1651,1664,1686,1737,1760,1781,1801,1836,1860],
+      "81edf": [0,134,239,300,365,393,414,482,540,564,609,637,692,708,748,780,826,872,888,937,978,1012,1044,1080,1113,1145,1188,1248,1273,1297,1341,1400,1492,1560,1577,1615,1646,1679,1740,1771,1784,1806,1857,1880,1901,1921,1956,1980],
+      "532d1": [0,134,239,300,365,393,414,482,540,558,591,612,653,665,695,720,766,812,828,877,918,952,984,1020,1049,1077,1114,1166,1188,1209,1248,1300,1380,1440,1457,1495,1526,1559,1620,1651,1664,1686,1737,1760,1781,1801,1836,1860],
       "e7958": [0,16,50,68,96,109,153,173,185,219,240,261,293,316,332,360,428,497,569,606,636,660,715,757,798,840,860,883,935,956,994,1027,1072,1092,1140,1163,1220,1289,1340,1354,1380,1414,1513,1559,1589,1620,1651,1695,1789,1831,1980],
-      "a6a3a": [0,134,239,300,353,398,440,471,574,660,684,729,757,812,828,868,900,955,1010,1030,1089,1138,1179,1218,1260,1293,1325,1368,1428,1453,1477,1521,1580,1672,1740,1757,1795,1826,1859,1920,1959,1975,2003,2067,2096,2123,2148,2191,2220],
       "7a6d0": [0,12,38,51,72,82,115,130,139,164,180,212,261,296,320,360,411,463,517,545,567,585,626,658,688,720,740,763,815,836,874,907,952,972,1020,1037,1079,1131,1169,1180,1200,1234,1333,1379,1409,1440,1471,1515,1609,1651,1800],
-      "1b69e": [0,107,191,240,284,322,357,383,468,540,558,591,612,653,665,695,720,766,812,828,877,918,952,984,1020,1049,1077,1114,1166,1188,1209,1248,1300,1380,1440,1457,1495,1526,1559,1620,1651,1664,1686,1737,1760,1781,1801,1836,1860],
+      "06469": [0,107,191,240,322,357,383,468,540,558,591,612,653,665,695,720,766,812,828,877,918,952,984,1020,1049,1077,1114,1166,1188,1209,1248,1300,1380,1440,1457,1495,1526,1559,1620,1659,1675,1703,1767,1796,1823,1848,1891,1920],
+      "c5ea1": [0,134,239,300,382,417,443,528,600,624,669,697,752,768,808,840,886,932,948,997,1038,1072,1104,1140,1173,1205,1248,1308,1333,1357,1401,1460,1552,1620,1637,1675,1706,1739,1800,1839,1855,1883,1947,1976,2003,2028,2071,2100],
+      "b7c99": [0,134,239,300,398,440,471,574,660,684,729,757,812,828,868,900,955,1010,1030,1089,1138,1179,1218,1260,1293,1325,1368,1428,1453,1477,1521,1580,1672,1740,1757,1795,1826,1859,1920,1959,1975,2003,2067,2096,2123,2148,2191,2220],
       "e0719": [0,16,50,68,96,109,153,173,185,219,240,272,321,356,380,420,488,557,629,666,696,720,775,817,858,900,920,943,995,1016,1054,1087,1132,1152,1200,1223,1280,1349,1400,1414,1440,1474,1573,1619,1649,1680,1711,1755,1849,1891,2040],
-      "5a112": [0,134,239,300,335,365,393,414,482,540,564,609,637,692,708,748,780,826,872,888,937,978,1012,1044,1080,1109,1137,1174,1226,1248,1269,1308,1360,1440,1500,1517,1555,1586,1619,1680,1711,1724,1746,1797,1820,1841,1861,1896,1920],
       "df78e": [0,16,50,68,96,109,153,173,185,219,240,272,321,356,380,420,488,557,629,666,696,720,775,817,858,900,924,952,1014,1039,1085,1125,1179,1203,1260,1283,1340,1409,1460,1474,1500,1534,1633,1679,1709,1740,1771,1815,1909,1951,2100],
-      "ccf6c": [0,134,239,300,335,365,393,414,482,540,558,591,612,653,665,695,720,766,812,828,877,918,952,984,1020,1045,1069,1101,1146,1165,1183,1216,1260,1329,1380,1397,1435,1466,1499,1560,1591,1604,1626,1677,1700,1721,1741,1776,1800],
-      "b702d": [0,134,239,300,335,365,393,414,482,540,564,609,637,692,708,748,780,826,872,888,937,978,1012,1044,1080,1113,1145,1188,1248,1273,1297,1341,1400,1492,1560,1577,1615,1646,1679,1740,1771,1784,1806,1857,1880,1901,1921,1956,1980],
-      "c6e39": [0,134,239,300,344,382,417,443,528,600,624,669,697,752,768,808,840,895,950,970,1029,1078,1119,1158,1200,1229,1257,1294,1346,1368,1389,1428,1480,1560,1620,1637,1675,1706,1739,1800,1831,1844,1866,1917,1940,1961,1981,2016,2040],
-      "e9222": [0,134,239,300,344,382,417,443,528,600,624,669,697,752,768,808,840,886,932,948,997,1038,1072,1104,1140,1173,1205,1248,1308,1333,1357,1401,1460,1552,1620,1637,1675,1706,1739,1800,1839,1855,1883,1947,1976,2003,2028,2071,2100],
       "37785": [0,12,38,51,72,82,115,130,139,164,180,212,261,296,320,360,420,480,543,575,601,622,670,707,743,780,800,823,875,896,934,967,1012,1032,1080,1103,1160,1229,1280,1294,1320,1363,1486,1544,1582,1620,1651,1695,1789,1831,1980],
-      "3c325": [0,107,191,240,284,322,357,383,468,540,558,591,612,653,665,695,720,766,812,828,877,918,952,984,1020,1049,1077,1114,1166,1188,1209,1248,1300,1380,1440,1457,1495,1526,1559,1620,1659,1675,1703,1767,1796,1823,1848,1891,1920],
+      "ecbef": [0,134,239,300,382,417,443,528,600,624,669,697,752,768,808,840,895,950,970,1029,1078,1119,1158,1200,1229,1257,1294,1346,1368,1389,1428,1480,1560,1620,1637,1675,1706,1739,1800,1831,1844,1866,1917,1940,1961,1981,2016,2040],
       "306dd": [0,12,38,51,72,82,115,130,139,164,180,212,261,296,320,360,420,480,543,575,601,622,670,707,743,780,800,823,875,896,934,967,1012,1032,1080,1103,1160,1229,1280,1294,1320,1354,1453,1499,1529,1560,1591,1635,1729,1771,1920],
-      "ceb43": [0,134,239,300,335,365,393,414,482,540,558,591,612,653,665,695,720,766,812,828,877,918,952,984,1020,1049,1077,1114,1166,1188,1209,1248,1300,1380,1440,1457,1495,1526,1559,1620,1651,1664,1686,1737,1760,1781,1801,1836,1860]
+      "306aa": [0,107,191,240,322,357,383,468,540,564,609,637,692,708,748,780,826,872,888,937,978,1012,1044,1080,1109,1137,1174,1226,1248,1269,1308,1360,1440,1500,1517,1555,1586,1619,1680,1711,1724,1746,1797,1820,1841,1861,1896,1920],
+      "61173": [0,134,239,300,365,393,414,482,540,564,609,637,692,708,748,780,826,872,888,937,978,1012,1044,1080,1109,1137,1174,1226,1248,1269,1308,1360,1440,1500,1517,1555,1586,1619,1680,1711,1724,1746,1797,1820,1841,1861,1896,1920]
     },
     "stop_distances": {
-      "87a6b": [0.0,0.7825,1.3973,1.7453,2.0226,2.2607,2.483,2.6495,3.1868,3.6217,3.8456,4.2635,4.5281,5.0393,5.1929,5.5656,5.8447,6.2422,6.6361,6.7797,7.2032,7.5564,7.8524,8.1335,8.4001,8.6816,8.9515,9.3154,9.8242,10.0389,10.245,10.6206,11.1204,11.8948,12.4343,12.6495,13.1194,13.4978,13.9058,14.616,14.9942,15.1555,15.4332,16.0552,16.3431,16.6077,16.8578,17.2822,17.5182],
+      "27b43": [0.0,0.7825,1.3973,1.7453,1.9834,2.2057,2.3722,2.9095,3.3444,3.5683,3.9863,4.2508,4.762,4.9156,5.2883,5.5674,5.9649,6.3588,6.5024,6.926,7.2791,7.5751,7.8562,8.1229,8.4043,8.6742,9.0381,9.5469,9.7616,9.9677,10.3433,10.8431,11.6175,12.1571,12.3722,12.8421,13.2205,13.6285,14.3388,14.7169,14.8783,15.1559,15.7779,16.0658,16.3304,16.5806,17.005,17.2409],
       "dbbd0": [0.0,0.2182,0.6794,0.9225,1.2983,1.4801,2.072,2.3444,2.5148,2.9652,3.1683,3.5132,4.034,4.4042,4.6585,5.0683,5.6673,6.2716,6.9042,7.232,7.4977,7.7143,8.1942,8.5655,8.9244,9.2445,9.4207,9.6258,10.0789,10.265,10.6007,10.8921,11.286,11.4642,11.8564,12.0648,12.5825,13.2111,13.6736,13.8066,14.029,14.2947,15.0482,15.4044,15.6368,15.852,16.0001,16.2098,16.6539,16.8503,17.535]
     },
     "dwell_times": {
       "0f920": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-      "3db12": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+      "b7dd5": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
     },
     "trips": {
       "1": [
-        {"id":"486090","direction":0,"start_time":19440,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"e0719","stop_dwells":"0f920","shape_key":"1fe63"},
-        {"id":"486089","direction":0,"start_time":22740,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"e0719","stop_dwells":"0f920","shape_key":"1fe63"},
-        {"id":"486088","direction":0,"start_time":25260,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"df78e","stop_dwells":"0f920","shape_key":"1fe63"},
-        {"id":"486087","direction":0,"start_time":28080,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"df78e","stop_dwells":"0f920","shape_key":"1fe63"},
-        {"id":"486086","direction":0,"start_time":30660,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"df78e","stop_dwells":"0f920","shape_key":"1fe63"},
-        {"id":"486085","direction":0,"start_time":33360,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"df78e","stop_dwells":"0f920","shape_key":"1fe63"},
-        {"id":"486084","direction":0,"start_time":36060,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"df78e","stop_dwells":"0f920","shape_key":"1fe63"},
-        {"id":"486083","direction":0,"start_time":38760,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"df78e","stop_dwells":"0f920","shape_key":"1fe63"},
-        {"id":"486082","direction":0,"start_time":41340,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"df78e","stop_dwells":"0f920","shape_key":"1fe63"},
-        {"id":"486081","direction":0,"start_time":44040,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"df78e","stop_dwells":"0f920","shape_key":"1fe63"},
-        {"id":"486080","direction":0,"start_time":46860,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"df78e","stop_dwells":"0f920","shape_key":"1fe63"},
-        {"id":"486079","direction":0,"start_time":49560,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"df78e","stop_dwells":"0f920","shape_key":"1fe63"},
-        {"id":"486078","direction":0,"start_time":52320,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"df78e","stop_dwells":"0f920","shape_key":"1fe63"},
-        {"id":"486077","direction":0,"start_time":55260,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"df78e","stop_dwells":"0f920","shape_key":"1fe63"},
-        {"id":"486076","direction":0,"start_time":58080,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"e7958","stop_dwells":"0f920","shape_key":"1fe63"},
-        {"id":"486075","direction":0,"start_time":60480,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"e7958","stop_dwells":"0f920","shape_key":"1fe63"},
-        {"id":"486074","direction":0,"start_time":63540,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"e7958","stop_dwells":"0f920","shape_key":"1fe63"},
-        {"id":"486073","direction":0,"start_time":66120,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"e7958","stop_dwells":"0f920","shape_key":"1fe63"},
-        {"id":"486072","direction":0,"start_time":69060,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"e7958","stop_dwells":"0f920","shape_key":"1fe63"},
-        {"id":"486108","direction":1,"start_time":23100,"stops_key":"1841d","stop_distances":"87a6b","stop_times":"1b69e","stop_dwells":"3db12","shape_key":"9e751"},
-        {"id":"486107","direction":1,"start_time":26040,"stops_key":"1841d","stop_distances":"87a6b","stop_times":"1b69e","stop_dwells":"3db12","shape_key":"9e751"},
-        {"id":"486106","direction":1,"start_time":28440,"stops_key":"1841d","stop_distances":"87a6b","stop_times":"1b69e","stop_dwells":"3db12","shape_key":"9e751"},
-        {"id":"486105","direction":1,"start_time":31080,"stops_key":"1841d","stop_distances":"87a6b","stop_times":"83fbf","stop_dwells":"3db12","shape_key":"9e751"},
-        {"id":"486104","direction":1,"start_time":33780,"stops_key":"1841d","stop_distances":"87a6b","stop_times":"83fbf","stop_dwells":"3db12","shape_key":"9e751"},
-        {"id":"486103","direction":1,"start_time":36480,"stops_key":"1841d","stop_distances":"87a6b","stop_times":"83fbf","stop_dwells":"3db12","shape_key":"9e751"},
-        {"id":"486102","direction":1,"start_time":39060,"stops_key":"1841d","stop_distances":"87a6b","stop_times":"83fbf","stop_dwells":"3db12","shape_key":"9e751"},
-        {"id":"486101","direction":1,"start_time":41760,"stops_key":"1841d","stop_distances":"87a6b","stop_times":"83fbf","stop_dwells":"3db12","shape_key":"9e751"},
-        {"id":"486100","direction":1,"start_time":44580,"stops_key":"1841d","stop_distances":"87a6b","stop_times":"83fbf","stop_dwells":"3db12","shape_key":"9e751"},
-        {"id":"486099","direction":1,"start_time":47280,"stops_key":"1841d","stop_distances":"87a6b","stop_times":"c6e39","stop_dwells":"3db12","shape_key":"9e751"},
-        {"id":"486098","direction":1,"start_time":49980,"stops_key":"1841d","stop_distances":"87a6b","stop_times":"c6e39","stop_dwells":"3db12","shape_key":"9e751"},
-        {"id":"486097","direction":1,"start_time":52800,"stops_key":"1841d","stop_distances":"87a6b","stop_times":"a6a3a","stop_dwells":"3db12","shape_key":"9e751"},
-        {"id":"486096","direction":1,"start_time":55800,"stops_key":"1841d","stop_distances":"87a6b","stop_times":"a6a3a","stop_dwells":"3db12","shape_key":"9e751"},
-        {"id":"486095","direction":1,"start_time":58260,"stops_key":"1841d","stop_distances":"87a6b","stop_times":"a6a3a","stop_dwells":"3db12","shape_key":"9e751"},
-        {"id":"486094","direction":1,"start_time":61080,"stops_key":"1841d","stop_distances":"87a6b","stop_times":"a6a3a","stop_dwells":"3db12","shape_key":"9e751"},
-        {"id":"486093","direction":1,"start_time":63960,"stops_key":"1841d","stop_distances":"87a6b","stop_times":"e9222","stop_dwells":"3db12","shape_key":"9e751"},
-        {"id":"486092","direction":1,"start_time":66600,"stops_key":"1841d","stop_distances":"87a6b","stop_times":"e9222","stop_dwells":"3db12","shape_key":"9e751"},
-        {"id":"486091","direction":1,"start_time":68760,"stops_key":"1841d","stop_distances":"87a6b","stop_times":"3c325","stop_dwells":"3db12","shape_key":"9e751"}
+        {"id":"549138","direction":0,"start_time":19440,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"e0719","stop_dwells":"0f920","shape_key":"80ae7"},
+        {"id":"549137","direction":0,"start_time":22740,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"e0719","stop_dwells":"0f920","shape_key":"80ae7"},
+        {"id":"549136","direction":0,"start_time":25260,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"df78e","stop_dwells":"0f920","shape_key":"80ae7"},
+        {"id":"549135","direction":0,"start_time":28080,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"df78e","stop_dwells":"0f920","shape_key":"80ae7"},
+        {"id":"549134","direction":0,"start_time":30660,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"df78e","stop_dwells":"0f920","shape_key":"80ae7"},
+        {"id":"549133","direction":0,"start_time":33360,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"df78e","stop_dwells":"0f920","shape_key":"80ae7"},
+        {"id":"549132","direction":0,"start_time":36060,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"df78e","stop_dwells":"0f920","shape_key":"80ae7"},
+        {"id":"549131","direction":0,"start_time":38760,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"df78e","stop_dwells":"0f920","shape_key":"80ae7"},
+        {"id":"549130","direction":0,"start_time":41340,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"df78e","stop_dwells":"0f920","shape_key":"80ae7"},
+        {"id":"549129","direction":0,"start_time":44040,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"df78e","stop_dwells":"0f920","shape_key":"80ae7"},
+        {"id":"549128","direction":0,"start_time":46860,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"df78e","stop_dwells":"0f920","shape_key":"80ae7"},
+        {"id":"549127","direction":0,"start_time":49560,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"df78e","stop_dwells":"0f920","shape_key":"80ae7"},
+        {"id":"549126","direction":0,"start_time":52320,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"df78e","stop_dwells":"0f920","shape_key":"80ae7"},
+        {"id":"549125","direction":0,"start_time":55260,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"df78e","stop_dwells":"0f920","shape_key":"80ae7"},
+        {"id":"549124","direction":0,"start_time":58080,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"e7958","stop_dwells":"0f920","shape_key":"80ae7"},
+        {"id":"549123","direction":0,"start_time":60480,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"e7958","stop_dwells":"0f920","shape_key":"80ae7"},
+        {"id":"549122","direction":0,"start_time":63540,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"e7958","stop_dwells":"0f920","shape_key":"80ae7"},
+        {"id":"549121","direction":0,"start_time":66120,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"e7958","stop_dwells":"0f920","shape_key":"80ae7"},
+        {"id":"549120","direction":0,"start_time":69060,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"e7958","stop_dwells":"0f920","shape_key":"80ae7"},
+        {"id":"549156","direction":1,"start_time":23100,"stops_key":"06035","stop_distances":"27b43","stop_times":"08a16","stop_dwells":"b7dd5","shape_key":"08a1a"},
+        {"id":"549155","direction":1,"start_time":26040,"stops_key":"06035","stop_distances":"27b43","stop_times":"08a16","stop_dwells":"b7dd5","shape_key":"08a1a"},
+        {"id":"549154","direction":1,"start_time":28440,"stops_key":"06035","stop_distances":"27b43","stop_times":"08a16","stop_dwells":"b7dd5","shape_key":"08a1a"},
+        {"id":"549153","direction":1,"start_time":31080,"stops_key":"06035","stop_distances":"27b43","stop_times":"306aa","stop_dwells":"b7dd5","shape_key":"08a1a"},
+        {"id":"549152","direction":1,"start_time":33780,"stops_key":"06035","stop_distances":"27b43","stop_times":"306aa","stop_dwells":"b7dd5","shape_key":"08a1a"},
+        {"id":"549151","direction":1,"start_time":36480,"stops_key":"06035","stop_distances":"27b43","stop_times":"306aa","stop_dwells":"b7dd5","shape_key":"08a1a"},
+        {"id":"549150","direction":1,"start_time":39060,"stops_key":"06035","stop_distances":"27b43","stop_times":"306aa","stop_dwells":"b7dd5","shape_key":"08a1a"},
+        {"id":"549149","direction":1,"start_time":41760,"stops_key":"06035","stop_distances":"27b43","stop_times":"306aa","stop_dwells":"b7dd5","shape_key":"08a1a"},
+        {"id":"549148","direction":1,"start_time":44580,"stops_key":"06035","stop_distances":"27b43","stop_times":"306aa","stop_dwells":"b7dd5","shape_key":"08a1a"},
+        {"id":"549147","direction":1,"start_time":47280,"stops_key":"06035","stop_distances":"27b43","stop_times":"ecbef","stop_dwells":"b7dd5","shape_key":"08a1a"},
+        {"id":"549146","direction":1,"start_time":49980,"stops_key":"06035","stop_distances":"27b43","stop_times":"ecbef","stop_dwells":"b7dd5","shape_key":"08a1a"},
+        {"id":"549145","direction":1,"start_time":52800,"stops_key":"06035","stop_distances":"27b43","stop_times":"b7c99","stop_dwells":"b7dd5","shape_key":"08a1a"},
+        {"id":"549144","direction":1,"start_time":55800,"stops_key":"06035","stop_distances":"27b43","stop_times":"b7c99","stop_dwells":"b7dd5","shape_key":"08a1a"},
+        {"id":"549143","direction":1,"start_time":58260,"stops_key":"06035","stop_distances":"27b43","stop_times":"b7c99","stop_dwells":"b7dd5","shape_key":"08a1a"},
+        {"id":"549142","direction":1,"start_time":61080,"stops_key":"06035","stop_distances":"27b43","stop_times":"b7c99","stop_dwells":"b7dd5","shape_key":"08a1a"},
+        {"id":"549141","direction":1,"start_time":63960,"stops_key":"06035","stop_distances":"27b43","stop_times":"c5ea1","stop_dwells":"b7dd5","shape_key":"08a1a"},
+        {"id":"549140","direction":1,"start_time":66600,"stops_key":"06035","stop_distances":"27b43","stop_times":"c5ea1","stop_dwells":"b7dd5","shape_key":"08a1a"},
+        {"id":"549139","direction":1,"start_time":68760,"stops_key":"06035","stop_distances":"27b43","stop_times":"06469","stop_dwells":"b7dd5","shape_key":"08a1a"}
       ],
       "2": [
-        {"id":"486055","direction":0,"start_time":22920,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"7a6d0","stop_dwells":"0f920","shape_key":"1fe63"},
-        {"id":"486054","direction":0,"start_time":25620,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"7a6d0","stop_dwells":"0f920","shape_key":"1fe63"},
-        {"id":"486053","direction":0,"start_time":28140,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"306dd","stop_dwells":"0f920","shape_key":"1fe63"},
-        {"id":"486052","direction":0,"start_time":30840,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"306dd","stop_dwells":"0f920","shape_key":"1fe63"},
-        {"id":"486051","direction":0,"start_time":33480,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"37785","stop_dwells":"0f920","shape_key":"1fe63"},
-        {"id":"486050","direction":0,"start_time":36180,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"37785","stop_dwells":"0f920","shape_key":"1fe63"},
-        {"id":"486049","direction":0,"start_time":38940,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"37785","stop_dwells":"0f920","shape_key":"1fe63"},
-        {"id":"486048","direction":0,"start_time":41640,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"37785","stop_dwells":"0f920","shape_key":"1fe63"},
-        {"id":"486047","direction":0,"start_time":44340,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"37785","stop_dwells":"0f920","shape_key":"1fe63"},
-        {"id":"486046","direction":0,"start_time":46740,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"37785","stop_dwells":"0f920","shape_key":"1fe63"},
-        {"id":"486045","direction":0,"start_time":49680,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"37785","stop_dwells":"0f920","shape_key":"1fe63"},
-        {"id":"486044","direction":0,"start_time":52440,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"37785","stop_dwells":"0f920","shape_key":"1fe63"},
-        {"id":"486043","direction":0,"start_time":55140,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"37785","stop_dwells":"0f920","shape_key":"1fe63"},
-        {"id":"486042","direction":0,"start_time":57840,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"37785","stop_dwells":"0f920","shape_key":"1fe63"},
-        {"id":"486041","direction":0,"start_time":60540,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"37785","stop_dwells":"0f920","shape_key":"1fe63"},
-        {"id":"486040","direction":0,"start_time":63420,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"306dd","stop_dwells":"0f920","shape_key":"1fe63"},
-        {"id":"486039","direction":0,"start_time":65760,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"306dd","stop_dwells":"0f920","shape_key":"1fe63"},
-        {"id":"486071","direction":1,"start_time":25500,"stops_key":"1841d","stop_distances":"87a6b","stop_times":"ccf6c","stop_dwells":"3db12","shape_key":"9e751"},
-        {"id":"486070","direction":1,"start_time":28200,"stops_key":"1841d","stop_distances":"87a6b","stop_times":"ccf6c","stop_dwells":"3db12","shape_key":"9e751"},
-        {"id":"486069","direction":1,"start_time":30900,"stops_key":"1841d","stop_distances":"87a6b","stop_times":"ceb43","stop_dwells":"3db12","shape_key":"9e751"},
-        {"id":"486068","direction":1,"start_time":33600,"stops_key":"1841d","stop_distances":"87a6b","stop_times":"ceb43","stop_dwells":"3db12","shape_key":"9e751"},
-        {"id":"486067","direction":1,"start_time":36300,"stops_key":"1841d","stop_distances":"87a6b","stop_times":"ceb43","stop_dwells":"3db12","shape_key":"9e751"},
-        {"id":"486066","direction":1,"start_time":39000,"stops_key":"1841d","stop_distances":"87a6b","stop_times":"5a112","stop_dwells":"3db12","shape_key":"9e751"},
-        {"id":"486065","direction":1,"start_time":41700,"stops_key":"1841d","stop_distances":"87a6b","stop_times":"5a112","stop_dwells":"3db12","shape_key":"9e751"},
-        {"id":"486064","direction":1,"start_time":44340,"stops_key":"1841d","stop_distances":"87a6b","stop_times":"5a112","stop_dwells":"3db12","shape_key":"9e751"},
-        {"id":"486063","direction":1,"start_time":47100,"stops_key":"1841d","stop_distances":"87a6b","stop_times":"5a112","stop_dwells":"3db12","shape_key":"9e751"},
-        {"id":"486062","direction":1,"start_time":49860,"stops_key":"1841d","stop_distances":"87a6b","stop_times":"5a112","stop_dwells":"3db12","shape_key":"9e751"},
-        {"id":"486061","direction":1,"start_time":52500,"stops_key":"1841d","stop_distances":"87a6b","stop_times":"5a112","stop_dwells":"3db12","shape_key":"9e751"},
-        {"id":"486060","direction":1,"start_time":55200,"stops_key":"1841d","stop_distances":"87a6b","stop_times":"b702d","stop_dwells":"3db12","shape_key":"9e751"},
-        {"id":"486059","direction":1,"start_time":57900,"stops_key":"1841d","stop_distances":"87a6b","stop_times":"b702d","stop_dwells":"3db12","shape_key":"9e751"},
-        {"id":"486058","direction":1,"start_time":60600,"stops_key":"1841d","stop_distances":"87a6b","stop_times":"b702d","stop_dwells":"3db12","shape_key":"9e751"},
-        {"id":"486057","direction":1,"start_time":63300,"stops_key":"1841d","stop_distances":"87a6b","stop_times":"b702d","stop_dwells":"3db12","shape_key":"9e751"},
-        {"id":"486056","direction":1,"start_time":66240,"stops_key":"1841d","stop_distances":"87a6b","stop_times":"ceb43","stop_dwells":"3db12","shape_key":"9e751"}
+        {"id":"549103","direction":0,"start_time":22920,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"7a6d0","stop_dwells":"0f920","shape_key":"80ae7"},
+        {"id":"549102","direction":0,"start_time":25620,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"7a6d0","stop_dwells":"0f920","shape_key":"80ae7"},
+        {"id":"549101","direction":0,"start_time":28140,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"306dd","stop_dwells":"0f920","shape_key":"80ae7"},
+        {"id":"549100","direction":0,"start_time":30840,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"306dd","stop_dwells":"0f920","shape_key":"80ae7"},
+        {"id":"549099","direction":0,"start_time":33480,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"37785","stop_dwells":"0f920","shape_key":"80ae7"},
+        {"id":"549098","direction":0,"start_time":36180,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"37785","stop_dwells":"0f920","shape_key":"80ae7"},
+        {"id":"549097","direction":0,"start_time":38940,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"37785","stop_dwells":"0f920","shape_key":"80ae7"},
+        {"id":"549096","direction":0,"start_time":41640,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"37785","stop_dwells":"0f920","shape_key":"80ae7"},
+        {"id":"549095","direction":0,"start_time":44340,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"37785","stop_dwells":"0f920","shape_key":"80ae7"},
+        {"id":"549094","direction":0,"start_time":46740,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"37785","stop_dwells":"0f920","shape_key":"80ae7"},
+        {"id":"549093","direction":0,"start_time":49680,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"37785","stop_dwells":"0f920","shape_key":"80ae7"},
+        {"id":"549092","direction":0,"start_time":52440,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"37785","stop_dwells":"0f920","shape_key":"80ae7"},
+        {"id":"549091","direction":0,"start_time":55140,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"37785","stop_dwells":"0f920","shape_key":"80ae7"},
+        {"id":"549090","direction":0,"start_time":57840,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"37785","stop_dwells":"0f920","shape_key":"80ae7"},
+        {"id":"549089","direction":0,"start_time":60540,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"37785","stop_dwells":"0f920","shape_key":"80ae7"},
+        {"id":"549088","direction":0,"start_time":63420,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"306dd","stop_dwells":"0f920","shape_key":"80ae7"},
+        {"id":"549087","direction":0,"start_time":65760,"stops_key":"a32f7","stop_distances":"dbbd0","stop_times":"306dd","stop_dwells":"0f920","shape_key":"80ae7"},
+        {"id":"549119","direction":1,"start_time":25500,"stops_key":"06035","stop_distances":"27b43","stop_times":"d1faa","stop_dwells":"b7dd5","shape_key":"08a1a"},
+        {"id":"549118","direction":1,"start_time":28200,"stops_key":"06035","stop_distances":"27b43","stop_times":"d1faa","stop_dwells":"b7dd5","shape_key":"08a1a"},
+        {"id":"549117","direction":1,"start_time":30900,"stops_key":"06035","stop_distances":"27b43","stop_times":"532d1","stop_dwells":"b7dd5","shape_key":"08a1a"},
+        {"id":"549116","direction":1,"start_time":33600,"stops_key":"06035","stop_distances":"27b43","stop_times":"532d1","stop_dwells":"b7dd5","shape_key":"08a1a"},
+        {"id":"549115","direction":1,"start_time":36300,"stops_key":"06035","stop_distances":"27b43","stop_times":"532d1","stop_dwells":"b7dd5","shape_key":"08a1a"},
+        {"id":"549114","direction":1,"start_time":39000,"stops_key":"06035","stop_distances":"27b43","stop_times":"61173","stop_dwells":"b7dd5","shape_key":"08a1a"},
+        {"id":"549113","direction":1,"start_time":41700,"stops_key":"06035","stop_distances":"27b43","stop_times":"61173","stop_dwells":"b7dd5","shape_key":"08a1a"},
+        {"id":"549112","direction":1,"start_time":44340,"stops_key":"06035","stop_distances":"27b43","stop_times":"61173","stop_dwells":"b7dd5","shape_key":"08a1a"},
+        {"id":"549111","direction":1,"start_time":47100,"stops_key":"06035","stop_distances":"27b43","stop_times":"61173","stop_dwells":"b7dd5","shape_key":"08a1a"},
+        {"id":"549110","direction":1,"start_time":49860,"stops_key":"06035","stop_distances":"27b43","stop_times":"61173","stop_dwells":"b7dd5","shape_key":"08a1a"},
+        {"id":"549109","direction":1,"start_time":52500,"stops_key":"06035","stop_distances":"27b43","stop_times":"61173","stop_dwells":"b7dd5","shape_key":"08a1a"},
+        {"id":"549108","direction":1,"start_time":55200,"stops_key":"06035","stop_distances":"27b43","stop_times":"81edf","stop_dwells":"b7dd5","shape_key":"08a1a"},
+        {"id":"549107","direction":1,"start_time":57900,"stops_key":"06035","stop_distances":"27b43","stop_times":"81edf","stop_dwells":"b7dd5","shape_key":"08a1a"},
+        {"id":"549106","direction":1,"start_time":60600,"stops_key":"06035","stop_distances":"27b43","stop_times":"81edf","stop_dwells":"b7dd5","shape_key":"08a1a"},
+        {"id":"549105","direction":1,"start_time":63300,"stops_key":"06035","stop_distances":"27b43","stop_times":"81edf","stop_dwells":"b7dd5","shape_key":"08a1a"},
+        {"id":"549104","direction":1,"start_time":66240,"stops_key":"06035","stop_distances":"27b43","stop_times":"532d1","stop_dwells":"b7dd5","shape_key":"08a1a"}
       ]
     }
   }
